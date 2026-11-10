@@ -1,0 +1,40 @@
+---
+import { ngayThang, timKhu } from '../lib/khu';
+
+interface Props {
+  bai: Awaited<ReturnType<typeof import('../lib/khu').tatCaBai>>;
+  hienKhu?: boolean;
+}
+
+const { bai, hienKhu = false } = Astro.props;
+---
+
+{
+  bai.length === 0 ? (
+    <p class="trong">Chưa có bài nào ở đây.</p>
+  ) : (
+    <ul class="ds-bai">
+      {bai.map((b) => (
+        <li>
+          <div class="phu">
+            {hienKhu && (
+              <>
+                <a class="nhan" href={`/${b.khu}/`}>
+                  {timKhu(b.khu).ten}
+                </a>
+                <br />
+              </>
+            )}
+            <time datetime={b.data.date.toISOString()}>{ngayThang(b.data.date)}</time>
+          </div>
+          <div>
+            <h3>
+              <a href={`/${b.khu}/${b.id}/`}>{b.data.title}</a>
+            </h3>
+            <p>{b.data.description}</p>
+          </div>
+        </li>
+      ))}
+    </ul>
+  )
+}

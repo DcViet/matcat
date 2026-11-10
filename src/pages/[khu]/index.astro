@@ -1,0 +1,21 @@
+---
+import Base from '../../layouts/Base.astro';
+import DanhSachBai from '../../components/DanhSachBai.astro';
+import { KHU, baiCuaKhu, timKhu, type KhuSlug } from '../../lib/khu';
+
+export function getStaticPaths() {
+  return KHU.map((k) => ({ params: { khu: k.slug } }));
+}
+
+const slug = Astro.params.khu as KhuSlug;
+const khu = timKhu(slug);
+const bai = await baiCuaKhu(slug);
+---
+
+<Base title={khu.ten} description={khu.moTa}>
+  <section class="mo-dau">
+    <h1>{khu.ten}</h1>
+    <p>{khu.moTa}</p>
+  </section>
+  <DanhSachBai bai={bai} />
+</Base>

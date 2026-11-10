@@ -1,0 +1,36 @@
+---
+import Base from '../layouts/Base.astro';
+import DanhSachBai from '../components/DanhSachBai.astro';
+import { KHU, tatCaBai } from '../lib/khu';
+
+const moiNhat = (await tatCaBai()).slice(0, 6);
+---
+
+<Base>
+  <section class="mo-dau">
+    <h1>Cắt qua để xem bên trong.</h1>
+    <p>
+      Trên bản vẽ, mặt cắt cho thấy thứ mà mặt đứng che đi. Trang này làm việc đó với công trình kiến trúc,
+      tác phẩm nghệ thuật và những ý tưởng về thiết kế.
+    </p>
+  </section>
+
+  <div class="de-muc-khu">
+    <h2>Mới nhất</h2>
+  </div>
+  <DanhSachBai bai={moiNhat} hienKhu />
+
+  <div class="de-muc-khu">
+    <h2>Ba khu nội dung</h2>
+  </div>
+  <div class="o-khu">
+    {
+      KHU.map((k) => (
+        <a href={`/${k.slug}/`}>
+          <strong>{k.ten}</strong>
+          <span>{k.moTa}</span>
+        </a>
+      ))
+    }
+  </div>
+</Base>

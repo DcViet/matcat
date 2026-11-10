@@ -1,0 +1,72 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { ngayThang, tatCaBai, timKhu } from '../../lib/khu';
+
+export async function getStaticPaths() {
+  const bai = await tatCaBai();
+  return bai.map((b) => ({ params: { khu: b.khu, slug: b.id }, props: { bai: b } }));
+}
+
+const { bai } = Astro.props;
+const khu = timKhu(bai.khu);
+const d = bai.data as Record<string, any>;
+const { Content } = await render(bai);
+
+// Bảng thông số chỉ hiện những dòng có dữ liệu.
+const thongSo = [
+  ['Kiến trúc sư', d.architect],
+  ['Tác giả', d.artist],
+  ['Địa điểm', d.location],
+  ['Chất liệu', d.medium],
+  ['Năm', d.year],
+].filter(([, giaTri]) => giaTri);
+---
+
+<Base title={d.title} description={d.description}>
+  <article class="bai">
+    <header>
+      <a class="nhan" href={`/${khu.slug}/`}>{khu.ten}</a>
+      <h1>{d.title}</h1>
+      <p class="dan">{d.description}</p>
+      <p class="phu">
+        <time datetime={d.date.toISOString()}>{ngayThang(d.date)}</time>
+      </p>
+      {
+        thongSo.length > 0 && (
+          <dl class="thong-so">
+            {thongSo.map(([ten, giaTri]) => (
+              <>
+                <dt>{ten}</dt>
+                <dd>{giaTri}</dd>
+              </>
+            ))}
+          </dl>
+        )
+      }
+    </header>
+
+    {
+      d.cover && (
+        <figure class="anh-bia">
+          <img src={d.cover} alt="" />
+          {d.coverCredit && <figcaption>Ảnh: {d.coverCredit}</figcaption>}
+        </figure>
+      )
+    }
+
+    <div class="than-bai">
+      <Content />
+    </div>
+
+    {
+      d.tags.length > 0 && (
+        <ul class="tu-khoa" aria-label="Từ khóa">
+          {d.tags.map((t: string) => (
+            <li>{t}</li>
+          ))}
+        </ul>
+      )
+    }
+  </article>
+</Base>
