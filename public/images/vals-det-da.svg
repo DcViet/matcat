@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 290" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="290" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Khối đá ở Vals được dựng từ tấm mỏng, không phải từ khối lớn</text>
+
+  <text x="24" y="66" font-weight="600" fill="#1c1b19">Điều ông hình dung lúc đầu</text>
+  <text x="24" y="83" font-size="11.5" fill="#5f5b53">tường xếp bằng những khối đá lớn</text>
+  <g fill="#e6e1d6" stroke="#a8a498" stroke-width="1.25">
+    <rect x="24" y="100" width="150" height="50"/>
+    <rect x="174" y="100" width="150" height="50"/>
+    <rect x="24" y="150" width="100" height="50"/>
+    <rect x="124" y="150" width="200" height="50"/>
+    <rect x="24" y="200" width="180" height="50"/>
+    <rect x="204" y="200" width="120" height="50"/>
+  </g>
+
+  <line x1="348" y1="175" x2="408" y2="175" stroke="#b4472e" stroke-width="1.5"/>
+  <path d="M408 175l-9 -5v10z" fill="#b4472e"/>
+  <text x="378" y="165" text-anchor="middle" font-size="11.5" fill="#5f5b53">ra mỏ đá</text>
+
+  <text x="432" y="66" font-weight="600" fill="#1c1b19">Điều mỏ đá có sẵn</text>
+  <text x="432" y="83" font-size="11.5" fill="#5f5b53">tấm mỏng, cắt nhiều bề dày, ép sát như sợi vải</text>
+  <g fill="#b4472e" fill-opacity="0.12" stroke="#b4472e" stroke-width="1">
+    <rect x="432" y="100" width="304" height="8"/>
+    <rect x="432" y="108" width="304" height="14"/>
+    <rect x="432" y="122" width="304" height="6"/>
+    <rect x="432" y="128" width="304" height="10"/>
+    <rect x="432" y="138" width="304" height="16"/>
+    <rect x="432" y="154" width="304" height="6"/>
+    <rect x="432" y="160" width="304" height="12"/>
+    <rect x="432" y="172" width="304" height="8"/>
+    <rect x="432" y="180" width="304" height="14"/>
+    <rect x="432" y="194" width="304" height="6"/>
+    <rect x="432" y="200" width="304" height="10"/>
+    <rect x="432" y="210" width="304" height="16"/>
+    <rect x="432" y="226" width="304" height="8"/>
+    <rect x="432" y="234" width="304" height="6"/>
+    <rect x="432" y="240" width="304" height="10"/>
+  </g>
+
+  <text x="24" y="274" font-size="11.5" fill="#5f5b53">Sơ đồ ý niệm, không theo tỷ lệ và không phải bản vẽ của công trình.</text>
+</svg>
