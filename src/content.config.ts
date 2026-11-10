@@ -8,6 +8,7 @@ const chung = z.object({
   date: z.coerce.date(),
   draft: z.boolean().default(false),
   cover: z.string().optional(),
+  coverAlt: z.string().optional(),
   coverCredit: z.string().optional(),
   tags: z.array(z.string()).default([]),
 });

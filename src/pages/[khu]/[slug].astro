@@ -49,7 +49,7 @@ const thongSo = [
     {
       d.cover && (
         <figure class="anh-bia">
-          <img src={d.cover.startsWith('/') ? duong(d.cover) : d.cover} alt="" />
+          <img src={d.cover.startsWith('/') ? duong(d.cover) : d.cover} alt={d.coverAlt ?? ''} />
           {d.coverCredit && <figcaption>Ảnh: {d.coverCredit}</figcaption>}
         </figure>
       )

@@ -5,10 +5,13 @@ date: 2026-11-10
 architect: "Peter Zumthor"
 location: "Vals, bang Graubünden, Thụy Sĩ"
 year: "Hoàn thành 1996"
+cover: "/images/vals-felipe-camus.jpg"
+coverAlt: "Mặt ngoài nhà tắm Vals nhìn từ bãi cỏ: khối nhà chữ nhật ốp những lớp đá xám mỏng xếp ngang, có vài ô cửa vuông nhỏ."
+coverCredit: "Felipe Camus, CC BY 2.0, qua Wikimedia Commons"
 tags: ["Peter Zumthor", "Thinking Architecture", "vật liệu", "đá", "ánh sáng"]
 ---
 
-> **Lưu ý trước khi đọc.** Bài này viết từ ghi chú đọc sách của tôi về bốn tài liệu của Zumthor, chưa đối chiếu lại từng trang với bản gốc. Phần tả đường đi trong nhà tắm dựa trên một tài liệu thứ cấp ngắn, độ tin cậy thấp hơn các phần khác, nên tôi không dẫn con số nào về nhiệt độ hay diện tích. Hai sơ đồ là sơ đồ ý niệm tôi tự vẽ, không phải bản vẽ của công trình. Bài chưa có ảnh chụp công trình.
+> **Lưu ý trước khi đọc.** Bài này viết từ ghi chú đọc sách của tôi về bốn tài liệu của Zumthor, chưa đối chiếu lại từng trang với bản gốc. Phần tả đường đi trong nhà tắm dựa trên một tài liệu thứ cấp ngắn, độ tin cậy thấp hơn các phần khác, nên tôi không dẫn con số nào về nhiệt độ hay diện tích. Hai sơ đồ là sơ đồ ý niệm tôi tự vẽ, không phải bản vẽ của công trình.
 
 Peter Zumthor nhớ cái tay nắm cửa vườn nhà dì. Nó cong như lưng một chiếc thìa. Ông nhớ tiếng sỏi dưới chân, bậc thang gỗ sồi đánh sáp, tiếng cánh cửa nặng khép lại, và căn bếp lát gạch lục giác đỏ sẫm có mùi sơn dầu trong tủ. Lúc đó ông còn nhỏ và chưa hề nghĩ về kiến trúc.
 
@@ -105,3 +108,4 @@ Tôi thích Zumthor, nên càng phải nói rõ những chỗ cần dè chừng.
 - Zumthor, P. (2006). *Atmospheres: Architectural Environments, Surrounding Objects*. Birkhäuser. Bài nói ngày 1 tháng 6 năm 2003.
 - Stec, B. (2004). Cuộc trò chuyện với Peter Zumthor tại Haldenstein. *Casabella*, số 719.
 - Một tài liệu thứ cấp ngắn mô tả mặt bằng, vật liệu và ánh sáng của nhà tắm Vals, dùng cho phần tả đường đi.
+- Ảnh bìa: Felipe Camus, [ảnh gốc trên Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Felipe_camus_-_6892635292.jpg), giấy phép [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Ảnh được thu nhỏ so với bản gốc.
