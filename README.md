@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Mở http://localhost:4321.
+Mở http://localhost:4321/matcat/.
 
 ## Viết bài mới
 
@@ -30,8 +30,12 @@ Có thể mở thư mục `src/content/` bằng Obsidian để viết.
 
 ## Xuất bản
 
+Trang chạy tại https://dcviet.github.io/matcat/. Mỗi lần đẩy mã lên nhánh `main`, GitHub tự build và cập nhật trang (xem `.github/workflows/deploy.yml`):
+
 ```bash
-npm run build
+git add -A
+git commit -m "Thêm bài mới"
+git push
 ```
 
-Kết quả nằm trong `dist/`, đưa lên Cloudflare Pages, GitHub Pages hoặc Netlify đều được. Trước khi xuất bản, đổi `site` trong `astro.config.mjs` thành tên miền thật.
+Khi chuyển sang tên miền riêng, đổi `SITE` và `BASE` ở đầu `astro.config.mjs`.

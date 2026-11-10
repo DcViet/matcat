@@ -1,5 +1,5 @@
 ---
-import { ngayThang, timKhu } from '../lib/khu';
+import { duong, ngayThang, timKhu } from '../lib/khu';
 
 interface Props {
   bai: Awaited<ReturnType<typeof import('../lib/khu').tatCaBai>>;
@@ -19,7 +19,7 @@ const { bai, hienKhu = false } = Astro.props;
           <div class="phu">
             {hienKhu && (
               <>
-                <a class="nhan" href={`/${b.khu}/`}>
+                <a class="nhan" href={duong(`/${b.khu}/`)}>
                   {timKhu(b.khu).ten}
                 </a>
                 <br />
@@ -29,7 +29,7 @@ const { bai, hienKhu = false } = Astro.props;
           </div>
           <div>
             <h3>
-              <a href={`/${b.khu}/${b.id}/`}>{b.data.title}</a>
+              <a href={duong(`/${b.khu}/${b.id}/`)}>{b.data.title}</a>
             </h3>
             <p>{b.data.description}</p>
           </div>

@@ -1,7 +1,7 @@
 ---
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import { ngayThang, tatCaBai, timKhu } from '../../lib/khu';
+import { duong, ngayThang, tatCaBai, timKhu } from '../../lib/khu';
 
 export async function getStaticPaths() {
   const bai = await tatCaBai();
@@ -26,7 +26,7 @@ const thongSo = [
 <Base title={d.title} description={d.description}>
   <article class="bai">
     <header>
-      <a class="nhan" href={`/${khu.slug}/`}>{khu.ten}</a>
+      <a class="nhan" href={duong(`/${khu.slug}/`)}>{khu.ten}</a>
       <h1>{d.title}</h1>
       <p class="dan">{d.description}</p>
       <p class="phu">
@@ -49,7 +49,7 @@ const thongSo = [
     {
       d.cover && (
         <figure class="anh-bia">
-          <img src={d.cover} alt="" />
+          <img src={d.cover.startsWith('/') ? duong(d.cover) : d.cover} alt="" />
           {d.coverCredit && <figcaption>Ảnh: {d.coverCredit}</figcaption>}
         </figure>
       )

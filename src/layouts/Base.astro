@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { KHU } from '../lib/khu';
+import { GOC, KHU, duong } from '../lib/khu';
 
 interface Props {
   title?: string;
@@ -10,7 +10,8 @@ interface Props {
 const TEN_TRANG = 'Mặt Cắt';
 const { title, description = 'Cắt qua công trình, tác phẩm và ý tưởng để xem bên trong.' } = Astro.props;
 const tieuDe = title ? `${title} · ${TEN_TRANG}` : TEN_TRANG;
-const duongDan = Astro.url.pathname;
+const duongDan = Astro.url.pathname.slice(GOC.length) || '/';
+const diaChi = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
 <!doctype html>
@@ -25,7 +26,10 @@ const duongDan = Astro.url.pathname;
     <meta property="og:description" content={description} />
     <meta property="og:type" content={title ? 'article' : 'website'} />
     <meta property="og:locale" content="vi_VN" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta property="og:url" content={diaChi} />
+    <link rel="canonical" href={diaChi} />
+    <link rel="sitemap" href={duong('/sitemap-index.xml')} />
+    <link rel="icon" type="image/svg+xml" href={duong('/favicon.svg')} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -36,7 +40,7 @@ const duongDan = Astro.url.pathname;
   <body>
     <header class="dau-trang">
       <div class="khung">
-        <a class="ten-trang" href="/">
+        <a class="ten-trang" href={duong('/')}>
           <span class="ky-hieu" aria-hidden="true">A</span>
           <span>Mặt Cắt</span>
           <span class="ky-hieu" aria-hidden="true">A</span>
@@ -44,12 +48,12 @@ const duongDan = Astro.url.pathname;
         <nav aria-label="Các khu nội dung">
           {
             KHU.map((k) => (
-              <a href={`/${k.slug}/`} aria-current={duongDan.startsWith(`/${k.slug}`) ? 'page' : undefined}>
+              <a href={duong(`/${k.slug}/`)} aria-current={duongDan.startsWith(`/${k.slug}`) ? 'page' : undefined}>
                 {k.ten}
               </a>
             ))
           }
-          <a href="/gioi-thieu/" aria-current={duongDan.startsWith('/gioi-thieu') ? 'page' : undefined}>
+          <a href={duong('/gioi-thieu/')} aria-current={duongDan.startsWith('/gioi-thieu') ? 'page' : undefined}>
             Giới thiệu
           </a>
         </nav>

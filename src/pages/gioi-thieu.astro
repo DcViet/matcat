@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import { duong } from '../lib/khu';
 ---
 
 <Base title="Giới thiệu" description="Mặt Cắt là gì và ai viết.">
@@ -15,9 +16,9 @@ import Base from '../layouts/Base.astro';
       </p>
       <p>Có ba khu:</p>
       <ul>
-        <li><a href="/bai-viet/">Bài viết</a>: tiểu luận có dẫn nguồn về thiết kế và cách nghĩ.</li>
-        <li><a href="/cong-trinh/">Công trình</a>: mỗi bài đọc kỹ một công trình kiến trúc.</li>
-        <li><a href="/nghe-thuat/">Nghệ thuật</a>: tác phẩm, họa sĩ và những bài học vẽ.</li>
+        <li><a href={duong('/bai-viet/')}>Bài viết</a>: tiểu luận có dẫn nguồn về thiết kế và cách nghĩ.</li>
+        <li><a href={duong('/cong-trinh/')}>Công trình</a>: mỗi bài đọc kỹ một công trình kiến trúc.</li>
+        <li><a href={duong('/nghe-thuat/')}>Nghệ thuật</a>: tác phẩm, họa sĩ và những bài học vẽ.</li>
       </ul>
       <p><em>(Viết vài dòng về bạn ở đây: bạn là ai, vì sao lập trang này, liên hệ qua đâu.)</em></p>
     </div>

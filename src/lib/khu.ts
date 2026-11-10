@@ -37,5 +37,11 @@ export async function tatCaBai() {
   return nhom.flat().sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 }
 
-export const ngayThang = (d: Date) =>
+// Phần đường dẫn gốc của trang ('' hoặc '/matcat'), lấy từ `base` trong astro.config.mjs.
+export const GOC = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Đường dẫn nội bộ: duong('/bai-viet/') -> '/matcat/bai-viet/'.
+export const duong = (p: string) => `${GOC}${p}`;
+
+export const ngayThang =(d: Date) =>
   d.toLocaleDateString('vi-VN', { day: 'numeric', month: 'long', year: 'numeric' });

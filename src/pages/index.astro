@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import DanhSachBai from '../components/DanhSachBai.astro';
-import { KHU, tatCaBai } from '../lib/khu';
+import { KHU, duong, tatCaBai } from '../lib/khu';
 
 const moiNhat = (await tatCaBai()).slice(0, 6);
 ---
@@ -26,7 +26,7 @@ const moiNhat = (await tatCaBai()).slice(0, 6);
   <div class="o-khu">
     {
       KHU.map((k) => (
-        <a href={`/${k.slug}/`}>
+        <a href={duong(`/${k.slug}/`)}>
           <strong>{k.ten}</strong>
           <span>{k.moTa}</span>
         </a>
