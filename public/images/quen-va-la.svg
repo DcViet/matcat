@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="330" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Ta thường thích thứ vừa đủ lạ: không quá quen, không quá rối</text>
+
+  <!-- Trục -->
+  <line x1="120" y1="250" x2="700" y2="250" stroke="#a8a498" stroke-width="1.25"/>
+  <line x1="120" y1="250" x2="120" y2="70" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="410" y="286" text-anchor="middle" font-size="11.5" fill="#5f5b53">độ phức tạp và mới lạ của thứ đang xem →</text>
+  <text x="104" y="76" text-anchor="end" font-size="11.5" fill="#5f5b53">thích</text>
+  <text x="104" y="92" text-anchor="end" font-size="11.5" fill="#5f5b53">nhiều</text>
+  <text x="104" y="246" text-anchor="end" font-size="11.5" fill="#5f5b53">thích ít</text>
+
+  <!-- Đường cong chữ U ngược -->
+  <path d="M140 236 C 260 236 300 96 410 96 C 520 96 560 236 680 236" fill="none" stroke="#b4472e" stroke-width="2.5"/>
+  <circle cx="410" cy="96" r="5" fill="#b4472e"/>
+
+  <text x="410" y="80" text-anchor="middle" font-weight="600" fill="#1c1b19">vừa đủ lạ</text>
+  <text x="180" y="172" text-anchor="middle" font-size="11.5" fill="#5f5b53">quá quen:</text>
+  <text x="180" y="188" text-anchor="middle" font-size="11.5" fill="#5f5b53">nhìn một lần là hết</text>
+  <text x="640" y="172" text-anchor="middle" font-size="11.5" fill="#5f5b53">quá rối:</text>
+  <text x="640" y="188" text-anchor="middle" font-size="11.5" fill="#5f5b53">không biết bám vào đâu</text>
+
+  <text x="24" y="314" font-size="11.5" fill="#5f5b53">Sơ đồ ý niệm theo giả thuyết của Berlyne (1971), không phải số liệu đo. Đỉnh đường cong dịch sang phải khi người xem quen dần.</text>
+</svg>

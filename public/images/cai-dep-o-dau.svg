@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="400" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Bốn nơi người ta từng đặt cái đẹp</text>
+
+  <g fill="none" stroke="#a8a498" stroke-width="1.25">
+    <path d="M272 204C248 204 248 118 224 118"/>
+    <path d="M272 220C248 220 248 314 224 314"/>
+    <path d="M488 204C512 204 512 118 536 118"/>
+    <path d="M488 220C512 220 512 314 536 314"/>
+  </g>
+
+  <rect x="272" y="184" width="216" height="56" rx="8" fill="#b4472e" fill-opacity="0.12" stroke="#b4472e" stroke-width="2"/>
+  <text x="380" y="217" text-anchor="middle" font-size="15" font-weight="600" fill="#1c1b19">Cái đẹp nằm ở đâu?</text>
+
+  <rect x="24" y="74" width="200" height="88" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="124" y="98" text-anchor="middle" font-weight="600" fill="#1c1b19">Trong vật</text>
+  <text x="124" y="116" text-anchor="middle" font-size="11.5" fill="#5f5b53">tỉ lệ, cân đối, hài hòa</text>
+  <text x="124" y="132" text-anchor="middle" font-size="11.5" fill="#5f5b53">đo được, dạy được</text>
+  <text x="124" y="150" text-anchor="middle" font-size="11.5" fill="#1c1b19">Polykleitos, Vitruvius</text>
+
+  <rect x="24" y="270" width="200" height="88" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="124" y="294" text-anchor="middle" font-weight="600" fill="#1c1b19">Trong người xem</text>
+  <text x="124" y="312" text-anchor="middle" font-size="11.5" fill="#5f5b53">khẩu vị, thói quen, sự quen mắt</text>
+  <text x="124" y="328" text-anchor="middle" font-size="11.5" fill="#5f5b53">mỗi người một khác</text>
+  <text x="124" y="346" text-anchor="middle" font-size="11.5" fill="#1c1b19">Hume, Zajonc</text>
+
+  <rect x="536" y="74" width="200" height="88" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="636" y="98" text-anchor="middle" font-weight="600" fill="#1c1b19">Giữa vật và người</text>
+  <text x="636" y="116" text-anchor="middle" font-size="11.5" fill="#5f5b53">cảm nhận riêng, nhưng ta</text>
+  <text x="636" y="132" text-anchor="middle" font-size="11.5" fill="#5f5b53">mong người khác cũng thấy</text>
+  <text x="636" y="150" text-anchor="middle" font-size="11.5" fill="#1c1b19">Kant</text>
+
+  <rect x="536" y="270" width="200" height="88" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="636" y="294" text-anchor="middle" font-weight="600" fill="#1c1b19">Trong bối cảnh</text>
+  <text x="636" y="312" text-anchor="middle" font-size="11.5" fill="#5f5b53">lịch sử, giới nghệ thuật,</text>
+  <text x="636" y="328" text-anchor="middle" font-size="11.5" fill="#5f5b53">điều tác phẩm đang trả lời</text>
+  <text x="636" y="346" text-anchor="middle" font-size="11.5" fill="#1c1b19">Danto, Dickie</text>
+
+  <text x="24" y="386" font-size="11.5" fill="#5f5b53">Sơ đồ tóm tắt của bài, gom nhiều quan điểm thành bốn nhóm cho dễ nhớ.</text>
+</svg>
