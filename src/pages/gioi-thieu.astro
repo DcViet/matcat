@@ -3,24 +3,51 @@ import Base from '../layouts/Base.astro';
 import { duong } from '../lib/khu';
 ---
 
-<Base title="Giới thiệu" description="Mặt Cắt là gì và ai viết.">
+<Base title="Giới thiệu" description="Mặt Cắt là gì, viết về điều gì và ai viết.">
   <article class="bai">
     <header>
       <h1>Giới thiệu</h1>
     </header>
     <div class="than-bai">
       <p>
-        Mặt cắt là bản vẽ cắt ngang qua một công trình để thấy những gì mặt đứng che đi: sàn dày bao nhiêu, ánh
-        sáng đi vào thế nào, các tầng nối với nhau ra sao. Trang này mượn cách nhìn đó để viết về kiến trúc, nghệ
-        thuật và thiết kế.
+        Mặt cắt là bản vẽ cắt ngang qua một công trình. Nhìn từ ngoài, ta chỉ thấy mặt đứng. Cắt ra mới biết sàn
+        dày bao nhiêu, ánh sáng đi vào thế nào, các tầng nối với nhau ra sao. Trang này mượn cách nhìn đó để viết
+        về kiến trúc, nghệ thuật và thiết kế.
       </p>
-      <p>Có ba khu:</p>
+
+      <h2>Ở đây có gì</h2>
       <ul>
-        <li><a href={duong('/bai-viet/')}>Bài viết</a>: tiểu luận có dẫn nguồn về thiết kế và cách nghĩ.</li>
-        <li><a href={duong('/cong-trinh/')}>Công trình</a>: mỗi bài đọc kỹ một công trình kiến trúc.</li>
-        <li><a href={duong('/nghe-thuat/')}>Nghệ thuật</a>: tác phẩm, họa sĩ và những bài học vẽ.</li>
+        <li>
+          <a href={duong('/bai-viet/')}>Bài viết</a>: những tiểu luận có dẫn nguồn về thiết kế và cách nghĩ. Mỗi bài
+          lấy một ý quen tai, lần xem nó từ đâu ra và đúng tới đâu.
+        </li>
+        <li>
+          <a href={duong('/cong-trinh/')}>Công trình</a>: mỗi bài đọc kỹ một công trình kiến trúc, từ bối cảnh, ý
+          tưởng tới bản vẽ.
+        </li>
+        <li>
+          <a href={duong('/nghe-thuat/')}>Nghệ thuật</a>: tác phẩm, tác giả và những bài học vẽ.
+        </li>
       </ul>
-      <p><em>(Viết vài dòng về bạn ở đây: bạn là ai, vì sao lập trang này, liên hệ qua đâu.)</em></p>
+
+      <h2>Cách viết</h2>
+      <p>
+        Bài nào cũng cố giữ ba điều. Nói rõ điều gì lấy từ tài liệu, điều gì là ý riêng của người viết. Dùng ví dụ
+        đời thường trước, thuật ngữ sau. Và có hình để nhìn, vì nhiều thứ vẽ ra thì dễ hiểu hơn tả bằng lời.
+      </p>
+      <p>
+        Nếu bạn thấy chỗ nào sai hoặc dẫn nguồn chưa đúng, tôi rất muốn biết để sửa.
+      </p>
+
+      <h2>Người viết</h2>
+      <p>
+        Tôi ký tên The Fool. Trong bộ bài tarot, The Fool là lá số 0: người mới lên đường, hành lý nhẹ và không
+        ngại hỏi những câu nghe có vẻ ngây ngô. Kiểu câu hỏi như "em bé này cần gì?" thường là chỗ bắt đầu của một
+        bài trên trang này.
+      </p>
+      <p>
+        Liên hệ và góp ý: <a href="https://github.com/DcViet">github.com/DcViet</a>.
+      </p>
     </div>
   </article>
 </Base>
