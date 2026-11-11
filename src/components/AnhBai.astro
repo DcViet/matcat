@@ -1,0 +1,22 @@
+---
+// Ảnh đại diện của một bài. Bài chưa có ảnh bìa thì hiện ô gạch chéo,
+// giống ký hiệu vật liệu bị cắt qua trên bản vẽ.
+import { duong, timKhu } from '../lib/khu';
+
+interface Props {
+  bai: { khu: string; data: { cover?: string } };
+}
+
+const { bai } = Astro.props;
+const anh = bai.data.cover;
+---
+
+<div class="anh-bai" aria-hidden="true">
+  {
+    anh ? (
+      <img src={anh.startsWith('/') ? duong(anh) : anh} alt="" loading="lazy" />
+    ) : (
+      <span class="o-gach">{timKhu(bai.khu).ten}</span>
+    )
+  }
+</div>

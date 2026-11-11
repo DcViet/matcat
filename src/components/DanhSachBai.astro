@@ -1,4 +1,5 @@
 ---
+import AnhBai from './AnhBai.astro';
 import { duong, ngayThang, timKhu } from '../lib/khu';
 
 interface Props {
@@ -15,21 +16,17 @@ const { bai, hienKhu = false } = Astro.props;
   ) : (
     <ul class="ds-bai">
       {bai.map((b) => (
-        <li>
-          <div class="phu">
-            {hienKhu && (
-              <>
-                <a class="nhan" href={duong(`/${b.khu}/`)}>
-                  {timKhu(b.khu).ten}
-                </a>
-                <br />
-              </>
-            )}
-            <time datetime={b.data.date.toISOString()}>{ngayThang(b.data.date)}</time>
-          </div>
+        <li class="the-bai">
+          <AnhBai bai={b} />
           <div>
+            <p class="phu">
+              {hienKhu && <span class="nhan">{timKhu(b.khu).ten}</span>}
+              <time datetime={b.data.date.toISOString()}>{ngayThang(b.data.date)}</time>
+            </p>
             <h3>
-              <a href={duong(`/${b.khu}/${b.id}/`)}>{b.data.title}</a>
+              <a class="phu-kin" href={duong(`/${b.khu}/${b.id}/`)}>
+                {b.data.title}
+              </a>
             </h3>
             <p>{b.data.description}</p>
           </div>

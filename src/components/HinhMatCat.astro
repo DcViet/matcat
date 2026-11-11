@@ -1,0 +1,66 @@
+---
+// Hình mặt cắt A–A của một ngôi nhà nhỏ, dùng ở đầu trang chủ.
+// Phần bị cắt qua tô đặc (tường, sàn), phần nhìn thấy phía sau vẽ nét mảnh.
+---
+
+<svg class="hinh-mat-cat" viewBox="0 0 420 310" role="img" aria-label="Hình vẽ mặt cắt một ngôi nhà hai tầng: tường và sàn bị cắt qua tô đậm, bên trong có cầu thang, một bức tranh treo tường và một người đang đứng nhìn.">
+  <defs>
+    <pattern id="gach-dat" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="9" class="net-manh" />
+    </pattern>
+  </defs>
+
+  <!-- Đất -->
+  <rect x="0" y="248" width="420" height="62" fill="url(#gach-dat)" />
+  <line x1="0" y1="248" x2="420" y2="248" class="net-dam" />
+
+  <!-- Cây ngoài sân -->
+  <circle cx="44" cy="188" r="24" class="net-manh" fill="none" />
+  <line x1="44" y1="212" x2="44" y2="248" class="net-manh" />
+
+  <!-- Phần bị cắt qua: mái, tường, sàn, móng -->
+  <g class="cat-qua">
+    <rect x="82" y="72" width="256" height="10" />
+    <rect x="92" y="82" width="10" height="166" />
+    <rect x="318" y="82" width="10" height="34" />
+    <rect x="318" y="204" width="10" height="44" />
+    <rect x="189" y="158" width="63" height="8" />
+    <rect x="82" y="248" width="256" height="8" />
+    <rect x="84" y="256" width="26" height="20" />
+    <rect x="310" y="256" width="26" height="20" />
+  </g>
+
+  <!-- Kính ở khoảng thông tầng -->
+  <line x1="323" y1="116" x2="323" y2="204" class="net-manh" />
+
+  <!-- Cầu thang -->
+  <path class="net-manh" fill="none" d="M112 248v-11.5h11v-11.5h11v-11.5h11v-11.5h11v-11.5h11v-11.5h11v-11.5h11" />
+  <line x1="112" y1="222" x2="189" y2="142" class="net-manh" />
+
+  <!-- Lan can tầng trên -->
+  <path class="net-manh" fill="none" d="M252 158v-26M200 132h52" />
+
+  <!-- Bức tranh trên tường -->
+  <rect x="124" y="100" width="40" height="30" class="net-manh" fill="none" />
+  <rect x="129" y="105" width="30" height="20" class="diem-do" />
+
+  <!-- Người đứng nhìn -->
+  <g class="net-manh" fill="none">
+    <circle cx="284" cy="207" r="5.5" />
+    <path d="M284 213v20M284 233l-6 15M284 233l6 15M284 219l-8 9M284 219l8 7" />
+  </g>
+
+  <!-- Cốt cao độ -->
+  <g class="chu-ky-thuat">
+    <path d="M352 248h44M352 162h44M352 82h44" class="net-manh" />
+    <text x="398" y="244" text-anchor="end">±0.00</text>
+    <text x="398" y="158" text-anchor="end">+3.30</text>
+    <text x="398" y="78" text-anchor="end">+6.60</text>
+  </g>
+
+  <!-- Tên hình -->
+  <g class="ten-hinh">
+    <line x1="150" y1="298" x2="270" y2="298" />
+    <text x="150" y="292">MẶT CẮT A–A</text>
+  </g>
+</svg>

@@ -1,34 +1,69 @@
 ---
 import Base from '../layouts/Base.astro';
+import AnhBai from '../components/AnhBai.astro';
 import DanhSachBai from '../components/DanhSachBai.astro';
-import { KHU, duong, tatCaBai } from '../lib/khu';
+import HinhMatCat from '../components/HinhMatCat.astro';
+import { KHU, baiCuaKhu, duong, ngayThang, tatCaBai, timKhu } from '../lib/khu';
 
+// Bài nổi bật là bài mới nhất có ảnh bìa; chưa bài nào có ảnh thì lấy bài mới nhất.
 const moiNhat = (await tatCaBai()).slice(0, 6);
+const noiBat = moiNhat.find((b) => b.data.cover) ?? moiNhat[0];
+const conLai = moiNhat.filter((b) => b !== noiBat);
+const soBai = Object.fromEntries(
+  await Promise.all(KHU.map(async (k) => [k.slug, (await baiCuaKhu(k.slug)).length] as const)),
+);
 ---
 
 <Base>
-  <section class="mo-dau">
-    <h1>Cắt qua để xem bên trong.</h1>
-    <p>
-      Trên bản vẽ, mặt cắt cho thấy thứ mà mặt đứng che đi. Trang này làm việc đó với công trình kiến trúc,
-      tác phẩm nghệ thuật và những ý tưởng về thiết kế.
-    </p>
+  <section class="mo-dau mo-dau-chu">
+    <div>
+      <h1>Cắt qua để xem <em>bên trong</em>.</h1>
+      <p>
+        Trên bản vẽ, mặt cắt cho thấy thứ mà mặt đứng che đi. Trang này làm việc đó với công trình kiến trúc,
+        tác phẩm nghệ thuật và những ý tưởng về thiết kế.
+      </p>
+    </div>
+    <HinhMatCat />
   </section>
 
-  <div class="de-muc-khu">
-    <h2>Mới nhất</h2>
-  </div>
-  <DanhSachBai bai={moiNhat} hienKhu />
+  {
+    noiBat && (
+      <>
+        <div class="de-muc-khu">
+          <h2>Mới nhất</h2>
+        </div>
+        <article class="noi-bat the-bai">
+          <AnhBai bai={noiBat} />
+          <div>
+            <p class="phu">
+              <span class="nhan">{timKhu(noiBat.khu).ten}</span>
+              <time datetime={noiBat.data.date.toISOString()}>{ngayThang(noiBat.data.date)}</time>
+            </p>
+            <h3>
+              <a class="phu-kin" href={duong(`/${noiBat.khu}/${noiBat.id}/`)}>
+                {noiBat.data.title}
+              </a>
+            </h3>
+            <p>{noiBat.data.description}</p>
+            <span class="doc-tiep" aria-hidden="true">Đọc bài →</span>
+          </div>
+        </article>
+        {conLai.length > 0 && <DanhSachBai bai={conLai} hienKhu />}
+      </>
+    )
+  }
 
   <div class="de-muc-khu">
     <h2>Ba khu nội dung</h2>
   </div>
   <div class="o-khu">
     {
-      KHU.map((k) => (
+      KHU.map((k, i) => (
         <a href={duong(`/${k.slug}/`)}>
+          <span class="so-khu" aria-hidden="true">0{i + 1}</span>
           <strong>{k.ten}</strong>
           <span>{k.moTa}</span>
+          <span class="dem-bai">{soBai[k.slug] > 0 ? `${soBai[k.slug]} bài` : 'Sắp có bài'}</span>
         </a>
       ))
     }

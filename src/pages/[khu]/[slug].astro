@@ -1,6 +1,7 @@
 ---
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import DanhSachBai from '../../components/DanhSachBai.astro';
 import { duong, ngayThang, tatCaBai, timKhu } from '../../lib/khu';
 
 export async function getStaticPaths() {
@@ -12,6 +13,9 @@ const { bai } = Astro.props;
 const khu = timKhu(bai.khu);
 const d = bai.data as Record<string, any>;
 const { Content } = await render(bai);
+
+// Hai bài khác để đọc tiếp, mới nhất trước.
+const docThem = (await tatCaBai()).filter((b) => !(b.khu === bai.khu && b.id === bai.id)).slice(0, 2);
 
 // Bảng thông số chỉ hiện những dòng có dữ liệu.
 const thongSo = [
@@ -69,4 +73,15 @@ const thongSo = [
       )
     }
   </article>
+
+  {
+    docThem.length > 0 && (
+      <aside class="doc-them">
+        <div class="de-muc-khu">
+          <h2>Đọc tiếp</h2>
+        </div>
+        <DanhSachBai bai={docThem} hienKhu />
+      </aside>
+    )
+  }
 </Base>
