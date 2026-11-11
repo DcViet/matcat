@@ -2,6 +2,9 @@
 title: "Vẽ sai so với cái gì?"
 description: "Bàn về đúng, sai và cái đẹp trong nghệ thuật: ba kiểu \"đúng\" khác nhau, bốn nơi người ta từng đặt cái đẹp, và vì sao câu \"đẹp hay xấu là tùy mỗi người\" chỉ đúng một nửa."
 date: 2026-11-10
+cover: "/images/monet-impression-soleil-levant.jpg"
+coverAlt: "Tranh sơn dầu cảng Le Havre lúc bình minh: mặt trời đỏ cam nhỏ in bóng xuống mặt nước xanh xám, vài chiếc thuyền chỉ là những vệt tối trong sương."
+coverCredit: "Claude Monet, Impression, soleil levant (1872), phạm vi công cộng, qua Wikimedia Commons"
 tags: ["mỹ học", "cái đẹp", "đúng và sai", "phê bình nghệ thuật", "học vẽ"]
 ---
 
