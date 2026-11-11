@@ -1,11 +1,11 @@
 ---
 // Hình mặt cắt A–A của một ngôi nhà nhỏ, dùng ở đầu trang chủ.
 // Phần bị cắt qua tô đặc (mái, tường, sàn), phần nhìn thấy phía sau vẽ nét mảnh.
-// Ý thiết kế của ngôi nhà: mái dốc một phía, giếng trời rọi nắng xuống cầu thang,
+// Ý thiết kế của ngôi nhà: mái dốc một phía, cửa vào mở ra sảnh trước chân thang, giếng trời rọi nắng xuống cầu thang,
 // gác lửng đọc sách nhìn xuống khoảng thông tầng có treo một bức tranh lớn.
 ---
 
-<svg class="hinh-mat-cat" viewBox="0 0 420 310" role="img" aria-label="Hình vẽ mặt cắt một ngôi nhà mái dốc: nắng qua giếng trời rọi xuống cầu thang, gác lửng có ghế và đèn đọc sách, khoảng thông tầng treo một bức tranh lớn màu đỏ, bên dưới có một người đang đứng.">
+<svg class="hinh-mat-cat" viewBox="0 0 420 310" role="img" aria-label="Hình vẽ mặt cắt một ngôi nhà mái dốc: cửa vào mở ra sảnh trước chân cầu thang, nắng qua giếng trời rọi xuống cầu thang, gác lửng có ghế và đèn đọc sách, khoảng thông tầng treo một bức tranh lớn màu đỏ, bên dưới có một người đang đứng.">
   <defs>
     <pattern id="gach-dat" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="9" class="net-manh" />
@@ -24,10 +24,11 @@
   <g class="cat-qua">
     <polygon points="82,56 150,64.5 150,74.5 82,66" />
     <polygon points="185,68.9 338,88 338,98 185,78.9" />
-    <rect x="92" y="64" width="10" height="184" />
+    <rect x="92" y="64" width="10" height="126" />
+    <rect x="72" y="186" width="20" height="4" />
     <rect x="318" y="94" width="10" height="26" />
     <rect x="318" y="204" width="10" height="44" />
-    <rect x="189" y="158" width="63" height="8" />
+    <rect x="203" y="158" width="59" height="8" />
     <rect x="82" y="248" width="256" height="8" />
     <rect x="84" y="256" width="26" height="20" />
     <rect x="310" y="256" width="26" height="20" />
@@ -37,31 +38,34 @@
   <line x1="150" y1="67" x2="185" y2="71.4" class="net-manh" />
   <line x1="323" y1="120" x2="323" y2="204" class="net-manh" />
 
+  <!-- Cửa vào: mở ra sảnh trước chân thang -->
+  <line x1="97" y1="190" x2="97" y2="248" class="net-manh" />
+
   <!-- Nắng qua giếng trời -->
   <g class="tia-nang">
-    <line x1="180" y1="26" x2="103" y2="149.2" />
-    <line x1="205" y1="29" x2="103" y2="192.2" />
+    <line x1="143" y1="26" x2="188.2" y2="176.5" />
+    <line x1="160" y1="28.5" x2="200" y2="161.8" />
   </g>
 
-  <!-- Cầu thang: tám bậc, lên đúng mặt gác lửng -->
-  <path class="net-manh" fill="none" d="M112 248v-11.25h11v-11.25h11v-11.25h11v-11.25h11v-11.25h11v-11.25h11v-11.25h11v-11.25" />
+  <!-- Cầu thang: chân thang lùi vào, chừa sảnh sau cửa; tám bậc lên đúng mặt gác lửng -->
+  <path class="net-manh" fill="none" d="M140 248v-11.25h9v-11.25h9v-11.25h9v-11.25h9v-11.25h9v-11.25h9v-11.25h9v-11.25" />
   <!-- Tay vịn chạy theo thang rồi nối liền thành lan can gác lửng -->
-  <path class="net-manh" fill="none" d="M112 212.75L189 134H252" />
-  <path class="net-manh" fill="none" d="M112 236.75v-24M134 214.25v-24M156 191.75v-24M178 169.25v-24M189 158v-24M252 158v-24" />
+  <path class="net-manh" fill="none" d="M140 212.75L203 134H262" />
+  <path class="net-manh" fill="none" d="M140 236.75v-24M158 214.25v-24M176 191.75v-24M194 169.25v-24M203 158v-24M262 158v-24" />
 
   <!-- Gác lửng: ghế đọc sách và đèn thả -->
-  <path class="net-manh" fill="none" d="M206 146h22M209 158l2-12M227 158l-2-12M228 146l7-22" />
-  <path class="net-manh" fill="none" d="M214 83v25" />
-  <path class="net-manh" fill="none" d="M206 115a8 8 0 0 1 16 0z" />
+  <path class="net-manh" fill="none" d="M218 146h22M221 158l2-12M239 158l-2-12M240 146l7-22" />
+  <path class="net-manh" fill="none" d="M226 85v23" />
+  <path class="net-manh" fill="none" d="M218 115a8 8 0 0 1 16 0z" />
 
   <!-- Bức tranh lớn ở khoảng thông tầng -->
-  <rect x="262" y="118" width="44" height="60" class="net-manh" fill="none" />
-  <rect x="267" y="123" width="34" height="50" class="diem-do" />
+  <rect x="272" y="118" width="34" height="60" class="net-manh" fill="none" />
+  <rect x="277" y="123" width="24" height="50" class="diem-do" />
 
   <!-- Người đứng dưới bức tranh -->
   <g class="net-manh" fill="none">
-    <circle cx="284" cy="207" r="5.5" />
-    <path d="M284 213v20M284 233l-6 15M284 233l6 15M284 219l-8 9M284 219l8 7" />
+    <circle cx="289" cy="207" r="5.5" />
+    <path d="M289 213v20M289 233l-6 15M289 233l6 15M289 219l-8 9M289 219l8 7" />
   </g>
 
   <!-- Ghi chú và cốt cao độ -->
