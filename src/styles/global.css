@@ -111,6 +111,59 @@ img {
     transparent 40px 48px
   );
   background-size: 48px 2px;
+  position: relative;
+}
+
+/* Dấu mặt cắt ở hai đầu nét cắt: mũi tên tam giác chỉ hướng nhìn, chữ A bên dưới. */
+.dau-cat {
+  position: absolute;
+  top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: var(--chu-de);
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--do-gach);
+}
+
+.dau-cat::before {
+  content: '';
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-bottom: 11px solid var(--do-gach);
+  margin-bottom: 4px;
+}
+
+.dau-cat-trai {
+  left: 6px;
+}
+
+.dau-cat-phai {
+  right: 6px;
+}
+
+@media (min-width: 1200px) {
+  .dau-cat {
+    top: 14px;
+    font-size: 30px;
+  }
+
+  .dau-cat::before {
+    border-left-width: 13px;
+    border-right-width: 13px;
+    border-bottom-width: 21px;
+    margin-bottom: 8px;
+  }
+
+  .dau-cat-trai {
+    left: 20px;
+  }
+
+  .dau-cat-phai {
+    right: 20px;
+  }
 }
 
 main.khung {
