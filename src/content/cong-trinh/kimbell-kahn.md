@@ -6,6 +6,9 @@ draft: false
 architect: "Louis Kahn (kết cấu: August Komendant)"
 location: "Fort Worth, Texas, Hoa Kỳ"
 year: "1966–1972"
+cover: "/images/kimbell-phong-tranh-praefcke.jpg"
+coverAlt: "Một phòng tranh ở Kimbell: trần vòm bê tông có khe sáng chạy dọc đỉnh, tường đá sáng màu treo vài bức tranh cổ khung vàng, một tượng bán thân trong tủ kính, ánh sáng dịu đổ xuống sàn gỗ."
+coverCredit: "Andreas Praefcke, phạm vi công cộng, qua Wikimedia Commons"
 tags: ["Louis Kahn", "ánh sáng tự nhiên", "bảo tàng", "kết cấu", "Kimbell"]
 ---
 <!--
