@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="430" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Sáu việc một bản phác có thể làm</text>
+
+  <!-- Đường nối từ tâm tới sáu nút -->
+  <g stroke="#a8a498" stroke-width="1.25" fill="none">
+    <line x1="380" y1="215" x2="380" y2="105"/>
+    <line x1="380" y1="215" x2="596" y2="147"/>
+    <line x1="380" y1="215" x2="596" y2="283"/>
+    <line x1="380" y1="215" x2="380" y2="325"/>
+    <line x1="380" y1="215" x2="164" y2="283"/>
+    <line x1="380" y1="215" x2="164" y2="147"/>
+  </g>
+
+  <!-- Tâm -->
+  <circle cx="380" cy="215" r="52" fill="#ffffff"/>
+  <circle cx="380" cy="215" r="52" fill="#b4472e" fill-opacity="0.12" stroke="#b4472e" stroke-width="2"/>
+  <text x="380" y="212" text-anchor="middle" font-size="15" font-weight="600" fill="#1c1b19">Bản phác</text>
+  <text x="380" y="230" text-anchor="middle" font-size="11.5" fill="#5f5b53">bản vẽ sơ bộ</text>
+
+  <!-- Sáu nút -->
+  <g fill="#ffffff" stroke="#a8a498" stroke-width="1.25">
+    <rect x="285" y="55" width="190" height="50" rx="8"/>
+    <rect x="501" y="122" width="190" height="50" rx="8"/>
+    <rect x="501" y="258" width="190" height="50" rx="8"/>
+    <rect x="285" y="325" width="190" height="50" rx="8"/>
+    <rect x="69" y="258" width="190" height="50" rx="8"/>
+    <rect x="69" y="122" width="190" height="50" rx="8"/>
+  </g>
+  <g text-anchor="middle" fill="#1c1b19" font-weight="600">
+    <text x="380" y="76">Ghi lại</text>
+    <text x="596" y="143">Khám phá</text>
+    <text x="596" y="279">Thiết kế</text>
+    <text x="380" y="346">Truyền đạt</text>
+    <text x="164" y="279">Hình dung</text>
+    <text x="164" y="143">Đánh giá</text>
+  </g>
+  <g text-anchor="middle" font-size="11.5" fill="#5f5b53">
+    <text x="380" y="94">Latrobe, Pugin, Ito</text>
+    <text x="596" y="161">Leonardo, Finsterlin</text>
+    <text x="596" y="297">Palladio, Bernini</text>
+    <text x="380" y="364">Richardson, Fontana</text>
+    <text x="164" y="297">Gaudí, Ferriss</text>
+    <text x="164" y="161">Peruzzi, Adam</text>
+  </g>
+
+  <text x="24" y="406" font-size="11.5" fill="#5f5b53">Sáu chức năng theo Schank Smith (2005); tên người là ví dụ do người ghi chú sắp xếp. Một bản phác thường làm nhiều việc cùng lúc.</text>
+</svg>
