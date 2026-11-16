@@ -520,57 +520,107 @@ h3 {
 
 /* ---------- Trang bài ---------- */
 
+/* Hai cột như báo mạng nghệ thuật: chữ chạy bên trái, cột phụ bên phải
+   giữ thông tin của bài. Trên màn hình hẹp thì xếp thành một cột. */
 .bai {
-  max-width: var(--rong-doc);
-  margin: 0 auto;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-areas:
+    'dau'
+    'phu'
+    'anh'
+    'than';
+  column-gap: 64px;
 }
 
-.bai > header {
-  margin-bottom: 40px;
+.bai-dau {
+  grid-area: dau;
+  margin-bottom: 32px;
 }
 
-.bai > header h1 {
-  font-size: clamp(30px, 5vw, 44px);
+.bai-dau h1 {
+  font-size: clamp(30px, 4vw, 42px);
   font-weight: 700;
   margin: 12px 0 16px;
   letter-spacing: -0.01em;
 }
 
 .bai .dan {
-  font-size: 21px;
+  font-size: 20px;
   color: var(--muc-nhat);
-  margin: 0 0 16px;
+  margin: 0;
+}
+
+.bai-phu {
+  grid-area: phu;
+  margin-bottom: 32px;
+  font-family: var(--chu-de);
 }
 
 .thong-so {
   display: grid;
-  grid-template-columns: max-content 1fr;
-  gap: 4px 20px;
-  font-family: var(--chu-de);
+  grid-template-columns: minmax(0, 1fr);
+  margin: 0;
+  padding: 12px 0 0;
+  border-top: 2px solid var(--muc);
   font-size: 15px;
-  margin: 20px 0 0;
-  padding: 16px 0;
-  border-top: 1px solid var(--net);
-  border-bottom: 1px solid var(--net);
+  line-height: 1.45;
 }
 
 .thong-so dt {
+  margin-top: 14px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
   color: var(--muc-nhat);
 }
 
+.thong-so dt:first-child {
+  margin-top: 0;
+}
+
 .thong-so dd {
-  margin: 0;
+  margin: 2px 0 0;
 }
 
 .anh-bia {
+  grid-area: anh;
   margin: 0 0 40px;
+}
+
+.anh-bia img {
+  display: block;
+  width: 100%;
 }
 
 .anh-bia figcaption {
   font-family: var(--chu-de);
   font-size: 13px;
   color: var(--muc-nhat);
-  margin-top: 6px;
+  margin-top: 8px;
+}
+
+.than-bai {
+  grid-area: than;
+  min-width: 0;
+}
+
+@media (min-width: 960px) {
+  .bai {
+    grid-template-columns: minmax(0, 1fr) 232px;
+    grid-template-areas:
+      'dau phu'
+      'anh phu'
+      'than phu';
+  }
+
+  .bai-phu {
+    position: sticky;
+    top: 24px;
+    align-self: start;
+    padding-top: 12px;
+  }
 }
 
 .than-bai h2 {
@@ -634,16 +684,15 @@ h3 {
 .tu-khoa {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 48px;
+  gap: 6px;
+  margin: 24px 0 0;
   padding: 0;
   list-style: none;
-  font-family: var(--chu-de);
-  font-size: 13px;
+  font-size: 12.5px;
 }
 
 .tu-khoa li {
-  padding: 3px 10px;
+  padding: 2px 9px;
   border: 1px solid var(--net);
   border-radius: 999px;
   color: var(--muc-nhat);
@@ -684,24 +733,10 @@ h3 {
   }
 }
 
-/* Ảnh bìa rộng hơn cột chữ một chút khi màn hình đủ chỗ. */
-@media (min-width: 900px) {
-  .anh-bia {
-    margin-left: -90px;
-    margin-right: -90px;
-  }
-
-  .anh-bia img {
-    display: block;
-    width: 100%;
-  }
-}
-
 /* ---------- Đọc tiếp ở cuối bài ---------- */
 
 .doc-them {
-  max-width: var(--rong-doc);
-  margin: 72px auto 0;
+  margin: 80px 0 0;
 }
 
 .doc-them .de-muc-khu {

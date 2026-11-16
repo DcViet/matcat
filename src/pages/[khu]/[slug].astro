@@ -17,7 +17,7 @@ const { Content } = await render(bai);
 // Hai bài khác để đọc tiếp, mới nhất trước.
 const docThem = (await tatCaBai()).filter((b) => !(b.khu === bai.khu && b.id === bai.id)).slice(0, 2);
 
-// Bảng thông số chỉ hiện những dòng có dữ liệu.
+// Cột phụ chỉ hiện những dòng có dữ liệu.
 const thongSo = [
   ['Kiến trúc sư', d.architect],
   ['Tác giả', d.artist],
@@ -29,26 +29,35 @@ const thongSo = [
 
 <Base title={d.title} description={d.description}>
   <article class="bai">
-    <header>
+    <header class="bai-dau">
       <a class="nhan" href={duong(`/${khu.slug}/`)}>{khu.ten}</a>
       <h1>{d.title}</h1>
       <p class="dan">{d.description}</p>
-      <p class="phu">
-        <time datetime={d.date.toISOString()}>{ngayThang(d.date)}</time>
-      </p>
+    </header>
+
+    <aside class="bai-phu" aria-label="Thông tin bài viết">
+      <dl class="thong-so">
+        <dt>Ngày đăng</dt>
+        <dd><time datetime={d.date.toISOString()}>{ngayThang(d.date)}</time></dd>
+        {
+          thongSo.map(([ten, giaTri]) => (
+            <>
+              <dt>{ten}</dt>
+              <dd>{giaTri}</dd>
+            </>
+          ))
+        }
+      </dl>
       {
-        thongSo.length > 0 && (
-          <dl class="thong-so">
-            {thongSo.map(([ten, giaTri]) => (
-              <>
-                <dt>{ten}</dt>
-                <dd>{giaTri}</dd>
-              </>
+        d.tags.length > 0 && (
+          <ul class="tu-khoa" aria-label="Từ khóa">
+            {d.tags.map((t: string) => (
+              <li>{t}</li>
             ))}
-          </dl>
+          </ul>
         )
       }
-    </header>
+    </aside>
 
     {
       d.cover && (
@@ -62,16 +71,6 @@ const thongSo = [
     <div class="than-bai">
       <Content />
     </div>
-
-    {
-      d.tags.length > 0 && (
-        <ul class="tu-khoa" aria-label="Từ khóa">
-          {d.tags.map((t: string) => (
-            <li>{t}</li>
-          ))}
-        </ul>
-      )
-    }
   </article>
 
   {
