@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Mở http://localhost:4321/matcat/.
+Mở http://localhost:4321/.
 
 ## Viết bài mới
 
@@ -30,7 +30,7 @@ Có thể mở thư mục `src/content/` bằng Obsidian để viết.
 
 ## Xuất bản
 
-Trang chạy tại https://dcviet.github.io/matcat/. Mỗi lần đẩy mã lên nhánh `main`, GitHub tự build và cập nhật trang (xem `.github/workflows/deploy.yml`):
+Trang chạy tại https://matcat.blog (GitHub Pages; địa chỉ cũ dcviet.github.io/matcat tự chuyển sang). Mỗi lần đẩy mã lên nhánh `main`, GitHub tự build và cập nhật trang (xem `.github/workflows/deploy.yml`):
 
 ```bash
 git add -A

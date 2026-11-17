@@ -1,10 +1,10 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
-// Trang chạy trên GitHub Pages tại https://dcviet.github.io/matcat/.
-// Khi chuyển sang tên miền riêng: đổi SITE thành tên miền đó và BASE thành ''.
-const SITE = 'https://dcviet.github.io';
-const BASE = '/matcat';
+// Trang chạy trên tên miền riêng https://matcat.blog (GitHub Pages, kho DcViet/matcat).
+// Trước đó trang nằm ở https://dcviet.github.io/matcat/ với BASE = '/matcat'.
+const SITE = 'https://matcat.blog';
+const BASE = '';
 
 // Trong bài Markdown, ảnh và liên kết nội bộ viết dạng `/images/ten.jpg`.
 // Plugin này tự thêm BASE vào trước để chúng chạy đúng dưới /matcat.
