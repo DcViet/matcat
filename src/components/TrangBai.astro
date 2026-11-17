@@ -1,5 +1,7 @@
 ---
 import { render } from 'astro:content';
+import sharp from 'sharp';
+import { join } from 'node:path';
 import Base from '../layouts/Base.astro';
 import DanhSachBai from './DanhSachBai.astro';
 import { coBanDich, duong, duongNgon, ngayThang, tatCaBai, timKhu } from '../lib/khu';
@@ -27,6 +29,48 @@ const kia = (await coBanDich(bai.khu, bai.slug, langKia))
     : `/${bai.khu}/${bai.slug}/`
   : null;
 
+// Kích thước ảnh bìa, để trình duyệt giữ chỗ trước khi ảnh tải xong (giảm xô lệch bố cục).
+let kichThuoc: { width?: number; height?: number } = {};
+if (typeof d.cover === 'string' && d.cover.startsWith('/')) {
+  try {
+    const m = await sharp(join(process.cwd(), 'public', d.cover)).metadata();
+    kichThuoc = { width: m.width, height: m.height };
+  } catch {
+    // không đọc được thì bỏ qua, ảnh vẫn hiện bình thường
+  }
+}
+
+// Dữ liệu có cấu trúc cho công cụ tìm kiếm: bài viết và đường dẫn điều hướng.
+const goc = Astro.site!.href.replace(/\/$/, '');
+const diaChiBai = new URL(Astro.url.pathname, Astro.site).href;
+const ngayDang = d.date.toISOString().slice(0, 10);
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: d.title,
+    description: d.description,
+    datePublished: ngayDang,
+    dateModified: ngayDang,
+    inLanguage: lang,
+    articleSection: khu.ten[lang],
+    keywords: d.tags.join(', '),
+    ...(d.cover ? { image: [goc + duong(d.cover)] } : {}),
+    author: { '@type': 'Person', name: 'The Fool', url: goc + duongNgon(lang, lang === 'en' ? '/about/' : '/gioi-thieu/') },
+    publisher: { '@type': 'Organization', name: 'Mặt Cắt', url: goc + duongNgon(lang, '/') },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': diaChiBai },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Mặt Cắt', item: goc + duongNgon(lang, '/') },
+      { '@type': 'ListItem', position: 2, name: khu.ten[lang], item: goc + duongNgon(lang, `/${khu.slug}/`) },
+      { '@type': 'ListItem', position: 3, name: d.title, item: diaChiBai },
+    ],
+  },
+];
+
 // Cột phụ chỉ hiện những dòng có dữ liệu.
 const thongSo = [
   [chu.kienTrucSu, d.architect],
@@ -37,7 +81,18 @@ const thongSo = [
 ].filter(([, giaTri]) => giaTri);
 ---
 
-<Base lang={lang} title={d.title} description={d.description} kia={kia}>
+<Base
+  lang={lang}
+  title={d.title}
+  description={d.description}
+  kia={kia}
+  image={d.cover}
+  imageAlt={d.coverAlt}
+  ngayDang={ngayDang}
+  mucBai={khu.ten[lang]}
+  tuKhoa={d.tags}
+  schema={schema}
+>
   <article class="bai">
     <header class="bai-dau">
       <a class="nhan" href={duongNgon(lang, `/${khu.slug}/`)}>{khu.ten[lang]}</a>
@@ -72,7 +127,14 @@ const thongSo = [
     {
       d.cover && (
         <figure class="anh-bia">
-          <img src={d.cover.startsWith('/') ? duong(d.cover) : d.cover} alt={d.coverAlt ?? ''} />
+          <img
+            src={d.cover.startsWith('/') ? duong(d.cover) : d.cover}
+            alt={d.coverAlt ?? ''}
+            width={kichThuoc.width}
+            height={kichThuoc.height}
+            fetchpriority="high"
+            decoding="async"
+          />
           {d.coverCredit && <figcaption>{chu.anh} {d.coverCredit}</figcaption>}
         </figure>
       )

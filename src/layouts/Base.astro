@@ -10,13 +10,40 @@ interface Props {
   // Đường dẫn (không gồm /matcat) của trang tương ứng ở ngôn ngữ kia.
   // Bỏ trống: tự suy ra từ đường dẫn hiện tại. `null`: không có bản dịch, nút chuyển về trang chủ.
   kia?: string | null;
+  // Ảnh chia sẻ (đường dẫn gốc, ví dụ /images/x.jpg) và mô tả ảnh.
+  image?: string;
+  imageAlt?: string;
+  // Bài viết: ngày đăng (YYYY-MM-DD), mục và từ khóa, dùng cho thẻ article.
+  ngayDang?: string;
+  mucBai?: string;
+  tuKhoa?: string[];
+  // Dữ liệu có cấu trúc (JSON-LD) của riêng trang.
+  schema?: object[];
+  noindex?: boolean;
 }
 
 const TEN_TRANG = 'Mặt Cắt';
-const { title, lang = 'vi', kia } = Astro.props;
+const { title, lang = 'vi', kia, image, imageAlt, ngayDang, mucBai, tuKhoa = [], schema = [], noindex = false } = Astro.props;
 const chu = CHU[lang];
 const description = Astro.props.description ?? chu.moTaMacDinh;
-const tieuDe = title ? `${title} · ${TEN_TRANG}` : TEN_TRANG;
+
+// Google cắt tiêu đề quanh 60 ký tự và mô tả quanh 160: rút gọn cho thẻ meta, giữ nguyên chữ hiển thị trong bài.
+const rutGon = (s: string, n: number) => {
+  const g = s.replace(/\s+/g, ' ').trim();
+  if (g.length <= n) return g;
+  const c = g.slice(0, n - 1);
+  const i = c.lastIndexOf(' ');
+  return (i > n * 0.6 ? c.slice(0, i) : c).replace(/[\s,;:.\-–]+$/, '') + '…';
+};
+const moTaMeta = rutGon(description, 158);
+const moTaXaHoi = rutGon(description, 200);
+const tieuDeDay = title ? `${title} · ${TEN_TRANG}` : chu.tenDayDu;
+const tieuDe = title && tieuDeDay.length > 62 ? title : tieuDeDay;
+const tieuDeXaHoi = title ?? chu.tenDayDu;
+
+const anhXaHoi = /^https?:/.test(image ?? '') ? image! : new URL(duong(image ?? '/images/og-mat-cat.png'), Astro.site).href;
+const moTaAnh = imageAlt ?? (image ? title ?? TEN_TRANG : `${TEN_TRANG}: ${chu.moTaMacDinh}`);
+const laTrangBai = Boolean(ngayDang);
 
 const duongDan = Astro.url.pathname.slice(GOC.length) || '/';
 // Đường dẫn không có tiền tố /en, để nhận biết khu đang mở.
@@ -48,15 +75,40 @@ const coBanKia = kia !== null;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{tieuDe}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={moTaMeta} />
+    <meta
+      name="robots"
+      content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+    />
+    <meta name="theme-color" content="#f7f4ee" />
     <meta property="og:site_name" content={TEN_TRANG} />
-    <meta property="og:title" content={title ?? TEN_TRANG} />
-    <meta property="og:description" content={description} />
-    <meta property="og:type" content={title ? 'article' : 'website'} />
+    <meta property="og:title" content={tieuDeXaHoi} />
+    <meta property="og:description" content={moTaXaHoi} />
+    <meta property="og:type" content={laTrangBai ? 'article' : 'website'} />
     <meta property="og:locale" content={chu.ogLocale} />
     <meta property="og:locale:alternate" content={CHU[langKia].ogLocale} />
     <meta property="og:url" content={diaChi} />
+    <meta property="og:image" content={anhXaHoi} />
+    <meta property="og:image:alt" content={moTaAnh} />
+    {
+      laTrangBai && (
+        <>
+          <meta property="article:published_time" content={ngayDang} />
+          <meta property="article:modified_time" content={ngayDang} />
+          {mucBai && <meta property="article:section" content={mucBai} />}
+          {tuKhoa.map((t) => (
+            <meta property="article:tag" content={t} />
+          ))}
+        </>
+      )
+    }
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={tieuDeXaHoi} />
+    <meta name="twitter:description" content={moTaXaHoi} />
+    <meta name="twitter:image" content={anhXaHoi} />
+    <meta name="twitter:image:alt" content={moTaAnh} />
     <link rel="canonical" href={diaChi} />
+    <link rel="alternate" type="application/rss+xml" title={`${TEN_TRANG} (${lang.toUpperCase()})`} href={duongNgon(lang, '/rss.xml')} />
     {
       coBanKia && (
         <>
@@ -66,6 +118,7 @@ const coBanKia = kia !== null;
         </>
       )
     }
+    {schema.map((d) => <script type="application/ld+json" set:html={JSON.stringify(d)} />)}
     <link rel="sitemap" href={duong('/sitemap-index.xml')} />
     <link rel="icon" type="image/svg+xml" href={duong('/favicon.svg')} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />

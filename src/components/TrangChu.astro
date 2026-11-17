@@ -17,12 +17,24 @@ const chu = CHU[lang];
 const moiNhat = (await tatCaBai(lang)).slice(0, 6);
 const noiBat = moiNhat.find((b) => b.data.cover) ?? moiNhat[0];
 const conLai = moiNhat.filter((b) => b !== noiBat);
+const goc = Astro.site!.href.replace(/\/$/, '');
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Mặt Cắt',
+    alternateName: lang === 'vi' ? 'Mặt Cắt (Section Cut)' : 'Section Cut',
+    url: goc + duongNgon(lang, '/'),
+    inLanguage: chu.htmlLang,
+    description: chu.moTaMacDinh,
+  },
+];
 const soBai = Object.fromEntries(
   await Promise.all(KHU.map(async (k) => [k.slug, (await baiCuaKhu(k.slug, lang)).length] as const)),
 );
 ---
 
-<Base lang={lang}>
+<Base lang={lang} schema={schema}>
   <section class="mo-dau mo-dau-chu">
     <div>
       <h1>{chu.heroTruoc}<em>{chu.heroNhan}</em>{chu.heroSau}</h1>
