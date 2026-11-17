@@ -7,6 +7,8 @@ const chung = z.object({
   description: z.string(),
   date: z.coerce.date(),
   draft: z.boolean().default(false),
+  // Bản tiếng Anh nằm cạnh bản tiếng Việt, tên tệp có tiền tố `en-` (en-kimbell-kahn.md).
+  lang: z.enum(['vi', 'en']).default('vi'),
   cover: z.string().optional(),
   coverAlt: z.string().optional(),
   coverCredit: z.string().optional(),

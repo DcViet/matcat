@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="440" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">A noun points to one answer, a verb opens four kinds of answers</text>
+
+  <rect x="24" y="60" width="160" height="40" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="104" y="84" text-anchor="middle" font-weight="600" fill="#1c1b19">Needs a ladder</text>
+  <line x1="184" y1="80" x2="208" y2="80" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="216" y="84" font-size="11.5" fill="#5f5b53">wooden, aluminum, folding: still a ladder</text>
+
+  <g fill="none" stroke="#a8a498" stroke-width="1.25">
+    <path d="M272 262C248 262 248 176 224 176"/>
+    <path d="M272 278C248 278 248 372 224 372"/>
+    <path d="M488 262C512 262 512 176 536 176"/>
+    <path d="M488 278C512 278 512 372 536 372"/>
+  </g>
+
+  <rect x="272" y="242" width="216" height="56" rx="8" fill="#b4472e" fill-opacity="0.12" stroke="#b4472e" stroke-width="2"/>
+  <text x="380" y="264" text-anchor="middle" fill="#1c1b19">The child needs</text>
+  <text x="380" y="285" text-anchor="middle" font-size="15" font-weight="600" fill="#1c1b19">TO REACH the book</text>
+
+  <rect x="24" y="148" width="200" height="56" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="124" y="172" text-anchor="middle" font-weight="600" fill="#1c1b19">Change the tool</text>
+  <text x="124" y="188" text-anchor="middle" font-size="11.5" fill="#5f5b53">an extendable arm</text>
+
+  <rect x="24" y="344" width="200" height="56" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="124" y="368" text-anchor="middle" font-weight="600" fill="#1c1b19">Change the user</text>
+  <text x="124" y="384" text-anchor="middle" font-size="11.5" fill="#5f5b53">shoes that add height</text>
+
+  <rect x="536" y="148" width="200" height="56" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="636" y="172" text-anchor="middle" font-weight="600" fill="#1c1b19">Ask someone else</text>
+  <text x="636" y="188" text-anchor="middle" font-size="11.5" fill="#5f5b53">a grown-up gets it</text>
+
+  <rect x="536" y="344" width="200" height="72" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="636" y="368" text-anchor="middle" font-weight="600" fill="#1c1b19">Change the environment</text>
+  <text x="636" y="384" text-anchor="middle" font-size="11.5" fill="#5f5b53">lower the shelf or the books</text>
+  <text x="636" y="400" text-anchor="middle" font-size="11.5" fill="#5f5b53">(not mentioned in class)</text>
+</svg>

@@ -1,0 +1,12 @@
+---
+import TrangKhu from '../../../components/TrangKhu.astro';
+import { KHU, type KhuSlug } from '../../../lib/khu';
+
+export function getStaticPaths() {
+  return KHU.map((k) => ({ params: { khu: k.slug } }));
+}
+
+const slug = Astro.params.khu as KhuSlug;
+---
+
+<TrangKhu slug={slug} lang="en" />

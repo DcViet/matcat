@@ -750,3 +750,33 @@ h3 {
   font-size: 14.5px;
   line-height: 1.55;
 }
+
+/* ---------- Nút chọn ngôn ngữ ---------- */
+
+.chon-ngon-ngu {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  margin-left: 8px;
+  padding-left: 16px;
+  border-left: 1px solid var(--net);
+  font-size: 12.5px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+}
+
+.dau-trang nav .chon-ngon-ngu a {
+  padding: 3px 8px;
+  border-bottom: 0;
+  border-radius: 3px;
+  color: var(--muc-nhat);
+}
+
+.dau-trang nav .chon-ngon-ngu a[aria-current='true'] {
+  background: var(--muc);
+  color: var(--giay);
+}
+
+.dau-trang nav .chon-ngon-ngu a:not([aria-current]):hover {
+  color: var(--do-gach);
+}

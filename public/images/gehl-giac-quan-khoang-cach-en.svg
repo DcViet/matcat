@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="360" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">The farther away, the less we see of each other</text>
+
+  <!-- Distance axis (logarithmic scale, 0.5 m to 100 m) -->
+  <line x1="60" y1="210" x2="700" y2="210" stroke="#a8a498" stroke-width="1.25"/>
+
+  <!-- Highlighted stretches -->
+  <g stroke="#b4472e" stroke-width="5" stroke-linecap="round">
+    <line x1="143.7" y1="210" x2="276.4" y2="210"/>
+    <line x1="505.5" y1="210" x2="532.6" y2="210"/>
+    <line x1="657" y1="210" x2="700" y2="210"/>
+  </g>
+  <g fill="#b4472e">
+    <circle cx="378.7" cy="210" r="5"/>
+    <circle cx="554.5" cy="210" r="5"/>
+  </g>
+
+  <!-- Ticks and meter labels -->
+  <g stroke="#a8a498" stroke-width="1.25">
+    <line x1="143.7" y1="214" x2="143.7" y2="222"/>
+    <line x1="276.4" y1="214" x2="276.4" y2="222"/>
+    <line x1="378.7" y1="214" x2="378.7" y2="222"/>
+    <line x1="505.5" y1="214" x2="505.5" y2="222"/>
+    <line x1="554.5" y1="214" x2="554.5" y2="222"/>
+    <line x1="657" y1="214" x2="657" y2="222"/>
+    <line x1="700" y1="214" x2="700" y2="222"/>
+  </g>
+  <g font-size="11.5" fill="#5f5b53" text-anchor="middle">
+    <text x="143.7" y="238">1 m</text>
+    <text x="276.4" y="238">3 m</text>
+    <text x="378.7" y="238">7 m</text>
+    <text x="505.5" y="238">20 m</text>
+    <text x="554.5" y="238">30 m</text>
+    <text x="657" y="238">70 m</text>
+    <text x="700" y="238">100 m</text>
+  </g>
+  <text x="380" y="272" text-anchor="middle" font-size="11.5" fill="#5f5b53">distance between two people →</text>
+
+  <!-- Leader lines down to the axis -->
+  <g stroke="#a8a498" stroke-width="1">
+    <line x1="210" y1="191" x2="210" y2="205"/>
+    <line x1="378.7" y1="191" x2="378.7" y2="205"/>
+    <line x1="519" y1="161" x2="519" y2="205"/>
+    <line x1="554.5" y1="114" x2="554.5" y2="205"/>
+    <line x1="678" y1="86" x2="678" y2="205"/>
+  </g>
+  <g font-size="11.5" fill="#1c1b19">
+    <text x="210" y="185" text-anchor="middle">1–3 m: normal talking</text>
+    <text x="378.7" y="185" text-anchor="middle">7 m: easy conversation</text>
+    <text x="515" y="140" text-anchor="end">20–25 m: we can read mood,</text>
+    <text x="515" y="155" text-anchor="end" fill="#5f5b53" font-size="11">an encounter starts to get interesting</text>
+    <text x="554.5" y="108" text-anchor="middle">30 m: facial expressions</text>
+    <text x="700" y="64" text-anchor="end">70–100 m: gender, age, gait,</text>
+    <text x="700" y="79" text-anchor="end" fill="#5f5b53" font-size="11">and what people are doing</text>
+  </g>
+
+  <text x="24" y="312" font-size="11.5" fill="#5f5b53">Logarithmic scale: ticks are evenly spaced by ratio, not by meters.</text>
+  <text x="24" y="328" font-size="11.5" fill="#5f5b53">Figures after Gehl (Vietnamese edition via OCR, based on Hall); to be verified.</text>
+  <text x="24" y="344" font-size="11.5" fill="#5f5b53">Gehl calls about 100 m the "social field of vision." Redrawn by the article's author from the book's figures.</text>
+</svg>

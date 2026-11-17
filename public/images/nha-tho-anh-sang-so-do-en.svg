@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 372" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="372" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">A concrete box, an angled wall, one slit of light</text>
+
+  <!-- Plan (conceptual) -->
+  <text x="40" y="74" font-weight="600" fill="#1c1b19">Plan (conceptual)</text>
+  <rect x="50" y="130" width="260" height="110" fill="none" stroke="#1c1b19" stroke-width="8"/>
+  <!-- Perpendicular reference and the 15-degree wall -->
+  <line x1="180" y1="104" x2="180" y2="266" stroke="#a8a498" stroke-width="1.25" stroke-dasharray="5 4"/>
+  <line x1="160.6" y1="107.6" x2="199.4" y2="252.4" stroke="#b4472e" stroke-width="7"/>
+  <path d="M180 124A20 20 0 0 0 176.7 124" fill="none" stroke="#b4472e" stroke-width="1.25"/>
+  <text x="150" y="106" text-anchor="end" font-size="12" font-weight="600" fill="#b4472e">15°</text>
+  <text x="214" y="98" font-size="11.5" fill="#5f5b53">freestanding wall</text>
+  <text x="214" y="113" font-size="11.5" fill="#5f5b53">cutting across</text>
+  <text x="180" y="284" text-anchor="middle" font-size="11.5" fill="#5f5b53">rectangular concrete block</text>
+
+  <!-- Wall with the cross-shaped slit -->
+  <text x="470" y="74" font-weight="600" fill="#1c1b19">Cross-shaped slit in the wall</text>
+  <rect x="470" y="94" width="200" height="190" fill="#1c1b19"/>
+  <!-- Bolt holes -->
+  <g fill="#5f5b53">
+    <circle cx="500" cy="114" r="2"/><circle cx="540" cy="114" r="2"/><circle cx="600" cy="114" r="2"/><circle cx="640" cy="114" r="2"/>
+    <circle cx="500" cy="174" r="2"/><circle cx="540" cy="174" r="2"/><circle cx="600" cy="174" r="2"/><circle cx="640" cy="174" r="2"/>
+    <circle cx="500" cy="234" r="2"/><circle cx="540" cy="234" r="2"/><circle cx="600" cy="234" r="2"/><circle cx="640" cy="234" r="2"/>
+    <circle cx="500" cy="270" r="2"/><circle cx="540" cy="270" r="2"/><circle cx="600" cy="270" r="2"/><circle cx="640" cy="270" r="2"/>
+  </g>
+  <!-- Light slit: vertical from floor to ceiling, horizontal in the upper part -->
+  <g fill="#fffaf0" stroke="#b4472e" stroke-width="1.25" stroke-opacity="0.55">
+    <rect x="564" y="94" width="12" height="190"/>
+    <rect x="514" y="140" width="112" height="12"/>
+  </g>
+  <text x="570" y="302" text-anchor="middle" font-size="11.5" fill="#5f5b53">slit cut from floor to ceiling</text>
+  <text x="570" y="318" text-anchor="middle" font-size="11.5" fill="#5f5b53">small dots are formwork bolt holes</text>
+
+  <text x="24" y="346" font-size="11.5" fill="#5f5b53">Conceptual diagram by the article's author, from descriptions in the books.</text>
+  <text x="24" y="361" font-size="11.5" fill="#5f5b53">Angle, position, and scale are illustrative only; this is not a drawing of the building.</text>
+</svg>

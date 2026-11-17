@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="330" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">We tend to like what is just strange enough: not too familiar, not too chaotic</text>
+
+  <!-- Axes -->
+  <line x1="120" y1="250" x2="700" y2="250" stroke="#a8a498" stroke-width="1.25"/>
+  <line x1="120" y1="250" x2="120" y2="70" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="410" y="286" text-anchor="middle" font-size="11.5" fill="#5f5b53">complexity and novelty of what we are looking at →</text>
+  <text x="104" y="76" text-anchor="end" font-size="11.5" fill="#5f5b53">high</text>
+  <text x="104" y="92" text-anchor="end" font-size="11.5" fill="#5f5b53">liking</text>
+  <text x="104" y="246" text-anchor="end" font-size="11.5" fill="#5f5b53">low liking</text>
+
+  <!-- Inverted-U curve -->
+  <path d="M140 236 C 260 236 300 96 410 96 C 520 96 560 236 680 236" fill="none" stroke="#b4472e" stroke-width="2.5"/>
+  <circle cx="410" cy="96" r="5" fill="#b4472e"/>
+
+  <text x="410" y="80" text-anchor="middle" font-weight="600" fill="#1c1b19">just strange enough</text>
+  <text x="180" y="172" text-anchor="middle" font-size="11.5" fill="#5f5b53">too familiar:</text>
+  <text x="180" y="188" text-anchor="middle" font-size="11.5" fill="#5f5b53">one look, done</text>
+  <text x="640" y="172" text-anchor="middle" font-size="11.5" fill="#5f5b53">too chaotic:</text>
+  <text x="640" y="188" text-anchor="middle" font-size="11.5" fill="#5f5b53">no foothold</text>
+
+  <text x="24" y="306" font-size="11.5" fill="#5f5b53">Conceptual diagram after Berlyne's (1971) hypothesis, not measured data.</text>
+  <text x="24" y="321" font-size="11.5" fill="#5f5b53">The peak of the curve shifts right as viewers grow used to what they see.</text>
+</svg>

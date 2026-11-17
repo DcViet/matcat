@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 270" font-family="'Segoe UI', Arial, sans-serif" font-size="12">
+  <rect width="760" height="270" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">The way into the baths runs downward and grows brighter</text>
+
+  <!-- Six stages, each lower and brighter than the last -->
+  <rect x="24" y="64" width="112" height="72" fill="#f3efe7" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="80" y="96" text-anchor="middle" font-weight="600" fill="#1c1b19">Hotel</text>
+  <text x="80" y="113" text-anchor="middle" font-size="11" fill="#5f5b53">starting point</text>
+
+  <rect x="144" y="72" width="112" height="72" fill="#35332f"/>
+  <text x="200" y="104" text-anchor="middle" font-weight="600" fill="#ffffff">Cave-like hall</text>
+  <text x="200" y="121" text-anchor="middle" font-size="11" fill="#e6e1d6">dark, low</text>
+
+  <rect x="264" y="84" width="112" height="72" fill="#55524b"/>
+  <text x="320" y="116" text-anchor="middle" font-weight="600" fill="#ffffff">Corridor</text>
+  <text x="320" y="133" text-anchor="middle" font-size="11" fill="#e6e1d6">misty with steam</text>
+
+  <rect x="384" y="100" width="112" height="72" fill="#8a867c"/>
+  <text x="440" y="132" text-anchor="middle" font-weight="600" fill="#ffffff">Stone steps</text>
+  <text x="440" y="149" text-anchor="middle" font-size="11" fill="#ffffff">going down</text>
+
+  <rect x="504" y="116" width="112" height="72" fill="#cfc9bb"/>
+  <text x="560" y="148" text-anchor="middle" font-weight="600" fill="#1c1b19">Main space</text>
+  <text x="560" y="165" text-anchor="middle" font-size="11" fill="#35332f">hollow stone</text>
+  <text x="560" y="179" text-anchor="middle" font-size="11" fill="#35332f">blocks, water</text>
+
+  <rect x="624" y="116" width="112" height="72" fill="#fbf9f4" stroke="#b4472e" stroke-width="2"/>
+  <text x="680" y="148" text-anchor="middle" font-weight="600" fill="#1c1b19">Glass wall</text>
+  <text x="680" y="165" text-anchor="middle" font-size="11" fill="#5f5b53">valley view</text>
+
+  <!-- Light legend bar -->
+  <text x="24" y="222" font-size="11.5" fill="#5f5b53">dark</text>
+  <line x1="52" y1="218" x2="700" y2="218" stroke="#b4472e" stroke-width="1.5"/>
+  <path d="M700 218l-9 -5v10z" fill="#b4472e"/>
+  <text x="736" y="222" text-anchor="end" font-size="11.5" fill="#5f5b53">bright</text>
+
+  <text x="24" y="252" font-size="11.5" fill="#5f5b53">Conceptual diagram from a secondary source, not to scale, not a real section of the building.</text>
+</svg>

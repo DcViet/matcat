@@ -1,0 +1,96 @@
+---
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import DanhSachBai from './DanhSachBai.astro';
+import { coBanDich, duong, duongNgon, ngayThang, tatCaBai, timKhu } from '../lib/khu';
+import { CHU, type Lang } from '../lib/i18n';
+
+interface Props {
+  bai: Awaited<ReturnType<typeof tatCaBai>>[number];
+  lang: Lang;
+}
+
+const { bai, lang } = Astro.props;
+const chu = CHU[lang];
+const khu = timKhu(bai.khu);
+const d = bai.data as Record<string, any>;
+const { Content } = await render(bai);
+
+// Hai bài khác để đọc tiếp, mới nhất trước, cùng ngôn ngữ.
+const docThem = (await tatCaBai(lang)).filter((b) => !(b.khu === bai.khu && b.slug === bai.slug)).slice(0, 2);
+
+// Trang tương ứng ở ngôn ngữ kia, nếu có.
+const langKia: Lang = lang === 'vi' ? 'en' : 'vi';
+const kia = (await coBanDich(bai.khu, bai.slug, langKia))
+  ? lang === 'vi'
+    ? `/en/${bai.khu}/${bai.slug}/`
+    : `/${bai.khu}/${bai.slug}/`
+  : null;
+
+// Cột phụ chỉ hiện những dòng có dữ liệu.
+const thongSo = [
+  [chu.kienTrucSu, d.architect],
+  [chu.tacGia, d.artist],
+  [chu.diaDiem, d.location],
+  [chu.chatLieu, d.medium],
+  [chu.nam, d.year],
+].filter(([, giaTri]) => giaTri);
+---
+
+<Base lang={lang} title={d.title} description={d.description} kia={kia}>
+  <article class="bai">
+    <header class="bai-dau">
+      <a class="nhan" href={duongNgon(lang, `/${khu.slug}/`)}>{khu.ten[lang]}</a>
+      <h1>{d.title}</h1>
+      <p class="dan">{d.description}</p>
+    </header>
+
+    <aside class="bai-phu" aria-label={chu.thongTin}>
+      <dl class="thong-so">
+        <dt>{chu.ngayDang}</dt>
+        <dd><time datetime={d.date.toISOString()}>{ngayThang(d.date, lang)}</time></dd>
+        {
+          thongSo.map(([ten, giaTri]) => (
+            <>
+              <dt>{ten}</dt>
+              <dd>{giaTri}</dd>
+            </>
+          ))
+        }
+      </dl>
+      {
+        d.tags.length > 0 && (
+          <ul class="tu-khoa" aria-label={chu.tuKhoa}>
+            {d.tags.map((t: string) => (
+              <li>{t}</li>
+            ))}
+          </ul>
+        )
+      }
+    </aside>
+
+    {
+      d.cover && (
+        <figure class="anh-bia">
+          <img src={d.cover.startsWith('/') ? duong(d.cover) : d.cover} alt={d.coverAlt ?? ''} />
+          {d.coverCredit && <figcaption>{chu.anh} {d.coverCredit}</figcaption>}
+        </figure>
+      )
+    }
+
+    <div class="than-bai">
+      <Content />
+    </div>
+  </article>
+
+  {
+    docThem.length > 0 && (
+      <aside class="doc-them">
+        <div class="de-muc-khu">
+          <h2>{chu.docTiep}</h2>
+        </div>
+        <DanhSachBai bai={docThem} hienKhu lang={lang} />
+      </aside>
+    )
+  }
+</Base>

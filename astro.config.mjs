@@ -26,7 +26,11 @@ function themBase() {
 export default defineConfig({
   site: SITE,
   base: BASE || undefined,
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      i18n: { defaultLocale: 'vi', locales: { vi: 'vi-VN', en: 'en-US' } },
+    }),
+  ],
   markdown: {
     rehypePlugins: BASE ? [themBase] : [],
   },

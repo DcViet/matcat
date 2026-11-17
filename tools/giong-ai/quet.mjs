@@ -161,7 +161,8 @@ function duyet(thuMuc, ra) {
   for (const ten of readdirSync(thuMuc)) {
     const p = join(thuMuc, ten);
     if (statSync(p).isDirectory()) duyet(p, ra);
-    else if (/\.mdx?$/.test(ten) && !ten.startsWith('mau-')) ra.push(p);
+    // Bỏ bản mẫu và bản tiếng Anh (en-...), công cụ chỉ dành cho tiếng Việt.
+    else if (/\.mdx?$/.test(ten) && !ten.startsWith('mau-') && !ten.startsWith('en-')) ra.push(p);
   }
   return ra;
 }

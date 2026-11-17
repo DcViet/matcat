@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="400" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Four places where people have put beauty</text>
+
+  <g fill="none" stroke="#a8a498" stroke-width="1.25">
+    <path d="M272 204C248 204 248 118 224 118"/>
+    <path d="M272 220C248 220 248 314 224 314"/>
+    <path d="M488 204C512 204 512 118 536 118"/>
+    <path d="M488 220C512 220 512 314 536 314"/>
+  </g>
+
+  <rect x="272" y="184" width="216" height="56" rx="8" fill="#b4472e" fill-opacity="0.12" stroke="#b4472e" stroke-width="2"/>
+  <text x="380" y="217" text-anchor="middle" font-size="15" font-weight="600" fill="#1c1b19">Where does beauty live?</text>
+
+  <rect x="24" y="74" width="200" height="88" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="124" y="98" text-anchor="middle" font-weight="600" fill="#1c1b19">In the object</text>
+  <text x="124" y="116" text-anchor="middle" font-size="11.5" fill="#5f5b53">proportion, balance, harmony</text>
+  <text x="124" y="132" text-anchor="middle" font-size="11.5" fill="#5f5b53">measurable, teachable</text>
+  <text x="124" y="150" text-anchor="middle" font-size="11.5" fill="#1c1b19">Polykleitos, Vitruvius</text>
+
+  <rect x="24" y="270" width="200" height="88" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="124" y="294" text-anchor="middle" font-weight="600" fill="#1c1b19">In the viewer</text>
+  <text x="124" y="312" text-anchor="middle" font-size="11.5" fill="#5f5b53">taste, habit, familiarity</text>
+  <text x="124" y="328" text-anchor="middle" font-size="11.5" fill="#5f5b53">differs from person to person</text>
+  <text x="124" y="346" text-anchor="middle" font-size="11.5" fill="#1c1b19">Hume, Zajonc</text>
+
+  <rect x="536" y="74" width="200" height="88" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="636" y="98" text-anchor="middle" font-weight="600" fill="#1c1b19">Between the two</text>
+  <text x="636" y="116" text-anchor="middle" font-size="11.5" fill="#5f5b53">a personal feeling, yet we</text>
+  <text x="636" y="132" text-anchor="middle" font-size="11.5" fill="#5f5b53">expect others to share it</text>
+  <text x="636" y="150" text-anchor="middle" font-size="11.5" fill="#1c1b19">Kant</text>
+
+  <rect x="536" y="270" width="200" height="88" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="636" y="294" text-anchor="middle" font-weight="600" fill="#1c1b19">In context</text>
+  <text x="636" y="312" text-anchor="middle" font-size="11.5" fill="#5f5b53">history, the art world,</text>
+  <text x="636" y="328" text-anchor="middle" font-size="11.5" fill="#5f5b53">what the work responds to</text>
+  <text x="636" y="346" text-anchor="middle" font-size="11.5" fill="#1c1b19">Danto, Dickie</text>
+
+  <text x="24" y="386" font-size="11.5" fill="#5f5b53">Summary diagram: many views gathered into four groups to make them easier to remember.</text>
+</svg>

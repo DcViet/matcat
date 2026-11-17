@@ -10,9 +10,9 @@ tags: ["mỹ học", "cái đẹp", "đúng và sai", "phê bình nghệ thuật
 
 "Cô ơi, con vẽ sai rồi."
 
-Ai từng ngồi trong một lớp vẽ đều đã nghe câu này. Đứa trẻ chỉ vào con mèo màu tím, hay cái cây cao hơn ngôi nhà, và chờ người lớn phán xử. Người lớn thường chọn một trong hai câu trả lời. Một là sửa: "mèo không có màu tím đâu con". Hai là xoa dịu: "trong nghệ thuật không có gì sai cả".
+Ai từng ngồi trong một lớp vẽ đều đã nghe câu này. Đứa trẻ chỉ vào con mèo màu tím, hay cái cây cao hơn ngôi nhà, và chờ người lớn phán xử. Người lớn thường chọn một trong hai cách trả lời. Một là sửa: "mèo không có màu tím đâu con". Hai là xoa dịu: "trong nghệ thuật không có gì sai cả".
 
-Tôi nghĩ cả hai câu đều chưa ổn. Câu đầu coi bức vẽ là bản sao của thế giới và chấm điểm theo độ giống. Câu sau nghe thì rộng lượng, nhưng nếu không có gì sai thì cũng chẳng có gì hay hơn, và người học không biết mình nên đi tiếp về hướng nào.
+Mình nghĩ cả hai câu đều chưa ổn. Câu đầu coi bức vẽ là bản sao của thế giới rồi chấm điểm theo độ giống. Câu sau nghe thì rộng lượng, nhưng nếu không có gì sai thì cũng chẳng có gì hay hơn, và người học không biết nên đi tiếp về đâu.
 
 Câu hỏi đáng hỏi lại là: sai so với cái gì?
 
@@ -30,19 +30,19 @@ Khi nói một bức vẽ đúng hay sai, người ta thường đang dùng mộ
 
 **Đúng với luật** thì khác. Tranh Đông Hồ không có xa gần, không có bóng đổ, các mảng màu phẳng nằm trong nét viền đen. Chấm theo thước "đúng với mắt" thì bức *Đám cưới chuột* sai gần hết. Nhưng chẳng ai thấy nó sai, vì nó theo một bộ luật khác, và trong bộ luật ấy nó rất chuẩn. Một bức Đông Hồ mà thêm bóng đổ cho giống thật mới là bức vẽ hỏng.
 
-**Đúng với ý** là kiểu khó nhất. Năm 1907 Picasso vẽ *Les Demoiselles d'Avignon* với những khuôn mặt như mặt nạ và thân người gãy thành mảng. Ông thừa sức vẽ giống. Ông cố tình không vẽ giống, vì điều ông muốn không nằm ở sự giống. Có một giai thoại hay được kể về Matisse: một bà khách chê cánh tay người phụ nữ trong tranh quá dài, và ông đáp rằng đây không phải một người phụ nữ, đây là một bức tranh. Tôi không chắc chuyện có thật, nhưng nó nói đúng điều cần nói.
+**Đúng với ý** là kiểu khó nhất. Năm 1907 Picasso vẽ *Les Demoiselles d'Avignon* với những khuôn mặt như mặt nạ và thân người gãy thành từng mảng. Ông thừa sức vẽ giống. Ông cố tình không vẽ giống, vì điều ông muốn nói không nằm ở chỗ giống. Có một giai thoại hay được kể về Matisse: một bà khách chê cánh tay người phụ nữ trong tranh quá dài, và ông đáp rằng đây không phải một người phụ nữ, đây là một bức tranh. Mình không chắc chuyện có thật, nhưng nó nói đúng điều cần nói.
 
 Vậy con mèo tím sai hay đúng? Nếu đề bài là vẽ con mèo nhà mình cho giống thì màu tím lệch khỏi đề. Nếu đứa trẻ muốn vẽ một con mèo đang buồn, hay một con mèo trong giấc mơ, thì màu tím có khi là lựa chọn đúng nhất trong cả bức. Người lớn chỉ biết được khi hỏi: "con muốn con mèo này thế nào?".
 
 ## Luật đổi, nên cái sai hôm qua thành cái đúng hôm nay
 
-Lịch sử nghệ thuật có rất nhiều lần cái bị coi là sai được lật lại.
+Lịch sử nghệ thuật có rất nhiều lần những thứ từng bị coi là sai sau đó được lật lại.
 
-Năm 1863, ban giám khảo triển lãm chính thức ở Paris loại nhiều tranh tới mức phải mở riêng một phòng cho tranh bị từ chối. Trong đó có *Bữa trưa trên cỏ* của Manet. Năm 1874, nhà báo Louis Leroy lấy tên bức *Ấn tượng, mặt trời mọc* của Monet để giễu cả nhóm họa sĩ là "bọn ấn tượng". Cái tên giễu cợt ấy về sau thành tên một trường phái mà ngày nay gần như ai cũng thấy đẹp.
+Năm 1863, ban giám khảo triển lãm chính thức ở Paris loại nhiều tranh đến nỗi phải mở riêng một phòng cho tranh bị từ chối. Trong đó có *Bữa trưa trên cỏ* của Manet. Năm 1874, nhà báo Louis Leroy lấy tên bức *Ấn tượng, mặt trời mọc* của Monet để giễu cả nhóm họa sĩ là "bọn ấn tượng". Cái tên giễu cợt ấy về sau thành tên một trường phái mà ngày nay gần như ai cũng thấy đẹp.
 
-Dễ rút ra kết luận rằng công chúng thời đó kém. Tôi nghĩ kết luận đúng hơn là họ đang chấm bằng một bộ luật cũ. Theo luật của hội họa hàn lâm, tranh phải nhẵn mặt, đề tài phải cao quý, nét bút không được lộ. Theo luật ấy, tranh ấn tượng đúng là sai. Các họa sĩ không phá luật cho vui. Họ đề xuất một luật khác, và phải mất vài chục năm người xem mới học xong luật mới.
+Dễ nghĩ rằng công chúng thời đó kém cỏi. Mình thì thấy đúng hơn là họ đang chấm bằng một bộ luật cũ. Theo luật của hội họa hàn lâm, tranh phải nhẵn mặt, đề tài phải cao quý, nét bút không được lộ. Theo luật ấy, tranh ấn tượng đúng là sai. Các họa sĩ không phá luật cho vui. Họ đưa ra một bộ luật khác, và người xem phải mất vài chục năm mới học xong.
 
-Điều này cũng nhắc ta một chuyện ngược lại: không phải cái gì bị chê hôm nay cũng sẽ thành kiệt tác. Phần lớn tranh bị loại năm ấy đã bị quên, và bị quên là phải.
+Chuyện này cũng nhắc ta điều ngược lại: không phải cái gì bị chê hôm nay cũng sẽ thành kiệt tác. Phần lớn tranh bị loại năm ấy đã bị quên, và bị quên là phải.
 
 ## Cái đẹp nằm ở đâu?
 
@@ -54,27 +54,27 @@ Sang câu hỏi thứ hai. Suốt hơn hai nghìn năm, người ta đã thử �
 
 Người Hy Lạp cổ tin cái đẹp là chuyện tỉ lệ. Nhà điêu khắc Polykleitos được cho là đã viết hẳn một cuốn sách quy định đầu bằng bao nhiêu phần thân, ngón tay bằng bao nhiêu phần bàn tay. Kiến trúc sư La Mã Vitruvius đòi công trình phải cân xứng như thân người. Nếu đúng vậy thì cái đẹp đo được, dạy được, và có đáp án.
 
-Cách nghĩ này vẫn còn sống trong mọi cuốn sách dạy bố cục. Nó có phần đúng: nhiều thứ ta thấy đẹp quả thật cân đối. Nhưng nó vấp ngay khi gặp một cái bát gốm méo mà ai cầm lên cũng thích. Tỉ lệ vàng, thứ hay được coi là công thức của cái đẹp, cũng không vững như lời đồn: từ thí nghiệm của Fechner năm 1876 tới nay, các nghiên cứu cho kết quả không thống nhất về việc người ta có thật sự chuộng nó hơn hay không.
+Cách nghĩ này vẫn còn sống trong mọi cuốn sách dạy bố cục. Nó có phần đúng: nhiều thứ ta thấy đẹp quả thật cân đối. Nhưng nó vấp ngay khi gặp một cái bát gốm méo mà ai cầm lên cũng thích. Tỉ lệ vàng, thứ hay được coi là công thức của cái đẹp, cũng không vững như lời đồn: từ thí nghiệm của Fechner năm 1876 đến nay, các nghiên cứu cho kết quả không thống nhất về chuyện người ta có thật sự chuộng nó hơn hay không.
 
 ### Trong người xem
 
-Thế kỷ 18, David Hume đẩy sang phía ngược lại: cái đẹp không phải là thuộc tính của vật, nó là cảm giác nảy ra trong người xem. Câu "đẹp hay xấu là tùy mỗi người" có gốc từ đây.
+Thế kỷ 18, David Hume đẩy sang phía ngược lại: cái đẹp không nằm trong vật, nó là cảm giác nảy ra trong người xem. Câu "đẹp hay xấu là tùy mỗi người" có gốc từ đây.
 
-Nhưng Hume không dừng ở đó, và đây là chỗ người ta hay bỏ sót. Ông kể lại một chuyện trong *Don Quixote*. Hai người thử rượu nếm một thùng vang. Một người bảo rượu ngon nhưng thoảng mùi da, người kia bảo thoảng mùi sắt. Cả làng cười họ. Uống cạn thùng, người ta thấy dưới đáy có một chiếc chìa khóa cũ buộc dây da.
+Nhưng Hume không dừng ở đó, và đây là chỗ người ta hay bỏ sót. Ông kể lại một chuyện trong *Don Quixote*. Hai người sành rượu nếm thử một thùng vang. Một người bảo rượu ngon nhưng thoảng mùi da, người kia bảo thoảng mùi sắt. Cả làng cười họ. Uống cạn thùng, người ta thấy dưới đáy có một chiếc chìa khóa cũ buộc dây da.
 
-Ý của Hume: khẩu vị là chuyện riêng, nhưng có người nếm tinh hơn người khác. Theo ông, người thẩm định giỏi có năm thứ: giác quan tinh, được luyện nhiều, đã so sánh nhiều tác phẩm, gạt được thành kiến, và có đầu óc tỉnh táo. Ông thêm một phép thử nữa là thời gian. Thứ được nhiều thế hệ, nhiều nền văn hóa cùng quý thì khó mà chỉ là sở thích nhất thời.
+Ý Hume là: khẩu vị là chuyện riêng, nhưng có người nếm tinh hơn người khác. Theo ông, người thẩm định giỏi phải có năm thứ: giác quan tinh, được rèn luyện nhiều, đã so sánh nhiều tác phẩm, gạt được thành kiến, và đầu óc tỉnh táo. Ông còn thêm một phép thử nữa là thời gian: thứ gì được nhiều thế hệ, nhiều nền văn hóa cùng quý thì khó mà chỉ là sở thích nhất thời.
 
 ### Giữa vật và người
 
-Kant, viết năm 1790, để ý một điều rất đời thường trong cách ta nói. Khi thích một món ăn, ta nói "tôi thích món này" và chẳng buồn cãi nếu bạn không thích. Nhưng khi đứng trước một cảnh hoàng hôn, ta nói "đẹp quá", không nói "đẹp đối với tôi". Và nếu người bên cạnh nhún vai, ta thấy hơi hụt, như thể họ bỏ lỡ điều gì.
+Kant, viết năm 1790, để ý một điều rất đời thường trong cách ta nói. Khi thích một món ăn, ta nói "mình thích món này" và chẳng buồn cãi nếu bạn không thích. Nhưng khi đứng trước một cảnh hoàng hôn, ta nói "đẹp quá", không nói "đẹp đối với mình". Và nếu người bên cạnh nhún vai, ta thấy hơi hụt, như thể họ bỏ lỡ điều gì.
 
-Với Kant, đó là nét riêng của phán đoán về cái đẹp. Nó xuất phát từ cảm nhận của riêng ta, không chứng minh được bằng quy tắc nào, nhưng ta vẫn nói như thể ai cũng nên đồng ý. Ông còn cho rằng cái thích ấy phải vô tư: ta thấy bức tranh đẹp không phải vì nó đắt, vì nó của bạn mình, hay vì nó hợp với bộ ghế trong phòng khách.
+Với Kant, đó chính là điểm riêng của phán đoán về cái đẹp. Nó xuất phát từ cảm nhận của riêng ta, không chứng minh được bằng quy tắc nào, nhưng ta vẫn nói như thể ai cũng nên đồng ý. Ông còn cho rằng cái thích ấy phải vô tư: ta thấy bức tranh đẹp không phải vì nó đắt, vì nó của bạn mình, hay vì nó hợp với bộ ghế trong phòng khách.
 
 ### Trong bối cảnh
 
 Năm 1917, Marcel Duchamp gửi một chiếc bồn tiểu bằng sứ, ký tên "R. Mutt", tới một triển lãm ở New York. Nó không được trưng bày. Chẳng ai bảo nó đẹp, kể cả Duchamp. Vậy mà hơn một thế kỷ sau người ta vẫn bàn về nó.
 
-Nhà triết học Arthur Danto gặp lại câu đố ấy năm 1964, khi Andy Warhol bày những chiếc hộp gỗ in giống hệt thùng xà phòng trong siêu thị. Nếu mắt không phân biệt được tác phẩm với món hàng, thì cái gì làm nó thành nghệ thuật? Danto trả lời: một thứ mắt không nhìn thấy, tức là hiểu biết về lịch sử nghệ thuật và về câu hỏi mà tác phẩm đang trả lời. George Dickie nói thẳng hơn: một vật thành tác phẩm khi giới nghệ thuật, gồm nghệ sĩ, bảo tàng, nhà phê bình, công chúng, đặt nó vào vị trí để được xem như tác phẩm.
+Nhà triết học Arthur Danto gặp lại câu đố ấy năm 1964, khi Andy Warhol bày những chiếc hộp gỗ in giống hệt thùng xà phòng trong siêu thị. Nếu mắt không phân biệt được tác phẩm với món hàng, thì cái gì làm nó thành nghệ thuật? Danto trả lời: một thứ mắt không nhìn thấy, tức là hiểu biết về lịch sử nghệ thuật và về câu hỏi mà tác phẩm đang trả lời. George Dickie nói thẳng hơn: một vật thành tác phẩm khi giới nghệ thuật (nghệ sĩ, bảo tàng, nhà phê bình, công chúng) đặt nó vào chỗ để được xem như một tác phẩm.
 
 Cách nghĩ này giải thích được nghệ thuật đương đại, nhưng cũng dễ bị chê là vòng quanh: nghệ thuật là thứ mà giới nghệ thuật gọi là nghệ thuật. Và nó không nói gì về chuyện tác phẩm hay hay dở.
 
@@ -92,33 +92,33 @@ Thật ra chúng tách nhau còn sớm hơn. Năm 1757, Edmund Burke phân biệ
 
 Tâm lý học có vài phát hiện làm người yêu nghệ thuật hơi chột dạ.
 
-Robert Zajonc (1968) cho người tham gia xem những hình vô nghĩa với số lần khác nhau. Hình nào được xem nhiều lần hơn thì được thích hơn, dù người xem không nhớ là đã thấy. James Cutting (2003) thử điều đó với tranh ấn tượng. Ông thấy sinh viên chuộng những bức được in lại nhiều trong sách hơn những bức ít được in. Khi ông cho một lớp xem thường xuyên các bức ít nổi tiếng suốt một học kỳ, sự chênh lệch ấy giảm hẳn. Một phần của "kiệt tác" có vẻ là chuyện được nhìn thấy nhiều.
+Robert Zajonc (1968) cho người tham gia xem những hình vô nghĩa với số lần khác nhau. Hình nào được xem nhiều lần hơn thì được thích hơn, dù người xem không nhớ là đã thấy. James Cutting (2003) thử lại điều ấy với tranh ấn tượng. Ông thấy sinh viên chuộng những bức được in lại nhiều trong sách hơn những bức ít được in. Khi ông cho một lớp xem thường xuyên các bức ít nổi tiếng suốt một học kỳ, sự chênh lệch ấy giảm hẳn. Một phần của "kiệt tác" có vẻ là chuyện được nhìn thấy nhiều.
 
-Reber, Schwarz và Winkielman (2004) đề xuất một cách giải thích: ta thấy dễ chịu với thứ mà đầu óc xử lý trôi chảy, như hình đối xứng, hình rõ nét, hình đã quen. Còn Daniel Berlyne (1971) chỉ ra phía bên kia: quen quá thì chán. Ta thích nhất thứ ở khoảng giữa, đủ lạ để còn cái mà khám phá, đủ quen để không bị lạc.
+Reber, Schwarz và Winkielman (2004) đưa ra một cách giải thích: ta thấy dễ chịu với thứ mà đầu óc xử lý trôi chảy, như hình đối xứng, hình rõ nét, hình đã quen. Còn Daniel Berlyne (1971) chỉ ra phía bên kia: quen quá thì chán. Ta thích nhất thứ ở khoảng giữa, đủ lạ để còn chỗ khám phá, đủ quen để không bị lạc.
 
 ![Sơ đồ hình chữ U ngược: mức ưa thích thấp khi thứ đang xem quá quen hoặc quá rối, cao nhất khi nó vừa đủ lạ.](/images/quen-va-la.svg)
 
-Tôi không nghĩ những kết quả này "vạch trần" cái đẹp. Chúng giải thích vì sao luật đổi được: xem nhiều thì điểm "vừa đủ lạ" dịch dần đi, và thứ hôm qua còn chói mắt hôm nay đã thành dễ chịu. Chúng cũng khớp với Hume. Người thẩm định được luyện nhiều chính là người đã xem đủ nhiều để nhận ra cái hay ở những thứ người mới xem còn thấy rối.
+Mình không nghĩ những kết quả này "vạch trần" cái đẹp. Chúng chỉ giải thích vì sao luật đổi được: xem nhiều thì điểm "vừa đủ lạ" dịch dần đi, và thứ hôm qua còn chói mắt hôm nay đã thành dễ chịu. Chúng cũng khớp với Hume. Người thẩm định được rèn nhiều chính là người đã xem đủ nhiều để nhận ra cái hay ở những thứ mà người mới xem còn thấy rối.
 
 ## Vậy trả lời đứa trẻ thế nào
 
-Gom lại, tôi nghĩ có thể nói mấy điều sau mà không quá liều.
+Gom lại, mình dám nói mấy điều sau.
 
 **Đúng và sai có thật, nhưng luôn kèm một chữ "so với".** So với mắt, so với luật của một thể loại, hay so với điều tác phẩm định làm. Phần lớn các cuộc cãi nhau về một bức tranh là do hai người đang cầm hai cái thước khác nhau.
 
-**"Tùy mỗi người" chỉ đúng một nửa.** Cảm nhận là của riêng ta. Nhưng con mắt luyện được, và người đã xem nhiều, so sánh nhiều thường thấy được nhiều hơn. Thích và đánh giá là hai việc khác nhau: tôi có thể không thích một bức tranh mà vẫn nhận ra nó làm rất tốt điều nó định làm.
+**"Tùy mỗi người" chỉ đúng một nửa.** Cảm nhận là của riêng ta. Nhưng con mắt luyện được, và người đã xem nhiều, so sánh nhiều thường thấy được nhiều hơn. Thích và đánh giá là hai việc khác nhau: mình có thể không thích một bức tranh mà vẫn nhận ra nó làm rất tốt điều nó định làm.
 
-**Cái đẹp không có một định nghĩa.** Nó có ít nhất bốn chỗ ở, và mỗi cách định nghĩa giải thích được một số trường hợp rồi vấp ở những trường hợp khác. Tôi thấy dùng cả bốn như bốn câu hỏi thì có ích hơn là chọn một.
+**Cái đẹp không có một định nghĩa.** Nó có ít nhất bốn chỗ ở, và mỗi cách định nghĩa giải thích được một số trường hợp rồi vấp ở những trường hợp khác. Mình thấy dùng cả bốn như bốn câu hỏi thì có ích hơn là chọn một.
 
 **Nghệ thuật không buộc phải đẹp.** Nó có thể làm ta sợ, làm ta nghĩ, làm ta khó chịu, và vẫn hay.
 
-Còn với đứa trẻ và con mèo tím, tôi sẽ thử ba câu hỏi thay cho một lời phán:
+Còn với đứa trẻ và con mèo tím, mình sẽ thử ba câu hỏi thay cho một lời phán:
 
 1. Con muốn bức này làm gì, hay kể điều gì?
 2. Chỗ nào trong bức vẽ đã làm được điều đó?
 3. Chỗ nào chưa, và mình thử cách nào khác?
 
-Ba câu này cũng dùng được khi ta đứng trước một bức tranh trong bảo tàng mà không biết nên nghĩ gì. Nó gần với một ý tôi đã viết ở [bài về động từ](/bai-viet/dong-tu-mo-ra-kha-nang/): thay vì hỏi bức tranh *là* gì, đẹp hay xấu, hãy hỏi nó đang *làm* gì. Peter Zumthor cũng nói một điều tương tự về công trình trong [bài về nhà tắm Vals](/cong-trinh/nha-tam-vals-zumthor/): đừng cố làm ra cái đẹp, hãy làm thật chính xác điều cần làm, rồi cái đẹp tự tới.
+Ba câu này cũng dùng được khi ta đứng trước một bức tranh trong bảo tàng mà không biết nên nghĩ gì. Chúng gần với một ý mình đã viết ở [bài về động từ](/bai-viet/dong-tu-mo-ra-kha-nang/): thay vì hỏi bức tranh *là* gì, đẹp hay xấu, hãy hỏi nó đang *làm* gì. Peter Zumthor cũng nói điều tương tự về công trình trong [bài về nhà tắm Vals](/cong-trinh/nha-tam-vals-zumthor/): đừng cố làm ra cái đẹp, hãy làm thật chính xác điều cần làm, rồi cái đẹp tự tới.
 
 Nhà sử học nghệ thuật Ernst Gombrich mở cuốn sách nổi tiếng nhất của ông bằng câu: "There really is no such thing as Art. There are only artists." Không có Nghệ thuật viết hoa với một bộ luật duy nhất. Chỉ có những con người, mỗi người đang cố làm một điều gì đó, và việc của người xem là tìm xem điều đó là gì.
 
@@ -138,4 +138,4 @@ Nhà sử học nghệ thuật Ernst Gombrich mở cuốn sách nổi tiếng nh
 - Tolstoy, L. (1897). *Nghệ thuật là gì?*
 - Zajonc, R. B. (1968). Attitudinal effects of mere exposure. *Journal of Personality and Social Psychology, 9*(2, Pt. 2), 1–27.
 
-> **Lưu ý.** Đây là bài tổng quan, gom ý của nhiều triết gia và nhà nghiên cứu vào vài nhóm cho dễ theo dõi, nên có chỗ giản lược. Các tình huống trong lớp vẽ là ví dụ tôi đặt ra để minh họa. Danh mục tài liệu ở cuối bài được lập từ kiến thức nền, chưa đối chiếu lại với bản gốc từng cuốn.
+> **Lưu ý.** Đây là bài tổng quan, gom ý của nhiều triết gia và nhà nghiên cứu vào vài nhóm cho dễ theo dõi, nên có chỗ giản lược. Các tình huống trong lớp vẽ là ví dụ mình đặt ra để minh họa. Danh mục tài liệu ở cuối bài được lập từ kiến thức nền, chưa đối chiếu lại với bản gốc từng cuốn.

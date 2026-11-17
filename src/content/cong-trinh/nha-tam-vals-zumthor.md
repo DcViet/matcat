@@ -13,7 +13,7 @@ tags: ["Peter Zumthor", "Thinking Architecture", "vật liệu", "đá", "ánh s
 
 Peter Zumthor nhớ cái tay nắm cửa vườn nhà dì. Nó cong như lưng một chiếc thìa. Ông nhớ tiếng sỏi dưới chân, bậc thang gỗ sồi đánh sáp, tiếng cánh cửa nặng khép lại, và căn bếp lát gạch lục giác đỏ sẫm có mùi sơn dầu trong tủ. Lúc đó ông còn nhỏ và chưa hề nghĩ về kiến trúc.
 
-Nhiều năm sau, ông viết rằng những ký ức như thế là kho tư liệu sâu nhất ông có khi thiết kế. Câu đó nằm trong *Thinking Architecture*, một cuốn sách mỏng gồm năm bài viết từ 1988 đến 1996. Cuốn sách ra đời gần như cùng lúc với công trình làm ông nổi tiếng: nhà tắm nước khoáng ở Vals, một ngôi làng trong thung lũng Alps.
+Nhiều năm sau, ông viết rằng những ký ức như thế chính là kho tư liệu sâu nhất của ông mỗi khi thiết kế. Câu đó nằm trong *Thinking Architecture*, một cuốn sách mỏng gồm năm bài viết từ 1988 đến 1996. Cuốn sách ra đời gần như cùng lúc với công trình làm ông nổi tiếng: nhà tắm nước khoáng ở Vals, một ngôi làng trong thung lũng Alps.
 
 Đọc sách và nhìn công trình cạnh nhau thì thấy rõ một điều. Vals không bắt đầu từ hình ảnh một nhà tắm. Nó bắt đầu từ vài câu hỏi, và từ một chuyến ra mỏ đá.
 
@@ -25,33 +25,33 @@ Gốc thợ mộc hiện ra khắp cuốn sách. Ông kể về chiếc tủ đ�
 
 ## Bắt đầu từ câu hỏi, không từ hình ảnh
 
-Một bài trong sách có tên "Lõi cứng của cái đẹp". Ý của nó có thể tóm lại thế này: đừng cố làm cho công trình gây xúc động. Hãy bám thật sát vào thứ mình phải làm, vào nơi chốn và công năng của nó. Nếu đủ chính xác, cảm xúc sẽ tự tới.
+Một bài trong sách có tên "Lõi cứng của cái đẹp". Ý của bài ấy đại khái là thế này: đừng cố làm cho công trình gây xúc động. Hãy bám thật sát vào việc mình phải làm, vào nơi chốn và công năng của nó. Nếu đủ chính xác, cảm xúc sẽ tự đến.
 
 Ông lấy chính nhà tắm làm ví dụ. Văn phòng ông không mở đầu bằng việc tìm xem một nhà tắm đẹp trông ra sao. Họ mở đầu bằng những câu hỏi về địa điểm, về mục đích, và về ba thứ có sẵn ở đó: núi, đá, nước. Hình dạng và không gian đến sau, và theo lời ông, chúng làm chính ông ngạc nhiên.
 
-Tôi thấy chỗ này rất gần với chuyện [nói nhu cầu bằng động từ](/bai-viet/dong-tu-mo-ra-kha-nang/). "Nhà tắm" là một danh từ, và trong đầu ai cũng có sẵn hình một cái nhà tắm. Còn "tắm giữa núi, trong đá, bằng nước nóng từ lòng đất" là một việc, và việc đó còn để ngỏ rất nhiều cách làm.
+Mình thấy chỗ này rất gần với chuyện [nói nhu cầu bằng động từ](/bai-viet/dong-tu-mo-ra-kha-nang/). "Nhà tắm" là một danh từ, và trong đầu ai cũng có sẵn hình một cái nhà tắm. Còn "tắm giữa núi, trong đá, bằng nước nóng từ lòng đất" là một việc, và việc đó còn để ngỏ rất nhiều cách làm.
 
-Ông cũng nói về sự chính xác theo một kiểu lạ. Mượn ý của nhà văn Italo Calvino, ông cho rằng muốn tạo ra cái mơ hồ, cái nhiều tầng nghĩa, thì người làm phải cực kỳ chính xác. Một không gian khiến ta bâng khuâng thường được dựng bằng những quyết định rất cụ thể về bề dày tường, độ cao bậc, hướng của một khe sáng.
+Ông cũng nói về sự chính xác theo một kiểu lạ. Mượn ý của nhà văn Italo Calvino, ông cho rằng muốn tạo ra cái mơ hồ, cái nhiều tầng nghĩa, thì người làm phải chính xác đến từng chi tiết. Một không gian khiến ta bâng khuâng thường được dựng bằng những quyết định rất cụ thể về bề dày tường, độ cao bậc, hướng của một khe sáng.
 
 ## Chuyện ở mỏ đá
 
-Phần tôi thích nhất không nằm trong sách mà trong một cuộc trò chuyện năm 2003, sau này đăng trên tạp chí Casabella.
+Phần mình thích nhất không nằm trong sách mà trong một cuộc trò chuyện năm 2003, sau này đăng trên tạp chí Casabella.
 
 Zumthor kể rằng ông đã hình dung những bức tường xếp bằng các khối đá lớn. Suốt hai năm ông không biết lấy đá ấy ở đâu. Rồi ông ra mỏ đá gần làng và xin xem những khối to nhất họ có. Chúng nhỏ hơn ông tưởng nhiều. Nhưng ở mỏ lại chất đầy một thứ khác: những tấm đá mỏng, loại người ta vẫn cắt để lát sàn.
 
-Ông đổi hướng. Thay vì đi tìm khối lớn, ông dựng độ đặc của khối đá từ chính những tấm mỏng nhất. Ông so nó với tấm vải: sợi càng mảnh và ép càng sát thì vải càng chắc. Ông nhờ chủ mỏ cắt đá theo nhiều bề dày khác nhau, rồi xếp chúng thành lớp.
+Ông đổi hướng. Thay vì đi tìm khối lớn, ông tạo ra sự đặc chắc của khối đá bằng chính những tấm mỏng nhất. Ông so nó với tấm vải: sợi càng mảnh và ép càng sát thì vải càng chắc. Ông nhờ chủ mỏ cắt đá theo nhiều bề dày khác nhau, rồi xếp chúng thành lớp.
 
 ![Sơ đồ so sánh: bên trái là tường xếp bằng khối đá lớn như hình dung ban đầu, bên phải là tường xếp từ nhiều tấm đá mỏng có bề dày khác nhau.](/images/vals-det-da.svg)
 
-Ông gọi đó là cách đơn giản nhất và thực tế nhất. Kết quả lại là thứ làm nên vẻ riêng của Vals: những bức tường có vân ngang mảnh, nhìn xa như một khối liền, lại gần mới thấy từng lớp. Khi những khối đầu tiên được thợ xây xong ngoài công trường, ông kể mình đã ngỡ ngàng. Đá vừa cứng vừa mềm, màu xám lục óng ánh, và công trình như có luật riêng của nó.
+Ông gọi đó là cách đơn giản nhất và thực tế nhất. Kết quả lại là thứ làm nên vẻ riêng của Vals: những bức tường có vân ngang mảnh, nhìn xa như một khối liền, lại gần mới thấy từng lớp. Khi thợ xây xong những khối đầu tiên ngoài công trường, ông kể mình ngỡ ngàng. Đá vừa cứng vừa mềm, màu xám lục óng ánh, và công trình như có luật riêng của nó.
 
 Bài học ở đây không dành riêng cho kiến trúc sư. Ý tưởng ban đầu của ông đã đụng phải thực tế, và thay vì ép thực tế theo ý mình, ông hỏi xem ở đó đang có sẵn cái gì.
 
 ## Đi trong khối đá khoét rỗng
 
-Ý đồ chung của Vals thường được tả bằng một hình ảnh: một khối đá lớn bị khoét rỗng từ trong núi. Nhà tắm gắn vào một khách sạn có từ thập niên 1960, và khách đi vào từ phía khách sạn.
+Người ta thường tả ý đồ chung của Vals bằng một hình ảnh: một khối đá lớn bị khoét rỗng từ trong núi. Nhà tắm gắn vào một khách sạn có từ thập niên 1960, và khách đi vào từ phía khách sạn.
 
-Theo tài liệu tôi đọc được, đường vào đi qua một sảnh thấp như hang, rồi một hành lang tối và mờ hơi nước. Sau đó là những bậc đá dẫn xuống không gian chính. Ở đó, các khối đá rỗng đứng giữa mặt nước, mỗi khối chứa một kiểu tắm riêng: nóng, lạnh, xông, nghỉ. Có một hang nhỏ phải bơi qua khe hẹp mới vào được, bên trong vang tới mức người ta thường cất tiếng hát thử. Ánh sáng lọt qua các khe trên trần, và mạnh dần khi ta đi về phía vách kính nhìn ra thung lũng.
+Theo tài liệu mình đọc được, đường vào đi qua một sảnh thấp như hang, rồi một hành lang tối và mờ hơi nước. Sau đó là những bậc đá dẫn xuống không gian chính. Ở đó, các khối đá rỗng đứng giữa mặt nước, mỗi khối chứa một kiểu tắm riêng: nóng, lạnh, xông, nghỉ. Có một hang nhỏ phải bơi qua khe hẹp mới vào được, bên trong vang tới mức người ta thường cất tiếng hát thử. Ánh sáng lọt qua các khe trên trần, và mạnh dần khi ta đi về phía vách kính nhìn ra thung lũng.
 
 ![Sơ đồ đường vào nhà tắm gồm sáu chặng: khách sạn, sảnh như hang, hành lang mờ hơi nước, bậc đá đi xuống, không gian chính với các khối đá rỗng, vách kính nhìn ra thung lũng. Các chặng thấp dần và sáng dần.](/images/vals-tuyen-di.svg)
 
@@ -59,11 +59,11 @@ Không có biển chỉ đường nào trong mô tả ấy. Trong một bài nó
 
 ## Mối nối, và mặt sau của chiếc tủ
 
-Zumthor viết rằng một công trình là vật ghép từ nhiều phần, nên chất lượng của nó phần lớn nằm ở chỗ các phần gặp nhau. Mối nối tạo ra nhịp và tỉ lệ nhỏ của công trình. Một chi tiết tốt phải nói được điều thiết kế cần ở đúng chỗ đó: hai thứ này thuộc về nhau hay tách rời, chỗ này căng hay nhẹ, đặc hay mong manh.
+Zumthor viết rằng một công trình là vật ghép từ nhiều phần, nên chất lượng của nó phần lớn nằm ở chỗ các phần gặp nhau. Mối nối tạo ra nhịp và tỉ lệ nhỏ của công trình. Một chi tiết tốt phải nói được điều thiết kế cần nói ngay tại chỗ đó: hai thứ này thuộc về nhau hay tách rời, chỗ này căng hay nhẹ, đặc hay mong manh.
 
 Ví dụ ông thích rất khiêm tốn: hai chiếc đinh giữ một tấm thép trên ngưỡng cửa đã mòn. Ở Vals, tay vịn và ống dẫn nước làm bằng đồng, đặt cạnh đá xám và nước. Ba vật liệu, không thứ nào cố bắt chước thứ nào.
 
-Ông cũng biết cách làm này đắt. Mối nối để lộ đòi tay nghề cao, và chủ đầu tư thường muốn cắt bớt. Ông nói thẳng là ông sẽ cãi, vì người dùng sau này chỉ thấy cái đã được xây, không thấy lý do vì sao nó bị làm kém đi.
+Ông cũng biết cách làm này đắt. Mối nối để lộ đòi tay nghề cao, và chủ đầu tư thường muốn cắt bớt. Ông nói thẳng là ông sẽ cãi, vì người dùng sau này chỉ thấy cái đã được xây, không thấy vì sao nó bị làm kém đi.
 
 ## Bản vẽ là một lời hứa
 
@@ -77,13 +77,13 @@ Trong xưởng dạy học của ông, sinh viên không làm mô hình bìa. H�
 
 ## Một công trình không nói to
 
-Zumthor chê những công trình mà kiến trúc sư "nói không ngừng ở từng chi tiết", lặp đi lặp lại một ý cho tới khi người xem mất hứng. Ông muốn công trình có thể được sống trong đó mà không phải nghe thuyết trình. Lý thuyết cần lúc bắt đầu, ông nói, nhưng phải tan vào công trình và không còn lộ ra.
+Zumthor chê những công trình mà kiến trúc sư "nói không ngừng ở từng chi tiết", lặp đi lặp lại một ý cho tới khi người xem mất hứng. Ông muốn người ta có thể sống trong công trình mà không phải nghe thuyết trình. Lý thuyết cần lúc bắt đầu, ông nói, nhưng phải tan vào công trình và không còn lộ ra.
 
 Vì thế người ta hay xếp ông vào nhóm "tối giản". Ông từ chối nhãn đó. Vals ít hình khối, nhưng nó đầy những thứ dành cho thân thể: hơi nước, tiếng vang, mặt đá, nước ấm.
 
 ## Đọc có phê phán
 
-Tôi thích Zumthor, nên càng phải nói rõ những chỗ cần dè chừng.
+Mình thích Zumthor, nên càng phải nói rõ những chỗ cần dè chừng.
 
 **Lời ông khó kiểm chứng.** Ông viết bằng "tôi cảm thấy". Âm thanh, nhiệt độ, ánh sáng đều đo được, và khi áp dụng thì nên đo, đừng chỉ tin vào trực giác của một bậc thầy.
 
@@ -108,4 +108,4 @@ Tôi thích Zumthor, nên càng phải nói rõ những chỗ cần dè chừng.
 - Một tài liệu thứ cấp ngắn mô tả mặt bằng, vật liệu và ánh sáng của nhà tắm Vals, dùng cho phần tả đường đi.
 - Ảnh bìa: Felipe Camus, [ảnh gốc trên Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Felipe_camus_-_6892635292.jpg), giấy phép [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Ảnh được thu nhỏ so với bản gốc.
 
-> **Lưu ý.** Bài này viết từ ghi chú đọc sách của tôi về bốn tài liệu của Zumthor, chưa đối chiếu lại từng trang với bản gốc. Phần tả đường đi trong nhà tắm dựa trên một tài liệu thứ cấp ngắn, độ tin cậy thấp hơn các phần khác, nên tôi không dẫn con số nào về nhiệt độ hay diện tích. Hai sơ đồ là sơ đồ ý niệm tôi tự vẽ, không phải bản vẽ của công trình.
+> **Lưu ý.** Bài này viết từ ghi chú đọc sách của mình về bốn tài liệu của Zumthor, chưa đối chiếu lại từng trang với bản gốc. Phần tả đường đi trong nhà tắm dựa trên một tài liệu thứ cấp ngắn, độ tin cậy thấp hơn các phần khác, nên mình không dẫn con số nào về nhiệt độ hay diện tích. Hai sơ đồ là sơ đồ ý niệm mình tự vẽ, không phải bản vẽ của công trình.

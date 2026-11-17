@@ -1,30 +1,32 @@
 ---
 import AnhBai from './AnhBai.astro';
-import { duong, ngayThang, timKhu } from '../lib/khu';
+import { duongNgon, ngayThang, timKhu } from '../lib/khu';
+import { CHU, type Lang } from '../lib/i18n';
 
 interface Props {
   bai: Awaited<ReturnType<typeof import('../lib/khu').tatCaBai>>;
   hienKhu?: boolean;
+  lang?: Lang;
 }
 
-const { bai, hienKhu = false } = Astro.props;
+const { bai, hienKhu = false, lang = 'vi' } = Astro.props;
 ---
 
 {
   bai.length === 0 ? (
-    <p class="trong">Chưa có bài nào ở đây.</p>
+    <p class="trong">{CHU[lang].chuaCoBai}</p>
   ) : (
     <ul class="ds-bai">
       {bai.map((b) => (
         <li class="the-bai">
-          <AnhBai bai={b} />
+          <AnhBai bai={b} lang={lang} />
           <div>
             <p class="phu">
-              {hienKhu && <span class="nhan">{timKhu(b.khu).ten}</span>}
-              <time datetime={b.data.date.toISOString()}>{ngayThang(b.data.date)}</time>
+              {hienKhu && <span class="nhan">{timKhu(b.khu).ten[lang]}</span>}
+              <time datetime={b.data.date.toISOString()}>{ngayThang(b.data.date, lang)}</time>
             </p>
             <h3>
-              <a class="phu-kin" href={duong(`/${b.khu}/${b.id}/`)}>
+              <a class="phu-kin" href={duongNgon(lang, `/${b.khu}/${b.slug}/`)}>
                 {b.data.title}
               </a>
             </h3>

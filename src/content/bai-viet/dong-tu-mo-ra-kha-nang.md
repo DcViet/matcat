@@ -7,29 +7,29 @@ tags: ["tư duy thiết kế", "định khung vấn đề", "needfinding", "cố
 
 ## Tóm tắt
 
-Trong các lớp tư duy thiết kế, người học thường được dặn: hãy nói nhu cầu bằng động từ ("cần với tới"), đừng nói bằng danh từ ("cần cái thang"). Lời dặn dễ nhớ và dùng được ngay, nhưng ít ai giải thích vì sao nó hiệu quả. Bài này lần lại nguồn gốc của lời dặn ấy trong thiết kế, marketing và kỹ thuật, rồi dựa vào tâm lý học nhận thức để nêu ba lý do: động từ tách nhu cầu ra khỏi giải pháp, nó không gợi sẵn một đồ vật trong đầu người nghe, và nó kéo câu hỏi lên một bậc gần với mục đích hơn. Bài cũng nói rõ những chỗ lời dặn này hụt hơi. Động từ vẫn có thể giấu sẵn một giải pháp, và cho tới nay hầu như chưa có thí nghiệm nào kiểm tra thẳng chuyện "động từ hơn danh từ".
+Trong các lớp tư duy thiết kế, người học hay được dặn: hãy nói nhu cầu bằng động từ ("cần với tới"), đừng nói bằng danh từ ("cần cái thang"). Lời dặn dễ nhớ, dùng được ngay, nhưng ít ai giải thích vì sao nó hiệu quả. Bài này lần theo nguồn gốc của lời dặn ấy trong thiết kế, marketing và kỹ thuật, rồi nhờ tâm lý học nhận thức để nêu ba lý do: động từ tách nhu cầu ra khỏi giải pháp, nó không gợi sẵn một đồ vật trong đầu người nghe, và nó kéo câu hỏi lên gần mục đích hơn một bậc. Bài cũng nói rõ những chỗ lời dặn này hụt hơi: động từ vẫn có thể giấu sẵn một giải pháp, và cho tới nay hầu như chưa có thí nghiệm nào kiểm tra thẳng chuyện "động từ hơn danh từ".
 
 ## 1. Đặt vấn đề
 
-Một giảng viên dạy Design Thinking chiếu lên màn hình bức ảnh một em bé đang rướn người lấy quyển sách trên kệ cao, rồi hỏi cả lớp: "Em bé này cần gì?". Cả lớp đáp gần như cùng lúc: "Cần một cái thang". Thầy bảo đó là một phương án, rồi đổi câu: "Nếu em bé cần *với tới* thì sao?". Lúc này lớp mới bắt đầu nghĩ ra chuyện khác: một cánh tay nối dài, một đôi giày tăng chiều cao, hay đơn giản là nhờ người lớn lấy giúp. Thầy chốt lại: "verbs open possibilities", động từ mở ra khả năng.
+Một giảng viên dạy Design Thinking chiếu lên màn hình một bức ảnh chụp em bé đang rướn người lấy quyển sách trên kệ cao, rồi hỏi cả lớp: "Em bé này cần gì?". Cả lớp đáp gần như cùng lúc: "Cần một cái thang". Thầy bảo đó là một phương án, rồi đổi câu: "Nếu em bé cần *với tới* thì sao?". Lúc này lớp mới bắt đầu nghĩ ra chuyện khác: một cánh tay nối dài, một đôi giày tăng chiều cao, hay đơn giản là nhờ người lớn lấy giúp. Thầy chốt lại: "verbs open possibilities", động từ mở ra khả năng.
 
-Chuyện này không chỉ xảy ra trong lớp học. Chủ quán cà phê than "quán cần thêm bàn". Con cháu bàn nhau "bà cần cái app nhắc uống thuốc". Người đi chợ nói "tôi cần cái máy khoan". Câu nào nghe cũng giống một nhu cầu, nhưng thật ra câu nào cũng đã chọn xong giải pháp. Thử đổi lại: khách cần *có chỗ ngồi mà không phải chờ*, bà cần *nhớ uống thuốc đúng giờ*, tôi cần *treo bức tranh lên tường*. Quán có thể bán mang đi hoặc nhận đặt chỗ trước. Bà có thể dùng hộp chia thuốc theo ngày đặt cạnh ấm trà. Bức tranh có thể dán bằng móc không cần khoan, hoặc dựng luôn trên kệ.
+Ngoài đời cũng gặp chuyện y như vậy. Chủ quán cà phê than "quán cần thêm bàn". Con cháu bàn nhau "bà cần cái app nhắc uống thuốc". Người đi chợ nói "mình cần cái máy khoan". Câu nào nghe cũng giống một nhu cầu, nhưng thật ra câu nào cũng đã chọn xong giải pháp. Thử đổi lại: khách cần *có chỗ ngồi mà không phải chờ*, bà cần *nhớ uống thuốc đúng giờ*, mình cần *treo bức tranh lên tường*. Quán có thể bán mang đi hoặc nhận đặt chỗ trước. Bà có thể dùng hộp chia thuốc theo ngày đặt cạnh ấm trà. Bức tranh có thể treo bằng móc dán, khỏi cần khoan, hoặc dựng luôn trên kệ.
 
-Tôi muốn hiểu kỹ hơn ba điều:
+Mình muốn hiểu kỹ hơn ba điều:
 
 1. Lời dặn "nhu cầu là động từ" từ đâu mà ra?
 2. Vì sao chỉ đổi một từ mà người ta nghĩ ra được nhiều kiểu giải pháp hơn?
 3. Lời dặn này đúng tới đâu, và lúc nào thì nó hết thiêng?
 
-Câu trả lời ngắn của bài này: động từ giúp ích vì nó buộc ta tả *việc* người kia muốn làm, thay vì gọi tên một *vật* mà ta đoán là họ cần. Ngữ pháp chỉ là cái cớ. Vì vậy nên coi đây là một mẹo để đặt lại vấn đề, và như mọi mẹo, nó có lúc trượt.
+Câu trả lời ngắn của bài này: động từ giúp ích vì nó buộc ta tả *việc* người kia muốn làm, thay vì gọi tên một *vật* mà ta đoán là họ cần. Ngữ pháp chỉ là cái cớ. Nên coi đây là một mẹo để đặt lại vấn đề, và như mọi mẹo, đôi khi nó trượt.
 
 ## 2. Lời dặn này từ đâu ra
 
-Không phải một lớp học nào nghĩ ra nó. Ít nhất bốn nhóm người làm những nghề khác nhau đã đi tới cùng một ý, mỗi nhóm theo đường riêng.
+Không có lớp học nào nghĩ ra nó trước. Ít nhất bốn nhóm người, làm bốn nghề khác nhau, đã tự đi tới cùng một ý bằng đường riêng.
 
 ### 2.1. Needfinding ở Stanford
 
-Từ "needfinding" gắn với chương trình thiết kế sản phẩm của Stanford, và được Patnaik và Becker (1999) viết lại thành phương pháp. Ý chính của họ rất gọn: nhu cầu sống lâu hơn giải pháp. Người ta vẫn cần cất giữ dữ liệu, trong khi đĩa mềm, CD rồi USB lần lượt vào ngăn kéo. Ai bám vào nhu cầu thì không bị chôn theo sản phẩm.
+Từ "needfinding" gắn với chương trình thiết kế sản phẩm của Stanford, và được Patnaik và Becker (1999) trình bày thành một phương pháp. Ý chính của họ rất gọn: nhu cầu sống lâu hơn giải pháp. Người ta vẫn cần cất giữ dữ liệu, trong khi đĩa mềm, CD rồi USB lần lượt vào ngăn kéo. Ai bám vào nhu cầu thì không bị chôn theo sản phẩm.
 
 Stanford d.school sau đó đưa ý này vào một mẫu câu cho sinh viên: *[người dùng] cần [nhu cầu] vì [điều ta hiểu được về họ]*. Ô ở giữa phải là một động từ, chỉ việc người đó muốn làm. Nielsen Norman Group giải thích thêm rằng nhu cầu là cái đích người dùng muốn tới, còn danh từ thì hay là tên một giải pháp, và bám vào nó dễ ra thiết kế dở ([Gibbons, 2019](https://www.nngroup.com/articles/user-need-statements/)).
 
@@ -37,17 +37,17 @@ Trong mô hình năm bước quen thuộc của d.school, mẫu câu này đư�
 
 ![Sơ đồ năm bước Design Thinking: Thấu cảm, Định nghĩa, Lên ý tưởng, Làm mẫu thử, Kiểm tra. Bước Định nghĩa được tô nổi.](/images/nam-buoc-design-thinking.svg)
 
-Tôi cho rằng đây là bước quan trọng nhất trong cả chuỗi. Thấu cảm kỹ đến đâu mà gọi sai tên nhu cầu, thì lên ý tưởng, làm mẫu và kiểm tra đều đang giải nhầm bài. Cần nói rõ đây là lập luận của bài này, dựa trên các nghiên cứu về kiến tạo vấn đề ở mục 3.1. Bản thân d.school mô tả năm bước như một vòng lặp đi tới đi lui và không xếp hạng bước nào.
+Mình cho rằng đây là bước quan trọng nhất cả chuỗi. Thấu cảm kỹ đến đâu mà gọi sai tên nhu cầu thì lên ý tưởng, làm mẫu hay kiểm tra cũng đều là giải nhầm bài. Xin nói rõ đây là lập luận của bài này, dựa trên các nghiên cứu về kiến tạo vấn đề ở mục 3.1. Chính d.school mô tả năm bước như một vòng lặp đi tới đi lui, và không xếp hạng bước nào.
 
 ### 2.2. Marketing: cái lỗ và ly sữa lắc
 
 Levitt (1960) kể chuyện ngành đường sắt Mỹ sa sút vì tự coi mình là người làm đường sắt, trong khi khách chỉ cần đi từ nơi này sang nơi khác. Ông gọi đó là "cận thị marketing". Câu "người ta không mua mũi khoan, họ mua cái lỗ" hay được gán cho Levitt, dù chính ông cũng dẫn lại của người khác. Mà đi tiếp một bước thì cái lỗ cũng chưa phải đích: người ta muốn treo bức tranh.
 
-Christensen và cộng sự (2016) đẩy ý này thành lý thuyết "việc cần làm" (jobs to be done). Ví dụ quen thuộc của ông là ly sữa lắc. Một chuỗi đồ ăn nhanh muốn bán được nhiều sữa lắc hơn và cứ lo chỉnh vị, chỉnh độ đặc. Đến khi đứng quan sát, nhóm nghiên cứu mới thấy nhiều ly được mua từ sáng sớm bởi người lái xe đi làm. Họ cần *đỡ chán và đỡ đói trên một quãng đường dài*. Đối thủ của ly sữa lắc hóa ra là quả chuối và cái bánh mì vòng.
+Christensen và cộng sự (2016) đẩy ý này thành lý thuyết "việc cần làm" (jobs to be done). Ví dụ quen thuộc của ông là ly sữa lắc. Một chuỗi đồ ăn nhanh muốn bán được nhiều sữa lắc hơn và cứ lo chỉnh vị, chỉnh độ đặc. Đến khi đứng quan sát, nhóm nghiên cứu mới thấy nhiều người lái xe đi làm mua ly sữa lắc từ sáng sớm. Họ cần *đỡ chán và đỡ đói trên một quãng đường dài*. Đối thủ của ly sữa lắc hóa ra là quả chuối và cái bánh mì vòng.
 
 ### 2.3. Kỹ thuật: gọi tên chức năng
 
-Dân kỹ thuật làm việc này sớm nhất. Từ những năm 1940, Miles xây dựng phương pháp phân tích giá trị, sau in thành sách (Miles, 1961). Quy tắc của ông: mỗi chức năng chỉ được tả bằng hai từ, một động từ và một danh từ đo được. Cái công tắc thì "ngắt dòng", cái chân bàn thì "đỡ tải". Pahl và Beitz (1996) dạy kỹ sư vẽ sơ đồ chức năng trước khi chọn cơ cấu. Hirtz và cộng sự (2002) còn soạn hẳn một bộ động từ chuẩn để các nhóm thiết kế nói cùng một tiếng. Tất cả đều nhằm một việc: nói *nó phải làm gì* trước, *nó là cái gì* tính sau.
+Dân kỹ thuật làm chuyện này sớm nhất. Từ những năm 1940, Miles dựng nên phương pháp phân tích giá trị, sau đó in thành sách (Miles, 1961). Quy tắc của ông: mỗi chức năng chỉ tả bằng hai từ, một động từ và một danh từ đo được. Cái công tắc thì "ngắt dòng", cái chân bàn thì "đỡ tải". Pahl và Beitz (1996) dạy kỹ sư vẽ sơ đồ chức năng trước khi chọn cơ cấu. Hirtz và cộng sự (2002) còn soạn hẳn một bộ động từ chuẩn để các nhóm thiết kế nói cùng một tiếng. Tất cả đều nhằm một việc: nói *nó phải làm gì* trước, *nó là cái gì* tính sau.
 
 ### 2.4. Nghiên cứu thiết kế: đặt khung cho vấn đề
 
@@ -59,7 +59,7 @@ Tâm lý học và ngôn ngữ học có bốn mảng nghiên cứu giúp giải
 
 ### 3.1. Đặt đề bài cũng là một phần của sáng tạo
 
-Getzels và Csikszentmihalyi (1976) cho sinh viên mỹ thuật một bàn đầy đồ vật và bảo họ tự bày rồi vẽ tĩnh vật. Có người chọn nhanh vài món rồi vẽ ngay. Có người cầm lên đặt xuống, xoay tới xoay lui, vẽ nửa chừng còn đổi bố cục. Tranh của nhóm sau được giới chuyên môn chấm cao hơn, và nhiều năm sau chính họ cũng là những người thành công hơn trong nghề. Mumford và cộng sự (1994) gọi giai đoạn này là kiến tạo vấn đề và xếp nó ở đầu mọi quá trình sáng tạo.
+Getzels và Csikszentmihalyi (1976) cho sinh viên mỹ thuật một bàn đầy đồ vật và bảo họ tự bày rồi vẽ tĩnh vật. Có người chọn nhanh vài món rồi vẽ ngay. Có người cầm lên đặt xuống, xoay tới xoay lui, vẽ nửa chừng còn đổi bố cục. Giới chuyên môn chấm tranh của nhóm sau cao hơn, và nhiều năm sau chính họ cũng thành công hơn trong nghề. Mumford và cộng sự (1994) gọi giai đoạn này là kiến tạo vấn đề và xếp nó ở đầu mọi quá trình sáng tạo.
 
 Với những bài toán xã hội rối rắm, Rittel và Webber (1973) còn nói thẳng: cách ta phát biểu vấn đề đã chứa sẵn hướng giải. Nói "phường thiếu cầu vượt" là đã quyết xây cầu. Nói "người đi bộ cần sang đường an toàn" thì còn chỗ cho đèn tín hiệu, gờ giảm tốc, hay dời trạm xe buýt. "Cần cái thang" cũng thuộc loại đó: một giải pháp đội lốt vấn đề.
 
@@ -67,7 +67,7 @@ Với những bài toán xã hội rối rắm, Rittel và Webber (1973) còn n�
 
 Duncker (1945) đưa cho người tham gia một cây nến, một bao diêm, một hộp đinh bấm, rồi yêu cầu gắn nến lên tường sao cho sáp không nhỏ xuống bàn. Lời giải là đổ đinh ra, bấm cái hộp lên tường làm bệ. Nhiều người không nghĩ ra, vì trong đầu họ cái hộp chỉ là đồ đựng đinh. Ông gọi hiện tượng này là cố định chức năng.
 
-Điều thú vị là lời nói điều khiển được hiệu ứng này. Glucksberg và Weisberg (1966) chỉ cần dán nhãn riêng cho cái hộp ("hộp", tách khỏi "đinh") là số người giải được tăng rõ. McCaffrey (2012) biến nó thành bài tập: tả lại từng bộ phận bằng từ không gợi công dụng. "Bấc nến" gợi chuyện đốt, còn "sợi dây" thì buộc được đủ thứ. Nhóm được tập kiểu này giải được nhiều bài hơn nhóm đối chứng khoảng 67%, dù thí nghiệm khá nhỏ.
+Lời nói lại điều khiển được hiệu ứng này. Glucksberg và Weisberg (1966) chỉ cần dán nhãn riêng cho cái hộp ("hộp", tách khỏi "đinh") là số người giải ra bài tăng rõ rệt. McCaffrey (2012) biến nó thành bài tập: tả lại từng bộ phận bằng từ không gợi công dụng. "Bấc nến" gợi chuyện đốt, còn "sợi dây" thì buộc được đủ thứ. Nhóm được tập kiểu này giải được nhiều bài hơn nhóm đối chứng khoảng 67%, dù thí nghiệm khá nhỏ.
 
 Người làm thiết kế cũng dính bẫy tương tự. Jansson và Smith (1991) cho kỹ sư xem một bản mẫu trước khi thiết kế, và bản vẽ của họ lặp lại đặc điểm của mẫu, kể cả những chỗ mẫu làm sai. Ai dạy vẽ chắc quen cảnh này: giáo viên vẽ mẫu một con mèo lên bảng, thế là cả lớp nộp ba mươi con mèo giống hệt. Một danh từ chỉ giải pháp làm đúng việc của bức vẽ mẫu. Vừa nghe "cái thang" là ta đã thấy cái thang, và mọi ý sau đó chỉ là thang gỗ, thang nhôm, thang gấp.
 
@@ -85,7 +85,7 @@ Câu chuyện em bé có đủ bốn bậc: *cái thang*, rồi *với tới quy
 
 ## 4. Ba lý do, gộp lại
 
-Gom các mảng trên lại, tôi cho rằng câu phát biểu bằng động từ mở được nhiều lối hơn vì ba lý do đi cùng nhau.
+Gom các mảng trên lại, mình cho rằng câu nói bằng động từ mở ra được nhiều lối hơn vì ba lý do đi cùng nhau.
 
 | Lý do | "Cần cái thang" | "Cần với tới" | Dựa trên |
 | --- | --- | --- | --- |
@@ -99,7 +99,7 @@ Nếu ba lý do này đúng, ta đoán được một điều có thể đem ra 
 
 Đọc từ giữa ra: cùng một bức ảnh, câu "cần cái thang" chỉ dẫn tới các loại thang, còn câu "cần với tới" tỏa ra bốn nhánh khác hẳn nhau.
 
-Bảng dưới thử làm lại phép đổi ấy với vài tình huống quen thuộc. Trừ chuyện thang máy lấy từ Wedell-Wedellsborg (2017), các dòng còn lại là ví dụ tôi tự đặt.
+Bảng dưới thử làm lại phép đổi ấy với vài tình huống quen thuộc. Trừ chuyện thang máy lấy từ Wedell-Wedellsborg (2017), các dòng còn lại là ví dụ mình tự đặt.
 
 | Câu nói ban đầu (một vật) | Đổi lại (một việc) | Những lối mới hiện ra |
 | --- | --- | --- |
@@ -107,12 +107,12 @@ Bảng dưới thử làm lại phép đổi ấy với vài tình huống quen 
 | Quán cần thêm bàn | Khách cần có chỗ ngồi mà không phải chờ | Bán mang đi, nhận đặt chỗ, ghế quầy cho khách đi một mình |
 | Bà cần app nhắc uống thuốc | Bà cần nhớ uống thuốc đúng giờ | Hộp chia thuốc theo ngày, đặt thuốc cạnh ấm trà, cháu gọi điện mỗi tối |
 | Lớp vẽ cần thêm giá vẽ | Học sinh cần nhìn bài của mình từ xa | Dán bài lên tường, chụp ảnh rồi thu nhỏ, đứng dậy lùi ba bước |
-| Tôi cần máy khoan | Tôi cần treo bức tranh | Móc dán, băng keo hai mặt, dựng tranh trên kệ |
+| Mình cần máy khoan | Mình cần treo bức tranh | Móc dán, băng keo hai mặt, dựng tranh trên kệ |
 | Nhân viên cần thêm một cuộc họp | Cả nhóm cần biết ai đang làm gì | Bảng việc chung, tin nhắn cập nhật cuối ngày |
 
 ## 5. Những chỗ lời dặn này hụt hơi
 
-Mẹo hay đến mấy cũng có giới hạn. Tôi thấy năm chỗ cần dè chừng.
+Mẹo hay đến mấy cũng có giới hạn. Mình thấy có năm chỗ cần dè chừng.
 
 **Động từ cũng giấu được giải pháp.** "Em bé cần *trèo lên*" là động từ đàng hoàng, nhưng đã chọn sẵn cách giải. Ngay cả "với tới" cũng ngầm cho rằng em bé phải tìm đến quyển sách, và bỏ quên khả năng quyển sách tìm đến em bé. Cái cần soi là câu nói có để ngỏ cách làm hay không, còn từ loại chỉ là dấu hiệu bề ngoài.
 
@@ -120,9 +120,9 @@ Mẹo hay đến mấy cũng có giới hạn. Tôi thấy năm chỗ cần dè 
 
 **Nhìn ảnh mà đoán thì vẫn là đoán.** Cả "cái thang" lẫn "với tới" đều do cả lớp suy ra từ một bức ảnh. Patnaik và Becker (1999) dặn rằng quan sát xong phải hỏi, vì chỉ người trong cuộc mới biết mình làm thế để làm gì. Biết đâu em bé đang muốn tự lấy cho bằng được, để khoe là mình lớn rồi. Khi ấy "nhờ người lớn lấy giúp" là lời giải hỏng, dù nó sinh ra từ một động từ rất ổn.
 
-**Bằng chứng trực tiếp còn mỏng.** Các nghiên cứu ở phần 3 ủng hộ lời dặn này theo đường vòng. Trong những tài liệu tôi đọc được, chưa có thí nghiệm nào chia hai nhóm, một nhóm nhận câu danh từ, một nhóm nhận câu động từ, rồi đếm xem bên nào nghĩ ra nhiều kiểu giải pháp hơn. Hiện giờ nó vẫn là kinh nghiệm nghề truyền tay nhau.
+**Bằng chứng trực tiếp còn mỏng.** Các nghiên cứu ở phần 3 ủng hộ lời dặn này theo đường vòng. Trong những tài liệu mình đọc được, chưa có thí nghiệm nào chia hai nhóm, một nhóm nhận câu danh từ, một nhóm nhận câu động từ, rồi đếm xem bên nào nghĩ ra nhiều kiểu giải pháp hơn. Hiện giờ nó vẫn là kinh nghiệm nghề truyền tay nhau.
 
-**Tiếng Việt không đánh dấu từ loại như tiếng Anh.** Tiếng Anh phân biệt rõ "a ladder" với "to reach". Tiếng Việt không biến hình từ, và chỉ cần thêm "sự" hay "việc" là động từ hóa thành danh từ: "sự tiếp cận", "việc với tới". Câu "học sinh cần sự hỗ trợ" nhìn như danh từ mà thật ra không gọi tên đồ vật nào, chỉ là quá mơ hồ. Với người viết tiếng Việt, câu hỏi kiểm tra nên là: sau chữ "cần" là một *món đồ* hay một *việc muốn làm*?
+**Tiếng Việt không đánh dấu từ loại như tiếng Anh.** Tiếng Anh phân biệt rõ "a ladder" với "to reach". Tiếng Việt không biến đổi hình thái từ, và chỉ cần thêm "sự" hay "việc" là động từ đã đứng như một danh từ: "sự tiếp cận", "việc với tới". Câu "học sinh cần sự hỗ trợ" nhìn như danh từ mà thật ra không gọi tên đồ vật nào, chỉ là quá mơ hồ. Với người viết tiếng Việt, câu hỏi kiểm tra nên là: sau chữ "cần" là một *món đồ* hay một *việc muốn làm*?
 
 ## 6. Dùng thế nào, và còn gì cần kiểm tra
 
@@ -138,13 +138,13 @@ Mẹo hay đến mấy cũng có giới hạn. Tôi thấy năm chỗ cần dè 
 
 Lời dặn này kiểm tra được, và cách làm không khó. Chia ngẫu nhiên người tham gia thành ba nhóm, cùng xem một bức ảnh, nhưng mỗi nhóm nhận một câu đề khác nhau: "em bé cần cái thang", "em bé cần với tới quyển sách", "em bé cần được đọc truyện". Cho mỗi người năm phút viết ý tưởng. Sau đó đếm số ý, số kiểu giải pháp, và nhờ người ngoài chấm độ mới.
 
-Còn hai câu hỏi nữa tôi chưa thấy ai trả lời. Người lâu năm trong nghề có còn cần mẹo này không, hay họ đã tự đổi khung trong đầu? Và hiệu ứng có còn nguyên khi làm bằng tiếng Việt, nơi ranh giới danh từ với động từ mềm hơn nhiều?
+Còn hai câu hỏi nữa mình chưa thấy ai trả lời. Người lâu năm trong nghề có còn cần mẹo này không, hay họ đã tự đổi khung trong đầu? Và hiệu ứng có còn nguyên khi làm bằng tiếng Việt, nơi ranh giới danh từ với động từ mềm hơn nhiều?
 
 ## 7. Kết luận
 
 "Verbs open possibilities" là cách nói gọn của một ý mà người làm thiết kế, marketing và kỹ thuật đều đã tự tìm ra: tả việc người ta muốn làm trước, rồi mới nghĩ tới món đồ giúp họ làm. Động từ giúp được vì nó gỡ giải pháp ra khỏi câu hỏi, không đặt sẵn một đồ vật vào đầu người nghe, và kéo ta lại gần mục đích hơn một bậc. Nó vẫn có thể sai. Chọn nhầm động từ thì cửa vẫn đóng, mà chọn đúng rồi vẫn phải đi hỏi người thật.
 
-Điều tôi giữ lại từ bài tập cái thang là một thói quen nhỏ. Mỗi lần bật ra "cái này cần…", hãy dừng nửa giây xem mình vừa gọi tên một nhu cầu, hay vừa chọn xong một giải pháp.
+Điều mình giữ lại từ bài tập cái thang là một thói quen nhỏ. Mỗi lần bật ra "cái này cần…", hãy dừng nửa giây xem mình vừa gọi tên một nhu cầu, hay vừa chọn xong một giải pháp.
 
 ## Tài liệu tham khảo
 
@@ -174,4 +174,4 @@ Còn hai câu hỏi nữa tôi chưa thấy ai trả lời. Người lâu năm t
 - Wedell-Wedellsborg, T. (2017). Are you solving the right problems? *Harvard Business Review, 95*(1), 76–83.
 - thewandress1512. (2024, 15 tháng 7). Bài đăng mạng xã hội về lớp Design Thinking tại Columbia (nguồn câu chuyện mở đầu, theo ảnh chụp màn hình).
 
-> **Lưu ý.** Đây là bài tổng quan lý thuyết, không có số liệu thực nghiệm riêng. Câu chuyện mở đầu lấy từ một bài đăng mạng xã hội. Các tình huống đời thường (quán cà phê, lớp vẽ, hộp thuốc của bà) là ví dụ tôi tự đặt ra để minh họa. Danh mục tài liệu tham khảo và chi tiết các thí nghiệm chưa được đối chiếu với bản gốc.
+> **Lưu ý.** Đây là bài tổng quan lý thuyết, không có số liệu thực nghiệm riêng. Câu chuyện mở đầu lấy từ một bài đăng mạng xã hội. Các tình huống đời thường (quán cà phê, lớp vẽ, hộp thuốc của bà) là ví dụ mình tự đặt ra để minh họa. Danh mục tài liệu tham khảo và chi tiết các thí nghiệm chưa được đối chiếu với bản gốc.

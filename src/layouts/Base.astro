@@ -1,21 +1,49 @@
 ---
 import '../styles/global.css';
-import { GOC, KHU, duong } from '../lib/khu';
+import { GOC, KHU, duong, duongNgon } from '../lib/khu';
+import { CHU, type Lang } from '../lib/i18n';
 
 interface Props {
   title?: string;
   description?: string;
+  lang?: Lang;
+  // Đường dẫn (không gồm /matcat) của trang tương ứng ở ngôn ngữ kia.
+  // Bỏ trống: tự suy ra từ đường dẫn hiện tại. `null`: không có bản dịch, nút chuyển về trang chủ.
+  kia?: string | null;
 }
 
 const TEN_TRANG = 'Mặt Cắt';
-const { title, description = 'Cắt qua công trình, tác phẩm và ý tưởng để xem bên trong.' } = Astro.props;
+const { title, lang = 'vi', kia } = Astro.props;
+const chu = CHU[lang];
+const description = Astro.props.description ?? chu.moTaMacDinh;
 const tieuDe = title ? `${title} · ${TEN_TRANG}` : TEN_TRANG;
+
 const duongDan = Astro.url.pathname.slice(GOC.length) || '/';
+// Đường dẫn không có tiền tố /en, để nhận biết khu đang mở.
+const phan = lang === 'en' ? duongDan.replace(/^\/en(?=\/|$)/, '') || '/' : duongDan;
 const diaChi = new URL(Astro.url.pathname, Astro.site).href;
+
+// Trang tương ứng ở ngôn ngữ kia.
+const langKia: Lang = lang === 'vi' ? 'en' : 'vi';
+const cap = [
+  ['/gioi-thieu/', '/about/'],
+] as const;
+function suyRa(): string {
+  if (lang === 'vi') {
+    const m = cap.find(([vi]) => phan.startsWith(vi));
+    return m ? `/en${m[1]}` : `/en${phan}`;
+  }
+  const m = cap.find(([, en]) => phan.startsWith(en));
+  return m ? m[0] : phan;
+}
+const duongKia = kia === null ? (langKia === 'en' ? '/en/' : '/') : kia ?? suyRa();
+const diaChiKia = new URL(duong(duongKia), Astro.site).href;
+const hreflang = lang === 'vi' ? { vi: diaChi, en: diaChiKia } : { vi: diaChiKia, en: diaChi };
+const coBanKia = kia !== null;
 ---
 
 <!doctype html>
-<html lang="vi">
+<html lang={chu.htmlLang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -25,9 +53,19 @@ const diaChi = new URL(Astro.url.pathname, Astro.site).href;
     <meta property="og:title" content={title ?? TEN_TRANG} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content={title ? 'article' : 'website'} />
-    <meta property="og:locale" content="vi_VN" />
+    <meta property="og:locale" content={chu.ogLocale} />
+    <meta property="og:locale:alternate" content={CHU[langKia].ogLocale} />
     <meta property="og:url" content={diaChi} />
     <link rel="canonical" href={diaChi} />
+    {
+      coBanKia && (
+        <>
+          <link rel="alternate" hreflang="vi" href={hreflang.vi} />
+          <link rel="alternate" hreflang="en" href={hreflang.en} />
+          <link rel="alternate" hreflang="x-default" href={hreflang.vi} />
+        </>
+      )
+    }
     <link rel="sitemap" href={duong('/sitemap-index.xml')} />
     <link rel="icon" type="image/svg+xml" href={duong('/favicon.svg')} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -40,22 +78,39 @@ const diaChi = new URL(Astro.url.pathname, Astro.site).href;
   <body>
     <header class="dau-trang">
       <div class="khung">
-        <a class="ten-trang" href={duong('/')}>
+        <a class="ten-trang" href={duongNgon(lang, '/')}>
           <span class="ky-hieu" aria-hidden="true">A</span>
           <span>Mặt Cắt</span>
           <span class="ky-hieu" aria-hidden="true">A</span>
         </a>
-        <nav aria-label="Các khu nội dung">
+        <nav aria-label={chu.nhanKhu}>
           {
             KHU.map((k) => (
-              <a href={duong(`/${k.slug}/`)} aria-current={duongDan.startsWith(`/${k.slug}`) ? 'page' : undefined}>
-                {k.ten}
+              <a href={duongNgon(lang, `/${k.slug}/`)} aria-current={phan.startsWith(`/${k.slug}`) ? 'page' : undefined}>
+                {k.ten[lang]}
               </a>
             ))
           }
-          <a href={duong('/gioi-thieu/')} aria-current={duongDan.startsWith('/gioi-thieu') ? 'page' : undefined}>
-            Giới thiệu
+          <a
+            href={duongNgon(lang, lang === 'en' ? '/about/' : '/gioi-thieu/')}
+            aria-current={phan.startsWith('/gioi-thieu') || phan.startsWith('/about') ? 'page' : undefined}
+          >
+            {chu.gioiThieu}
           </a>
+          <span class="chon-ngon-ngu" role="group" aria-label={`${CHU.vi.nhanNgonNgu} / ${CHU.en.nhanNgonNgu}`}>
+            <a
+              href={duong(lang === 'vi' ? (phan.startsWith('/404') ? '/' : phan) : duongKia)}
+              lang="vi"
+              hreflang="vi"
+              aria-current={lang === 'vi' ? 'true' : undefined}>VI</a
+            >
+            <a
+              href={duong(lang === 'en' ? '/en' + (phan === '/' ? '/' : phan) : phan.startsWith('/404') ? '/en/' : duongKia)}
+              lang="en"
+              hreflang="en"
+              aria-current={lang === 'en' ? 'true' : undefined}>EN</a
+            >
+          </span>
         </nav>
       </div>
       <div class="net-cat" aria-hidden="true">
@@ -70,7 +125,7 @@ const diaChi = new URL(Astro.url.pathname, Astro.site).href;
 
     <footer class="chan-trang">
       <div class="khung">
-        <p>Mặt Cắt · viết về kiến trúc, nghệ thuật và cách nghĩ.</p>
+        <p>{chu.chanTrang}</p>
       </div>
     </footer>
   </body>

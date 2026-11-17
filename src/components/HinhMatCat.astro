@@ -3,9 +3,28 @@
 // Phần bị cắt qua tô đặc (mái, tường, sàn), phần nhìn thấy phía sau vẽ nét mảnh.
 // Ý thiết kế của ngôi nhà: mái dốc một phía, cửa vào mở ra sảnh trước chân thang, giếng trời rọi nắng xuống cầu thang,
 // gác lửng đọc sách nhìn xuống khoảng thông tầng có treo một bức tranh lớn.
+import type { Lang } from '../lib/i18n';
+
+interface Props {
+  lang?: Lang;
+}
+
+const { lang = 'vi' } = Astro.props;
+const nhan = {
+  vi: {
+    aria: 'Hình vẽ mặt cắt một ngôi nhà mái dốc: cửa vào mở ra sảnh trước chân cầu thang, nắng qua giếng trời rọi xuống cầu thang, gác lửng có ghế và đèn đọc sách, khoảng thông tầng treo một bức tranh lớn màu đỏ, bên dưới có một người đang đứng.',
+    gieng: 'GIẾNG TRỜI',
+    ten: 'MẶT CẮT A–A',
+  },
+  en: {
+    aria: 'Section drawing of a house with a sloping roof: the front door opens onto a hall at the foot of the stairs, sunlight falls through a skylight onto the staircase, the mezzanine has a chair and a reading lamp, a large red painting hangs in the double-height space, and a person stands below.',
+    gieng: 'SKYLIGHT',
+    ten: 'SECTION A–A',
+  },
+}[lang];
 ---
 
-<svg class="hinh-mat-cat" viewBox="0 0 420 310" role="img" aria-label="Hình vẽ mặt cắt một ngôi nhà mái dốc: cửa vào mở ra sảnh trước chân cầu thang, nắng qua giếng trời rọi xuống cầu thang, gác lửng có ghế và đèn đọc sách, khoảng thông tầng treo một bức tranh lớn màu đỏ, bên dưới có một người đang đứng.">
+<svg class="hinh-mat-cat" viewBox="0 0 420 310" role="img" aria-label={nhan.aria}>
   <defs>
     <pattern id="gach-dat" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="9" class="net-manh" />
@@ -70,7 +89,7 @@
 
   <!-- Ghi chú và cốt cao độ -->
   <g class="chu-ky-thuat">
-    <text x="84" y="46">GIẾNG TRỜI</text>
+    <text x="84" y="46">{nhan.gieng}</text>
     <path d="M352 248h44M352 158h44M352 88h44" class="net-manh" />
     <text x="398" y="244" text-anchor="end">±0.00</text>
     <text x="398" y="154" text-anchor="end">+3.30</text>
@@ -80,6 +99,6 @@
   <!-- Tên hình -->
   <g class="ten-hinh">
     <line x1="150" y1="298" x2="270" y2="298" />
-    <text x="150" y="292">MẶT CẮT A–A</text>
+    <text x="150" y="292">{nhan.ten}</text>
   </g>
 </svg>

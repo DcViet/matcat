@@ -1,0 +1,23 @@
+---
+import Base from '../layouts/Base.astro';
+import DanhSachBai from './DanhSachBai.astro';
+import { baiCuaKhu, timKhu, type KhuSlug } from '../lib/khu';
+import type { Lang } from '../lib/i18n';
+
+interface Props {
+  slug: KhuSlug;
+  lang: Lang;
+}
+
+const { slug, lang } = Astro.props;
+const khu = timKhu(slug);
+const bai = await baiCuaKhu(slug, lang);
+---
+
+<Base lang={lang} title={khu.ten[lang]} description={khu.moTa[lang]}>
+  <section class="mo-dau">
+    <h1>{khu.ten[lang]}</h1>
+    <p>{khu.moTa[lang]}</p>
+  </section>
+  <DanhSachBai bai={bai} lang={lang} />
+</Base>

@@ -3,9 +3,13 @@ import Base from '../layouts/Base.astro';
 import { duong } from '../lib/khu';
 ---
 
-<Base title="Không tìm thấy trang" description="Trang bạn tìm không có ở đây.">
+<Base title="Không tìm thấy trang · Page not found" description="Trang bạn tìm không có ở đây." kia={null}>
   <section class="mo-dau">
     <h1>Nét cắt này không đi qua trang nào.</h1>
     <p>Đường dẫn có thể đã đổi hoặc gõ nhầm. Bạn thử quay về <a href={duong('/')}>trang chủ</a>.</p>
+    <p lang="en">
+      This cut does not pass through any page. The link may have changed or been mistyped. Try going back to the
+      <a href={duong('/en/')}>home page</a>.
+    </p>
   </section>
 </Base>

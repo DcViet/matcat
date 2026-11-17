@@ -1,0 +1,13 @@
+---
+import TrangBai from '../../../components/TrangBai.astro';
+import { tatCaBai } from '../../../lib/khu';
+
+export async function getStaticPaths() {
+  const bai = await tatCaBai('en');
+  return bai.map((b) => ({ params: { khu: b.khu, slug: b.slug }, props: { bai: b } }));
+}
+
+const { bai } = Astro.props;
+---
+
+<TrangBai bai={bai} lang="en" />

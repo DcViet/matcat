@@ -1,0 +1,114 @@
+---
+import Base from '../layouts/Base.astro';
+import { duongNgon } from '../lib/khu';
+import type { Lang } from '../lib/i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+---
+
+{
+  lang === 'vi' ? (
+    <Base lang="vi" title="Giới thiệu" description="Mặt Cắt là gì, viết về điều gì và ai viết.">
+      <article class="bai">
+        <header class="bai-dau">
+          <h1>Giới thiệu</h1>
+        </header>
+        <div class="than-bai">
+          <p>
+            Mặt cắt là bản vẽ cắt ngang qua một công trình. Nhìn từ ngoài, ta chỉ thấy mặt đứng. Cắt ra mới biết sàn
+            dày bao nhiêu, ánh sáng đi vào thế nào, các tầng nối với nhau ra sao. Trang này mượn cách nhìn đó để viết
+            về kiến trúc, nghệ thuật và thiết kế.
+          </p>
+
+          <h2>Ở đây có gì</h2>
+          <ul>
+            <li>
+              <a href={duongNgon('vi', '/bai-viet/')}>Bài viết</a>: những tiểu luận có dẫn nguồn về thiết kế và cách
+              nghĩ. Mỗi bài lấy một ý quen tai, lần xem nó từ đâu ra và đúng tới đâu.
+            </li>
+            <li>
+              <a href={duongNgon('vi', '/cong-trinh/')}>Công trình</a>: mỗi bài đọc kỹ một công trình kiến trúc, từ bối
+              cảnh, ý tưởng tới bản vẽ.
+            </li>
+            <li>
+              <a href={duongNgon('vi', '/nghe-thuat/')}>Nghệ thuật</a>: tác phẩm, tác giả và những bài học vẽ.
+            </li>
+          </ul>
+
+          <h2>Cách viết</h2>
+          <p>
+            Bài nào cũng cố giữ ba điều. Nói rõ điều gì lấy từ tài liệu, điều gì là ý riêng của người viết. Dùng ví dụ
+            đời thường trước, thuật ngữ sau. Và có hình để nhìn, vì nhiều thứ vẽ ra thì dễ hiểu hơn tả bằng lời.
+          </p>
+          <p>Nếu bạn thấy chỗ nào sai hoặc dẫn nguồn chưa đúng, mình rất muốn biết để sửa.</p>
+
+          <h2>Người viết</h2>
+          <p>
+            Mình ký tên The Fool. Trong bộ bài tarot, The Fool là lá số 0: người mới lên đường, hành lý nhẹ và không
+            ngại hỏi những câu nghe có vẻ ngây ngô. Kiểu câu hỏi như "em bé này cần gì?" thường là chỗ bắt đầu của một
+            bài trên trang này.
+          </p>
+          <p>
+            Liên hệ và góp ý: <a href="https://github.com/DcViet">github.com/DcViet</a>.
+          </p>
+        </div>
+      </article>
+    </Base>
+  ) : (
+    <Base lang="en" title="About" description="What Mặt Cắt is, what it writes about and who writes it.">
+      <article class="bai">
+        <header class="bai-dau">
+          <h1>About</h1>
+        </header>
+        <div class="than-bai">
+          <p>
+            A section (<em>mặt cắt</em> in Vietnamese) is a drawing that cuts through a building. From outside you only
+            see the elevation. Cut it open and you learn how thick the floor is, how light gets in, how the storeys
+            connect. This site borrows that way of looking to write about architecture, art and design.
+          </p>
+
+          <h2>What is here</h2>
+          <ul>
+            <li>
+              <a href={duongNgon('en', '/bai-viet/')}>Essays</a>: referenced essays on design and ways of thinking. Each
+              one takes a familiar idea and traces where it comes from and how far it holds.
+            </li>
+            <li>
+              <a href={duongNgon('en', '/cong-trinh/')}>Buildings</a>: each piece reads one building closely, from
+              context and ideas to drawings.
+            </li>
+            <li>
+              <a href={duongNgon('en', '/nghe-thuat/')}>Art</a>: works, artists and lessons in drawing.
+            </li>
+          </ul>
+
+          <h2>How it is written</h2>
+          <p>
+            Every piece tries to keep three promises. Say clearly what comes from sources and what is the writer's own
+            idea. Use everyday examples first and terms second. And include pictures, because many things are easier to
+            understand drawn than described.
+          </p>
+          <p>If you spot a mistake or a source I have cited wrongly, I would like to hear about it so I can fix it.</p>
+
+          <h2>The writer</h2>
+          <p>
+            I sign as The Fool. In the tarot deck, The Fool is card zero: someone just setting out, traveling light, not
+            afraid to ask questions that sound naive. A question like "what does this kid need?" is often where a piece
+            on this site begins.
+          </p>
+          <p>
+            Contact and feedback: <a href="https://github.com/DcViet">github.com/DcViet</a>.
+          </p>
+          <p>
+            The English versions are translations of the Vietnamese originals; where they differ, the Vietnamese is the
+            reference.
+          </p>
+        </div>
+      </article>
+    </Base>
+  )
+}
