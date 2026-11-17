@@ -742,3 +742,11 @@ h3 {
 .doc-them .de-muc-khu {
   margin-top: 0;
 }
+
+/* Lưu ý về nguồn nằm cuối bài: nhỏ hơn chữ thân bài, cách một khoảng. */
+.than-bai > blockquote:last-child {
+  margin-top: 48px;
+  font-family: var(--chu-de);
+  font-size: 14.5px;
+  line-height: 1.55;
+}

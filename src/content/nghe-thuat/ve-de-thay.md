@@ -16,8 +16,6 @@ tags: ["phác thảo", "bản vẽ kiến trúc", "học vẽ", "urban sketching
 (5) Chỗ chưa chắc: việc gán tên người cho từng chức năng là sắp xếp của người ghi chú vault, không phải của Smith; mô tả ảnh bìa lấy từ chú thích của Gallica ("coupe, représentation de jour avec effet intérieur de nuit"), tôi chưa đọc thêm về công trình; vault chưa ghi trang Smith cho bản phác của Ando; dụng cụ trong Holmes là của thị trường Bắc Mỹ.
 -->
 
-> **Lưu ý.** Ý lấy từ sách có ghi nguồn trong ngoặc. Các diễn giải bằng lời thường, bài tập cuối bài và sơ đồ là của tôi. Việc gán tên người cho từng chức năng trong sơ đồ là cách sắp xếp của người ghi chú, không phải của tác giả sách. Chi tiết chưa được đối chiếu với bản in.
-
 Nhiều người bảo "tôi không biết vẽ", vì nghĩ vẽ là làm ra một bức đẹp. Kiến trúc sư vẽ gần như cả ngày, và phần lớn bản vẽ của họ chẳng bao giờ được treo tường. Họ vẽ như ta viết nháp: để nghĩ, không để đưa ai xem.
 
 Ở bài [Vẽ sai so với cái gì?](/nghe-thuat/dung-sai-va-cai-dep/) tôi tách ba kiểu "đúng": đúng với mắt, đúng với luật, đúng với ý. Bản phác thêm một kiểu thứ tư: đúng với việc nó phải làm. Một bản vẽ xấu mà giúp người vẽ thấy ra điều họ chưa thấy thì là bản phác tốt.
@@ -80,3 +78,5 @@ Với người mới, ông gợi một thói quen một tháng (tr. 10–11): lu
 Dụng cụ trong sách là của thị trường Bắc Mỹ; ở ta thay bằng đồ tương đương là được.
 
 Tối nay thử một bài ba phút: vẽ cái ghế bạn đang ngồi bằng bút bi, không tẩy. Rồi hỏi một câu: bản này giúp tôi thấy điều gì mà lúc nãy tôi chưa thấy?
+
+> **Lưu ý.** Ý lấy từ sách có ghi nguồn trong ngoặc. Các diễn giải bằng lời thường, bài tập cuối bài và sơ đồ là của tôi. Việc gán tên người cho từng chức năng trong sơ đồ là cách sắp xếp của người ghi chú, không phải của tác giả sách.

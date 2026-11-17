@@ -13,8 +13,6 @@ tags: ["ánh sáng", "ánh sáng tự nhiên", "cửa sổ", "độ tương ph�
 (5) Chỗ chưa chắc: vault chỉ ghi số trang đầu chương hoặc đầu bài, chưa trích được trang chính xác từng ý; chi tiết nhà Hà Lan, Vermeer, Pantheon lấy từ ghi chú OCR bản dịch tiếng Việt chưa đối chiếu bản in; số liệu Luanda (bóng đèn 500 W, 1959-62) cũng từ ghi chú; tỉ số độ sâu phòng của Gordon cho bề mặt phản xạ cao (vault ghi "2:5") có vẻ lỗi OCR nên tôi không dùng; thí nghiệm của Flynn ít, nên coi là giả thuyết; Gordon viết cho khí hậu ôn đới Mỹ.
 -->
 
-> **Lưu ý.** Ý lấy từ sách có ghi nguồn trong ngoặc; các chi tiết về nhà Hà Lan, Vermeer, Pantheon và cửa sổ sát góc đều là của Rasmussen, chương VIII. Các tình huống đời thường là ví dụ tôi nghĩ ra. Chi tiết, tên riêng và năm chưa được đối chiếu với bản in.
-
 Thử chụp một tô phở. Bật đèn flash chiếu thẳng, tô phở hiện ra phẳng lì, mất cả hơi nước lẫn độ bóng của nước dùng. Bê ra gần cửa sổ buổi sáng, ánh sáng đến từ một bên, bỗng có khối, có bóng đổ. Lượng sáng của cách đầu có thể còn nhiều hơn.
 
 Steen Eiler Rasmussen, kiến trúc sư Đan Mạch, nói một điều gần như vậy ở chương VIII *Trải nghiệm kiến trúc* (bản Việt 2007, chương bắt đầu ở tr. 209): nhiều người coi ánh sáng tốt là nhiều ánh sáng, trong khi người chụp ảnh giỏi xoay hướng đèn tới khi thấy hình khối.
@@ -50,3 +48,5 @@ Từ đó Kahn đặt một bức tường cách cửa sổ vài bước, đục
 Pantheon ở Rome là căn phòng tròn khép kín, chỉ mở một ô trên đỉnh. Ánh sáng đến từ một nguồn, có hướng, nên bóng đổ thật. Nắng xiên rơi thành chùm trụ, và sàn lát đá phản xạ sáng vào các góc nên không có điểm đen (Rasmussen, ch. VIII).
 
 Còn căn phòng bạn đang ngồi: ánh sáng vào từ hướng nào, và góc phòng nào đang mất đường nét?
+
+> **Lưu ý.** Ý lấy từ sách có ghi nguồn trong ngoặc; các chi tiết về nhà Hà Lan, Vermeer, Pantheon và cửa sổ sát góc đều là của Rasmussen, chương VIII. Các tình huống đời thường là ví dụ tôi nghĩ ra.

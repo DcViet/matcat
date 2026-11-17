@@ -8,8 +8,6 @@ coverCredit: "Claude Monet, Impression, soleil levant (1872), phạm vi công c�
 tags: ["mỹ học", "cái đẹp", "đúng và sai", "phê bình nghệ thuật", "học vẽ"]
 ---
 
-> **Lưu ý trước khi đọc.** Đây là bài tổng quan, gom ý của nhiều triết gia và nhà nghiên cứu vào vài nhóm cho dễ theo dõi, nên có chỗ giản lược. Các tình huống trong lớp vẽ là ví dụ tôi đặt ra để minh họa. Danh mục tài liệu ở cuối bài được lập từ kiến thức nền, chưa đối chiếu lại với bản gốc từng cuốn.
-
 "Cô ơi, con vẽ sai rồi."
 
 Ai từng ngồi trong một lớp vẽ đều đã nghe câu này. Đứa trẻ chỉ vào con mèo màu tím, hay cái cây cao hơn ngôi nhà, và chờ người lớn phán xử. Người lớn thường chọn một trong hai câu trả lời. Một là sửa: "mèo không có màu tím đâu con". Hai là xoa dịu: "trong nghệ thuật không có gì sai cả".
@@ -139,3 +137,5 @@ Nhà sử học nghệ thuật Ernst Gombrich mở cuốn sách nổi tiếng nh
 - Tanizaki, J. (1933). *In'ei raisan* (Ca tụng bóng tối).
 - Tolstoy, L. (1897). *Nghệ thuật là gì?*
 - Zajonc, R. B. (1968). Attitudinal effects of mere exposure. *Journal of Personality and Social Psychology, 9*(2, Pt. 2), 1–27.
+
+> **Lưu ý.** Đây là bài tổng quan, gom ý của nhiều triết gia và nhà nghiên cứu vào vài nhóm cho dễ theo dõi, nên có chỗ giản lược. Các tình huống trong lớp vẽ là ví dụ tôi đặt ra để minh họa. Danh mục tài liệu ở cuối bài được lập từ kiến thức nền, chưa đối chiếu lại với bản gốc từng cuốn.

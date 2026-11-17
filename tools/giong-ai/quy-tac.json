@@ -1,0 +1,352 @@
+{
+  "ghiChu": "Bộ dấu hiệu 'giọng AI' trong tiếng Việt cho Mặt Cắt. Mức: cao = gần như luôn đáng sửa; vua = nên xem lại; nhe = chỉ đáng chú ý khi xuất hiện dày. Mỗi quy tắc có `cum` (cụm từ, khớp cả hoa thường và khoảng trắng tùy ý) hoặc `mau` (biểu thức chính quy, cờ giu). Quy tắc chỉ là gợi ý để người viết xem lại, không phải luật.",
+  "quyTac": [
+    {
+      "id": "mo-bai-boi-canh",
+      "nhom": "Mở bài sáo",
+      "muc": "vua",
+      "cum": [
+        "Trong bối cảnh",
+        "Trong thời đại",
+        "Trong thế giới ngày nay",
+        "Trong thế giới hiện đại",
+        "Trong kỷ nguyên",
+        "Trong xã hội hiện đại"
+      ],
+      "goiY": "Vào thẳng chuyện bằng một cảnh, một con số hoặc một câu hỏi cụ thể thay vì dựng bối cảnh chung. Nếu 'bối cảnh' ở đây là đề mục có nghĩa thật thì giữ."
+    },
+    {
+      "id": "mo-bai-moi-goi",
+      "nhom": "Mở bài sáo",
+      "muc": "cao",
+      "mau": [
+        "Bạn\\s+(đã\\s+)?(bao giờ|từng)\\s+(tự\\s+)?(hỏi|thắc mắc|nghĩ)",
+        "Hãy\\s+(cùng\\s+)?(tưởng tượng|khám phá|tìm hiểu|bắt đầu|điểm qua|cùng nhau)",
+        "Chào mừng",
+        "Hôm nay,?\\s+chúng ta\\s+sẽ"
+      ],
+      "goiY": "Bỏ lời mời. Người đọc đã bấm vào bài, không cần ai mời vào."
+    },
+    {
+      "id": "khong-chi-ma-con",
+      "nhom": "Đối lập giả",
+      "muc": "cao",
+      "mau": [
+        "không\\s+(chỉ|đơn thuần|chỉ đơn thuần|phải chỉ|đơn giản)\\s+[^.!?\\n]{0,80}?\\s(mà còn|mà là|mà đồng thời)"
+      ],
+      "goiY": "Nói thẳng điều có thật, bỏ vế bị phủ nhận mà không ai đã nói."
+    },
+    {
+      "id": "khong-chi-la",
+      "nhom": "Đối lập giả",
+      "muc": "cao",
+      "cum": [
+        "không chỉ là",
+        "không đơn thuần là",
+        "không đơn giản chỉ là",
+        "hơn cả một"
+      ],
+      "goiY": "Câu 'X không chỉ là Y' thường là lời dọn đường. Viết X là gì."
+    },
+    {
+      "id": "khong-phai-ma-la",
+      "nhom": "Đối lập giả",
+      "muc": "nhe",
+      "mau": [
+        "không phải (là )?[^.!?\\n,]{1,50}, (mà|mà là|mà chính là)\\s"
+      ],
+      "goiY": "Chỉ giữ khi có người thật sự đã nghĩ vế bị phủ nhận, và khi đó nên nêu tên người ấy."
+    },
+    {
+      "id": "ket-tom-lai",
+      "nhom": "Kết bài sáo",
+      "muc": "vua",
+      "cum": [
+        "Tóm lại",
+        "Tóm gọn lại",
+        "Nói tóm lại",
+        "Nhìn chung",
+        "Có thể nói",
+        "Có thể thấy rằng",
+        "Qua đó có thể thấy",
+        "Như vậy có thể thấy",
+        "Như chúng ta đã thấy"
+      ],
+      "goiY": "Bỏ câu tổng kết. Kết bằng một việc người đọc làm được ngay hoặc một câu hỏi để họ tự thử."
+    },
+    {
+      "id": "ket-hy-vong",
+      "nhom": "Kết bài sáo",
+      "muc": "cao",
+      "cum": [
+        "Hy vọng bài viết",
+        "Hy vọng rằng bài viết",
+        "Cảm ơn bạn đã đọc",
+        "Đừng quên",
+        "Hãy cùng nhau",
+        "Chúc bạn"
+      ],
+      "goiY": "Bỏ lời cảm ơn và lời chúc. Bài kết ở ý cuối cùng."
+    },
+    {
+      "id": "khong-kem-phan",
+      "nhom": "Kết bài sáo",
+      "muc": "vua",
+      "cum": [
+        "cuối cùng nhưng không kém phần quan trọng",
+        "không kém phần quan trọng",
+        "không thể thiếu"
+      ],
+      "goiY": "Cụm đệm. Bỏ."
+    },
+    {
+      "id": "dong-vai-tro",
+      "nhom": "Từ khoa trương",
+      "muc": "vua",
+      "mau": [
+        "(đóng|giữ)\\s+(một\\s+)?vai trò\\s+(quan trọng|then chốt|chủ chốt|trung tâm|thiết yếu|quyết định)"
+      ],
+      "goiY": "Nói nó làm việc gì, cho ai, trong trường hợp nào."
+    },
+    {
+      "id": "tu-khoa-truong",
+      "nhom": "Từ khoa trương",
+      "muc": "vua",
+      "cum": [
+        "hành trình",
+        "bức tranh toàn cảnh",
+        "giao thoa",
+        "đa chiều",
+        "đa tầng",
+        "tấm thảm",
+        "bản giao hưởng",
+        "vũ điệu",
+        "mở ra một chương mới",
+        "kỷ nguyên mới",
+        "khai phá",
+        "đánh thức",
+        "thổi hồn",
+        "hòa quyện",
+        "dệt nên",
+        "chạm đến trái tim",
+        "tiếp thêm sức mạnh",
+        "tinh túy"
+      ],
+      "goiY": "Từ hoa mỹ che chỗ chưa có chi tiết. Thay bằng chi tiết thật hoặc bỏ."
+    },
+    {
+      "id": "khong-the-phu-nhan",
+      "nhom": "Từ khoa trương",
+      "muc": "vua",
+      "cum": [
+        "không thể phủ nhận",
+        "không còn nghi ngờ gì",
+        "không ai có thể phủ nhận",
+        "phải thừa nhận rằng",
+        "điều đáng chú ý là",
+        "đáng chú ý là",
+        "điều đáng nói là",
+        "đáng nói là",
+        "điều quan trọng là",
+        "điều quan trọng cần nhớ",
+        "cần lưu ý rằng",
+        "cần nhấn mạnh rằng"
+      ],
+      "goiY": "Câu báo trước rằng câu sau quan trọng. Nói luôn câu sau."
+    },
+    {
+      "id": "trang-tu-manh",
+      "nhom": "Từ khoa trương",
+      "muc": "vua",
+      "cum": [
+        "vô cùng",
+        "cực kỳ",
+        "hết sức",
+        "vô vàn",
+        "đặc biệt quan trọng",
+        "vô cùng quan trọng"
+      ],
+      "goiY": "Phó từ nhấn mạnh thay cho bằng chứng. Cho một ví dụ hoặc một con số."
+    },
+    {
+      "id": "tu-delve",
+      "nhom": "Từ khoa trương",
+      "muc": "nhe",
+      "cum": [
+        "khám phá",
+        "đi sâu vào",
+        "lặn sâu",
+        "nâng tầm",
+        "tối ưu hóa",
+        "giải mã"
+      ],
+      "goiY": "Từ hay xuất hiện trong văn AI. Dùng được khi đúng nghĩa, ví dụ khám phá một nơi chưa ai đến."
+    },
+    {
+      "id": "ngay-cang",
+      "nhom": "Từ khoa trương",
+      "muc": "nhe",
+      "cum": [
+        "ngày càng",
+        "không ngừng",
+        "liên tục",
+        "toàn diện"
+      ],
+      "goiY": "Nếu nói 'ngày càng', hãy cho thấy từ mức nào lên mức nào."
+    },
+    {
+      "id": "thuc-su",
+      "nhom": "Từ khoa trương",
+      "muc": "nhe",
+      "cum": [
+        "thực sự",
+        "thật sự",
+        "hoàn toàn",
+        "chắc chắn"
+      ],
+      "goiY": "Phó từ đệm. Thường bỏ được mà câu không đổi nghĩa."
+    },
+    {
+      "id": "o-cot-loi",
+      "nhom": "Câu nghe sâu sắc",
+      "muc": "vua",
+      "cum": [
+        "Ở cốt lõi",
+        "Tại cốt lõi",
+        "Về bản chất",
+        "Sự thật là"
+      ],
+      "goiY": "Câu dọn đường cho một điều tưởng là sâu. Viết điều ấy ra bằng ví dụ."
+    },
+    {
+      "id": "xet-cho-cung",
+      "nhom": "Câu nghe sâu sắc",
+      "muc": "nhe",
+      "cum": [
+        "Xét cho cùng",
+        "Suy cho cùng",
+        "Nói cách khác",
+        "Thực chất là",
+        "Đơn giản là"
+      ],
+      "goiY": "Dùng ít. Nếu đoạn trước đã rõ thì không cần nói lại bằng chữ khác."
+    },
+    {
+      "id": "cau-chot-mot-dong",
+      "nhom": "Câu nghe sâu sắc",
+      "muc": "vua",
+      "mau": [
+        "(^|\\n)[ \\t>]*(Và\\s+)?(đó|đây)\\s+(chính\\s+)?là\\s+(điều|lý do|cách|bí quyết)[^.!?\\n]{0,40}[.!]\\s*(\\n|$)"
+      ],
+      "goiY": "Câu chốt một dòng cho đoạn vừa nói. Thường bỏ được."
+    },
+    {
+      "id": "dan-dung",
+      "nhom": "Dàn dựng",
+      "muc": "vua",
+      "cum": [
+        "Và đây là điểm thú vị",
+        "Điều thú vị là",
+        "Sự thật thú vị",
+        "Nghe có vẻ",
+        "Hãy nhớ rằng",
+        "Bạn có biết"
+      ],
+      "goiY": "Bỏ câu dựng kịch tính. Để chi tiết tự thú vị."
+    },
+    {
+      "id": "tu-hoi-tu-tra",
+      "nhom": "Dàn dựng",
+      "muc": "vua",
+      "mau": [
+        "\\?[ \t]+(Câu trả lời|Đáp án|Chính là|Đó chính là|Hóa ra)"
+      ],
+      "goiY": "Tự hỏi rồi tự trả lời ngay là kiểu thuyết trình. Nói thẳng câu trả lời."
+    },
+    {
+      "id": "giong-dich-vu",
+      "nhom": "Giọng chăm sóc khách hàng",
+      "muc": "cao",
+      "cum": [
+        "Dưới đây là",
+        "Sau đây là",
+        "Hãy để tôi",
+        "Tôi rất vui",
+        "Rất vui được",
+        "Chắc chắn rồi",
+        "Xin lưu ý"
+      ],
+      "goiY": "Giọng trợ lý, không phải giọng người viết. Bỏ câu dẫn, đi vào nội dung."
+    },
+    {
+      "id": "thu-tu-may-moc",
+      "nhom": "Liệt kê máy móc",
+      "muc": "vua",
+      "mau": [
+        "(^|[.!?][ \t]+|\n)[ \t>*-]*Thứ (nhất|hai|ba),"
+      ],
+      "goiY": "Chỉ dùng khi thứ tự thật sự quan trọng. Nếu không, viết thành đoạn có ý nối ý."
+    },
+    {
+      "id": "noi-tu-dau-cau",
+      "nhom": "Liệt kê máy móc",
+      "muc": "nhe",
+      "mau": [
+        "(^|[.!?]\\s+|\\n)(Đầu tiên|Tiếp theo|Cuối cùng|Bên cạnh đó|Ngoài ra|Hơn nữa|Mặt khác|Đồng thời),"
+      ],
+      "goiY": "Từ nối đầu câu dày đặc là dấu hiệu quen thuộc. Để ý khi nó lặp ở nhiều đoạn liền nhau."
+    },
+    {
+      "id": "van-dich",
+      "nhom": "Văn dịch",
+      "muc": "vua",
+      "cum": [
+        "được thực hiện bởi",
+        "được tạo ra bởi",
+        "được viết bởi",
+        "nhằm mục đích",
+        "với mục đích",
+        "thông qua việc"
+      ],
+      "goiY": "Câu bị động hoặc cụm kiểu dịch từ tiếng Anh. Đổi sang chủ động: ai làm gì."
+    },
+    {
+      "id": "van-dich-nhe",
+      "nhom": "Văn dịch",
+      "muc": "nhe",
+      "cum": [
+        "mang lại cảm giác",
+        "mang đến cho",
+        "tiến hành"
+      ],
+      "goiY": "Thử động từ ngắn hơn: cho, làm, thấy."
+    },
+    {
+      "id": "gach-dai",
+      "nhom": "Hình thức",
+      "muc": "vua",
+      "mau": [
+        "—"
+      ],
+      "goiY": "Dấu gạch dài là dấu hiệu rất quen của văn AI. Thay bằng dấu phẩy, dấu hai chấm hoặc tách câu."
+    },
+    {
+      "id": "emoji",
+      "nhom": "Hình thức",
+      "muc": "vua",
+      "mau": [
+        "\\p{Extended_Pictographic}"
+      ],
+      "goiY": "Bỏ biểu tượng cảm xúc trong bài viết."
+    },
+    {
+      "id": "cham-than",
+      "nhom": "Hình thức",
+      "muc": "nhe",
+      "mau": [
+        "!"
+      ],
+      "goiY": "Văn nghiên cứu hiếm khi cần dấu chấm than."
+    }
+  ]
+}

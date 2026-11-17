@@ -11,8 +11,6 @@ coverCredit: "Felipe Camus, CC BY 2.0, qua Wikimedia Commons"
 tags: ["Peter Zumthor", "Thinking Architecture", "vật liệu", "đá", "ánh sáng"]
 ---
 
-> **Lưu ý trước khi đọc.** Bài này viết từ ghi chú đọc sách của tôi về bốn tài liệu của Zumthor, chưa đối chiếu lại từng trang với bản gốc. Phần tả đường đi trong nhà tắm dựa trên một tài liệu thứ cấp ngắn, độ tin cậy thấp hơn các phần khác, nên tôi không dẫn con số nào về nhiệt độ hay diện tích. Hai sơ đồ là sơ đồ ý niệm tôi tự vẽ, không phải bản vẽ của công trình.
-
 Peter Zumthor nhớ cái tay nắm cửa vườn nhà dì. Nó cong như lưng một chiếc thìa. Ông nhớ tiếng sỏi dưới chân, bậc thang gỗ sồi đánh sáp, tiếng cánh cửa nặng khép lại, và căn bếp lát gạch lục giác đỏ sẫm có mùi sơn dầu trong tủ. Lúc đó ông còn nhỏ và chưa hề nghĩ về kiến trúc.
 
 Nhiều năm sau, ông viết rằng những ký ức như thế là kho tư liệu sâu nhất ông có khi thiết kế. Câu đó nằm trong *Thinking Architecture*, một cuốn sách mỏng gồm năm bài viết từ 1988 đến 1996. Cuốn sách ra đời gần như cùng lúc với công trình làm ông nổi tiếng: nhà tắm nước khoáng ở Vals, một ngôi làng trong thung lũng Alps.
@@ -109,3 +107,5 @@ Tôi thích Zumthor, nên càng phải nói rõ những chỗ cần dè chừng.
 - Stec, B. (2004). Cuộc trò chuyện với Peter Zumthor tại Haldenstein. *Casabella*, số 719.
 - Một tài liệu thứ cấp ngắn mô tả mặt bằng, vật liệu và ánh sáng của nhà tắm Vals, dùng cho phần tả đường đi.
 - Ảnh bìa: Felipe Camus, [ảnh gốc trên Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Felipe_camus_-_6892635292.jpg), giấy phép [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Ảnh được thu nhỏ so với bản gốc.
+
+> **Lưu ý.** Bài này viết từ ghi chú đọc sách của tôi về bốn tài liệu của Zumthor, chưa đối chiếu lại từng trang với bản gốc. Phần tả đường đi trong nhà tắm dựa trên một tài liệu thứ cấp ngắn, độ tin cậy thấp hơn các phần khác, nên tôi không dẫn con số nào về nhiệt độ hay diện tích. Hai sơ đồ là sơ đồ ý niệm tôi tự vẽ, không phải bản vẽ của công trình.

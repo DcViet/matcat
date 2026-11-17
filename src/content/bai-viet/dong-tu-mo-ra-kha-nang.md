@@ -5,8 +5,6 @@ date: 2026-11-10
 tags: ["tư duy thiết kế", "định khung vấn đề", "needfinding", "cố định chức năng", "sáng tạo"]
 ---
 
-> **Lưu ý trước khi đọc.** Đây là bài tổng quan lý thuyết, không có số liệu thực nghiệm riêng. Câu chuyện mở đầu lấy từ một bài đăng mạng xã hội. Các tình huống đời thường (quán cà phê, lớp vẽ, hộp thuốc của bà) là ví dụ tôi tự đặt ra để minh họa. Danh mục tài liệu tham khảo và chi tiết các thí nghiệm chưa được đối chiếu với bản gốc.
-
 ## Tóm tắt
 
 Trong các lớp tư duy thiết kế, người học thường được dặn: hãy nói nhu cầu bằng động từ ("cần với tới"), đừng nói bằng danh từ ("cần cái thang"). Lời dặn dễ nhớ và dùng được ngay, nhưng ít ai giải thích vì sao nó hiệu quả. Bài này lần lại nguồn gốc của lời dặn ấy trong thiết kế, marketing và kỹ thuật, rồi dựa vào tâm lý học nhận thức để nêu ba lý do: động từ tách nhu cầu ra khỏi giải pháp, nó không gợi sẵn một đồ vật trong đầu người nghe, và nó kéo câu hỏi lên một bậc gần với mục đích hơn. Bài cũng nói rõ những chỗ lời dặn này hụt hơi. Động từ vẫn có thể giấu sẵn một giải pháp, và cho tới nay hầu như chưa có thí nghiệm nào kiểm tra thẳng chuyện "động từ hơn danh từ".
@@ -175,3 +173,5 @@ Còn hai câu hỏi nữa tôi chưa thấy ai trả lời. Người lâu năm t
 - Vallacher, R. R., & Wegner, D. M. (1987). What do people think they're doing? Action identification and human behavior. *Psychological Review, 94*(1), 3–15.
 - Wedell-Wedellsborg, T. (2017). Are you solving the right problems? *Harvard Business Review, 95*(1), 76–83.
 - thewandress1512. (2024, 15 tháng 7). Bài đăng mạng xã hội về lớp Design Thinking tại Columbia (nguồn câu chuyện mở đầu, theo ảnh chụp màn hình).
+
+> **Lưu ý.** Đây là bài tổng quan lý thuyết, không có số liệu thực nghiệm riêng. Câu chuyện mở đầu lấy từ một bài đăng mạng xã hội. Các tình huống đời thường (quán cà phê, lớp vẽ, hộp thuốc của bà) là ví dụ tôi tự đặt ra để minh họa. Danh mục tài liệu tham khảo và chi tiết các thí nghiệm chưa được đối chiếu với bản gốc.

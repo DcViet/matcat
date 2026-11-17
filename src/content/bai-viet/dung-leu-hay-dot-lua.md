@@ -13,8 +13,6 @@ tags: ["khí hậu", "điều hòa môi trường", "Banham", "nhà nhiệt đ�
 (5) Chỗ chưa chắc: vault chỉ ghi số trang đầu chương nên chưa trích được trang chính xác từng ý; năm và tên riêng (Fitch, Lafayette Park, Kips Bay, St George, Simla) lấy từ ghi chú OCR chưa đối chiếu bản in; danh sách của Fitch là nhà miền nam Hoa Kỳ chứ chưa phải chuẩn nhiệt đới; vùng tiện nghi của Ching dựa trên khảo sát người Mỹ và Canada; ghi chú vault về phần nhiệt do học sinh ở St George có câu "khoảng một nửa nhiệt mùa đông mỗi giờ" không rõ nghĩa nên tôi bỏ.
 -->
 
-> **Lưu ý.** Ý lấy từ sách có ghi nguồn trong ngoặc; riêng ba chế độ, nhà của Fitch và chuyện Simla đều ở chương 2 của Banham. Các tình huống đời thường là ví dụ tôi nghĩ ra. Chi tiết, tên riêng và năm chưa được đối chiếu với bản in.
-
 Hình dung một phòng trọ tầng thượng, mái tôn. Mùa hè người thuê bật điều hòa từ trưa đến khuya, và không ít khi tiền điện gần ngang tiền phòng. Cách nhìn của Reyner Banham, nhà phê bình người Anh, cho phép gọi nó là một lựa chọn kiến trúc: dựa vào vỏ nhà hay dựa vào năng lượng.
 
 ## Một bộ lạc dừng chân
@@ -56,3 +54,5 @@ Sách cũng ghi điểm yếu: chói, ít tầm nhìn, và nóng vài ngày hè 
 Tôi giữ lại một câu hỏi để hỏi trước khi chọn thiết bị: ở ngôi nhà này, phần nào do vỏ làm, phần nào do máy làm? Với phòng mái tôn tôi đặt ra ở đầu bài, có lẽ máy làm gần hết. Sửa phần vỏ trước là khuyến nghị của tôi, không phải của Banham.
 
 Sách xuất bản năm 1969, chưa bàn tới carbon hay chi phí vận hành dài hạn.
+
+> **Lưu ý.** Ý lấy từ sách có ghi nguồn trong ngoặc; riêng ba chế độ, nhà của Fitch và chuyện Simla đều ở chương 2 của Banham. Các tình huống đời thường là ví dụ tôi nghĩ ra.

@@ -19,8 +19,6 @@ tags: ["Louis Kahn", "ánh sáng tự nhiên", "bảo tàng", "kết cấu", "Ki
 (5) Chỗ chưa chắc: các ghi chú trong vault đều ở trạng thái nháp, rút từ sách nhưng chưa trích trang chính xác cho từng ý; số đo lấy theo ghi chú (rộng 20 ft, dài 150 ft), đổi sang mét là tôi tính; chi tiết hình học vòm cycloid chính ghi chú cũng dặn nên đối chiếu bản vẽ; chuyện lối vào là theo bài viết trong sách, chưa kiểm tra hiện trạng; chữ "kiệt tác" là đánh giá của Filler và Verdaguer chứ không phải sự thật khách quan.
 -->
 
-> **Lưu ý.** Ý lấy từ các tài liệu về Louis Kahn có ghi nguồn trong ngoặc. Ví dụ đời thường, bảng so sánh và sơ đồ mặt cắt là của tôi, vẽ để dễ hình dung, không phải bản vẽ của công trình. Số đo, tên riêng và năm chưa được đối chiếu với bản in.
-
 Ai từng treo một tấm ảnh gia đình cạnh cửa sổ hướng tây đều biết chuyện sau vài mùa hè: mặt ảnh nhạt màu đi. Nắng giỏi làm phai đúng những thứ ta muốn giữ. Vì thế nhiều phòng tranh được làm kín mít, chỉ có đèn.
 
 Vậy mà ở Fort Worth, Texas, người ta lại muốn đúng thứ ngược lại. Kay Kimbell để lại bộ sưu tập cho thành phố. Giám đốc bảo tàng, Richard Fargo Brown, đòi ánh sáng tự nhiên, loại ánh sáng "ấm, mềm, thậm chí thanh nhã", và một tỉ lệ vừa với con người (Kahn, *Essential Texts*, Twombly 2003, bài "Space and the Inspirations", tr. 220). Khu đất lại nằm cạnh Bảo tàng Amon Carter của Philip Johnson, nên công trình phải thấp để không chắn tầm nhìn của nhà bên.
@@ -74,3 +72,5 @@ Filler gọi Kimbell là bảo tàng nghệ thuật được yêu nhất, "luxe,
 Còn một chi tiết nhỏ đáng ngẫm. Theo ghi chép trong sách, khách hiện vào bằng cửa phía bãi đỗ xe, trái với ý Kahn: ông muốn khách đến từ mặt hiện được coi là mặt sau, mặt nhìn ra công viên và Amon Carter. Tôi chưa kiểm tra hiện trạng nên không chắc điều này còn đúng đến hôm nay. Nhưng nó nhắc rằng một công trình lập nên bằng ánh sáng rất tinh vi vẫn có thể bị đọc ngược chiều ngay từ cửa vào.
 
 Thử tìm trong nhà mình một bề mặt đang làm việc của tấm phản xạ: cái trần trắng, bức tường đối diện cửa sổ, tấm rèm voan. Nắng đi qua nó rồi mới tới mắt bạn, hay đi thẳng?
+
+> **Lưu ý.** Ý lấy từ các tài liệu về Louis Kahn có ghi nguồn trong ngoặc. Ví dụ đời thường, bảng so sánh và sơ đồ mặt cắt là của tôi, vẽ để dễ hình dung, không phải bản vẽ của công trình.

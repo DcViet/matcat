@@ -16,8 +16,6 @@ tags: ["Jan Gehl", "đường phố", "vỉa hè", "không gian công cộng", "
 (5) Chỗ chưa chắc: các con số theo bản dịch tiếng Việt qua OCR và theo cách chia vùng của Hall (văn hóa phương Tây), vault dặn cần đối chiếu; hai số về sân trước (khoảng 3 m hữu ích; khoảng 4 m ở Galgebakken) đến từ hai ghi chú khác nhau; Gehl bàn khí hậu Bắc Âu nên phần nhiệt đới là suy luận của tôi.
 -->
 
-> **Lưu ý.** Số liệu và ý lấy từ sách có ghi nguồn trong ngoặc. Ví dụ ở Việt Nam, bài tập đếm người và sơ đồ là của tôi. Các con số theo bản dịch tiếng Việt, chưa được đối chiếu với bản gốc, và Gehl viết cho khí hậu Bắc Âu.
-
 Để ý mà xem: ghế quán cà phê vỉa hè gần như luôn quay ra đường. Chẳng ai xếp ghế quay mặt vào tường, dù tường sạch hơn, mát hơn, ít bụi hơn. Người ta ngồi để được nhìn thấy phố, và nhìn thấy những người đang đi trên đó.
 
 Jan Gehl, kiến trúc sư Đan Mạch, đã dành cả đời để hiểu chuyện giản dị này. Ông nhắc một câu ngạn ngữ Bắc Âu: người đến nơi có người. Cuốn *Life Between Buildings* của ông ra đầu thập niên 1970 như một lời phê bình quy hoạch theo Chủ nghĩa Chức năng; bản tiếng Việt là *Cuộc sống giữa những công trình kiến trúc* (Lê Phúc Quốc dịch, Nxb Xây dựng, 2009). Phương pháp của ông gần như chỉ là đứng nhìn và đếm: ghế nào có người ngồi, người ta dừng ở đâu.
@@ -67,3 +65,5 @@ Tôi thấy rõ nhất ở những quán nằm ngay sát lòng đường đông 
 Gehl nghiên cứu ở Bắc Âu, nơi người ta ưa nắng và sợ gió lạnh. Ở nhiệt đới, bóng râm, thông gió và mưa mới là chuyện chính. Nguyên lý chọn chỗ ngồi theo vi khí hậu vẫn dùng được, nhưng đáp án khác. Cách chia vùng của Hall cũng dựa trên văn hóa phương Tây, nên các số đo ở trên chỉ là điểm xuất phát.
 
 Bạn có thể tự thử, theo cách của Gehl. Đứng mười phút ở một đoạn phố quen, đếm xem người ta dừng chân ở đâu, ngồi ở đâu, ghế nào luôn có người. Rồi hỏi: nếu dời cái ghế đó đi một mét, chuyện gì sẽ xảy ra?
+
+> **Lưu ý.** Số liệu và ý lấy từ sách có ghi nguồn trong ngoặc. Ví dụ ở Việt Nam, bài tập đếm người và sơ đồ là của tôi. Các con số theo bản dịch tiếng Việt, chưa được đối chiếu với bản gốc, và Gehl viết cho khí hậu Bắc Âu.
