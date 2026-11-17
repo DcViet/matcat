@@ -128,7 +128,7 @@ for (const b of bai) {
   // Khối lưu ý cuối bài và dòng cho biết bài soạn tự động.
   const khoi = sach.trim().split(/\n{2,}/);
   const cuoi = khoi[khoi.length - 1] ?? '';
-  if (!(en ? /^> \*\*Note\b/ : /^> \*\*Lưu ý\b/).test(cuoi)) ghiLoi(p, `khối cuối bài phải là "> **${en ? 'Note' : 'Lưu ý'}.**"`);
+  if (!(en ? /^> \*\*Note/ : /^> \*\*Lưu ý/).test(cuoi)) ghiLoi(p, `khối cuối bài phải là "> **${en ? 'Note' : 'Lưu ý'}.**"`);
   if (!(en ? /drafted automatically/i : /soạn tự động/i).test(cuoi)) {
     ghiLoi(p, `khối ${en ? 'Note' : 'Lưu ý'} phải nói bài được ${en ? 'drafted automatically' : 'soạn tự động'} và chưa có người đọc lại`);
   }
