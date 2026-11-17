@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="440" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Concept section: outside traffic runs sunken below, the scene stays whole above</text>
+
+  <!-- Upper label -->
+  <g font-size="11.5" fill="#5f5b53">
+    <text x="380" y="78" text-anchor="middle">the park path crosses overhead, with no visible rise</text>
+    <path d="M380 86L380 118" stroke="#a8a498" stroke-width="1"/>
+  </g>
+
+  <!-- Park ground in section, with the sunken road in the middle -->
+  <path d="M40 200H300V272H460V200H720V310H40Z" fill="#a8a498" fill-opacity="0.22"/>
+  <path d="M40 200H300V272H460V200H720" fill="none" stroke="#1c1b19" stroke-width="2"/>
+
+  <!-- Bridge: deck level with the ground, arch below -->
+  <rect x="294" y="194" width="172" height="9" fill="#1c1b19"/>
+  <path d="M302 203V228Q380 190 458 228V203" fill="none" stroke="#1c1b19" stroke-width="2"/>
+
+  <!-- Trees on both sides -->
+  <g stroke="#5f5b53" stroke-width="1.5" fill="none">
+    <path d="M90 200V170M160 200V162M235 200V172M525 200V172M600 200V162M670 200V170"/>
+    <circle cx="90" cy="154" r="17"/>
+    <circle cx="160" cy="142" r="22"/>
+    <circle cx="235" cy="156" r="17"/>
+    <circle cx="525" cy="156" r="17"/>
+    <circle cx="600" cy="142" r="22"/>
+    <circle cx="670" cy="154" r="17"/>
+  </g>
+
+  <!-- Walker on the bridge -->
+  <g fill="none" stroke="#1c1b19" stroke-width="1.4" stroke-linecap="round">
+    <circle cx="380" cy="146" r="6"/>
+    <path d="M380 152v22M380 174l-7 20M380 174l7 20M380 160l-9 11M380 160l9 11"/>
+  </g>
+
+  <!-- Traffic in the sunken road -->
+  <g stroke="#b4472e" stroke-width="1.6" fill="none">
+    <rect x="352" y="244" width="50" height="16"/>
+    <circle cx="363" cy="265" r="6"/>
+    <circle cx="391" cy="265" r="6"/>
+    <path d="M402 254H422"/>
+  </g>
+
+  <!-- Lower labels -->
+  <g font-size="11.5" fill="#5f5b53">
+    <text x="60" y="226">park ground</text>
+    <text x="700" y="226" text-anchor="end">park ground</text>
+    <text x="380" y="294" text-anchor="middle" fill="#b4472e">sunken transverse road: traffic that is not the park's</text>
+  </g>
+
+  <!-- Three kinds of route -->
+  <line x1="24" y1="330" x2="736" y2="330" stroke="#a8a498" stroke-width="1"/>
+  <text x="24" y="354" font-weight="600" fill="#1c1b19">On the surface, the park keeps three kinds of route apart</text>
+  <g font-size="11.5" fill="#5f5b53">
+    <line x1="24" y1="380" x2="84" y2="380" stroke="#1c1b19" stroke-width="5"/>
+    <text x="94" y="384">drive: for carriages</text>
+    <line x1="270" y1="380" x2="330" y2="380" stroke="#1c1b19" stroke-width="2.5" stroke-dasharray="9 5"/>
+    <text x="340" y="384">ride: for horses</text>
+    <line x1="516" y1="380" x2="576" y2="380" stroke="#1c1b19" stroke-width="1.5" stroke-dasharray="2 4"/>
+    <text x="586" y="384">walk: for people on foot</text>
+  </g>
+
+  <text x="24" y="412" font-size="11.5" fill="#5f5b53">Concept diagram by the writer, not to scale and not a drawing of the park.</text>
+  <text x="24" y="428" font-size="11.5" fill="#5f5b53">The bridge, trees and vehicle are only illustrative.</text>
+</svg>

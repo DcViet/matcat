@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="420" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">One roof, one empty room, and the real museum inside the podium</text>
+
+  <!-- Granite podium, cut through -->
+  <rect x="60" y="250" width="640" height="90" fill="#ffffff" stroke="#1c1b19" stroke-width="2"/>
+  <rect x="60" y="250" width="640" height="6" fill="#1c1b19"/>
+
+  <!-- Module ticks on the podium -->
+  <g stroke="#a8a498" stroke-width="1">
+    <path d="M76 256v7M92 256v7M108 256v7M124 256v7M140 256v7M156 256v7M172 256v7M188 256v7M204 256v7M220 256v7M236 256v7M252 256v7M268 256v7M284 256v7M300 256v7M316 256v7M332 256v7M348 256v7M364 256v7M380 256v7M396 256v7M412 256v7M428 256v7M444 256v7M460 256v7M476 256v7M492 256v7M508 256v7M524 256v7M540 256v7M556 256v7M572 256v7M588 256v7M604 256v7M620 256v7M636 256v7M652 256v7M668 256v7M684 256v7"/>
+  </g>
+
+  <!-- Steel roof -->
+  <rect x="110" y="110" width="540" height="18" fill="#1c1b19"/>
+  <g stroke="#ffffff" stroke-width="1">
+    <path d="M146 116v12M182 116v12M218 116v12M254 116v12M290 116v12M326 116v12M362 116v12M398 116v12M434 116v12M470 116v12M506 116v12M542 116v12M578 116v12M614 116v12"/>
+  </g>
+
+  <!-- Sun through the glass -->
+  <line x1="745" y1="172" x2="548" y2="226" stroke="#b4472e" stroke-width="2" stroke-dasharray="6 4"/>
+
+  <!-- Steel columns -->
+  <rect x="150" y="128" width="6" height="122" fill="#1c1b19"/>
+  <rect x="604" y="128" width="6" height="122" fill="#1c1b19"/>
+
+  <!-- Glass walls -->
+  <line x1="200" y1="128" x2="200" y2="250" stroke="#a8a498" stroke-width="1.5"/>
+  <line x1="560" y1="128" x2="560" y2="250" stroke="#a8a498" stroke-width="1.5"/>
+
+  <!-- Curtain added later -->
+  <line x1="552" y1="130" x2="552" y2="250" stroke="#b4472e" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+  <!-- A person, to show how big the room is -->
+  <g fill="none" stroke="#1c1b19" stroke-width="1.3" stroke-linecap="round">
+    <circle cx="300" cy="226" r="4"/>
+    <path d="M300 230v11M300 241l-4 9M300 241l4 9M300 234l-5 6M300 234l5 6"/>
+  </g>
+
+  <!-- A small painting on a freestanding panel -->
+  <line x1="450" y1="212" x2="450" y2="250" stroke="#1c1b19" stroke-width="2"/>
+  <rect x="444" y="220" width="6" height="10" fill="#b4472e"/>
+
+  <!-- Labels -->
+  <text x="380" y="98" text-anchor="middle" font-size="12" fill="#1c1b19">one steel roof divided into squares</text>
+
+  <text x="380" y="166" text-anchor="middle" font-weight="600" fill="#1c1b19">glass hall: temporary exhibitions</text>
+  <text x="380" y="184" text-anchor="middle" font-size="11.5" fill="#5f5b53">no columns in the middle</text>
+
+  <text x="380" y="298" text-anchor="middle" font-weight="600" fill="#1c1b19">granite-paved podium</text>
+  <text x="380" y="316" text-anchor="middle" font-size="11.5" fill="#5f5b53">the permanent collection and the services are in here</text>
+
+  <g font-size="11.5" fill="#5f5b53">
+    <text x="140" y="180" text-anchor="end">cross-shaped steel</text>
+    <text x="140" y="195" text-anchor="end">column (eight in all)</text>
+
+    <text x="464" y="206">painting</text>
+
+    <text x="750" y="150" text-anchor="end">sun through glass:</text>
+    <text x="750" y="165" text-anchor="end">glare, curtains added</text>
+
+    <text x="60" y="360">small ticks: the 1.20 m module; the granite paving slabs follow it too</text>
+  </g>
+
+  <text x="24" y="390" font-size="11.5" fill="#5f5b53">Conceptual diagram by the writer, not to scale and not a drawing of the building.</text>
+  <text x="24" y="406" font-size="11.5" fill="#5f5b53">The positions of the columns, glass walls, and painting, and the height, are for illustration only.</text>
+</svg>
