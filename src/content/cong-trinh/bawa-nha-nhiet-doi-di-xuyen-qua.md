@@ -1,5 +1,5 @@
 ---
-title: "Geoffrey Bawa: ngôi nhà nhiệt đới là thứ mình đi xuyên qua"
+title: "Geoffrey Bawa: ngôi nhà nhiệt đới là nơi để đi qua và ở lại"
 description: "Nhà của Geoffrey Bawa ở Sri Lanka nhiều khi chỉ có mái và cột. Thứ ông chăm chút là chỗ người ta ngồi, đi qua và nhìn ra: cái ghế hiên, chiếc chum dưới gốc cây, ngọn tháp trên đồi xa. Kèm mười tiêu chí nhà nhiệt đới Robert Powell ghi lại từ ông."
 date: 2026-11-17
 draft: false
@@ -15,7 +15,7 @@ tags: ["Geoffrey Bawa", "nhà nhiệt đới", "Lunuganga", "mái và hiên", "t
 (1) Ý chính: với Bawa, ngôi nhà nhiệt đới đáng kể ở chỗ người ta sống, ngồi và đi xuyên qua nó, hơn là ở lớp vỏ; mái là thứ làm trước, nhà mỏng và mở hai phía để gió qua; mười tiêu chí Powell ghi lại từ Bawa; vài lời dè dặt khi học theo.
 (2) Sách nguồn + trang: Tariq Jazeel, "Bawa and Beyond: Reading Sri Lanka's Tropical Modern Architecture" (South Asia Journal for Culture, tập I), tr. 7–9 (mở nhà thuộc địa, nhà De Silva) và tr. 11–16 (trải nghiệm không gian, Lunuganga); Tan Beng Kiang & David Robson, "Bioclimatic Skyscraper - Learning from Bawa" (PLEA 2006); Robert Powell & Albert Lim, Singapore Houses (2009), dẫn nhập tr. 10 và tr. 12–16, nhắc lại mười tiêu chí từ The Tropical Asian House (Powell, 1996); Bay & Ong (chủ biên), Tropical Sustainable Architecture (2006), chương 14 của Anoma Pieris, tr. 267–283.
 (3) Ghi chú thư viện đã dùng: SÁCH - GEOFFREY BAWA (BAWA AND BEYOND VÀ LEARNING BAWA); SÁCH - TROPICAL SUSTAINABLE ARCHITECTURE (BAY & ONG 2006), chỉ dòng về chương 14; KIẾN TRÚC SƯ - GEOFFREY BAWA; KHÍ HẬU - MƯỜI TIÊU CHÍ NHÀ Ở NHIỆT ĐỚI THEO BAWA; NHÀ NHIỆT ĐỚI - TRẢI NGHIỆM KHÔNG GIAN HƠN VỎ CÔNG TRÌNH, LUNUGANGA; NHÀ NHIỆT ĐỚI - MỞ NHÀ THUỘC ĐỊA RA VÀ NHÀ DE SILVA; NHÀ NHIỆT ĐỚI - MÁI LÀ YẾU TỐ CHỦ ĐẠO; NHÀ NHIỆT ĐỚI - MẶT BẰNG MỘT PHÒNG SÂU MỞ HAI PHÍA; TRƯỜNG PHÁI - NHIỆT ĐỚI HIỆN ĐẠI (TROPICAL MODERNISM); KHÔNG GIAN - ĐỆM TRONG–NGOÀI.
-(4) Ý của người viết, ngoài sách: cảnh ngồi hiên buổi trưa ở đầu bài; cách nói "ngôi nhà là thứ mình đi xuyên qua"; việc nối chi tiết cái ghế, chiếc chum với ý "làm nền cho đời sống"; việc nối Bawa với chế độ "chọn lọc" của Banham; sơ đồ mặt cắt; bài thử cuối bài; mô tả ảnh bìa.
+(4) Ý của người viết, ngoài sách: cảnh ngồi hiên buổi trưa ở đầu bài; cách nói "ngôi nhà là nơi để đi qua và ở lại"; việc nối chi tiết cái ghế, chiếc chum với ý "làm nền cho đời sống"; việc nối Bawa với chế độ "chọn lọc" của Banham; sơ đồ mặt cắt; bài thử cuối bài; mô tả ảnh bìa.
 (5) Chỗ chưa chắc: bài Jazeel không ghi năm rõ, ghi chú đoán khoảng 2008; các lời kiến trúc sư trong bài Jazeel đều ẩn danh và ghi chú chỉ diễn đạt lại; ghi chú không có năm xây và địa điểm của Lunuganga, không có tiểu sử đầy đủ của Bawa; chỉ ba tiêu chí đầu chắc chắn đến từ cuộc trò chuyện với Bawa năm 1994, bảy tiêu chí sau là Powell tóm tắt; sách không giải thích vì sao bỏ máng xối; ảnh bìa được trang Wikimedia Commons chú là mặt sau ngôi nhà chính ở Lunuganga, mình chưa kiểm bằng nguồn khác; loài cây trong ảnh mình không rõ.
 -->
 
