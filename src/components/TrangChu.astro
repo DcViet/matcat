@@ -3,7 +3,7 @@ import Base from '../layouts/Base.astro';
 import AnhBai from './AnhBai.astro';
 import DanhSachBai from './DanhSachBai.astro';
 import HinhMatCat from './HinhMatCat.astro';
-import { KHU, baiCuaKhu, duongNgon, ngayThang, tatCaBai, timKhu } from '../lib/khu';
+import { KHU, baiCuaKhu, duong as duongAnh, duongNgon, ngayThang, tatCaBai, timKhu } from '../lib/khu';
 import { CHU, type Lang } from '../lib/i18n';
 
 interface Props {
@@ -49,21 +49,49 @@ const soBai = Object.fromEntries(
         <div class="de-muc-khu">
           <h2>{chu.moiNhat}</h2>
         </div>
-        <article class="noi-bat the-bai">
-          <AnhBai bai={noiBat} lang={lang} />
-          <div>
-            <p class="phu">
-              <span class="nhan">{timKhu(noiBat.khu).ten[lang]}</span>
-              <time datetime={noiBat.data.date.toISOString()}>{ngayThang(noiBat.data.date, lang)}</time>
-            </p>
-            <h3>
-              <a class="phu-kin" href={duongNgon(lang, `/${noiBat.khu}/${noiBat.slug}/`)}>
-                {noiBat.data.title}
-              </a>
-            </h3>
-            <p>{noiBat.data.description}</p>
-            <span class="doc-tiep" aria-hidden="true">{chu.docBai}</span>
-          </div>
+        <article class={noiBat.data.cover ? 'noi-bat-lon the-bai' : 'noi-bat the-bai'}>
+          {
+            noiBat.data.cover ? (
+              <>
+                <img
+                  src={noiBat.data.cover.startsWith('/') ? duongAnh(noiBat.data.cover) : noiBat.data.cover}
+                  alt=""
+                  loading="eager"
+                  decoding="async"
+                />
+                <div class="noi-bat-chu">
+                  <p class="phu">
+                    <span class="nhan">{timKhu(noiBat.khu).ten[lang]}</span>
+                    <time datetime={noiBat.data.date.toISOString()}>{ngayThang(noiBat.data.date, lang)}</time>
+                  </p>
+                  <h3>
+                    <a class="phu-kin" href={duongNgon(lang, `/${noiBat.khu}/${noiBat.slug}/`)}>
+                      {noiBat.data.title}
+                    </a>
+                  </h3>
+                  <p>{noiBat.data.description}</p>
+                  <span class="doc-tiep" aria-hidden="true">{chu.docBai}</span>
+                </div>
+              </>
+            ) : (
+              <>
+                <AnhBai bai={noiBat} lang={lang} />
+                <div>
+                  <p class="phu">
+                    <span class="nhan">{timKhu(noiBat.khu).ten[lang]}</span>
+                    <time datetime={noiBat.data.date.toISOString()}>{ngayThang(noiBat.data.date, lang)}</time>
+                  </p>
+                  <h3>
+                    <a class="phu-kin" href={duongNgon(lang, `/${noiBat.khu}/${noiBat.slug}/`)}>
+                      {noiBat.data.title}
+                    </a>
+                  </h3>
+                  <p>{noiBat.data.description}</p>
+                  <span class="doc-tiep" aria-hidden="true">{chu.docBai}</span>
+                </div>
+              </>
+            )
+          }
         </article>
         {conLai.length > 0 && <DanhSachBai bai={conLai} hienKhu lang={lang} />}
       </>

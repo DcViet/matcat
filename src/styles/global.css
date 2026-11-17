@@ -784,3 +784,184 @@ h3 {
 .dau-trang nav .chon-ngon-ngu a:not([aria-current]):hover {
   color: var(--do-gach);
 }
+
+/* ---------- Giao diện thử: đầu bài tràn ảnh ---------- */
+
+html {
+  overflow-x: clip;
+}
+
+.bai-hero {
+  grid-area: dau;
+  position: relative;
+  /* Tràn hết chiều rộng màn hình, thoát khỏi khung chữ. */
+  width: 100vw;
+  margin: -48px 0 48px calc(50% - 50vw);
+  min-height: clamp(420px, 68vh, 680px);
+  display: flex;
+  align-items: flex-end;
+  background: var(--muc);
+  color: #fff;
+  overflow: hidden;
+}
+
+.bai-hero img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+  object-position: center;
+}
+
+.bai-hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(18, 17, 15, 0.9) 0%, rgba(18, 17, 15, 0.55) 42%, rgba(18, 17, 15, 0.08) 100%);
+}
+
+.bai-hero-chu {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: var(--rong);
+  margin: 0 auto;
+  padding: 120px 20px 44px;
+}
+
+.bai-hero-chu h1 {
+  max-width: 22ch;
+  font-size: clamp(32px, 5.2vw, 58px);
+  line-height: 1.12;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  margin: 14px 0 16px;
+  text-wrap: balance;
+}
+
+.bai-hero-chu .nhan {
+  color: #f0b8a6;
+}
+
+.bai-hero-chu .dan {
+  max-width: 52ch;
+  font-size: 19px;
+  color: rgba(255, 255, 255, 0.88);
+  margin: 0;
+}
+
+.bai-hero-anh {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  bottom: 10px;
+  max-width: calc(100% - 28px);
+  margin: 0;
+  font-family: var(--chu-de);
+  font-size: 11px;
+  line-height: 1.3;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.bai.co-hero {
+  grid-template-areas:
+    'dau'
+    'phu'
+    'than';
+}
+
+@media (min-width: 960px) {
+  .bai.co-hero {
+    grid-template-areas:
+      'dau dau'
+      'than phu';
+  }
+}
+
+/* ---------- Giao diện thử: sơ đồ hiện dần khi cuộn ---------- */
+
+@media (prefers-reduced-motion: no-preference) {
+  .than-bai img.ve-net {
+    clip-path: inset(0 100% 0 0);
+  }
+
+  .than-bai img.ve-net.da-hien {
+    clip-path: inset(0 0 0 0);
+    transition: clip-path 1.8s cubic-bezier(0.45, 0, 0.2, 1);
+  }
+}
+
+/* ---------- Giao diện thử: bài nổi bật cỡ lớn ở trang chủ ---------- */
+
+.noi-bat-lon {
+  position: relative;
+  min-height: clamp(380px, 58vh, 560px);
+  margin: 8px 0 32px;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  background: var(--muc);
+  color: #fff;
+}
+
+.noi-bat-lon > img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+  transition: transform 0.8s ease;
+}
+
+.noi-bat-lon::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(18, 17, 15, 0.88) 0%, rgba(18, 17, 15, 0.45) 48%, rgba(18, 17, 15, 0.05) 100%);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .noi-bat-lon:hover > img {
+    transform: scale(1.03);
+  }
+}
+
+.noi-bat-chu {
+  position: relative;
+  z-index: 1;
+  max-width: 640px;
+  padding: 100px 28px 32px;
+}
+
+.noi-bat-lon .phu,
+.noi-bat-lon .noi-bat-chu p {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.noi-bat-lon .nhan,
+.noi-bat-lon .doc-tiep {
+  color: #f0b8a6;
+}
+
+.noi-bat-lon h3 {
+  font-size: clamp(28px, 4vw, 42px);
+  line-height: 1.15;
+  margin: 8px 0 12px;
+  text-wrap: balance;
+}
+
+.noi-bat-lon h3 a,
+.noi-bat-lon:hover h3 a {
+  color: #fff;
+  text-decoration: none;
+}
+
+@media (max-width: 760px) {
+  .noi-bat-chu {
+    padding: 90px 18px 24px;
+  }
+}

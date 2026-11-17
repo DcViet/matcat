@@ -93,12 +93,33 @@ const thongSo = [
   tuKhoa={d.tags}
   schema={schema}
 >
-  <article class="bai">
-    <header class="bai-dau">
-      <a class="nhan" href={duongNgon(lang, `/${khu.slug}/`)}>{khu.ten[lang]}</a>
-      <h1>{d.title}</h1>
-      <p class="dan">{d.description}</p>
-    </header>
+  <article class={d.cover ? 'bai co-hero' : 'bai'}>
+    {
+      d.cover ? (
+        <header class="bai-hero">
+          <img
+            src={d.cover.startsWith('/') ? duong(d.cover) : d.cover}
+            alt={d.coverAlt ?? ''}
+            width={kichThuoc.width}
+            height={kichThuoc.height}
+            fetchpriority="high"
+            decoding="async"
+          />
+          <div class="bai-hero-chu">
+            <a class="nhan" href={duongNgon(lang, `/${khu.slug}/`)}>{khu.ten[lang]}</a>
+            <h1>{d.title}</h1>
+            <p class="dan">{d.description}</p>
+          </div>
+          {d.coverCredit && <p class="bai-hero-anh">{chu.anh} {d.coverCredit}</p>}
+        </header>
+      ) : (
+        <header class="bai-dau">
+          <a class="nhan" href={duongNgon(lang, `/${khu.slug}/`)}>{khu.ten[lang]}</a>
+          <h1>{d.title}</h1>
+          <p class="dan">{d.description}</p>
+        </header>
+      )
+    }
 
     <aside class="bai-phu" aria-label={chu.thongTin}>
       <dl class="thong-so">
@@ -124,22 +145,6 @@ const thongSo = [
       }
     </aside>
 
-    {
-      d.cover && (
-        <figure class="anh-bia">
-          <img
-            src={d.cover.startsWith('/') ? duong(d.cover) : d.cover}
-            alt={d.coverAlt ?? ''}
-            width={kichThuoc.width}
-            height={kichThuoc.height}
-            fetchpriority="high"
-            decoding="async"
-          />
-          {d.coverCredit && <figcaption>{chu.anh} {d.coverCredit}</figcaption>}
-        </figure>
-      )
-    }
-
     <div class="than-bai">
       <Content />
     </div>
@@ -156,3 +161,28 @@ const thongSo = [
     )
   }
 </Base>
+
+<script>
+  // Sơ đồ trong bài hiện dần từ trái sang phải khi cuộn tới, như nét bút kéo qua mặt cắt.
+  // Không có JavaScript, hoặc người đọc chọn giảm chuyển động: sơ đồ hiện nguyên.
+  const giam = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const hinh = document.querySelectorAll<HTMLImageElement>('.than-bai img[src$=".svg"]');
+  if (!giam && 'IntersectionObserver' in window && hinh.length > 0) {
+    const theoDoi = new IntersectionObserver(
+      (cacMuc) => {
+        for (const m of cacMuc) {
+          if (m.isIntersecting) {
+            (m.target as HTMLElement).querySelector('img')?.classList.add('da-hien');
+            theoDoi.unobserve(m.target);
+          }
+        }
+      },
+      { threshold: 0.35 },
+    );
+    hinh.forEach((h) => {
+      h.classList.add('ve-net');
+      // Quan sát khung chứa, vì chính ảnh đang bị cắt về 0 nên trình duyệt coi là chưa vào màn hình.
+      theoDoi.observe(h.parentElement ?? h);
+    });
+  }
+</script>
