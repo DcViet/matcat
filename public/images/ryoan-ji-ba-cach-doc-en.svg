@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="300" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Dry gardens, from sacred stones to a gravel courtyard: four stages</text>
+
+  <!-- Arrows between the stages -->
+  <g stroke="#a8a498" stroke-width="1.25" fill="none">
+    <path d="M186 125H206M370 125H390M554 125H574"/>
+    <path d="M201 120l5 5-5 5M385 120l5 5-5 5M569 120l5 5-5 5"/>
+  </g>
+
+  <!-- Four boxes -->
+  <rect x="24" y="70" width="160" height="110" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <rect x="208" y="70" width="160" height="110" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <rect x="392" y="70" width="160" height="110" rx="8" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <rect x="576" y="70" width="160" height="110" rx="8" fill="#b4472e" fill-opacity="0.12" stroke="#b4472e" stroke-width="2"/>
+
+  <g text-anchor="middle" font-weight="600" fill="#1c1b19">
+    <text x="104" y="98">1. Prehistory</text>
+    <text x="288" y="98">2. Nara–Heian</text>
+    <text x="472" y="98">3. Kamakura</text>
+    <text x="656" y="98">4. Late Kamakura</text>
+  </g>
+  <text x="656" y="114" text-anchor="middle" font-weight="600" fill="#1c1b19">to Higashiyama</text>
+
+  <g text-anchor="middle" font-size="11.5" fill="#5f5b53">
+    <text x="104" y="144">Sacred stones</text>
+    <text x="288" y="144">A few dry stone groups</text>
+    <text x="288" y="160">inside pond gardens</text>
+    <text x="472" y="144">Dry gardens stand</text>
+    <text x="472" y="160">level with pond gardens</text>
+    <text x="656" y="144">Gardens that are</text>
+    <text x="656" y="160">only dry</text>
+  </g>
+
+  <!-- Two examples named in the notes -->
+  <g stroke="#a8a498" stroke-width="1">
+    <line x1="472" y1="180" x2="472" y2="204"/>
+    <line x1="656" y1="180" x2="656" y2="204"/>
+  </g>
+  <g text-anchor="middle" font-size="11.5" fill="#1c1b19">
+    <text x="452" y="222">Saiho-ji: dry waterfall, three steps</text>
+    <text x="662" y="222">Ryoan-ji: no water, no trees</text>
+  </g>
+
+  <text x="24" y="270" font-size="11.5" fill="#5f5b53">Four stages as divided by Shigemori, after Nitschke. Conceptual diagram by the author, not drawn to a time scale.</text>
+</svg>

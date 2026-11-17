@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 404" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="404" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">A walled garden in section</text>
+
+  <!-- Mặt đất -->
+  <line x1="30" y1="300" x2="730" y2="300" stroke="#1c1b19" stroke-width="2.5"/>
+
+  <!-- Khoảng trời được tường và nhà khung lại -->
+  <g stroke="#a8a498" stroke-width="1.25">
+    <line x1="200" y1="165" x2="480" y2="165"/>
+    <line x1="200" y1="159" x2="200" y2="171"/>
+    <line x1="480" y1="159" x2="480" y2="171"/>
+  </g>
+  <text x="340" y="153" text-anchor="middle" font-size="11.5" fill="#5f5b53">the sky, framed by wall and house</text>
+
+  <!-- Tường bị cắt qua, chừa ô cổng ở dưới -->
+  <rect x="180" y="190" width="20" height="50" fill="#1c1b19"/>
+  <!-- Song sắt của cổng, tô màu -->
+  <g stroke="#b4472e" stroke-width="2.5">
+    <line x1="183" y1="240" x2="183" y2="300"/>
+    <line x1="190" y1="240" x2="190" y2="300"/>
+    <line x1="197" y1="240" x2="197" y2="300"/>
+  </g>
+  <text x="190" y="183" text-anchor="middle" font-size="11.5" fill="#5f5b53">wall</text>
+
+  <!-- Cây trồng theo nhóm màu, thảm thấp -->
+  <path d="M202 297Q220 293 238 297T274 297T310 297T346 297T382 297T418 297T454 297T478 297" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <g fill="#b4472e">
+    <circle cx="246" cy="283" r="10"/><circle cx="260" cy="276" r="10"/><circle cx="274" cy="283" r="10"/>
+  </g>
+  <g fill="#b4472e" fill-opacity="0.4">
+    <circle cx="356" cy="283" r="10"/><circle cx="370" cy="276" r="10"/><circle cx="384" cy="283" r="10"/>
+  </g>
+  <g fill="#a8a498">
+    <circle cx="420" cy="283" r="10"/><circle cx="434" cy="276" r="10"/><circle cx="448" cy="283" r="10"/>
+  </g>
+
+  <!-- Nhà: mái, tường, sàn bị cắt qua -->
+  <g fill="#1c1b19">
+    <rect x="480" y="200" width="220" height="10"/>
+    <rect x="480" y="210" width="14" height="90"/>
+    <rect x="686" y="210" width="14" height="90"/>
+  </g>
+  <text x="590" y="262" text-anchor="middle" fill="#5f5b53">house (private)</text>
+
+  <!-- Người ngoài phố -->
+  <g fill="none" stroke="#1c1b19" stroke-width="1.4" stroke-linecap="round">
+    <circle cx="110" cy="248" r="6"/>
+    <path d="M110 254v24M110 278l-6 22M110 278l6 22M110 262l-8 10M110 262l8 8"/>
+  </g>
+  <!-- Người trong sân -->
+  <g fill="none" stroke="#1c1b19" stroke-width="1.4" stroke-linecap="round">
+    <circle cx="303" cy="248" r="6"/>
+    <path d="M303 254v24M303 278l-6 22M303 278l6 22M303 262l-8 10M303 262l8 8"/>
+  </g>
+
+  <!-- Đường nhìn: người ngoài chỉ thoáng thấy vườn; người trong thấy phố qua cổng -->
+  <g stroke="#b4472e" stroke-width="1.25" stroke-dasharray="5 4" fill="none">
+    <line x1="117" y1="250" x2="241" y2="270"/>
+    <line x1="296" y1="248" x2="130" y2="236"/>
+  </g>
+  <circle cx="241" cy="270" r="2.5" fill="#b4472e"/>
+
+  <!-- Chú thích -->
+  <g font-size="11.5" fill="#5f5b53" text-anchor="middle">
+    <text x="108" y="204">from outside, only a</text>
+    <text x="108" y="219">glimpse of the garden</text>
+    <text x="303" y="210">from inside, you see</text>
+    <text x="303" y="225">the street through the gate</text>
+    <text x="100" y="326">street (public)</text>
+    <text x="190" y="348">gate and railings, painted</text>
+    <path d="M190 335V305" stroke="#a8a498" stroke-width="1" fill="none"/>
+    <text x="350" y="326">plants grouped by color, low ground cover</text>
+  </g>
+
+  <text x="24" y="384" font-size="11.5" fill="#5f5b53">Conceptual diagram by the author, based on the garden principles in the Casa Cristo thesis;</text>
+  <text x="24" y="398" font-size="11.5" fill="#5f5b53">not a drawing of any building.</text>
+</svg>
