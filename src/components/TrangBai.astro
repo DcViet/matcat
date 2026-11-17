@@ -97,14 +97,17 @@ const thongSo = [
     {
       d.cover ? (
         <header class="bai-hero">
-          <img
-            src={d.cover.startsWith('/') ? duong(d.cover) : d.cover}
-            alt={d.coverAlt ?? ''}
-            width={kichThuoc.width}
-            height={kichThuoc.height}
-            fetchpriority="high"
-            decoding="async"
-          />
+          <div class="khung-anh">
+            <img class="nen-mo" src={d.cover.startsWith('/') ? duong(d.cover) : d.cover} alt="" aria-hidden="true" loading="lazy" decoding="async" />
+            <img
+              src={d.cover.startsWith('/') ? duong(d.cover) : d.cover}
+              alt={d.coverAlt ?? ''}
+              width={kichThuoc.width}
+              height={kichThuoc.height}
+              fetchpriority="high"
+              decoding="async"
+            />
+          </div>
           <div class="bai-hero-chu">
             <a class="nhan" href={duongNgon(lang, `/${khu.slug}/`)}>{khu.ten[lang]}</a>
             <h1>{d.title}</h1>

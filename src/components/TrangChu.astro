@@ -53,12 +53,10 @@ const soBai = Object.fromEntries(
           {
             noiBat.data.cover ? (
               <>
-                <img
-                  src={noiBat.data.cover.startsWith('/') ? duongAnh(noiBat.data.cover) : noiBat.data.cover}
-                  alt=""
-                  loading="eager"
-                  decoding="async"
-                />
+                <div class="khung-anh">
+                  <img class="nen-mo" src={noiBat.data.cover.startsWith('/') ? duongAnh(noiBat.data.cover) : noiBat.data.cover} alt="" aria-hidden="true" decoding="async" />
+                  <img src={noiBat.data.cover.startsWith('/') ? duongAnh(noiBat.data.cover) : noiBat.data.cover} alt="" loading="eager" decoding="async" />
+                </div>
                 <div class="noi-bat-chu">
                   <p class="phu">
                     <span class="nhan">{timKhu(noiBat.khu).ten[lang]}</span>

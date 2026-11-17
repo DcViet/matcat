@@ -930,3 +930,30 @@ html {
     padding: 20px 18px 26px;
   }
 }
+
+/* ---------- Nền mờ lấp chỗ trống quanh ảnh bìa ---------- */
+
+.khung-anh {
+  position: relative;
+  overflow: hidden;
+  background: var(--muc);
+}
+
+/* Bản mờ của chính ảnh, phóng to và làm tối nhẹ, nằm sau ảnh thật. */
+.khung-anh .nen-mo {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-height: none;
+  max-width: none;
+  object-fit: cover;
+  filter: blur(36px) brightness(0.62) saturate(1.1);
+  transform: scale(1.25);
+}
+
+.khung-anh > img:not(.nen-mo) {
+  position: relative;
+  z-index: 1;
+  background: transparent;
+}
