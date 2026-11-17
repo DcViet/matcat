@@ -592,6 +592,10 @@ h3 {
 .anh-bia img {
   display: block;
   width: 100%;
+  /* Ảnh dựng đứng không được cao quá một màn hình; giữ nguyên tỉ lệ, không cắt. */
+  max-height: 600px;
+  object-fit: contain;
+  background: var(--giay-dam);
 }
 
 .anh-bia figcaption {

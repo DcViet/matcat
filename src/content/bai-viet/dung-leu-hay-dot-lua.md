@@ -2,6 +2,9 @@
 title: "Dựng lều hay đốt lửa"
 description: "Có hai cách để một chỗ trở nên ở được: nhờ vỏ nhà hoặc nhờ máy. Câu chuyện về một bộ lạc của Reyner Banham gợi ra một cách hỏi về nhà ở xứ ẩm và về điều hòa."
 date: 2026-11-11
+cover: "/images/lua-trai-leu-redman.jpg"
+coverAlt: "Một chiếc lều sáng màu dựng giữa rừng thông xanh; phía trước là đống lửa nhỏ cháy trong vòng đá."
+coverCredit: "Steve Redman (MORA), phạm vi công cộng, qua Wikimedia Commons"
 draft: false
 tags: ["khí hậu", "điều hòa môi trường", "Banham", "nhà nhiệt đới", "độ ẩm"]
 ---

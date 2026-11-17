@@ -2,6 +2,9 @@
 title: "Build a Tent or Light a Fire"
 description: "There are two ways to make a place livable: with the shell of the building or with machines. Reyner Banham's story of a tribe suggests a way to ask about homes in humid places and about air conditioning."
 date: 2026-11-11
+cover: "/images/lua-trai-leu-redman.jpg"
+coverAlt: "A light-colored tent pitched in a green pine forest; in front of it, a small fire burns inside a ring of stones."
+coverCredit: "Steve Redman (MORA), public domain, via Wikimedia Commons"
 draft: false
 lang: "en"
 tags: ["climate", "environmental control", "Banham", "tropical housing", "humidity"]

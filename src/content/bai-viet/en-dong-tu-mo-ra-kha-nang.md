@@ -2,6 +2,9 @@
 title: "Verbs Open Up Possibilities"
 description: "Why saying \"needs to reach\" suggests more solutions than \"needs a ladder\": the origins, the psychology, and the limits of a rule of thumb in design thinking."
 date: 2026-11-10
+cover: "/images/thang-thu-vien-quine.jpg"
+coverAlt: "A wooden library ladder with handrails leaning against tall white shelves full of leather-bound books; at the right, a small decorative pedestal with a lamp on top."
+coverCredit: "Thomas Quine (library ladder at Kenwood House, London), CC BY 2.0, via Wikimedia Commons"
 draft: false
 lang: "en"
 tags: ["design thinking", "problem framing", "needfinding", "functional fixedness", "creativity"]

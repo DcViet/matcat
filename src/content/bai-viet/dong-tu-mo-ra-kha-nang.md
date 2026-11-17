@@ -2,6 +2,9 @@
 title: "Động từ mở ra khả năng"
 description: "Vì sao nói \"cần với tới\" lại gợi ra nhiều lời giải hơn nói \"cần cái thang\": nguồn gốc, cơ sở tâm lý học và giới hạn của một lời dặn trong tư duy thiết kế."
 date: 2026-11-10
+cover: "/images/thang-thu-vien-quine.jpg"
+coverAlt: "Một chiếc thang gỗ có tay vịn dựa vào những giá sách trắng cao, đầy sách bìa da; bên phải có một cột trang trí nhỏ với chiếc đèn đặt trên đỉnh."
+coverCredit: "Thomas Quine (thang thư viện ở Kenwood House, London), CC BY 2.0, qua Wikimedia Commons"
 tags: ["tư duy thiết kế", "định khung vấn đề", "needfinding", "cố định chức năng", "sáng tạo"]
 ---
 
