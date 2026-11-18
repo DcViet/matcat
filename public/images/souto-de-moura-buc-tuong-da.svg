@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="400" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Hai chỗ Souto de Moura đặt tường đá cạnh tường khác</text>
+
+  <!-- Ô trái: Chợ Braga -->
+  <text x="40" y="76" font-size="13" font-weight="600" fill="#1c1b19">Chợ Braga: hai thái độ vật chất</text>
+  <rect x="40" y="110" width="130" height="170" fill="#5f5b53"/>
+  <g stroke="#a8a498" stroke-width="1.5" fill="none">
+    <path d="M40 150H170M40 196H170M40 238H170"/>
+    <path d="M80 110V150M138 150V196M70 196V238M120 238V280M100 150V196"/>
+  </g>
+  <rect x="190" y="110" width="130" height="170" fill="#ffffff" stroke="#1c1b19" stroke-width="2"/>
+  <text x="105" y="302" text-anchor="middle" font-size="12" fill="#5f5b53">đá sẫm, để thô</text>
+  <text x="255" y="302" text-anchor="middle" font-size="12" fill="#5f5b53">bê tông sơn trắng</text>
+
+  <!-- Ô phải: Casa das Artes -->
+  <text x="400" y="76" font-size="13" font-weight="600" fill="#1c1b19">Casa das Artes: hai tường lệch pha ở cửa</text>
+  <text x="420" y="142" font-size="12" fill="#5f5b53">bê tông sơn xanh</text>
+  <rect x="420" y="150" width="150" height="14" fill="#a8a498" stroke="#1c1b19" stroke-width="1.5"/>
+  <rect x="590" y="190" width="130" height="14" fill="#5f5b53"/>
+  <text x="720" y="226" text-anchor="end" font-size="12" fill="#5f5b53">tường đá</text>
+  <path d="M580 262V112" stroke="#b4472e" stroke-width="2" stroke-dasharray="6 4" fill="none"/>
+  <path d="M574 122L580 110L586 122" stroke="#b4472e" stroke-width="2" fill="none"/>
+  <text x="580" y="100" text-anchor="middle" font-size="12" fill="#b4472e">lối vào</text>
+  <text x="580" y="282" text-anchor="middle" font-size="12" fill="#5f5b53">(mặt bằng, nhìn từ trên xuống)</text>
+
+  <path d="M24 336H736" stroke="#a8a498" stroke-width="1"/>
+  <text x="24" y="360" font-size="11.5" fill="#5f5b53">Sơ đồ ý niệm của người viết, không phải bản vẽ của công trình;</text>
+  <text x="24" y="378" font-size="11.5" fill="#5f5b53">hình dáng, vị trí và tỉ lệ chỉ để minh họa.</text>
+</svg>

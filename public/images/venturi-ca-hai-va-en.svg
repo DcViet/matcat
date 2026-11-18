@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="330" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">One kitchen, two ways of thinking</text>
+
+  <text x="24" y="72" font-weight="600" fill="#1c1b19">Either-or: one place, one job</text>
+  <rect x="40" y="96" width="140" height="92" rx="4" fill="none" stroke="#a8a498" stroke-width="1.5"/>
+  <text x="110" y="122" text-anchor="middle" font-weight="600" fill="#1c1b19">Kitchen to cook</text>
+  <text x="110" y="146" text-anchor="middle" font-size="11.5" fill="#5f5b53">standing, hot, noisy</text>
+  <text x="110" y="166" text-anchor="middle" font-size="11.5" fill="#5f5b53">does one job only</text>
+  <text x="206" y="146" text-anchor="middle" font-size="12" fill="#5f5b53">or</text>
+  <rect x="232" y="96" width="140" height="92" rx="4" fill="none" stroke="#a8a498" stroke-width="1.5"/>
+  <text x="302" y="122" text-anchor="middle" font-weight="600" fill="#1c1b19">Table to eat</text>
+  <text x="302" y="146" text-anchor="middle" font-size="11.5" fill="#5f5b53">seated, quiet, clean</text>
+  <text x="302" y="166" text-anchor="middle" font-size="11.5" fill="#5f5b53">does one job only</text>
+  <text x="206" y="228" text-anchor="middle" font-size="12" fill="#5f5b53">tidy and clear, but lots of walking</text>
+
+  <line x1="384" y1="60" x2="384" y2="250" stroke="#a8a498" stroke-width="1" stroke-dasharray="4 4"/>
+
+  <text x="404" y="72" font-weight="600" fill="#b4472e">Both-and: one place, two jobs</text>
+  <rect x="404" y="96" width="332" height="92" rx="4" fill="none" stroke="#b4472e" stroke-width="2"/>
+  <text x="570" y="122" text-anchor="middle" font-weight="600" fill="#1c1b19">A counter with stools</text>
+  <text x="570" y="146" text-anchor="middle" font-size="11.5" fill="#5f5b53">Inside: the cook stands, chopping</text>
+  <text x="570" y="166" text-anchor="middle" font-size="11.5" fill="#5f5b53">Outside: diners sit at the same stone top</text>
+  <text x="570" y="228" text-anchor="middle" font-size="12" fill="#5f5b53">a bit crowded, yet close together and compact</text>
+
+  <text x="24" y="296" font-size="11.5" fill="#5f5b53">Conceptual diagram by the writer, an invented example to illustrate "both-and";</text>
+  <text x="24" y="312" font-size="11.5" fill="#5f5b53">not a drawing of any building and not a figure from Venturi's book.</text>
+</svg>
