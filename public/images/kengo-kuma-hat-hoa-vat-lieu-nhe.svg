@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="360" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Hạt hóa: cùng một khối, hai cách xây</text>
+
+  <!-- Trái: khối đặc -->
+  <rect x="70" y="100" width="220" height="150" fill="#1c1b19"/>
+  <g stroke="#b4472e" stroke-width="2" stroke-dasharray="6 4">
+    <line x1="30" y1="150" x2="64" y2="150"/>
+    <line x1="30" y1="190" x2="64" y2="190"/>
+  </g>
+  <g stroke="#b4472e" stroke-width="2"><path d="M60 146l8 4-8 4M60 186l8 4-8 4" fill="none"/></g>
+  <text x="180" y="180" text-anchor="middle" fill="#ffffff" font-size="12">trong</text>
+  <text x="180" y="286" text-anchor="middle" font-weight="600" fill="#1c1b19">Khối đặc</text>
+  <text x="180" y="306" text-anchor="middle" font-size="11.5" fill="#5f5b53">chặn hết, ta chỉ thấy mặt ngoài</text>
+
+  <!-- Phải: khối chia thành lam -->
+  <rect x="450" y="100" width="10" height="150" fill="#1c1b19"/>
+  <rect x="474" y="100" width="10" height="150" fill="#1c1b19"/>
+  <rect x="498" y="100" width="10" height="150" fill="#1c1b19"/>
+  <rect x="522" y="100" width="10" height="150" fill="#1c1b19"/>
+  <rect x="546" y="100" width="10" height="150" fill="#1c1b19"/>
+  <rect x="570" y="100" width="10" height="150" fill="#1c1b19"/>
+  <rect x="594" y="100" width="10" height="150" fill="#1c1b19"/>
+  <rect x="618" y="100" width="10" height="150" fill="#1c1b19"/>
+  <rect x="642" y="100" width="10" height="150" fill="#1c1b19"/>
+  <rect x="666" y="100" width="10" height="150" fill="#1c1b19"/>
+  <rect x="450" y="94" width="226" height="6" fill="#a8a498"/>
+  <rect x="450" y="250" width="226" height="6" fill="#a8a498"/>
+  <g stroke="#b4472e" stroke-width="2" stroke-dasharray="6 4">
+    <line x1="400" y1="150" x2="700" y2="150"/>
+    <line x1="400" y1="190" x2="700" y2="190"/>
+  </g>
+  <g stroke="#b4472e" stroke-width="2" fill="none"><path d="M432 146l8 4-8 4M432 186l8 4-8 4"/></g>
+  <text x="400" y="132" font-size="11.5" fill="#5f5b53">ánh sáng</text>
+  <text x="563" y="286" text-anchor="middle" font-weight="600" fill="#1c1b19">Khối chia thành hạt (lam)</text>
+  <text x="563" y="306" text-anchor="middle" font-size="11.5" fill="#5f5b53">ánh sáng, gió, tầm nhìn lọt qua khe</text>
+
+  <line x1="380" y1="80" x2="380" y2="270" stroke="#a8a498" stroke-width="1"/>
+  <text x="24" y="330" font-size="11.5" fill="#5f5b53">Sơ đồ ý niệm của người viết, không phải bản vẽ của công trình nào.</text>
+  <text x="24" y="348" font-size="11.5" fill="#5f5b53">Kích thước hạt (dày, thưa, vật liệu) mới là điều Kuma nói là quyết định.</text>
+</svg>

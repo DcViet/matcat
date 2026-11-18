@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="330" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Chuỗi đi trên roji: mỗi chặng chậm lại, thấp xuống, sạch hơn một chút</text>
+  <polyline points="60,118 140,150 220,118 300,150 380,118 460,150 540,118 620,150 700,118" fill="none" stroke="#a8a498" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <circle cx="60" cy="118" r="7" fill="#ffffff" stroke="#5f5b53" stroke-width="1.5"/>
+  <text x="60" y="200" text-anchor="middle" font-size="11" fill="#1c1b19">cổng lớn</text>
+  <text x="60" y="215" text-anchor="middle" font-size="11" fill="#5f5b53">kiểu samurai</text>
+  <circle cx="140" cy="150" r="9" fill="#b4472e" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="140" y="200" text-anchor="middle" font-size="11" fill="#1c1b19">cổng zigzag</text>
+  <text x="140" y="215" text-anchor="middle" font-size="11" fill="#5f5b53">roji-mon</text>
+  <circle cx="220" cy="118" r="7" fill="#ffffff" stroke="#5f5b53" stroke-width="1.5"/>
+  <text x="220" y="200" text-anchor="middle" font-size="11" fill="#1c1b19">ghế chờ</text>
+  <text x="220" y="215" text-anchor="middle" font-size="11" fill="#5f5b53">ngoài</text>
+  <circle cx="300" cy="150" r="9" fill="#b4472e" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="300" y="200" text-anchor="middle" font-size="11" fill="#1c1b19">chậu nước</text>
+  <text x="300" y="215" text-anchor="middle" font-size="11" fill="#5f5b53">tsukubai</text>
+  <circle cx="380" cy="118" r="7" fill="#ffffff" stroke="#5f5b53" stroke-width="1.5"/>
+  <text x="380" y="200" text-anchor="middle" font-size="11" fill="#1c1b19">cổng chui</text>
+  <text x="380" y="215" text-anchor="middle" font-size="11" fill="#5f5b53">naka-kuguri</text>
+  <circle cx="460" cy="150" r="7" fill="#ffffff" stroke="#5f5b53" stroke-width="1.5"/>
+  <text x="460" y="200" text-anchor="middle" font-size="11" fill="#1c1b19">ghế chờ</text>
+  <text x="460" y="215" text-anchor="middle" font-size="11" fill="#5f5b53">trong</text>
+  <circle cx="540" cy="118" r="9" fill="#b4472e" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="540" y="200" text-anchor="middle" font-size="11" fill="#1c1b19">chậu nước</text>
+  <text x="540" y="215" text-anchor="middle" font-size="11" fill="#5f5b53">thứ hai</text>
+  <circle cx="620" cy="150" r="9" fill="#b4472e" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="620" y="200" text-anchor="middle" font-size="11" fill="#1c1b19">cổng chui</text>
+  <text x="620" y="215" text-anchor="middle" font-size="11" fill="#5f5b53">nijiri-guchi</text>
+  <circle cx="700" cy="118" r="7" fill="#ffffff" stroke="#5f5b53" stroke-width="1.5"/>
+  <text x="700" y="200" text-anchor="middle" font-size="11" fill="#1c1b19">nhà trà</text>
+  <text x="700" y="215" text-anchor="middle" font-size="11" fill="#5f5b53">ba chiếu</text>
+  <circle cx="34" cy="251" r="5" fill="#b4472e"/>
+  <text x="48" y="255" font-size="12" fill="#1c1b19">cổng zigzag: làm chậm bước chân</text>
+  <circle cx="34" cy="271" r="5" fill="#b4472e"/>
+  <text x="48" y="275" font-size="12" fill="#1c1b19">chậu nước đặt thấp: người rửa tay phải khom mình</text>
+  <circle cx="34" cy="291" r="5" fill="#b4472e"/>
+  <text x="48" y="295" font-size="12" fill="#1c1b19">cổng chui khoảng 2 × 2 ft: người đi phải cúi thấp để vào</text>
+  <text x="24" y="306" font-size="11" fill="#5f5b53">Sơ đồ ý niệm của người viết, dựa trên mô tả vườn Omote Senke</text>
+  <text x="24" y="321" font-size="11" fill="#5f5b53">trong sách của Nitschke. Không phải bản vẽ của một khu vườn cụ thể.</text>
+</svg>
