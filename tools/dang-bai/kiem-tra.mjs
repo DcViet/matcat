@@ -125,13 +125,10 @@ for (const b of bai) {
   if (doc(p).includes('—')) ghiLoi(p, 'có dấu gạch dài "—"');
   if (/\b(TODO|TBD|lorem ipsum)\b|\[\.\.\.\]|\[…\]/i.test(sach)) ghiLoi(p, 'còn chỗ giữ chỗ (TODO, [...])');
 
-  // Khối lưu ý cuối bài và dòng cho biết bài soạn tự động.
+  // Khối lưu ý cuối bài (không còn bắt buộc câu "soạn tự động": chủ trang đã bỏ yêu cầu này ngày 2026-11-18).
   const khoi = sach.trim().split(/\n{2,}/);
   const cuoi = khoi[khoi.length - 1] ?? '';
   if (!(en ? /^> \*\*Note/ : /^> \*\*Lưu ý/).test(cuoi)) ghiLoi(p, `khối cuối bài phải là "> **${en ? 'Note' : 'Lưu ý'}.**"`);
-  if (!(en ? /drafted automatically/i : /soạn tự động/i).test(cuoi)) {
-    ghiLoi(p, `khối ${en ? 'Note' : 'Lưu ý'} phải nói bài được ${en ? 'drafted automatically' : 'soạn tự động'} và chưa có người đọc lại`);
-  }
 
   // Ảnh và liên kết trong thân bài.
   for (const m of sach.matchAll(/!\[[^\]]*\]\((\/images\/[^)\s]+)\)/g)) {
