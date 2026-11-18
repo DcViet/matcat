@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import { CHE_DO, DU_AN } from '../lib/portfolio';
 import { duong, duongNgon } from '../lib/khu';
 import type { Lang } from '../lib/i18n';
+import '../styles/portfolio.css';
 
 interface Props {
   lang: Lang;
@@ -15,9 +16,9 @@ const T = {
     ten: 'Portfolio',
     mota: 'Một số dự án thiết kế kiến trúc và nội thất.',
     tieuDe: 'Dự án',
-    dan: 'Một số dự án thiết kế kiến trúc và nội thất. Phần ảnh nào là ảnh chụp công trình, phần nào là diễn họa đều có ghi rõ.',
-    xem: 'Xem dự án →',
-    quayLai: '← Tất cả dự án',
+    dan: 'Một số dự án thiết kế kiến trúc và nội thất. Ảnh nào là ảnh chụp công trình, ảnh nào là diễn họa đều có ghi rõ.',
+    hienThi: (n: number) => `Hiển thị ${n} / ${n} dự án`,
+    quayLai: 'Tất cả dự án',
     loai: 'Loại hình',
     diaDiem: 'Địa điểm',
     tinhTrang: 'Tình trạng',
@@ -25,19 +26,22 @@ const T = {
     thietKe: 'Thiết kế và diễn họa',
     yTuong: 'Ý tưởng',
     yeuCau: 'Yêu cầu',
+    thachGiai: 'Thách thức / Giải pháp',
     thach: 'Thách thức',
     giaiPhap: 'Giải pháp',
     thuVien: 'Hình ảnh',
-    anhChup: 'Ảnh chụp công trình',
-    anhDienHoa: 'Ảnh diễn họa (không phải công trình đã xây)',
+    anhChup: 'ảnh chụp công trình',
+    anhDienHoa: 'ảnh diễn họa, không phải công trình đã xây',
+    tiepTheo: 'Dự án tiếp theo',
+    cuon: 'Cuộn',
   },
   en: {
     ten: 'Portfolio',
     mota: 'A selection of architecture and interior design projects.',
-    tieuDe: 'Projects',
+    tieuDe: 'Work',
     dan: 'A selection of architecture and interior design projects. Each set of images is marked as a photograph of a built work or as a rendering.',
-    xem: 'View project →',
-    quayLai: '← All projects',
+    hienThi: (n: number) => `Showing ${n} of ${n} projects`,
+    quayLai: 'All projects',
     loai: 'Type',
     diaDiem: 'Location',
     tinhTrang: 'Status',
@@ -45,94 +49,188 @@ const T = {
     thietKe: 'Design and visualisation',
     yTuong: 'Concept',
     yeuCau: 'Brief',
-    thach: 'Challenges',
-    giaiPhap: 'Solutions',
+    thachGiai: 'Challenges / Solutions',
+    thach: 'Challenge',
+    giaiPhap: 'Solution',
     thuVien: 'Images',
-    anhChup: 'Photographs of the built work',
-    anhDienHoa: 'Renderings (not a built project)',
+    anhChup: 'photographs of the built work',
+    anhDienHoa: 'renderings, not a built project',
+    tiepTheo: 'Next project',
+    cuon: 'Scroll',
   },
 }[lang];
 
-const du = slug ? DU_AN.find((d) => d.slug === slug) : undefined;
+const idx = slug ? DU_AN.findIndex((d) => d.slug === slug) : -1;
+const du = idx >= 0 ? DU_AN[idx] : undefined;
+const tiep = du ? DU_AN[(idx + 1) % DU_AN.length] : undefined;
 const noindex = CHE_DO !== 'hien';
 const gocPf = duongNgon(lang, '/portfolio/');
+const tinhTrang = (s: string) => (s === 'completed' ? T.hoanThanh : T.thietKe);
 const diaDiem = du ? [du.location[lang], du.country[lang]].filter(Boolean).join(', ') : '';
 ---
 
 {
-  du ? (
-    <Base lang={lang} title={`${du.title[lang]} · ${T.ten}`} description={du.summary[lang]} image={du.cover} noindex={noindex}>
-      <article class="pf-du-an">
-        <p class="pf-quay-lai">
-          <a href={gocPf}>{T.quayLai}</a>
-        </p>
-        <header class="pf-dau">
-          <span class="nhan">{du.so}</span>
-          <h1>{du.title[lang]}</h1>
-          <p class="dan">{du.summary[lang]}</p>
-        </header>
-        <figure class="pf-bia">
-          <img src={duong(du.cover)} alt="" />
-        </figure>
-        <div class="pf-than">
-          <dl class="thong-so pf-thong-so">
-            <dt>{T.loai}</dt>
-            <dd>{du.typology[lang]}</dd>
-            {diaDiem && (
-              <>
-                <dt>{T.diaDiem}</dt>
-                <dd>{diaDiem}</dd>
-              </>
-            )}
-            <dt>{T.tinhTrang}</dt>
-            <dd>{du.status === 'completed' ? T.hoanThanh : T.thietKe}</dd>
-          </dl>
-          <div class="than-bai">
-            <h2>{T.yTuong}</h2>
-            <p>{du.concept[lang]}</p>
-            <h2>{T.yeuCau}</h2>
-            <p>{du.brief[lang]}</p>
-            <h2>{T.thach}</h2>
-            <ul>{du.challenges.map((c) => <li>{c[lang]}</li>)}</ul>
-            <h2>{T.giaiPhap}</h2>
-            <ul>{du.solutions.map((c) => <li>{c[lang]}</li>)}</ul>
+  du && tiep ? (
+    <Base lang={lang} title={`${du.title[lang]} · ${T.ten}`} description={du.summary[lang]} image={du.cover} noindex={noindex} fontThem>
+      <article class="pf">
+        <header class="pf-hero">
+          <img src={duong(du.cover)} alt="" fetchpriority="high" decoding="async" />
+          <div class="pf-hero-lop"></div>
+          <div class="pf-wrap pf-hero-khung">
+            <div class="pf-hero-tren pf-mono">
+              <a href={gocPf}>← {T.quayLai}</a>
+              <span>{du.so}</span>
+            </div>
+            <div class="pf-hero-duoi">
+              <p class="pf-mono pf-hero-loai">
+                {du.typology[lang]} · {tinhTrang(du.status)}
+              </p>
+              <h1 class="pf-disp pf-hero-ten">{du.title[lang]}</h1>
+              <p class="pf-lead pf-hero-lead">{du.summary[lang]}</p>
+            </div>
           </div>
-        </div>
-        <section class="pf-thu-vien">
-          <h2>{T.thuVien}</h2>
-          <p class="phu">{du.imageKind === 'render' ? T.anhDienHoa : T.anhChup}</p>
-          <div class="pf-luoi-anh">
-            {du.gallery.map((g, i) => (
-              <img src={duong(g)} alt={`${du.title[lang]}, ${i + 1}/${du.gallery.length}`} loading="lazy" decoding="async" />
-            ))}
+        </header>
+
+        <section class="pf-muc">
+          <div class="pf-wrap pf-y-tuong">
+            <aside class="pf-ben">
+              <dl class="pf-thong-so">
+                <dt class="pf-mono">{T.loai}</dt>
+                <dd>{du.typology[lang]}</dd>
+                {diaDiem && (
+                  <>
+                    <dt class="pf-mono">{T.diaDiem}</dt>
+                    <dd>{diaDiem}</dd>
+                  </>
+                )}
+                <dt class="pf-mono">{T.tinhTrang}</dt>
+                <dd>{tinhTrang(du.status)}</dd>
+              </dl>
+            </aside>
+            <div class="pf-chinh">
+              <p class="pf-mono pf-nhan-muc">01 — {T.yTuong}</p>
+              <p class="pf-disp pf-y-chinh pf-rv">{du.concept[lang]}</p>
+              <div class="pf-yeu-cau pf-rv">
+                <h2 class="pf-mono">{T.yeuCau}</h2>
+                <p>{du.brief[lang]}</p>
+              </div>
+            </div>
           </div>
         </section>
+
+        <section class="pf-muc pf-muc-nen">
+          <div class="pf-wrap">
+            <p class="pf-mono pf-nhan-muc">02 — {T.thachGiai}</p>
+            <div class="pf-cap">
+              {du.challenges.map((c, i) => (
+                <div class="pf-hang pf-rv">
+                  <span class="pf-disp pf-so-lon" aria-hidden="true">
+                    0{i + 1}
+                  </span>
+                  <div>
+                    <h3 class="pf-mono">{T.thach}</h3>
+                    <p>{c[lang]}</p>
+                  </div>
+                  <div>
+                    <h3 class="pf-mono pf-do">{T.giaiPhap}</h3>
+                    <p>{du.solutions[i]?.[lang]}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        <section class="pf-muc">
+          <div class="pf-wrap">
+            <p class="pf-mono pf-nhan-muc">
+              03 — {T.thuVien} · {du.imageKind === 'render' ? T.anhDienHoa : T.anhChup}
+            </p>
+            <div class="pf-tv">
+              {du.gallery.map((g, i) => (
+                <figure class={i % 3 === 0 ? 'pf-tv-rong pf-rv' : 'pf-rv'}>
+                  <img
+                    src={duong(g)}
+                    alt={`${du.title[lang]}, ${i + 1}/${du.gallery.length}`}
+                    loading={i === 0 ? 'eager' : 'lazy'}
+                    decoding="async"
+                  />
+                  <figcaption class="pf-mono">
+                    {String(i + 1).padStart(2, '0')} / {String(du.gallery.length).padStart(2, '0')}
+                  </figcaption>
+                </figure>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        <a class="pf-tiep" href={`${gocPf}${tiep.slug}/`}>
+          <div class="pf-wrap">
+            <p class="pf-mono">{T.tiepTheo} → {tiep.so}</p>
+            <p class="pf-disp pf-tiep-ten">{tiep.title[lang]}</p>
+          </div>
+        </a>
       </article>
     </Base>
   ) : (
-    <Base lang={lang} title={T.ten} description={T.mota} noindex={noindex}>
-      <section class="pf-dau">
-        <h1>{T.tieuDe}</h1>
-        <p class="dan">{T.dan}</p>
-      </section>
-      <ul class="pf-luoi">
-        {DU_AN.map((d) => (
-          <li class="the-bai pf-the">
-            <div class="anh-bai" aria-hidden="true">
-              <img src={duong(d.cover)} alt="" loading="lazy" decoding="async" width="800" height="600" />
-            </div>
-            <p class="phu">
-              <span class="nhan">{d.so}</span> {d.typology[lang]}
-            </p>
-            <h3>
-              <a class="phu-kin" href={`${gocPf}${d.slug}/`}>
-                {d.title[lang]}
-              </a>
-            </h3>
-            <p>{d.summary[lang]}</p>
-          </li>
-        ))}
-      </ul>
+    <Base lang={lang} title={T.ten} description={T.mota} noindex={noindex} fontThem>
+      <div class="pf">
+        <section class="pf-wrap pf-dau-trang">
+          <p class="pf-mono pf-nhan-muc pf-nhan-gach">
+            <span class="pf-do">⌀</span>
+            <i></i>
+            {T.ten}
+          </p>
+          <div class="pf-dau-luoi">
+            <h1 class="pf-disp pf-tieu-de">{T.tieuDe}</h1>
+            <p class="pf-lead">{T.dan}</p>
+          </div>
+        </section>
+        <div class="pf-ke"></div>
+        <section class="pf-wrap pf-ds">
+          <p class="pf-mono pf-dem">{T.hienThi(DU_AN.length)}</p>
+          <ul class="pf-luoi">
+            {DU_AN.map((d) => (
+              <li class="pf-rv">
+                <a class="pf-the" href={`${gocPf}${d.slug}/`}>
+                  <div class="pf-the-dau pf-mono">
+                    <span>
+                      <b class="pf-do">{d.so}</b> — {tinhTrang(d.status)}
+                    </span>
+                    <span>{d.typology[lang]}</span>
+                  </div>
+                  <div class="pf-the-anh">
+                    <img src={duong(d.cover)} alt="" loading="lazy" decoding="async" width="1200" height="900" />
+                  </div>
+                  <h2 class="pf-disp pf-the-ten">{d.title[lang]}</h2>
+                  <p class="pf-the-tomtat">{d.summary[lang]}</p>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </div>
     </Base>
   )
 }
+
+<script>
+  // Phần tử .pf-rv hiện dần khi cuộn tới. Không có JavaScript hoặc chọn giảm chuyển động: hiện ngay.
+  const giam = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const cacPhanTu = document.querySelectorAll<HTMLElement>('.pf-rv');
+  if (!giam && 'IntersectionObserver' in window && cacPhanTu.length > 0) {
+    document.documentElement.classList.add('pf-js');
+    const theoDoi = new IntersectionObserver(
+      (cacMuc) => {
+        for (const m of cacMuc) {
+          if (m.isIntersecting) {
+            m.target.classList.add('pf-hien');
+            theoDoi.unobserve(m.target);
+          }
+        }
+      },
+      { threshold: 0.12 },
+    );
+    cacPhanTu.forEach((e) => theoDoi.observe(e));
+  }
+</script>
