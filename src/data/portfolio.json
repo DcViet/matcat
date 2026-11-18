@@ -809,5 +809,78 @@
       "/portfolio/kid-thu-duc/23.webp",
       "/portfolio/kid-thu-duc/24.webp"
     ]
+  },
+  {
+    "slug": "celesta-rise",
+    "so": "013",
+    "title": {
+      "vi": "Celesta Rise",
+      "en": "Celesta Rise"
+    },
+    "typology": {
+      "vi": "Nội thất căn hộ",
+      "en": "Apartment interior"
+    },
+    "location": {
+      "vi": "Nhà Bè, TP. Hồ Chí Minh",
+      "en": "Nha Be, Ho Chi Minh City"
+    },
+    "country": {
+      "vi": "Việt Nam",
+      "en": "Vietnam"
+    },
+    "status": "design",
+    "imageKind": "render",
+    "summary": {
+      "vi": "Căn hộ hai phòng ngủ tông kem và gỗ sáng, điểm vài mảng xanh cobalt và đỏ đất nung.",
+      "en": "A two-bedroom apartment in cream and light timber, with a few touches of cobalt blue and terracotta red."
+    },
+    "concept": {
+      "vi": "Nền của căn hộ rất nhẹ: tường kem, sàn gỗ xương cá, đồ gỗ sáng. Màu chỉ xuất hiện ở vài chỗ chọn lọc: chiếc ghế xanh cobalt, bàn tròn đỏ đất nung, bức tranh treo tường và những tán lá lớn. Nhờ vậy phòng khách có điểm nhấn, còn các phòng ngủ vẫn yên.",
+      "en": "The backdrop is very light: cream walls, herringbone timber floors, pale timber furniture. Colour appears only in a few chosen places: a cobalt-blue chair, a round terracotta table, a painting on the wall and big leafy plants. So the living room has its accents while the bedrooms stay quiet."
+    },
+    "brief": {
+      "vi": "Nội thất một căn hộ hai phòng ngủ gồm phòng khách, khu ăn, bếp, hai phòng ngủ, phòng tắm và khu giặt.",
+      "en": "The interior of a two-bedroom apartment: living room, dining area, kitchen, two bedrooms, a bathroom and a laundry corner."
+    },
+    "challenges": [
+      {
+        "vi": "Căn hộ nhỏ cần có cá tính mà không bị chật.",
+        "en": "A small apartment needs character without feeling cramped."
+      },
+      {
+        "vi": "Phòng ngủ phải yên, còn phòng khách phải có sức sống.",
+        "en": "The bedrooms have to be calm, while the living room needs life."
+      }
+    ],
+    "solutions": [
+      {
+        "vi": "Nền kem và gỗ sáng giữ cho cả căn hộ thoáng, màu mạnh chỉ dùng ở vài món đồ.",
+        "en": "A cream and light-timber base keeps the whole apartment airy, and strong colour is used on only a few pieces."
+      },
+      {
+        "vi": "Phòng ngủ giữ tông kem, hồng đào và gỗ; phòng khách dùng xanh cobalt và đỏ đất nung.",
+        "en": "The bedrooms stay in cream, peach and timber, while the living room uses cobalt blue and terracotta."
+      }
+    ],
+    "cover": "/portfolio/celesta-rise/01.webp",
+    "gallery": [
+      "/portfolio/celesta-rise/01.webp",
+      "/portfolio/celesta-rise/02.webp",
+      "/portfolio/celesta-rise/03.webp",
+      "/portfolio/celesta-rise/04.webp",
+      "/portfolio/celesta-rise/05.webp",
+      "/portfolio/celesta-rise/06.webp",
+      "/portfolio/celesta-rise/07.webp",
+      "/portfolio/celesta-rise/08.webp"
+    ],
+    "phu": [
+      "/portfolio/celesta-rise/09.webp",
+      "/portfolio/celesta-rise/10.webp",
+      "/portfolio/celesta-rise/11.webp",
+      "/portfolio/celesta-rise/12.webp",
+      "/portfolio/celesta-rise/13.webp",
+      "/portfolio/celesta-rise/14.webp"
+    ]
   }
 ]
