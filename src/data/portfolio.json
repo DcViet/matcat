@@ -655,5 +655,159 @@
       "/portfolio/thom-esthetic/07.webp",
       "/portfolio/thom-esthetic/08.webp"
     ]
+  },
+  {
+    "slug": "van-phong",
+    "so": "011",
+    "title": {
+      "vi": "Văn phòng",
+      "en": "Office"
+    },
+    "typology": {
+      "vi": "Nội thất văn phòng",
+      "en": "Office interior"
+    },
+    "location": {
+      "vi": "",
+      "en": ""
+    },
+    "country": {
+      "vi": "Việt Nam",
+      "en": "Vietnam"
+    },
+    "status": "design",
+    "imageKind": "render",
+    "summary": {
+      "vi": "Văn phòng tông gỗ sáng và xanh lá đậm, có cây xanh, bàn làm việc bo tròn và quầy lễ tân cong.",
+      "en": "An office in light timber and deep green, with plants, rounded desks and a curved reception counter."
+    },
+    "concept": {
+      "vi": "Văn phòng giữ hai màu chính: gỗ sáng cho đồ nội thất và xanh lá đậm cho những mảng tường nhấn, thêm cây thật cho mềm đi. Quầy lễ tân và bàn làm việc đều bo tròn, nên cả căn phòng bớt đi vẻ cứng của một chỗ làm việc.",
+      "en": "The office keeps to two main colours: light timber for the furniture and deep green for accent walls, with real plants to soften it. The reception counter and desks are all rounded, so the room loses some of the stiffness of a workplace."
+    },
+    "brief": {
+      "vi": "Nội thất một văn phòng gồm quầy lễ tân, khu làm việc chung, phòng họp và một góc tiếp khách.",
+      "en": "The interior of an office with a reception counter, a shared work area, a meeting room and a seating corner."
+    },
+    "challenges": [
+      {
+        "vi": "Văn phòng cần nghiêm túc nhưng vẫn dễ chịu để ở cả ngày.",
+        "en": "An office has to feel professional, yet comfortable to spend a whole day in."
+      },
+      {
+        "vi": "Nhiều chức năng trên một mặt bằng gọn.",
+        "en": "Several functions share a compact plan."
+      }
+    ],
+    "solutions": [
+      {
+        "vi": "Gỗ sáng, xanh lá và cây thật làm không khí mềm đi, màu sắc vẫn giữ tiết chế.",
+        "en": "Light timber, green and real plants soften the atmosphere while the palette stays restrained."
+      },
+      {
+        "vi": "Phòng họp, khu làm việc chung và góc tiếp khách xếp liền nhau, mỗi khu có một đặc điểm riêng.",
+        "en": "The meeting room, the shared work area and the seating corner sit side by side, each with its own character."
+      }
+    ],
+    "cover": "/portfolio/van-phong/01.webp",
+    "gallery": [
+      "/portfolio/van-phong/01.webp",
+      "/portfolio/van-phong/02.webp",
+      "/portfolio/van-phong/03.webp",
+      "/portfolio/van-phong/04.webp",
+      "/portfolio/van-phong/05.webp",
+      "/portfolio/van-phong/06.webp"
+    ],
+    "phu": [
+      "/portfolio/van-phong/07.webp",
+      "/portfolio/van-phong/08.webp",
+      "/portfolio/van-phong/09.webp",
+      "/portfolio/van-phong/10.webp",
+      "/portfolio/van-phong/11.webp",
+      "/portfolio/van-phong/12.webp"
+    ]
+  },
+  {
+    "slug": "kid-thu-duc",
+    "so": "012",
+    "title": {
+      "vi": "Kid Thủ Đức",
+      "en": "Kid Thu Duc"
+    },
+    "typology": {
+      "vi": "Khu vui chơi và nhà hàng cho gia đình",
+      "en": "Family play space and restaurant"
+    },
+    "location": {
+      "vi": "Thủ Đức, TP. Hồ Chí Minh",
+      "en": "Thu Duc, Ho Chi Minh City"
+    },
+    "country": {
+      "vi": "Việt Nam",
+      "en": "Vietnam"
+    },
+    "status": "completed",
+    "imageKind": "photo",
+    "summary": {
+      "vi": "Khu vui chơi và nhà hàng cho gia đình có trẻ nhỏ, trong một ngôi nhà vàng nhiều màu, với ống trượt xoáy chạy giữa các bàn ăn.",
+      "en": "A play space and restaurant for families with young children, in a many-coloured yellow house, with a spiral slide running between the dining tables."
+    },
+    "concept": {
+      "vi": "Cả khu như một ngôi nhà đồ chơi lớn: mặt tiền vàng với khung cửa xanh ngọc, sân cỏ có cầu trượt, bên trong là gỗ ấm, gạch bông và những mảng đỏ, cam, xanh ngọc. Ống trượt xoáy chạy xuyên qua phòng ăn, để trẻ chơi mà cha mẹ vẫn ngồi ăn và nhìn thấy con.",
+      "en": "The whole place is like a big toy house: a yellow facade with turquoise frames, a lawn with a slide, and inside warm timber, patterned tiles and patches of red, orange and turquoise. A spiral slide runs through the dining room so children can play while parents eat and keep them in sight."
+    },
+    "brief": {
+      "vi": "Một nơi cho cả nhà: khu vui chơi, nhà banh, phòng ăn, chỗ tổ chức sinh nhật và những phòng vệ sinh nhiều màu.",
+      "en": "A place for the whole family: a play area, a ball pit, a dining room, a space for birthday parties and colourful restrooms."
+    },
+    "challenges": [
+      {
+        "vi": "Trẻ cần chạy nhảy, người lớn cần ngồi ăn và trông con.",
+        "en": "Children need to run around, adults need to sit, eat and watch them."
+      },
+      {
+        "vi": "Nhiều màu và nhiều họa tiết rất dễ thành rối.",
+        "en": "So many colours and patterns can easily turn chaotic."
+      }
+    ],
+    "solutions": [
+      {
+        "vi": "Khu vui chơi và phòng ăn nằm chung một không gian, nhà banh và ống trượt nhìn được từ bàn ăn.",
+        "en": "The play area and the dining room share one space, and the ball pit and slide can be seen from the tables."
+      },
+      {
+        "vi": "Mỗi khu giữ một bảng màu riêng, còn nền gỗ ấm và gạch bông nối các khu lại với nhau.",
+        "en": "Each zone keeps its own palette, while warm timber floors and patterned tiles tie them together."
+      }
+    ],
+    "cover": "/portfolio/kid-thu-duc/01.webp",
+    "gallery": [
+      "/portfolio/kid-thu-duc/01.webp",
+      "/portfolio/kid-thu-duc/02.webp",
+      "/portfolio/kid-thu-duc/03.webp",
+      "/portfolio/kid-thu-duc/04.webp",
+      "/portfolio/kid-thu-duc/05.webp",
+      "/portfolio/kid-thu-duc/06.webp",
+      "/portfolio/kid-thu-duc/07.webp",
+      "/portfolio/kid-thu-duc/08.webp"
+    ],
+    "phu": [
+      "/portfolio/kid-thu-duc/09.webp",
+      "/portfolio/kid-thu-duc/10.webp",
+      "/portfolio/kid-thu-duc/11.webp",
+      "/portfolio/kid-thu-duc/12.webp",
+      "/portfolio/kid-thu-duc/13.webp",
+      "/portfolio/kid-thu-duc/14.webp",
+      "/portfolio/kid-thu-duc/15.webp",
+      "/portfolio/kid-thu-duc/16.webp",
+      "/portfolio/kid-thu-duc/17.webp",
+      "/portfolio/kid-thu-duc/18.webp",
+      "/portfolio/kid-thu-duc/19.webp",
+      "/portfolio/kid-thu-duc/20.webp",
+      "/portfolio/kid-thu-duc/21.webp",
+      "/portfolio/kid-thu-duc/22.webp",
+      "/portfolio/kid-thu-duc/23.webp",
+      "/portfolio/kid-thu-duc/24.webp"
+    ]
   }
 ]

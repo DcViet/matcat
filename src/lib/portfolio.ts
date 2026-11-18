@@ -26,5 +26,7 @@ export interface DuAn {
   solutions: Chu[];
   cover: string;
   gallery: string[];
+  // Ảnh phụ: hiện nhỏ ở cuối trang, bên dưới các ảnh chính.
+  phu?: string[];
 }
 export const DU_AN = du_an as DuAn[];

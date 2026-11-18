@@ -30,6 +30,7 @@ const T = {
     thach: 'Chỗ khó',
     giaiPhap: 'Cách giải',
     thuVien: 'Hình ảnh',
+    themAnh: 'Thêm hình ảnh',
     anhDienHoa: 'ảnh diễn họa',
     tiepTheo: 'Dự án tiếp theo',
     cuon: 'Cuộn',
@@ -52,6 +53,7 @@ const T = {
     thach: 'Challenge',
     giaiPhap: 'Solution',
     thuVien: 'Images',
+    themAnh: 'More images',
     anhDienHoa: 'renderings',
     tiepTheo: 'Next project',
     cuon: 'Scroll',
@@ -161,6 +163,23 @@ const diaDiem = du ? [du.location[lang], du.country[lang]].filter(Boolean).join(
             </div>
           </div>
         </section>
+
+        {
+          du.phu && du.phu.length > 0 && (
+            <section class="pf-muc pf-phu">
+              <div class="pf-wrap">
+                <p class="pf-mono pf-nhan-muc">04 — {T.themAnh}</p>
+                <div class="pf-luoi-phu">
+                  {du.phu.map((g, i) => (
+                    <a href={duong(g)} target="_blank" rel="noopener" class="pf-rv">
+                      <img src={duong(g)} alt={`${du.title[lang]}, ${T.themAnh} ${i + 1}/${du.phu!.length}`} loading="lazy" decoding="async" />
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </section>
+          )
+        }
 
         <a class="pf-tiep" href={`${gocPf}${tiep.slug}/`}>
           <div class="pf-wrap">
