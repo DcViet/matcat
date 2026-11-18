@@ -62,6 +62,56 @@
       "/portfolio/mervyn/06.webp",
       "/portfolio/mervyn/07.webp",
       "/portfolio/mervyn/08.webp"
+    ],
+    "quyTrinh": [
+      {
+        "ten": {
+          "vi": "Mặt bằng",
+          "en": "Plan"
+        },
+        "anh": [
+          "/portfolio/mervyn/qt-01.webp",
+          "/portfolio/mervyn/qt-02.webp"
+        ],
+        "banVe": true
+      },
+      {
+        "ten": {
+          "vi": "Phối cảnh",
+          "en": "Visualisation"
+        },
+        "anh": [
+          "/portfolio/mervyn/qt-03.webp",
+          "/portfolio/mervyn/qt-04.webp",
+          "/portfolio/mervyn/qt-05.webp",
+          "/portfolio/mervyn/qt-06.webp"
+        ]
+      },
+      {
+        "ten": {
+          "vi": "Thi công",
+          "en": "Construction"
+        },
+        "anh": [
+          "/portfolio/mervyn/qt-07.webp",
+          "/portfolio/mervyn/qt-08.webp",
+          "/portfolio/mervyn/qt-09.webp",
+          "/portfolio/mervyn/qt-10.webp",
+          "/portfolio/mervyn/qt-11.webp"
+        ]
+      },
+      {
+        "ten": {
+          "vi": "Hoàn thiện",
+          "en": "Completed"
+        },
+        "anh": [
+          "/portfolio/mervyn/01.webp",
+          "/portfolio/mervyn/02.webp",
+          "/portfolio/mervyn/03.webp",
+          "/portfolio/mervyn/04.webp"
+        ]
+      }
     ]
   },
   {
@@ -398,6 +448,57 @@
       "/portfolio/hacchic-studio/18.webp",
       "/portfolio/hacchic-studio/19.webp",
       "/portfolio/hacchic-studio/20.webp"
+    ],
+    "quyTrinh": [
+      {
+        "ten": {
+          "vi": "Hiện trạng",
+          "en": "Existing condition"
+        },
+        "anh": [
+          "/portfolio/hacchic-studio/qt-21.webp",
+          "/portfolio/hacchic-studio/qt-22.webp",
+          "/portfolio/hacchic-studio/qt-23.webp",
+          "/portfolio/hacchic-studio/qt-24.webp"
+        ]
+      },
+      {
+        "ten": {
+          "vi": "Phối cảnh",
+          "en": "Visualisation"
+        },
+        "anh": [
+          "/portfolio/hacchic-studio/01.webp",
+          "/portfolio/hacchic-studio/02.webp",
+          "/portfolio/hacchic-studio/04.webp",
+          "/portfolio/hacchic-studio/06.webp"
+        ]
+      },
+      {
+        "ten": {
+          "vi": "Thi công",
+          "en": "Construction"
+        },
+        "anh": [
+          "/portfolio/hacchic-studio/09.webp",
+          "/portfolio/hacchic-studio/10.webp",
+          "/portfolio/hacchic-studio/11.webp",
+          "/portfolio/hacchic-studio/17.webp",
+          "/portfolio/hacchic-studio/18.webp"
+        ]
+      },
+      {
+        "ten": {
+          "vi": "Hoàn thiện",
+          "en": "Completed"
+        },
+        "anh": [
+          "/portfolio/hacchic-studio/13.webp",
+          "/portfolio/hacchic-studio/14.webp",
+          "/portfolio/hacchic-studio/15.webp",
+          "/portfolio/hacchic-studio/16.webp"
+        ]
+      }
     ]
   },
   {
@@ -656,6 +757,50 @@
       "/portfolio/thom-esthetic/06.webp",
       "/portfolio/thom-esthetic/07.webp",
       "/portfolio/thom-esthetic/08.webp"
+    ],
+    "quyTrinh": [
+      {
+        "ten": {
+          "vi": "Hiện trạng",
+          "en": "Existing condition"
+        },
+        "anh": [
+          "/portfolio/thom-esthetic/qt-01.webp"
+        ],
+        "banVe": true
+      },
+      {
+        "ten": {
+          "vi": "Mặt bằng",
+          "en": "Plan"
+        },
+        "anh": [
+          "/portfolio/thom-esthetic/qt-02.webp"
+        ],
+        "banVe": true
+      },
+      {
+        "ten": {
+          "vi": "Ý tưởng",
+          "en": "Concept"
+        },
+        "anh": [
+          "/portfolio/thom-esthetic/qt-03.webp",
+          "/portfolio/thom-esthetic/qt-04.webp"
+        ]
+      },
+      {
+        "ten": {
+          "vi": "Hoàn thiện",
+          "en": "Completed"
+        },
+        "anh": [
+          "/portfolio/thom-esthetic/01.webp",
+          "/portfolio/thom-esthetic/02.webp",
+          "/portfolio/thom-esthetic/03.webp",
+          "/portfolio/thom-esthetic/04.webp"
+        ]
+      }
     ]
   },
   {
@@ -883,6 +1028,40 @@
       "/portfolio/celesta-rise/12.webp",
       "/portfolio/celesta-rise/13.webp",
       "/portfolio/celesta-rise/14.webp"
+    ],
+    "quyTrinh": [
+      {
+        "ten": {
+          "vi": "Mặt bằng",
+          "en": "Plan"
+        },
+        "anh": [
+          "/portfolio/celesta-rise/14.webp"
+        ],
+        "banVe": true
+      },
+      {
+        "ten": {
+          "vi": "Ý tưởng",
+          "en": "Concept"
+        },
+        "anh": [
+          "/portfolio/celesta-rise/qt-01.webp",
+          "/portfolio/celesta-rise/qt-02.webp"
+        ]
+      },
+      {
+        "ten": {
+          "vi": "Phối cảnh",
+          "en": "Visualisation"
+        },
+        "anh": [
+          "/portfolio/celesta-rise/01.webp",
+          "/portfolio/celesta-rise/02.webp",
+          "/portfolio/celesta-rise/03.webp",
+          "/portfolio/celesta-rise/04.webp"
+        ]
+      }
     ]
   }
 ]

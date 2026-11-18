@@ -31,6 +31,7 @@ const T = {
     giaiPhap: 'Cách giải',
     thuVien: 'Hình ảnh',
     themAnh: 'Thêm hình ảnh',
+    quyTrinh: 'Quy trình thiết kế',
     anhDienHoa: 'ảnh diễn họa',
     tiepTheo: 'Dự án tiếp theo',
     cuon: 'Cuộn',
@@ -54,6 +55,7 @@ const T = {
     giaiPhap: 'Solution',
     thuVien: 'Images',
     themAnh: 'More images',
+    quyTrinh: 'Design process',
     anhDienHoa: 'renderings',
     tiepTheo: 'Next project',
     cuon: 'Scroll',
@@ -66,6 +68,10 @@ const tiep = du ? DU_AN[(idx + 1) % DU_AN.length] : undefined;
 const noindex = CHE_DO !== 'hien';
 const gocPf = duongNgon(lang, '/portfolio/');
 const tinhTrang = (s: string) => (s === 'completed' ? T.hoanThanh : T.thietKe);
+const dd = (n: number) => String(n).padStart(2, '0');
+const soQt = du?.quyTrinh?.length ? 3 : 0;
+const soTv = soQt ? 4 : 3;
+const soPhu = soTv + 1;
 const diaDiem = du ? [du.location[lang], du.country[lang]].filter(Boolean).join(', ') : '';
 ---
 
@@ -141,10 +147,37 @@ const diaDiem = du ? [du.location[lang], du.country[lang]].filter(Boolean).join(
           </div>
         </section>
 
+        {
+          du.quyTrinh && du.quyTrinh.length > 0 && (
+            <section class="pf-muc pf-muc-nen">
+              <div class="pf-wrap">
+                <p class="pf-mono pf-nhan-muc">{dd(soQt)} — {T.quyTrinh}</p>
+                <ol class="pf-qt">
+                  {du.quyTrinh.map((b, i) => (
+                    <li class="pf-qt-buoc pf-rv">
+                      <div class="pf-qt-dau">
+                        <span class="pf-disp pf-qt-so" aria-hidden="true">{dd(i + 1)}</span>
+                        <h3 class="pf-mono">{b.ten[lang]}</h3>
+                      </div>
+                      <div class={b.banVe ? 'pf-qt-anh pf-qt-ban-ve' : 'pf-qt-anh'}>
+                        {b.anh.map((g, k) => (
+                          <a href={duong(g)} target="_blank" rel="noopener">
+                            <img src={duong(g)} alt={`${du.title[lang]}, ${b.ten[lang]} ${k + 1}/${b.anh.length}`} loading="lazy" decoding="async" />
+                          </a>
+                        ))}
+                      </div>
+                    </li>
+                  ))}
+                </ol>
+              </div>
+            </section>
+          )
+        }
+
         <section class="pf-muc">
           <div class="pf-wrap">
             <p class="pf-mono pf-nhan-muc">
-              03 — {T.thuVien}{du.imageKind === 'render' ? ` · ${T.anhDienHoa}` : ''}
+              {dd(soTv)} — {T.thuVien}{du.imageKind === 'render' ? ` · ${T.anhDienHoa}` : ''}
             </p>
             <div class="pf-tv">
               {du.gallery.map((g, i) => (
@@ -168,7 +201,7 @@ const diaDiem = du ? [du.location[lang], du.country[lang]].filter(Boolean).join(
           du.phu && du.phu.length > 0 && (
             <section class="pf-muc pf-phu">
               <div class="pf-wrap">
-                <p class="pf-mono pf-nhan-muc">04 — {T.themAnh}</p>
+                <p class="pf-mono pf-nhan-muc">{dd(soPhu)} — {T.themAnh}</p>
                 <div class="pf-luoi-phu">
                   {du.phu.map((g, i) => (
                     <a href={duong(g)} target="_blank" rel="noopener" class="pf-rv">

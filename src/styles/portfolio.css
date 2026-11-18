@@ -517,3 +517,95 @@
 .pf-luoi-phu a:hover img {
   transform: scale(1.06);
 }
+
+/* Quy trình thiết kế: mỗi bước một hàng, tên bước bên trái, ảnh bên phải. */
+.pf-qt {
+  list-style: none;
+  margin: 8px 0 0;
+  padding: 0;
+}
+
+.pf-qt-buoc {
+  display: grid;
+  gap: 20px;
+  padding: 36px 0;
+  border-top: 1px solid var(--pf-ke);
+}
+
+.pf-qt-dau {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+}
+
+.pf-qt-dau h3 {
+  margin: 0;
+  color: rgb(23 25 22 / 0.7);
+}
+
+.pf-qt-so {
+  font-size: clamp(2.6rem, 5vw, 4.4rem);
+  line-height: 0.9;
+  color: var(--pf-dong);
+}
+
+@media (min-width: 900px) {
+  .pf-qt-buoc {
+    grid-template-columns: 232px minmax(0, 1fr);
+    gap: 48px;
+    padding: 48px 0;
+  }
+
+  .pf-qt-dau {
+    flex-direction: column;
+    gap: 14px;
+  }
+}
+
+.pf-qt-anh {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+@media (min-width: 700px) {
+  .pf-qt-anh {
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  }
+}
+
+.pf-qt-anh a {
+  display: block;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: var(--pf-giay);
+}
+
+.pf-qt-anh img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.pf-qt-anh a:hover img {
+  transform: scale(1.05);
+}
+
+/* Bản vẽ và mặt bằng: giữ nguyên tỉ lệ, nền trắng, mỗi bản vẽ rộng hơn ảnh thường. */
+.pf-qt-ban-ve {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.pf-qt-ban-ve a {
+  aspect-ratio: auto;
+  background: #fff;
+}
+
+.pf-qt-ban-ve img {
+  height: auto;
+  max-height: 560px;
+  object-fit: contain;
+}

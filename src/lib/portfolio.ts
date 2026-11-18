@@ -10,6 +10,12 @@ export const CO_PORTFOLIO = CHE_DO !== 'tat';
 export const HIEN_TREN_MENU = CHE_DO === 'hien';
 
 type Chu = Record<Lang, string>;
+export interface BuocQuyTrinh {
+  ten: Chu;
+  anh: string[];
+  // Bản vẽ, mặt bằng: hiện nguyên tỉ lệ trên nền trắng, không cắt.
+  banVe?: boolean;
+}
 export interface DuAn {
   slug: string;
   so: string;
@@ -28,5 +34,7 @@ export interface DuAn {
   gallery: string[];
   // Ảnh phụ: hiện nhỏ ở cuối trang, bên dưới các ảnh chính.
   phu?: string[];
+  // Quy trình thiết kế: các bước theo thứ tự, mỗi bước vài ảnh.
+  quyTrinh?: BuocQuyTrinh[];
 }
 export const DU_AN = du_an as DuAn[];
