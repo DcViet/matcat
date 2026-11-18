@@ -255,5 +255,263 @@
       "/portfolio/penthouse-quan-5/04.webp",
       "/portfolio/penthouse-quan-5/05.webp"
     ]
+  },
+  {
+    "slug": "empire-apartment",
+    "so": "005",
+    "title": {
+      "vi": "Empire Apartment",
+      "en": "Empire Apartment"
+    },
+    "typology": {
+      "vi": "Nội thất căn hộ",
+      "en": "Apartment interior"
+    },
+    "location": {
+      "vi": "",
+      "en": ""
+    },
+    "country": {
+      "vi": "Việt Nam",
+      "en": "Vietnam"
+    },
+    "status": "design",
+    "imageKind": "render",
+    "summary": {
+      "vi": "Căn hộ tông be và nâu ấm, có vòm cửa cong, kính khói và những góc đèn dịu.",
+      "en": "A warm beige-and-brown apartment with curved arches, smoked glass and soft pockets of light."
+    },
+    "concept": {
+      "vi": "Cả căn hộ dùng chung một gam be, nâu và gỗ ấm. Điều làm nó khác đi là những đường cong: vòm cửa tròn, tủ kính bo góc, bồn tắm kính khói. Đèn giấu trong trần và sau đầu giường tô thêm chiều sâu cho từng phòng.",
+      "en": "One palette of beige, brown and warm timber runs through the whole apartment. What sets it apart is the curve: round arches, a glass wardrobe with rounded corners, a smoked-glass bathtub. Lights hidden in the ceiling and behind the bedheads add depth to each room."
+    },
+    "brief": {
+      "vi": "Nội thất một căn hộ gồm phòng khách, bếp, phòng ăn, các phòng ngủ và phòng tắm, thêm một ban công trồng cây.",
+      "en": "The interior of an apartment: living room, kitchen, dining room, bedrooms and bathrooms, plus a balcony with plants."
+    },
+    "challenges": [
+      {
+        "vi": "Căn hộ có nhiều phòng nhưng nhìn vẫn phải thống nhất.",
+        "en": "The apartment has many rooms, yet it has to read as one."
+      },
+      {
+        "vi": "Giữ vẻ sang mà không lạnh.",
+        "en": "Keeping it refined without making it cold."
+      }
+    ],
+    "solutions": [
+      {
+        "vi": "Một gam màu và vật liệu chạy xuyên suốt, từ phòng khách tới phòng ngủ và phòng tắm.",
+        "en": "One palette and one set of materials run from the living room to the bedrooms and bathrooms."
+      },
+      {
+        "vi": "Gỗ ấm, vải và đèn gián tiếp làm dịu những mảng đá, kính và kim loại.",
+        "en": "Warm timber, fabric and indirect light soften the stone, glass and metal."
+      }
+    ],
+    "cover": "/portfolio/empire-apartment/01.webp",
+    "gallery": [
+      "/portfolio/empire-apartment/01.webp",
+      "/portfolio/empire-apartment/02.webp",
+      "/portfolio/empire-apartment/03.webp",
+      "/portfolio/empire-apartment/04.webp",
+      "/portfolio/empire-apartment/05.webp",
+      "/portfolio/empire-apartment/06.webp",
+      "/portfolio/empire-apartment/07.webp",
+      "/portfolio/empire-apartment/08.webp"
+    ]
+  },
+  {
+    "slug": "hacchic-studio",
+    "so": "006",
+    "title": {
+      "vi": "Hacchic Studio",
+      "en": "Hacchic Studio"
+    },
+    "typology": {
+      "vi": "Studio áo cưới",
+      "en": "Bridal studio"
+    },
+    "location": {
+      "vi": "",
+      "en": ""
+    },
+    "country": {
+      "vi": "Việt Nam",
+      "en": "Vietnam"
+    },
+    "status": "design",
+    "imageKind": "render",
+    "summary": {
+      "vi": "Studio áo cưới toàn một màu trắng, tường cong và vòm cửa làm không gian mềm đi.",
+      "en": "An all-white bridal studio where curved walls and arches soften the space."
+    },
+    "concept": {
+      "vi": "Tường, sàn, đồ nội thất trong studio đều trắng, nên hình khối phải làm việc thay cho màu sắc. Tường uốn cong, vòm cửa mở ra từng lớp không gian, và chiếc váy đặt giữa phòng thành điểm nhấn. Chỉ có một căn phòng nhỏ sơn hồng, như một bất ngờ.",
+      "en": "The walls, floor and furniture are all white, so form has to do the work of colour. Walls curve, arches open onto layer after layer of space, and the gown in the middle of the room becomes the accent. Only one small room is painted pink, as a surprise."
+    },
+    "brief": {
+      "vi": "Một studio áo cưới gồm khu trưng bày váy, khu ngồi tiếp khách và bàn làm việc.",
+      "en": "A bridal studio with a gown display, a seating area for clients and a work table."
+    },
+    "challenges": [
+      {
+        "vi": "Một không gian trắng hoàn toàn dễ thành lạnh và phẳng.",
+        "en": "An entirely white space can easily feel cold and flat."
+      },
+      {
+        "vi": "Váy cưới cần được nhìn rõ, nên nội thất không được tranh chỗ với nó.",
+        "en": "The gowns need to be seen clearly, so the furniture must not compete with them."
+      }
+    ],
+    "solutions": [
+      {
+        "vi": "Tường cong, vòm cửa và đèn hắt trần tạo chiều sâu mà không cần thêm màu.",
+        "en": "Curved walls, arches and cove lighting create depth without adding colour."
+      },
+      {
+        "vi": "Nội thất bo tròn, cùng tông trắng, lùi ra sau để chiếc váy ở giữa tầm nhìn.",
+        "en": "Rounded white furniture steps back and leaves the gown at the centre of the view."
+      }
+    ],
+    "cover": "/portfolio/hacchic-studio/01.webp",
+    "gallery": [
+      "/portfolio/hacchic-studio/01.webp",
+      "/portfolio/hacchic-studio/02.webp",
+      "/portfolio/hacchic-studio/03.webp",
+      "/portfolio/hacchic-studio/04.webp",
+      "/portfolio/hacchic-studio/05.webp",
+      "/portfolio/hacchic-studio/06.webp",
+      "/portfolio/hacchic-studio/07.webp",
+      "/portfolio/hacchic-studio/08.webp"
+    ]
+  },
+  {
+    "slug": "nha-ben-ho-boi",
+    "so": "007",
+    "title": {
+      "vi": "Nhà bên hồ bơi",
+      "en": "House by the Pool"
+    },
+    "typology": {
+      "vi": "Nhà nghỉ bên hồ bơi",
+      "en": "Pool house"
+    },
+    "location": {
+      "vi": "",
+      "en": ""
+    },
+    "country": {
+      "vi": "Việt Nam",
+      "en": "Vietnam"
+    },
+    "status": "design",
+    "imageKind": "render",
+    "summary": {
+      "vi": "Ngôi nhà mái dốc thấp bên hồ bơi, có tường đá, hiên gỗ và bãi cỏ, dựng cảnh cả ban ngày lẫn ban đêm.",
+      "en": "A low pitched-roof house beside a pool, with stone walls, a timber veranda and a lawn, shown by day and by night."
+    },
+    "concept": {
+      "vi": "Ngôi nhà nằm thấp, mái dốc nhẹ, mở hẳn ra hồ bơi và bãi cỏ. Tường đá đặc ở hai đầu giữ cho nhà vững, mặt giữa là kính và hiên gỗ. Ban đêm, đèn dưới nước, đèn hắt tường và đèn trần hiên làm hồ bơi thành nhân vật chính.",
+      "en": "The house sits low under a gently pitched roof and opens fully to the pool and the lawn. Solid stone walls at the ends hold it steady, and the middle is glass and a timber veranda. At night, underwater lights, wall washers and veranda ceiling lights make the pool the main character."
+    },
+    "brief": {
+      "vi": "Một ngôi nhà nghỉ giữa khu vườn, có gian ăn và quầy bar ngoài hiên, hồ bơi và bãi cỏ.",
+      "en": "A retreat house in a garden, with a dining area and bar on the veranda, a pool and a lawn."
+    },
+    "challenges": [
+      {
+        "vi": "Nhà và hồ bơi phải liền nhau, nhưng người ngồi ngoài hiên vẫn phải thấy được che chắn.",
+        "en": "House and pool must flow together, yet people on the veranda should still feel sheltered."
+      },
+      {
+        "vi": "Ban đêm cần đủ ánh sáng ấm mà không làm mất bóng cây quanh nhà.",
+        "en": "At night it needs enough warm light without losing the dark mass of the trees around it."
+      }
+    ],
+    "solutions": [
+      {
+        "vi": "Mái dốc thấp vươn ra phía hồ bơi, che cho hiên gỗ và gian ăn.",
+        "en": "A low pitched roof reaches toward the pool and covers the veranda and dining area."
+      },
+      {
+        "vi": "Đèn nhỏ rải theo mép hồ, dưới nước, trên mặt tường đá và trần hiên, còn cây quanh nhà vẫn để tối.",
+        "en": "Small lights run along the pool edge, under the water, over the stone wall and the veranda ceiling, while the trees are left dark."
+      }
+    ],
+    "cover": "/portfolio/nha-ben-ho-boi/01.webp",
+    "gallery": [
+      "/portfolio/nha-ben-ho-boi/01.webp",
+      "/portfolio/nha-ben-ho-boi/02.webp",
+      "/portfolio/nha-ben-ho-boi/03.webp",
+      "/portfolio/nha-ben-ho-boi/04.webp",
+      "/portfolio/nha-ben-ho-boi/05.webp",
+      "/portfolio/nha-ben-ho-boi/06.webp",
+      "/portfolio/nha-ben-ho-boi/07.webp",
+      "/portfolio/nha-ben-ho-boi/08.webp"
+    ]
+  },
+  {
+    "slug": "kid-tan-binh",
+    "so": "008",
+    "title": {
+      "vi": "Kid Tân Bình",
+      "en": "Kid Tan Binh"
+    },
+    "typology": {
+      "vi": "Khu vui chơi và quán cà phê cho trẻ em",
+      "en": "Children’s play space and café"
+    },
+    "location": {
+      "vi": "Tân Bình, TP. Hồ Chí Minh",
+      "en": "Tan Binh, Ho Chi Minh City"
+    },
+    "country": {
+      "vi": "Việt Nam",
+      "en": "Vietnam"
+    },
+    "status": "completed",
+    "imageKind": "photo",
+    "summary": {
+      "vi": "Khu vui chơi và quán cà phê cho trẻ em, nhiều màu pastel, vòm cửa cong và nhà banh.",
+      "en": "A children’s play space and café in pastel colours, with curved arches and a ball pit."
+    },
+    "concept": {
+      "vi": "Cả không gian dùng những hình tròn trịa mà trẻ em thích: vòm cửa, mặt bàn cong, ống trượt trong. Hồng, cam, tím và vàng được dùng rất rộng nhưng cùng một độ nhạt, nên căn phòng vui mà không chói.",
+      "en": "The whole space uses the rounded shapes children love: arches, curved tabletops, a clear slide. Pink, orange, purple and yellow are used generously but at the same soft tone, so the room is cheerful without glare."
+    },
+    "brief": {
+      "vi": "Một chỗ cho các bé chơi và cha mẹ ngồi chờ, gồm khu vui chơi, quầy bán đồ và khu ngồi uống nước.",
+      "en": "A place for children to play and parents to wait, with a play area, a shop counter and café seating."
+    },
+    "challenges": [
+      {
+        "vi": "Trẻ em cần chỗ chạy nhảy, còn người lớn cần chỗ ngồi yên và nhìn được con.",
+        "en": "Children need room to run, and adults need somewhere calm to sit and keep an eye on them."
+      },
+      {
+        "vi": "Nhiều màu rất dễ thành rối.",
+        "en": "So many colours can easily turn chaotic."
+      }
+    ],
+    "solutions": [
+      {
+        "vi": "Khu ngồi của người lớn đặt ngay cạnh khu chơi, chỉ ngăn bằng vòm cửa.",
+        "en": "The adults’ seating sits right beside the play area, separated only by arches."
+      },
+      {
+        "vi": "Màu nào cũng pha nhạt, và mỗi khu chỉ dùng hai ba màu.",
+        "en": "Every colour is kept pale, and each zone uses only two or three of them."
+      }
+    ],
+    "cover": "/portfolio/kid-tan-binh/01.webp",
+    "gallery": [
+      "/portfolio/kid-tan-binh/01.webp",
+      "/portfolio/kid-tan-binh/02.webp",
+      "/portfolio/kid-tan-binh/03.webp",
+      "/portfolio/kid-tan-binh/04.webp",
+      "/portfolio/kid-tan-binh/05.webp",
+      "/portfolio/kid-tan-binh/06.webp"
+    ]
   }
 ]
