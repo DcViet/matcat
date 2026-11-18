@@ -16,7 +16,7 @@ const anh = bai.data.cover;
 <div class="anh-bai" aria-hidden="true">
   {
     anh ? (
-      <img src={anh.startsWith('/') ? duong(anh) : anh} alt="" loading="lazy" />
+      <img src={anh.startsWith('/') ? duong(anh) : anh} alt="" width="400" height="300" loading="lazy" decoding="async" />
     ) : (
       <span class="o-gach">{timKhu(bai.khu).ten[lang]}</span>
     )
