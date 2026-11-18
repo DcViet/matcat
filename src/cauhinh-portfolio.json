@@ -1,4 +1,4 @@
 {
-  "cheDo": "tat",
+  "cheDo": "an",
   "ghiChu": "cheDo: \"tat\" = không có trang nào (mặc định, an toàn); \"an\" = trang có thật ở /portfolio/ nhưng không nằm trong menu, sitemap, và đặt noindex (ai có link mới xem được); \"hien\" = công khai, có trong menu và sitemap. Đổi giá trị rồi commit và đẩy lên."
 }
