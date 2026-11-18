@@ -582,5 +582,70 @@
       "/portfolio/her/07.webp",
       "/portfolio/her/08.webp"
     ]
+  },
+  {
+    "slug": "thom-esthetic",
+    "so": "010",
+    "title": {
+      "vi": "Thơm Esthetic",
+      "en": "Thom Esthetic"
+    },
+    "typology": {
+      "vi": "Salon nail và spa",
+      "en": "Nail and spa salon"
+    },
+    "location": {
+      "vi": "Thành phố Bà Rịa",
+      "en": "Ba Ria City"
+    },
+    "country": {
+      "vi": "Việt Nam",
+      "en": "Vietnam"
+    },
+    "status": "completed",
+    "imageKind": "photo",
+    "summary": {
+      "vi": "Salon nail và spa ở Bà Rịa, với những đường cong mềm, ánh sáng tự nhiên và nhiều cây xanh.",
+      "en": "A nail and spa salon in Ba Ria, with soft curves, natural light and plenty of greenery."
+    },
+    "concept": {
+      "vi": "Ý tưởng chạy xuyên suốt công trình là những đường cong mềm mại, uyển chuyển, mang tinh thần tự do, phóng khoáng và luôn nối không gian này với không gian kia. Mặt bằng nhận được nhiều ánh sáng tự nhiên, và những mảng xanh tươi mát được đặt hòa vào đó. Cả công trình lấy cảm hứng từ sự kết nối.",
+      "en": "The idea running through the building is soft, flowing curves, with a free and easy spirit that keeps linking one space to the next. The plan receives plenty of natural light, and fresh patches of greenery are woven into it. The whole project draws its inspiration from connection."
+    },
+    "brief": {
+      "vi": "Thiết kế và thi công một salon làm đẹp ở thành phố Bà Rịa, gồm khu làm móng, quầy lễ tân, phòng làm dịch vụ và chỗ ngồi thư giãn.",
+      "en": "Design and construction of a beauty salon in Ba Ria City, with a nail area, a reception counter, treatment rooms and relaxing seating."
+    },
+    "challenges": [
+      {
+        "vi": "Đưa ánh sáng tự nhiên vào sâu trong một mặt bằng dài.",
+        "en": "Bringing natural light deep into a long plan."
+      },
+      {
+        "vi": "Khách đến đây để làm dịch vụ, nhưng cũng cần một chỗ để thư giãn.",
+        "en": "Clients come for a service, but they also need somewhere to unwind."
+      }
+    ],
+    "solutions": [
+      {
+        "vi": "Mặt bằng tận dụng ánh sáng tự nhiên từ vị trí của nó, cây xanh đặt rải dọc đường đi.",
+        "en": "The plan makes full use of the natural light its position gives, with greenery placed along the way."
+      },
+      {
+        "vi": "Đường cong mềm, đèn hắt dịu và tông kem làm cả không gian chậm lại.",
+        "en": "Soft curves, gentle cove lighting and a cream palette slow the whole space down."
+      }
+    ],
+    "cover": "/portfolio/thom-esthetic/01.webp",
+    "gallery": [
+      "/portfolio/thom-esthetic/01.webp",
+      "/portfolio/thom-esthetic/02.webp",
+      "/portfolio/thom-esthetic/03.webp",
+      "/portfolio/thom-esthetic/04.webp",
+      "/portfolio/thom-esthetic/05.webp",
+      "/portfolio/thom-esthetic/06.webp",
+      "/portfolio/thom-esthetic/07.webp",
+      "/portfolio/thom-esthetic/08.webp"
+    ]
   }
 ]
