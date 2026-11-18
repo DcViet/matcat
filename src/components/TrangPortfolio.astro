@@ -32,6 +32,7 @@ const T = {
     thuVien: 'Hình ảnh',
     themAnh: 'Thêm hình ảnh',
     quyTrinh: 'Quy trình thiết kế',
+    cachLam: 'Quy trình làm việc →',
     anhDienHoa: 'ảnh diễn họa',
     tiepTheo: 'Dự án tiếp theo',
     cuon: 'Cuộn',
@@ -56,6 +57,7 @@ const T = {
     thuVien: 'Images',
     themAnh: 'More images',
     quyTrinh: 'Design process',
+    cachLam: 'How we work →',
     anhDienHoa: 'renderings',
     tiepTheo: 'Next project',
     cuon: 'Scroll',
@@ -111,6 +113,8 @@ const diaDiem = du ? [du.location[lang], du.country[lang]].filter(Boolean).join(
                 )}
                 <dt class="pf-mono">{T.tinhTrang}</dt>
                 <dd>{tinhTrang(du.status)}</dd>
+                <dt class="pf-mono">&nbsp;</dt>
+                <dd class="pf-mono"><a class="pf-lien-ket-nho" href={`${gocPf}quy-trinh/`}>{T.cachLam}</a></dd>
               </dl>
             </aside>
             <div class="pf-chinh">
@@ -233,7 +237,12 @@ const diaDiem = du ? [du.location[lang], du.country[lang]].filter(Boolean).join(
           </p>
           <div class="pf-dau-luoi">
             <h1 class="pf-disp pf-tieu-de">{T.tieuDe}</h1>
-            <p class="pf-lead">{T.dan}</p>
+            <div>
+              <p class="pf-lead pf-lead-mot-dong">{T.dan}</p>
+              <p class="pf-mono pf-lien-ket">
+                <a href={`${gocPf}quy-trinh/`}>{T.cachLam}</a>
+              </p>
+            </div>
           </div>
         </section>
         <div class="pf-ke"></div>

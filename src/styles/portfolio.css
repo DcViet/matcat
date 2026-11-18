@@ -469,7 +469,7 @@
 
 /* Câu mở đầu ngắn, giữ trên một dòng khi đủ chỗ. */
 @media (min-width: 700px) {
-  .pf-dau-luoi .pf-lead {
+  .pf-dau-luoi .pf-lead-mot-dong {
     white-space: nowrap;
   }
 }
@@ -608,4 +608,148 @@
   height: auto;
   max-height: 560px;
   object-fit: contain;
+}
+
+/* Trang quy trình làm việc. */
+.pf-tieu-de-vua {
+  font-size: clamp(3.4rem, 10vw, 9rem);
+  line-height: 0.9;
+}
+
+.pf-lien-ket {
+  margin: 22px 0 0;
+}
+
+.pf-lien-ket a,
+.pf-lien-ket-nho {
+  color: var(--pf-dong-chu);
+  border-bottom: 1px solid currentColor;
+}
+
+.pf-lien-ket-nho {
+  display: inline-block;
+  margin-top: 4px;
+}
+
+.pf-qtt-thanh {
+  min-width: 0;
+}
+
+.pf-qtt-chip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 20px;
+  margin: 0 0 14px;
+  color: rgb(23 25 22 / 0.6);
+}
+
+.pf-qtt-nd {
+  font-family: var(--chu-de);
+  font-size: clamp(17px, 1.5vw, 20px);
+  line-height: 1.65;
+  margin: 0;
+  max-width: 64ch;
+}
+
+.pf-hai-cot {
+  display: grid;
+  gap: 40px;
+  margin-top: 8px;
+}
+
+@media (min-width: 900px) {
+  .pf-hai-cot {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: clamp(40px, 6vw, 96px);
+  }
+}
+
+.pf-hai-cot h3 {
+  margin: 0 0 18px;
+  padding-top: 14px;
+  border-top: 1px solid rgb(23 25 22 / 0.4);
+}
+
+.pf-ds-chu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.pf-ds-chu li {
+  font-family: var(--chu-de);
+  font-size: 17px;
+  line-height: 1.6;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--pf-ke);
+}
+
+.pf-trich {
+  font-size: clamp(1.7rem, 3vw, 3rem);
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  max-width: 28ch;
+  margin-top: clamp(48px, 7vw, 96px);
+}
+
+.pf-tt-luoi {
+  display: grid;
+  gap: 32px;
+  margin-top: 8px;
+}
+
+@media (min-width: 800px) {
+  .pf-tt-luoi {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 48px;
+  }
+}
+
+.pf-tt-luoi > div {
+  border-top: 1px solid rgb(23 25 22 / 0.4);
+  padding-top: 18px;
+}
+
+.pf-tt-mo {
+  font-family: var(--chu-de);
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 14px 0 0;
+  max-width: 28ch;
+}
+
+.pf-tt-ghi {
+  margin: 40px 0 0;
+  color: rgb(23 25 22 / 0.65);
+}
+
+.pf-dk {
+  margin: 8px 0 0;
+}
+
+.pf-dk-hang {
+  display: grid;
+  gap: 10px;
+  padding: 28px 0;
+  border-top: 1px solid var(--pf-ke);
+}
+
+@media (min-width: 900px) {
+  .pf-dk-hang {
+    grid-template-columns: 232px minmax(0, 1fr);
+    gap: 48px;
+    padding: 36px 0;
+  }
+}
+
+.pf-dk-hang dt {
+  color: rgb(23 25 22 / 0.75);
+}
+
+.pf-dk-hang dd {
+  margin: 0;
+  font-family: var(--chu-de);
+  font-size: clamp(17px, 1.5vw, 20px);
+  line-height: 1.65;
+  max-width: 64ch;
 }

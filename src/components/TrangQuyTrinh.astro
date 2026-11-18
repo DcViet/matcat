@@ -1,0 +1,310 @@
+---
+import Base from '../layouts/Base.astro';
+import { CHE_DO } from '../lib/portfolio';
+import { duongNgon } from '../lib/khu';
+import type { Lang } from '../lib/i18n';
+import '../styles/portfolio.css';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const noindex = CHE_DO !== 'hien';
+const gocPf = duongNgon(lang, '/portfolio/');
+
+const ND = {
+  vi: {
+    ten: 'Quy trình làm việc',
+    mota: 'Từng giai đoạn làm gì, mất bao lâu, thanh toán thế nào và trách nhiệm của mỗi bên.',
+    quayLai: 'Tất cả dự án',
+    dan: 'Từ lần trao đổi đầu tiên đến ngày bàn giao hồ sơ: mỗi giai đoạn làm gì, mất bao lâu và thanh toán thế nào. Đọc trước để hai bên cùng hiểu rõ.',
+    cacGiaiDoan: 'Các giai đoạn',
+    tracNhiem: 'Trách nhiệm của hai bên',
+    thanhToan: 'Thanh toán',
+    dieuKhoan: 'Điều khoản cần lưu ý',
+    khoKhan: 'Những khó khăn thường gặp',
+    thoiGian: 'Thời gian',
+    thanhToanBuoc: 'Thanh toán',
+    benThietKe: 'Bên thiết kế',
+    chuDauTu: 'Chủ đầu tư',
+    luuYDeBai: 'Đề bài càng cụ thể thì thiết kế càng nhanh và đúng ý. Thông tin nhiều chiều sẽ gây nhiễu và dẫn tới sai sót, làm chậm tiến độ chung của cả công trình.',
+    ghiChuThanhToan: 'Giá trị hợp đồng tư vấn thiết kế đã bao gồm chi phí giám sát tác giả.',
+    buoc: [
+      {
+        ten: 'Trao đổi ban đầu và đo đạc',
+        tg: '3 đến 5 ngày',
+        tt: '',
+        nd: 'Chủ đầu tư gửi hồ sơ pháp lý của công trình: chứng chỉ quy hoạch, giấy chủ quyền đất hoặc nhà và các giấy tờ liên quan nếu có. Hai bên cũng nói về nhu cầu sử dụng: cần bao nhiêu phòng, hướng nhà, tài liệu phong thủy... Bên thiết kế đo đạc hiện trạng, rồi tư vấn sơ bộ về ý tưởng chung cho công trình.',
+      },
+      {
+        ten: 'Thiết kế sơ bộ',
+        tg: '6 đến 15 ngày, tùy độ phức tạp',
+        tt: '40%',
+        nd: 'Dựa trên những gì hai bên đã thỏa thuận, bên thiết kế lập hồ sơ sơ bộ gồm các mặt bằng và mặt đứng chính. Xong giai đoạn này, bên thiết kế nhận 40% chi phí thiết kế để làm tiếp.',
+      },
+      {
+        ten: 'Thống nhất phương án sơ bộ',
+        tg: '5 đến 15 ngày',
+        tt: '',
+        nd: 'Bên thiết kế trình bày ý tưởng của hồ sơ sơ bộ. Bản vẽ đầu tiên mất 6 đến 8 ngày, sau đó hai bên chỉnh sửa cho tới khi thống nhất, và chủ đầu tư được điều chỉnh tối đa 5 lần. Sau 5 ngày làm việc, bên thiết kế báo lại những điều về hiện trạng thực tế có ảnh hưởng đến thiết kế, rồi hoàn thiện thiết kế và xử lý các phần kỹ thuật như điện nước, kết cấu, vật liệu hoàn thiện. Chỉ khi các hạng mục này đã thống nhất, hai bên mới sang bước ra bản vẽ thi công.',
+      },
+      {
+        ten: 'Hồ sơ kỹ thuật thi công',
+        tg: '30 đến 45 ngày, tính từ lúc thống nhất hồ sơ sơ bộ',
+        tt: '50%',
+        nd: 'Từ bước này, phối cảnh không chỉnh lại nữa. Khoảng 7 đến 10 ngày đầu ra bản vẽ sơ bộ để báo giá thi công, 10 đến 15 ngày sau đó hoàn thiện bộ hồ sơ đầy đủ chi tiết, thống kê vật dụng, tìm mẫu và vật liệu để đề xuất với chủ đầu tư. Nếu gói thiết kế có phần nội thất, hai bên thỏa thuận thêm về trang trí nội thất (bố trí thiết bị, màu hoàn thiện ngoại thất và nội thất) trước khi bàn giao chính thức. Thời hạn có thể đổi theo tính chất và độ phức tạp của công trình, hoặc khi thiết kế có thay đổi. Xong giai đoạn này, bên thiết kế nhận 50% chi phí.',
+      },
+      {
+        ten: 'Bàn giao, nghiệm thu và thanh lý hợp đồng',
+        tg: '',
+        tt: '10%',
+        nd: 'Hai bên ngồi lại thống nhất các hạng mục trước khi hồ sơ được chuyển cho các bên thi công. Bên thiết kế giải thích kỹ về sản phẩm và những phát sinh có thể gặp khi thi công. Hồ sơ bàn giao gồm 2 bộ bản vẽ kỹ thuật thi công. Hai bên ký biên bản bàn giao và nghiệm thu, rồi thanh lý hợp đồng; bên thiết kế nhận 10% chi phí còn lại.',
+      },
+    ],
+    thietKe: [
+      'Giai đoạn ý tưởng: đưa ra sơ đồ công năng và hình ảnh về ý tưởng không gian, màu sắc cụ thể cho từng không gian, để chủ đầu tư hiểu rõ chức năng và mong muốn thiết kế của từng nơi.',
+      'Thiết kế đúng yêu cầu của chủ đầu tư về chức năng, thẩm mỹ và phong cách.',
+      'Giai đoạn thiết kế: giao phối cảnh và bản vẽ đầy đủ các góc, để chủ đầu tư hình dung được màu sắc và vật liệu của từng không gian, đúng tiến độ đã thỏa thuận.',
+      'Giải quyết các yêu cầu bổ sung đúng tiến độ, giữ công việc chạy theo thời gian đã thỏa thuận.',
+      'Phối hợp với các bên đối tác (kỹ thuật thi công, tổng thầu, giám sát...) để họ hiểu rõ thiết kế.',
+    ],
+    chuDauTuDs: [
+      'Cung cấp đầy đủ hồ sơ pháp lý phục vụ cho việc thiết kế.',
+      'Cung cấp các hạng mục cần thiết kế, yêu cầu và chức năng của công trình, nêu cụ thể quy mô từng khu, để bên thiết kế đề xuất được phương án phù hợp nhất với nhu cầu sử dụng.',
+      'Cho biết ngân sách của cả công trình. Điều này rất quan trọng, vì nó giúp bên thiết kế hình dung được quy mô và chọn được hình thức, vật liệu tối ưu.',
+      'Cho biết phong cách mong muốn, để bên thiết kế đi đúng đề bài về hình thức, không gian và màu sắc.',
+    ],
+    thanhToanDs: [
+      ['40%', 'Khi xong thiết kế sơ bộ'],
+      ['50%', 'Khi xong hồ sơ kỹ thuật thi công'],
+      ['10%', 'Khi bàn giao, nghiệm thu và thanh lý hợp đồng'],
+    ],
+    dieuKhoanDs: [
+      ['Giám sát tác giả', 'Trong lúc thi công, bên thiết kế giải đáp những thắc mắc về hồ sơ thiết kế, tại văn phòng của bên thiết kế hoặc ngay tại công trường nếu cần. Chủ đầu tư cử một người đại diện làm việc với bên thiết kế trong suốt thời gian này.'],
+      ['Yêu cầu đặc biệt', 'Bên thiết kế sẽ cố đáp ứng, nhưng yêu cầu cần được báo trước ít nhất 48 giờ. Bên thiết kế có quyền từ chối nếu thấy yêu cầu không hợp lý.'],
+      ['Thay đổi lớn', 'Nếu chủ đầu tư thay đổi lớn, ảnh hưởng tới hồ sơ đang làm, hai bên thỏa thuận lại giá trị và thời gian hợp đồng. Các thay đổi này được ghi bằng một phụ lục hợp đồng.'],
+      ['Quy trình làm việc', 'Bên thiết kế chủ động lập quy trình để đặt chất lượng thiết kế lên hàng đầu. Chỗ nào chủ đầu tư chưa đồng ý thì trao đổi trực tiếp. Nếu không thống nhất được quan điểm thiết kế hoặc quy trình, hai bên coi như kết thúc thỏa thuận làm việc.'],
+    ],
+    khoKhanDs: [
+      ['Khác biệt về phong cách', 'Chủ đầu tư và bên thiết kế có thể có quan điểm khác nhau, ví dụ một bên muốn truyền thống, bên kia muốn sáng tạo hơn. Cần thảo luận để tìm phương án hợp với cả hai.'],
+      ['Giới hạn ngân sách', 'Ngân sách hạn chế ảnh hưởng đến cách thiết kế và việc chọn vật liệu, thiết bị. Bên thiết kế đưa ra giải pháp tối ưu về chi phí mà chất lượng vẫn đạt yêu cầu.'],
+      ['Quy định và pháp luật', 'Thiết kế phải tuân thủ các quy định về thiết kế và xây dựng liên quan. Nếu không, công trình có thể bị cấm hoạt động hoặc bị phạt.'],
+      ['Khả năng thực hiện', 'Có thiết kế gặp khó khăn khi thực hiện vì yêu cầu kỹ thuật hoặc giới hạn về không gian. Bên thiết kế cần tìm giải pháp phù hợp.'],
+      ['Thay đổi yêu cầu', 'Chủ đầu tư có thể đổi yêu cầu hoặc đưa thêm yêu cầu mới giữa chừng. Việc này có thể làm tăng chi phí hoặc thời gian, nên hai bên cần thảo luận cách giải quyết.'],
+    ],
+  },
+  en: {
+    ten: 'How we work',
+    mota: 'What happens at each stage, how long it takes, how payment works and what each side is responsible for.',
+    quayLai: 'All projects',
+    dan: 'From the first conversation to the day the drawings are handed over: what happens at each stage, how long it takes and how payment works. Read it first so both sides understand.',
+    cacGiaiDoan: 'The stages',
+    tracNhiem: 'Responsibilities of both sides',
+    thanhToan: 'Payment',
+    dieuKhoan: 'Terms to note',
+    khoKhan: 'Common difficulties',
+    thoiGian: 'Time',
+    thanhToanBuoc: 'Payment',
+    benThietKe: 'The designer',
+    chuDauTu: 'The client',
+    luuYDeBai: 'The more specific the brief, the faster and closer to your wishes the design will be. Information pulling in many directions creates noise and mistakes, and slows the whole project down.',
+    ghiChuThanhToan: 'The design consultancy fee already includes author supervision.',
+    buoc: [
+      {
+        ten: 'First talks and site survey',
+        tg: '3 to 5 days',
+        tt: '',
+        nd: 'The client provides the legal documents for the project: the planning certificate, the land or house ownership papers and any other related documents. Both sides also talk about how the building will be used: how many rooms, the orientation, feng shui materials and so on. The designer surveys the existing condition, then gives preliminary advice on the general idea for the project.',
+      },
+      {
+        ten: 'Preliminary design',
+        tg: '6 to 15 days, depending on complexity',
+        tt: '40%',
+        nd: 'Based on what both sides have agreed, the designer prepares the preliminary file: the plans and the main elevations. At the end of this stage the designer receives 40% of the design fee to continue.',
+      },
+      {
+        ten: 'Agreeing the preliminary scheme',
+        tg: '5 to 15 days',
+        tt: '',
+        nd: 'The designer presents the ideas in the preliminary file. The first drawing takes 6 to 8 days, then both sides refine it until it is agreed, and the client may request up to 5 adjustments once the scheme is agreed. After 5 working days the designer reports back on anything in the real site conditions that affects the design, then completes the design and works through the technical parts such as plumbing and electrics, structure and finishing materials. Only when these items are agreed do the two sides move on to the construction drawings.',
+      },
+      {
+        ten: 'Technical construction drawings',
+        tg: '30 to 45 days, counted from agreeing the preliminary file',
+        tt: '50%',
+        nd: 'From this step the visualisations are no longer revised. About 7 to 10 days go to a preliminary set of drawings for pricing the construction, then 10 to 15 days to complete the full detailed set, the schedule of items and the search for samples and materials to propose to the client. If the design package includes interiors, both sides agree further on the interior decoration (placement of fittings, and the finishing colours outside and inside) before the official handover. The timing can change with the nature and complexity of the project, or when the design changes. At the end of this stage the designer receives 50% of the fee.',
+      },
+      {
+        ten: 'Handover, acceptance and closing the contract',
+        tg: '',
+        tt: '10%',
+        nd: 'Both sides sit down and agree the items before the file goes to the builders. The designer explains the product carefully, and the extras that may arise during construction. The handover consists of 2 sets of technical construction drawings. Both sides sign the handover and acceptance record, then close the contract, and the designer receives the remaining 10% of the fee.',
+      },
+    ],
+    thietKe: [
+      'At the concept stage: provide a functional diagram and images of the spatial idea and specific colours for each space, so the client understands the function and the design intent of each place.',
+      'Design to the client’s requirements for function, aesthetics and style.',
+      'At the design stage: deliver visualisations and drawings from every angle, so the client can picture the colours and materials of each space, on the agreed schedule.',
+      'Deal with additional requests on schedule, keeping the work running to the agreed timeline.',
+      'Work with the other parties (construction engineers, the main contractor, supervisors and so on) so they understand the design.',
+    ],
+    chuDauTuDs: [
+      'Provide the full legal documents needed for the design.',
+      'Provide the items to be designed, the requirements and functions of the project, with the size of each zone, so the designer can propose the scheme that best fits how it will be used.',
+      'Tell the designer the budget for the whole project. This matters a great deal, because it lets the designer picture the scale and choose the best form and materials.',
+      'Tell the designer the style you want, so the designer follows your brief on form, space and colour.',
+    ],
+    thanhToanDs: [
+      ['40%', 'When the preliminary design is complete'],
+      ['50%', 'When the technical construction drawings are complete'],
+      ['10%', 'At handover, acceptance and closing of the contract'],
+    ],
+    dieuKhoanDs: [
+      ['Author supervision', 'During construction the designer answers questions about the design file, at the designer’s office or on site if needed. The client appoints one representative to work with the designer throughout.'],
+      ['Special requests', 'The designer will try to accommodate them, but they must be given at least 48 hours in advance. The designer may refuse a request that seems unreasonable.'],
+      ['Major changes', 'If the client makes a major change that affects the file in progress, both sides agree the contract value and timeline again. Such changes are recorded in a contract appendix.'],
+      ['Way of working', 'The designer takes the lead in setting the process so that design quality comes first. Anything the client does not agree with is discussed directly. If the two sides cannot agree on the design approach or the process, the working agreement is considered ended.'],
+    ],
+    khoKhanDs: [
+      ['Differences in style', 'The client and the designer may hold different views, for example one wanting traditional and the other more inventive. A conversation is needed to find a solution that suits both.'],
+      ['Budget limits', 'A limited budget shapes the design and the choice of materials and equipment. The designer offers the most cost-effective solution that still meets the required quality.'],
+      ['Regulations and the law', 'The design must follow the relevant design and construction regulations. If not, the premises may be banned from operating or fined.'],
+      ['Feasibility', 'Some designs are hard to carry out because of technical requirements or limits on space. The designer needs to find a suitable solution.'],
+      ['Changing requirements', 'The client may change requirements or add new ones along the way. This can raise cost or time, so both sides need to discuss how to handle it.'],
+    ],
+  },
+}[lang];
+---
+
+<Base lang={lang} title={ND.ten} description={ND.mota} noindex={noindex} fontThem>
+  <div class="pf">
+    <section class="pf-wrap pf-dau-trang">
+      <p class="pf-mono pf-nhan-muc pf-nhan-gach">
+        <a href={gocPf}>← {ND.quayLai}</a>
+      </p>
+      <div class="pf-dau-luoi">
+        <h1 class="pf-disp pf-tieu-de pf-tieu-de-vua">{ND.ten}</h1>
+        <p class="pf-lead">{ND.dan}</p>
+      </div>
+    </section>
+
+    <section class="pf-muc pf-muc-nen">
+      <div class="pf-wrap">
+        <p class="pf-mono pf-nhan-muc">01 — {ND.cacGiaiDoan}</p>
+        <ol class="pf-qt">
+          {
+            ND.buoc.map((b, i) => (
+              <li class="pf-qt-buoc pf-rv">
+                <div class="pf-qt-dau">
+                  <span class="pf-disp pf-qt-so" aria-hidden="true">{String(i + 1).padStart(2, '0')}</span>
+                  <h3 class="pf-mono">{b.ten}</h3>
+                </div>
+                <div class="pf-qtt-thanh">
+                  <p class="pf-qtt-chip pf-mono">
+                    {b.tg && <span>{ND.thoiGian}: {b.tg}</span>}
+                    {b.tt && <span class="pf-do">{ND.thanhToanBuoc}: {b.tt}</span>}
+                  </p>
+                  <p class="pf-qtt-nd">{b.nd}</p>
+                </div>
+              </li>
+            ))
+          }
+        </ol>
+      </div>
+    </section>
+
+    <section class="pf-muc">
+      <div class="pf-wrap">
+        <p class="pf-mono pf-nhan-muc">02 — {ND.tracNhiem}</p>
+        <div class="pf-hai-cot">
+          <div class="pf-rv">
+            <h3 class="pf-mono pf-do">{ND.benThietKe}</h3>
+            <ul class="pf-ds-chu">{ND.thietKe.map((t) => <li>{t}</li>)}</ul>
+          </div>
+          <div class="pf-rv">
+            <h3 class="pf-mono pf-do">{ND.chuDauTu}</h3>
+            <ul class="pf-ds-chu">{ND.chuDauTuDs.map((t) => <li>{t}</li>)}</ul>
+          </div>
+        </div>
+        <p class="pf-disp pf-trich pf-rv">{ND.luuYDeBai}</p>
+      </div>
+    </section>
+
+    <section class="pf-muc pf-muc-nen">
+      <div class="pf-wrap">
+        <p class="pf-mono pf-nhan-muc">03 — {ND.thanhToan}</p>
+        <div class="pf-tt-luoi">
+          {
+            ND.thanhToanDs.map(([so, mo]) => (
+              <div class="pf-rv">
+                <span class="pf-disp pf-so-lon">{so}</span>
+                <p class="pf-tt-mo">{mo}</p>
+              </div>
+            ))
+          }
+        </div>
+        <p class="pf-mono pf-tt-ghi">{ND.ghiChuThanhToan}</p>
+      </div>
+    </section>
+
+    <section class="pf-muc">
+      <div class="pf-wrap">
+        <p class="pf-mono pf-nhan-muc">04 — {ND.dieuKhoan}</p>
+        <dl class="pf-dk">
+          {
+            ND.dieuKhoanDs.map(([t, n]) => (
+              <div class="pf-dk-hang pf-rv">
+                <dt class="pf-mono">{t}</dt>
+                <dd>{n}</dd>
+              </div>
+            ))
+          }
+        </dl>
+      </div>
+    </section>
+
+    <section class="pf-muc pf-muc-nen">
+      <div class="pf-wrap">
+        <p class="pf-mono pf-nhan-muc">05 — {ND.khoKhan}</p>
+        <dl class="pf-dk">
+          {
+            ND.khoKhanDs.map(([t, n], i) => (
+              <div class="pf-dk-hang pf-rv">
+                <dt class="pf-mono"><span class="pf-do">{String(i + 1).padStart(2, '0')}</span> {t}</dt>
+                <dd>{n}</dd>
+              </div>
+            ))
+          }
+        </dl>
+      </div>
+    </section>
+
+    <a class="pf-tiep" href={gocPf}>
+      <div class="pf-wrap">
+        <p class="pf-mono">← {ND.quayLai}</p>
+      </div>
+    </a>
+  </div>
+</Base>
+
+<script>
+  // Phần tử .pf-rv hiện dần khi cuộn tới. Không có JavaScript hoặc chọn giảm chuyển động: hiện ngay.
+  const giam = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const cacPhanTu = document.querySelectorAll<HTMLElement>('.pf-rv');
+  if (!giam && 'IntersectionObserver' in window && cacPhanTu.length > 0) {
+    document.documentElement.classList.add('pf-js');
+    const theoDoi = new IntersectionObserver(
+      (cacMuc) => {
+        for (const m of cacMuc) {
+          if (m.isIntersecting) {
+            m.target.classList.add('pf-hien');
+            theoDoi.unobserve(m.target);
+          }
+        }
+      },
+      { threshold: 0.12 },
+    );
+    cacPhanTu.forEach((e) => theoDoi.observe(e));
+  }
+</script>
