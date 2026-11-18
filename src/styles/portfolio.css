@@ -753,3 +753,74 @@
   line-height: 1.65;
   max-width: 64ch;
 }
+
+/* Chi phí thiết kế. */
+.pf-gia-luoi {
+  display: grid;
+  gap: 40px;
+  margin-top: 8px;
+}
+
+@media (min-width: 900px) {
+  .pf-gia-luoi {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: clamp(40px, 6vw, 96px);
+    align-items: start;
+  }
+}
+
+.pf-gia-the {
+  border-top: 1px solid rgb(23 25 22 / 0.4);
+  padding-top: 18px;
+}
+
+.pf-gia-the > p {
+  margin: 0;
+}
+
+.pf-gia-so {
+  font-size: clamp(2.2rem, 4.6vw, 4.2rem);
+  line-height: 1;
+  margin: 18px 0 6px;
+  color: var(--pf-ink);
+}
+
+.pf-gia-dv {
+  color: rgb(23 25 22 / 0.6);
+  margin-bottom: 22px;
+}
+
+.pf-he-so {
+  margin-top: clamp(48px, 7vw, 96px);
+  padding-top: 28px;
+  border-top: 1px solid var(--pf-ke);
+}
+
+.pf-he-so h3 {
+  margin: 0 0 14px;
+  color: rgb(23 25 22 / 0.75);
+}
+
+.pf-he-so-ds {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1px;
+  margin: 26px 0 0;
+  background: var(--pf-ke);
+}
+
+.pf-he-so-ds > div {
+  background: var(--pf-giay);
+  padding: 20px 18px 22px;
+}
+
+.pf-he-so-ds dt {
+  color: rgb(23 25 22 / 0.65);
+}
+
+.pf-he-so-ds dd {
+  margin: 8px 0 0;
+  font-size: clamp(1.6rem, 2.6vw, 2.4rem);
+  line-height: 1;
+  color: var(--pf-dong-chu);
+}

@@ -22,6 +22,7 @@ const ND = {
     cacGiaiDoan: 'Các giai đoạn',
     tracNhiem: 'Trách nhiệm của hai bên',
     thanhToan: 'Thanh toán',
+    chiPhi: 'Chi phí thiết kế',
     dieuKhoan: 'Điều khoản cần lưu ý',
     khoKhan: 'Những khó khăn thường gặp',
     thoiGian: 'Thời gian',
@@ -75,6 +76,46 @@ const ND = {
       'Cho biết ngân sách của cả công trình. Điều này rất quan trọng, vì nó giúp bên thiết kế hình dung được quy mô và chọn được hình thức, vật liệu tối ưu.',
       'Cho biết phong cách mong muốn, để bên thiết kế đi đúng đề bài về hình thức, không gian và màu sắc.',
     ],
+    goiTen: 'Gói thiết kế 1',
+    donVi: 'đ/m²',
+    goi: [
+      {
+        ten: 'Kiến trúc',
+        gia: '250.000 – 350.000',
+        ds: [
+          'Hồ sơ xin phép xây dựng',
+          'Hồ sơ thiết kế kiến trúc, bản vẽ 2D: các mặt bằng, mặt cắt, chi tiết cầu thang, chi tiết lan can, chi tiết và thống kê cửa',
+          'Bản vẽ 3D: phối cảnh ngoài nhà, và phối cảnh nội thất các phòng chính (phòng khách, bếp và phòng ăn, phòng sinh hoạt chung, các phòng ngủ)',
+          'Hồ sơ thiết kế cấp điện',
+          'Hồ sơ thiết kế cấp thoát nước',
+          'Bảng khái toán công trình',
+          'Mô hình ý tưởng không gian',
+          'Công tác giám sát tác giả',
+          'Giám sát định kỳ để bảo đảm việc thi công xây lắp đúng hồ sơ thiết kế đã bàn giao',
+        ],
+      },
+      {
+        ten: 'Nội thất',
+        gia: '300.000 – 400.000',
+        ds: [
+          'Hồ sơ thiết kế, bản vẽ 3D: phối cảnh ngoài nhà, và phối cảnh nội thất các phòng chính (phòng khách, bếp và phòng ăn, phòng sinh hoạt chung, các phòng ngủ)',
+          'Bảng khái toán công trình',
+          'Công tác giám sát tác giả',
+          'Giám sát định kỳ để bảo đảm việc thi công xây lắp đúng hồ sơ thiết kế đã bàn giao',
+        ],
+      },
+    ],
+    vat: 'Đơn giá thiết kế nêu trên chưa gồm thuế VAT (10%).',
+    heSoTen: 'Hệ số theo diện tích',
+    heSoMo: 'Tùy diện tích công trình, đơn giá thiết kế được nhân với một hệ số k:',
+    heSo: [
+      ['Trên 450 m²', '0,8'],
+      ['Trên 350 m²', '0,9'],
+      ['150 đến 350 m²', '1'],
+      ['50 đến 150 m²', '1,4'],
+      ['Dưới 50 m²', '1,8'],
+    ],
+    heSoDonVi: 'Tính theo tổng diện tích sàn',
     thanhToanDs: [
       ['40%', 'Khi xong thiết kế sơ bộ'],
       ['50%', 'Khi xong hồ sơ kỹ thuật thi công'],
@@ -102,6 +143,7 @@ const ND = {
     cacGiaiDoan: 'The stages',
     tracNhiem: 'Responsibilities of both sides',
     thanhToan: 'Payment',
+    chiPhi: 'Design fees',
     dieuKhoan: 'Terms to note',
     khoKhan: 'Common difficulties',
     thoiGian: 'Time',
@@ -155,6 +197,46 @@ const ND = {
       'Tell the designer the budget for the whole project. This matters a great deal, because it lets the designer picture the scale and choose the best form and materials.',
       'Tell the designer the style you want, so the designer follows your brief on form, space and colour.',
     ],
+    goiTen: 'Package 1',
+    donVi: 'VND/m²',
+    goi: [
+      {
+        ten: 'Architecture',
+        gia: '250,000 – 350,000',
+        ds: [
+          'Building permit application file',
+          'Architectural design file, 2D drawings: plans, sections, stair details, balustrade details, door details and schedule',
+          '3D drawings: exterior visualisations, and interior visualisations of the main rooms (living room, kitchen and dining, family room, bedrooms)',
+          'Electrical design file',
+          'Water supply and drainage design file',
+          'Project cost estimate',
+          'Concept model of the space',
+          'Author supervision',
+          'Periodic supervision to make sure construction follows the handed-over design file',
+        ],
+      },
+      {
+        ten: 'Interiors',
+        gia: '300,000 – 400,000',
+        ds: [
+          'Design file, 3D drawings: exterior visualisations, and interior visualisations of the main rooms (living room, kitchen and dining, family room, bedrooms)',
+          'Project cost estimate',
+          'Author supervision',
+          'Periodic supervision to make sure construction follows the handed-over design file',
+        ],
+      },
+    ],
+    vat: 'The design rates above do not include VAT (10%).',
+    heSoTen: 'Area factor',
+    heSoMo: 'Depending on the floor area of the project, the design rate is multiplied by a factor k:',
+    heSo: [
+      ['Over 450 m²', '0.8'],
+      ['Over 350 m²', '0.9'],
+      ['150 to 350 m²', '1'],
+      ['50 to 150 m²', '1.4'],
+      ['Under 50 m²', '1.8'],
+    ],
+    heSoDonVi: 'Based on total floor area',
     thanhToanDs: [
       ['40%', 'When the preliminary design is complete'],
       ['50%', 'When the technical construction drawings are complete'],
@@ -250,7 +332,38 @@ const ND = {
 
     <section class="pf-muc">
       <div class="pf-wrap">
-        <p class="pf-mono pf-nhan-muc">04 — {ND.dieuKhoan}</p>
+        <p class="pf-mono pf-nhan-muc">04 — {ND.chiPhi}</p>
+        <div class="pf-gia-luoi">
+          {
+            ND.goi.map((g) => (
+              <div class="pf-gia-the pf-rv">
+                <p class="pf-mono pf-do">{g.ten} · {ND.goiTen}</p>
+                <p class="pf-disp pf-gia-so">{g.gia}</p>
+                <p class="pf-mono pf-gia-dv">{ND.donVi}</p>
+                <ul class="pf-ds-chu">{g.ds.map((t) => <li>{t}</li>)}</ul>
+              </div>
+            ))
+          }
+        </div>
+        <div class="pf-he-so pf-rv">
+          <h3 class="pf-mono">{ND.heSoTen}</h3>
+          <p class="pf-qtt-nd">{ND.heSoMo}</p>
+          <dl class="pf-he-so-ds">
+            {ND.heSo.map(([dt, k]) => (
+              <div>
+                <dt class="pf-mono">{dt}</dt>
+                <dd class="pf-disp">k = {k}</dd>
+              </div>
+            ))}
+          </dl>
+          <p class="pf-mono pf-tt-ghi">{ND.heSoDonVi} · {ND.vat}</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="pf-muc pf-muc-nen">
+      <div class="pf-wrap">
+        <p class="pf-mono pf-nhan-muc">05 — {ND.dieuKhoan}</p>
         <dl class="pf-dk">
           {
             ND.dieuKhoanDs.map(([t, n]) => (
@@ -264,9 +377,9 @@ const ND = {
       </div>
     </section>
 
-    <section class="pf-muc pf-muc-nen">
+    <section class="pf-muc">
       <div class="pf-wrap">
-        <p class="pf-mono pf-nhan-muc">05 — {ND.khoKhan}</p>
+        <p class="pf-mono pf-nhan-muc">06 — {ND.khoKhan}</p>
         <dl class="pf-dk">
           {
             ND.khoKhanDs.map(([t, n], i) => (
