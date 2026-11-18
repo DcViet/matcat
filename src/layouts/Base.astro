@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import { GOC, KHU, duong, duongNgon } from '../lib/khu';
 import { CHU, type Lang } from '../lib/i18n';
+import { HIEN_TREN_MENU } from '../lib/portfolio';
 
 interface Props {
   title?: string;
@@ -143,6 +144,13 @@ const coBanKia = kia !== null;
                 {k.ten[lang]}
               </a>
             ))
+          }
+          {
+            HIEN_TREN_MENU && (
+              <a href={duongNgon(lang, '/portfolio/')} aria-current={phan.startsWith('/portfolio') ? 'page' : undefined}>
+                Portfolio
+              </a>
+            )
           }
           <a
             href={duongNgon(lang, lang === 'en' ? '/about/' : '/gioi-thieu/')}

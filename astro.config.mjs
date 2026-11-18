@@ -1,8 +1,12 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import sharp from 'sharp';
-import { readdirSync, readFileSync } from 'node:fs';
+import { readdirSync, readFileSync, rmSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
 import { join } from 'node:path';
+
+// Chế độ mục Portfolio (tat / an / hien), đọc từ src/cauhinh-portfolio.json. Chỉ 'hien' mới vào sitemap.
+const CHE_DO_PORTFOLIO = JSON.parse(readFileSync(join('src', 'cauhinh-portfolio.json'), 'utf8')).cheDo;
 
 // Trang chạy trên tên miền riêng https://matcat.blog (GitHub Pages, kho DcViet/matcat).
 // Trước đó trang nằm ở https://dcviet.github.io/matcat/ với BASE = '/matcat'.
@@ -82,9 +86,18 @@ export default defineConfig({
   site: SITE,
   base: BASE || undefined,
   integrations: [
+    {
+      // Chế độ 'tat': ảnh portfolio không được đưa lên trang (public/portfolio vẫn nằm trong kho).
+      name: 'bo-anh-portfolio-khi-tat',
+      hooks: {
+        'astro:build:done': ({ dir }) => {
+          if (CHE_DO_PORTFOLIO === 'tat') rmSync(join(fileURLToPath(dir), 'portfolio'), { recursive: true, force: true });
+        },
+      },
+    },
     sitemap({
       i18n: { defaultLocale: 'vi', locales: { vi: 'vi-VN', en: 'en-US' } },
-      filter: (trang) => !trang.includes('/404'),
+      filter: (trang) => !trang.includes('/404') && (CHE_DO_PORTFOLIO === 'hien' || !trang.includes('/portfolio')),
       serialize(muc) {
         // Bài: ngày đăng của bài. Trang chủ và trang khu: ngày của bài mới nhất.
         const ngay = NGAY_BAI.get(muc.url) ?? NGAY_MOI_NHAT;

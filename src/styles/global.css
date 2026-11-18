@@ -957,3 +957,98 @@ html {
   z-index: 1;
   background: transparent;
 }
+
+/* ---------- Mục Portfolio ---------- */
+
+.pf-dau {
+  margin-bottom: 32px;
+}
+
+.pf-dau h1 {
+  font-size: clamp(30px, 4vw, 44px);
+  font-weight: 700;
+  margin: 8px 0 12px;
+  letter-spacing: -0.01em;
+}
+
+.pf-dau .dan {
+  font-size: 20px;
+  color: var(--muc-nhat);
+  max-width: 60ch;
+  margin: 0;
+}
+
+.pf-luoi {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 40px 28px;
+}
+
+.pf-the .anh-bai {
+  margin-bottom: 14px;
+}
+
+.pf-quay-lai {
+  font-family: var(--chu-de);
+  font-size: 14px;
+  margin: 0 0 24px;
+}
+
+.pf-bia {
+  margin: 0 0 40px;
+  background: var(--giay-dam);
+}
+
+.pf-bia img {
+  display: block;
+  width: 100%;
+  max-height: 640px;
+  object-fit: cover;
+}
+
+.pf-than {
+  display: grid;
+  gap: 32px;
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.pf-thong-so {
+  align-self: start;
+}
+
+@media (min-width: 960px) {
+  .pf-than {
+    grid-template-columns: 232px minmax(0, 680px);
+    gap: 64px;
+  }
+}
+
+.pf-thu-vien {
+  margin-top: 64px;
+}
+
+.pf-thu-vien h2 {
+  font-size: 27px;
+  margin: 0 0 8px;
+}
+
+.pf-luoi-anh {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.pf-luoi-anh img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: var(--giay-dam);
+}
+
+.pf-than .than-bai {
+  grid-area: auto;
+}

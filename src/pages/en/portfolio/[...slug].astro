@@ -1,0 +1,14 @@
+---
+import TrangPortfolio from '../../../components/TrangPortfolio.astro';
+import { CO_PORTFOLIO, DU_AN } from '../../../lib/portfolio';
+
+// Chế độ "tat": không trả đường dẫn nào, nên không có trang portfolio trên trang web.
+export function getStaticPaths() {
+  if (!CO_PORTFOLIO) return [];
+  return [{ params: { slug: undefined } }, ...DU_AN.map((d) => ({ params: { slug: d.slug } }))];
+}
+
+const { slug } = Astro.params;
+---
+
+<TrangPortfolio lang="en" slug={slug} />
