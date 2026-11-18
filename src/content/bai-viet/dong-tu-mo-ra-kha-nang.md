@@ -177,4 +177,4 @@ Còn hai câu hỏi nữa mình chưa thấy ai trả lời. Người lâu năm 
 - Wedell-Wedellsborg, T. (2017). Are you solving the right problems? *Harvard Business Review, 95*(1), 76–83.
 - thewandress1512. (2024, 15 tháng 7). Bài đăng mạng xã hội về lớp Design Thinking tại Columbia (nguồn câu chuyện mở đầu, theo ảnh chụp màn hình).
 
-> **Lưu ý.** Đây là bài tổng quan lý thuyết, không có số liệu thực nghiệm riêng. Câu chuyện mở đầu lấy từ một bài đăng mạng xã hội. Các tình huống đời thường (quán cà phê, lớp vẽ, hộp thuốc của bà) là ví dụ mình tự đặt ra để minh họa. Danh mục tài liệu tham khảo và chi tiết các thí nghiệm chưa được đối chiếu với bản gốc.
+> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.

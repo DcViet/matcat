@@ -67,4 +67,4 @@ Gehl studied Northern Europe, where people like sun and fear cold wind. In the t
 
 You can try it yourself, Gehl's way: stand for ten minutes on a stretch of street you know, and count where people stop, where they sit, and which chair always has someone on it. Then ask yourself: if I moved that chair one meter, what would happen?
 
-> **Note.** The figures and ideas come from books cited in parentheses. The Vietnamese examples, the counting exercise, and the diagram are mine. The numbers come from the Vietnamese translation and have not been checked against the original, and Gehl wrote for a Northern European climate.
+> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.

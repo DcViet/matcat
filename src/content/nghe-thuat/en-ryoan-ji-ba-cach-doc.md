@@ -63,4 +63,4 @@ By now it is tempting to ask: what does the courtyard actually say? Nitschke adm
 
 Try one small thing: pour a layer of rice or fine sand onto a tray, rake it with a fork, and set three pebbles on it. Sit and look for five minutes, then give each pebble a name, the way the 1466 manual did. Do you see sea or mountains? And what does the person sitting next to you see?
 
-> **Note.** The ideas come from Nitschke's book through my reading notes, with pages in parentheses. The opening scene, the closing exercise, the grouping of the three gardens as "a place left empty, a place that tells a story, a place that speaks softly," and the remark that the courtyard can hold up under all three readings are mine. The split of Ryoan-ji's fifteen stones into groups of 7, 5 and 3 follows my notes; other sources may describe it differently. The courtyard's area has two different figures in the sources, so the article gives neither. The diagram is my conceptual redrawing of Shigemori's four-stage division.
+> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.

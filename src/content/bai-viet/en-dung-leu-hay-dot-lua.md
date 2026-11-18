@@ -59,4 +59,4 @@ I keep one question to ask before choosing equipment: in this house, what does t
 
 The book was published in 1969, and it does not discuss carbon or long-term operating costs.
 
-> **Note.** Ideas come from the book, with sources given in parentheses; the three modes, Fitch's houses, and the Simla story are all in chapter 2 of Banham. The everyday situations are examples I made up.
+> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.

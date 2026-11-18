@@ -58,4 +58,4 @@ Mình giữ lại một câu hỏi để hỏi trước khi chọn thiết bị:
 
 Sách xuất bản năm 1969, chưa bàn tới carbon hay chi phí vận hành dài hạn.
 
-> **Lưu ý.** Ý lấy từ sách có ghi nguồn trong ngoặc; riêng ba chế độ, nhà của Fitch và chuyện Simla đều ở chương 2 của Banham. Các tình huống đời thường là ví dụ mình nghĩ ra.
+> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.

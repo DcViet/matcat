@@ -73,4 +73,4 @@ Còn một chi tiết nhỏ đáng ngẫm. Theo ghi chép trong sách, khách hi
 
 Thử tìm trong nhà mình một bề mặt đang làm việc của tấm phản xạ: cái trần trắng, bức tường đối diện cửa sổ, tấm rèm voan. Nắng đi qua nó rồi mới tới mắt bạn, hay đi thẳng?
 
-> **Lưu ý.** Ý lấy từ các tài liệu về Louis Kahn có ghi nguồn trong ngoặc. Ví dụ đời thường, bảng so sánh và sơ đồ mặt cắt là của mình, vẽ để dễ hình dung, không phải bản vẽ của công trình.
+> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.

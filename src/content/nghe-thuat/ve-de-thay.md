@@ -79,4 +79,4 @@ Dụng cụ trong sách là của thị trường Bắc Mỹ; ở ta thay bằng
 
 Tối nay thử một bài ba phút: vẽ cái ghế bạn đang ngồi bằng bút bi, không tẩy. Rồi tự hỏi: bản vẽ này giúp mình thấy được điều gì mà lúc nãy mình chưa thấy?
 
-> **Lưu ý.** Ý lấy từ sách có ghi nguồn trong ngoặc. Các diễn giải bằng lời thường, bài tập cuối bài và sơ đồ là của mình. Việc gán tên người cho từng chức năng trong sơ đồ do người ghi chú sắp xếp, không phải của tác giả sách.
+> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.

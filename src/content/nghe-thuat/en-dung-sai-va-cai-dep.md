@@ -139,4 +139,4 @@ The art historian Ernst Gombrich opens his best-known book with the line: "There
 - Tolstoy, L. (1897). *What Is Art?*
 - Zajonc, R. B. (1968). Attitudinal effects of mere exposure. *Journal of Personality and Social Psychology, 9*(2, Pt. 2), 1–27.
 
-> **Note.** This is an overview that gathers the ideas of many philosophers and researchers into a few groups so they are easier to follow, so some things are simplified. The classroom scenes are examples I made up for illustration. The reference list at the end was compiled from general knowledge and has not been checked against each original.
+> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.

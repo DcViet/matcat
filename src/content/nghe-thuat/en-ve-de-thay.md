@@ -80,4 +80,4 @@ The supplies in the book are North American; in Vietnam, equivalent ones will do
 
 Tonight, try a three-minute exercise: draw the chair you are sitting in with a ballpoint pen, no erasing. Then ask yourself: what does this drawing let me see that I could not see a moment ago?
 
-> **Note.** The ideas come from books cited in parentheses. The plain-language glosses, the closing exercise, and the diagram are mine. Assigning names to each function in the diagram was done by the note-taker, not by the book's author.
+> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.

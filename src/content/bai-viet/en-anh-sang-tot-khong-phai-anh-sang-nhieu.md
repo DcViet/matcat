@@ -53,4 +53,4 @@ The Pantheon in Rome is a closed circular room with a single opening at the top.
 
 And the room you are sitting in: where does the light come from, and which corner is losing its edges?
 
-> **Note.** Ideas come from books, with sources given in parentheses; the details about Dutch houses, Vermeer, the Pantheon and corner windows are all Rasmussen's, chapter VIII. The everyday situations are examples I made up.
+> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.

@@ -81,4 +81,4 @@ I would add one more thing, and it is only my own idea: in a hot, humid climate,
 
 Try this one afternoon: sit where a wall catches slanting sun, and watch its color change until the sun is gone. Does that patch of color belong to the wall, or to the sun?
 
-> **Note.** The ideas come from the thesis on Casa Cristo, Antonio Amado Lorenzo's article in Revista EGA, and two sets of student slides (less reliable). The material records no color chart or paint type, so the piece names no color of any specific building, and the sources disagree on a few years (the move to Mexico City, the house in Tacubaya, Casa Gilardi, the first European trip), so I say "around" or "according to the thesis." The backyard example, the comparison with Kahn and Ando, the association with painted gates on townhouses, and the diagram are mine.
+> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.

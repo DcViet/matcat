@@ -179,4 +179,4 @@ What I keep from the ladder exercise is a small habit. Each time "this needs..."
 - Wedell-Wedellsborg, T. (2017). Are you solving the right problems? *Harvard Business Review, 95*(1), 76–83.
 - thewandress1512. (2024, July 15). Social media post about a Design Thinking class at Columbia (source of the opening story, from screenshots).
 
-> **Note.** This is a theoretical overview with no experimental data of its own. The opening story comes from a social media post. The everyday situations (the café, the drawing class, Grandma's pill box) are examples I made up for illustration. The reference list and the details of the experiments have not been checked against the originals.
+> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.

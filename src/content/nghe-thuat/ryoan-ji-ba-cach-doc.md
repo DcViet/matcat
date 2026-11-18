@@ -62,4 +62,4 @@ Nghe tới đây, dễ muốn hỏi: rốt cuộc sân sỏi nói gì? Nitschke 
 
 Thử một việc nhỏ: đổ một lớp gạo hoặc cát mịn lên cái khay, cào bằng cái nĩa, rồi đặt ba hòn sỏi lên. Ngồi nhìn năm phút, sau đó đặt tên cho từng hòn như cuốn thủ bản năm 1466. Bạn thấy biển hay thấy núi? Và người ngồi cạnh bạn thấy gì?
 
-> **Lưu ý.** Ý lấy từ sách của Nitschke qua ghi chú đọc sách, có ghi trang trong ngoặc. Cảnh mở bài, bài tập cuối bài, cách gom ba vườn thành "chỗ để trống, chỗ kể chuyện, chỗ nói nhỏ" và nhận xét sân sỏi chịu được cả ba cách đọc là của mình. Cách chia mười lăm tảng đá của Ryōan-ji thành cụm 7, 5, 3 theo ghi chú của mình, các nguồn khác có thể mô tả khác. Diện tích sân có hai số khác nhau trong các nguồn nên bài không nêu. Sơ đồ là sơ đồ ý niệm của mình, vẽ lại cách chia bốn giai đoạn của Shigemori.
+> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.

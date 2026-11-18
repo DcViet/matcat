@@ -52,4 +52,4 @@ Pantheon ở Rome là một căn phòng tròn khép kín, chỉ mở một ô tr
 
 Còn căn phòng bạn đang ngồi: ánh sáng vào từ hướng nào, và góc phòng nào đang mất đường nét?
 
-> **Lưu ý.** Ý lấy từ sách có ghi nguồn trong ngoặc; các chi tiết về nhà Hà Lan, Vermeer, Pantheon và cửa sổ sát góc đều là của Rasmussen, chương VIII. Các tình huống đời thường là ví dụ mình nghĩ ra.
+> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.

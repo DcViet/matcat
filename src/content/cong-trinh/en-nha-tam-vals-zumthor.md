@@ -110,4 +110,4 @@ I like Zumthor, so I owe it to you to be clear about where to be careful.
 - A short secondary source describing the floor plan, materials and light of the Vals baths, used for the description of the route.
 - Cover photo: Felipe Camus, [original on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Felipe_camus_-_6892635292.jpg), licensed [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). The image was scaled down from the original.
 
-> **Note.** This article was written from my reading notes on four Zumthor texts, not rechecked page by page against the originals. The description of the route through the baths rests on a short secondary source, less reliable than the other parts, so I give no figures for temperature or area. The two diagrams are conceptual diagrams I drew myself, not drawings of the building.
+> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.

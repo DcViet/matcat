@@ -138,4 +138,4 @@ Nhà sử học nghệ thuật Ernst Gombrich mở cuốn sách nổi tiếng nh
 - Tolstoy, L. (1897). *Nghệ thuật là gì?*
 - Zajonc, R. B. (1968). Attitudinal effects of mere exposure. *Journal of Personality and Social Psychology, 9*(2, Pt. 2), 1–27.
 
-> **Lưu ý.** Đây là bài tổng quan, gom ý của nhiều triết gia và nhà nghiên cứu vào vài nhóm cho dễ theo dõi, nên có chỗ giản lược. Các tình huống trong lớp vẽ là ví dụ mình đặt ra để minh họa. Danh mục tài liệu ở cuối bài được lập từ kiến thức nền, chưa đối chiếu lại với bản gốc từng cuốn.
+> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.

@@ -80,4 +80,4 @@ Mình còn nghĩ thêm một điều, và đây chỉ là ý riêng của mình:
 
 Thử một buổi chiều: ngồi ở chỗ có một bức tường bị nắng xiên rọi vào, và nhìn màu của nó đổi dần cho tới lúc nắng tắt. Mảng màu ấy thuộc về bức tường, hay thuộc về nắng?
 
-> **Lưu ý.** Ý lấy từ luận văn về Casa Cristo, bài báo của Antonio Amado Lorenzo trên Revista EGA và hai bộ slide sinh viên (độ tin cậy thấp hơn). Tài liệu không ghi bảng màu hay loại sơn nên bài không nêu màu của công trình cụ thể nào, và các nguồn lệch nhau về vài năm (dọn tới Mexico City, nhà riêng ở Tacubaya, Casa Gilardi, chuyến đi châu Âu đầu tiên), nên bài chỉ ghi "khoảng" hoặc "theo luận văn". Ví dụ cái sân, bảng so sánh với Kahn và Ando, liên tưởng về cổng sắt nhà phố và sơ đồ là của mình.
+> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.

@@ -78,4 +78,4 @@ Bản thiết kế cũng đổi trong lúc xây: công viên kéo dài tới ph�
 
 Lần tới ra một công viên gần nhà, bạn thử đứng lại ở chỗ mình thấy đẹp nhất và tự hỏi: ở đây cái gì là có sẵn, cái gì do người ta bày ra? Lối xe và lối đi bộ gặp nhau ở đâu, và lúc ấy cảnh có còn yên không? Nếu tiện thì chụp một tấm, rồi vẽ đè lên đó cảnh bạn muốn thấy, như một bảng "trước và sau" của riêng bạn...
 
-> **Lưu ý.** Ví dụ bức tranh treo tường, bảng "trông như có sẵn", sơ đồ mặt cắt và bài tập cuối bài là của mình; sơ đồ chỉ vẽ ý, vì ghi chú không tả kỹ chỗ các lối giao nhau. Ghi chú đọc cuốn của Heckscher không ghi số trang, nên các con số về Central Park chưa kèm trang; số đổi sang mét và ki-lô-mét là mình tự làm tròn. Phần về Kent và Repton lấy từ bản quét chữ một cuốn sách in năm 1999, tên và năm có thể lệch. Việc đặt Repton cạnh Greensward là mình nối, sách không viết vậy.
+> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
