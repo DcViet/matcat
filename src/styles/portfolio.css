@@ -824,3 +824,49 @@
   line-height: 1;
   color: var(--pf-dong-chu);
 }
+
+/* Liên hệ ở cuối trang quy trình. */
+.pf-lien-he {
+  display: grid;
+  gap: 32px;
+  margin-top: 8px;
+}
+
+.pf-lien-he-ds {
+  display: grid;
+  gap: 28px;
+  margin: 0;
+}
+
+.pf-lien-he-ds > div {
+  border-top: 1px solid rgb(23 25 22 / 0.4);
+  padding-top: 16px;
+}
+
+.pf-lien-he-ds dt {
+  color: rgb(23 25 22 / 0.65);
+}
+
+.pf-lien-he-ds dd {
+  margin: 10px 0 0;
+  font-size: clamp(1.6rem, 4.2vw, 3.6rem);
+  line-height: 1.05;
+  overflow-wrap: anywhere;
+}
+
+.pf-lien-he-ds a {
+  border-bottom: 1px solid transparent;
+  transition: color 0.3s, border-color 0.3s;
+}
+
+.pf-lien-he-ds a:hover {
+  color: var(--pf-dong-chu);
+  border-color: currentColor;
+}
+
+@media (min-width: 900px) {
+  .pf-lien-he {
+    grid-template-columns: minmax(0, 4fr) minmax(0, 8fr);
+    gap: clamp(40px, 6vw, 96px);
+  }
+}
