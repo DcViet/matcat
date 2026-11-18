@@ -148,7 +148,7 @@
       "en": "Vietnam",
       "vi": "Việt Nam"
     },
-    "status": "design",
+    "status": "completed",
     "imageKind": "render",
     "summary": {
       "en": "A single sweeping roof over stone walls and timber louvres, opening onto water and lawn.",
@@ -340,8 +340,8 @@
       "vi": "Việt Nam",
       "en": "Vietnam"
     },
-    "status": "design",
-    "imageKind": "render",
+    "status": "completed",
+    "imageKind": "photo",
     "summary": {
       "vi": "Studio áo cưới toàn một màu trắng, tường cong và vòm cửa làm không gian mềm đi.",
       "en": "An all-white bridal studio where curved walls and arches soften the space."
@@ -383,7 +383,11 @@
       "/portfolio/hacchic-studio/05.webp",
       "/portfolio/hacchic-studio/06.webp",
       "/portfolio/hacchic-studio/07.webp",
-      "/portfolio/hacchic-studio/08.webp"
+      "/portfolio/hacchic-studio/08.webp",
+      "/portfolio/hacchic-studio/09.webp",
+      "/portfolio/hacchic-studio/10.webp",
+      "/portfolio/hacchic-studio/11.webp",
+      "/portfolio/hacchic-studio/12.webp"
     ]
   },
   {
@@ -512,6 +516,71 @@
       "/portfolio/kid-tan-binh/04.webp",
       "/portfolio/kid-tan-binh/05.webp",
       "/portfolio/kid-tan-binh/06.webp"
+    ]
+  },
+  {
+    "slug": "her",
+    "so": "009",
+    "title": {
+      "vi": "Her",
+      "en": "Her"
+    },
+    "typology": {
+      "vi": "Salon làm đẹp",
+      "en": "Beauty salon"
+    },
+    "location": {
+      "vi": "",
+      "en": ""
+    },
+    "country": {
+      "vi": "Việt Nam",
+      "en": "Vietnam"
+    },
+    "status": "design",
+    "imageKind": "render",
+    "summary": {
+      "vi": "Salon làm đẹp tông kem, trắng sữa, nơi mỗi khu chức năng là một góc nhỏ cuộn trong những mảng tường cong.",
+      "en": "A cream-and-milk-white beauty salon where each service zone is a small nook tucked into curved walls."
+    },
+    "concept": {
+      "vi": "Salon được vẽ như một dãy căn phòng nhỏ nối nhau: khu đón khách, khu gội đầu, khu làm tóc, phòng làm da. Mỗi phòng có một vòm cửa riêng, rèm mỏng thay cho vách cứng, nên khách đi qua thấy được cả dãy mà vẫn có chỗ riêng cho mình.",
+      "en": "The salon is drawn as a row of small connected rooms: reception, hair-washing, hair styling, skin treatment. Each room has its own arch, and sheer curtains take the place of solid partitions, so a client can see the whole run and still have a private spot."
+    },
+    "brief": {
+      "vi": "Một salon làm đẹp nhiều khu: đón khách và ngồi chờ, gội đầu, làm tóc, phòng làm da và phòng thư giãn.",
+      "en": "A beauty salon with several zones: reception and waiting, hair washing, styling, skin treatment and relaxation."
+    },
+    "challenges": [
+      {
+        "vi": "Nhiều dịch vụ khác nhau cùng một mặt bằng, nhưng khách vẫn cần cảm giác riêng tư.",
+        "en": "Many different services share one plan, yet clients still need to feel private."
+      },
+      {
+        "vi": "Không gian phải mềm và dịu, hợp với việc chăm sóc người.",
+        "en": "The space has to be soft and calm, fitting a place for taking care of people."
+      }
+    ],
+    "solutions": [
+      {
+        "vi": "Rèm mỏng và tường cong chia khu thay cho vách đặc, vừa kín đáo vừa để ánh sáng đi qua.",
+        "en": "Sheer curtains and curved walls divide the zones in place of solid partitions, giving privacy while letting light through."
+      },
+      {
+        "vi": "Cả salon dùng một gam kem, trắng sữa và vài điểm gỗ ấm, các vòm cửa lặp lại ở khắp nơi.",
+        "en": "The whole salon keeps to cream, milk white and a few touches of warm timber, with arches repeated throughout."
+      }
+    ],
+    "cover": "/portfolio/her/01.webp",
+    "gallery": [
+      "/portfolio/her/01.webp",
+      "/portfolio/her/02.webp",
+      "/portfolio/her/03.webp",
+      "/portfolio/her/04.webp",
+      "/portfolio/her/05.webp",
+      "/portfolio/her/06.webp",
+      "/portfolio/her/07.webp",
+      "/portfolio/her/08.webp"
     ]
   }
 ]

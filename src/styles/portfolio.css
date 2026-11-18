@@ -466,3 +466,10 @@
   max-height: 92vh;
   object-fit: contain;
 }
+
+/* Câu mở đầu ngắn, giữ trên một dòng khi đủ chỗ. */
+@media (min-width: 700px) {
+  .pf-dau-luoi .pf-lead {
+    white-space: nowrap;
+  }
+}
