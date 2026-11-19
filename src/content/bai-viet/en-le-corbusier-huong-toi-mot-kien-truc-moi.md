@@ -19,7 +19,7 @@ English edition of the Vietnamese article of the same slug.
 
 Here is an example I made up. You ask a carpenter to build you a chair. He does not ask whether you prefer an old style or a new one. He asks: is this chair for eating or for reading, for sitting a long time or a short one? Once you answer, the chair already has half its shape. How high the legs are, how far the back leans, you will find they come out of your answer.
 
-Le Corbusier wanted architects to treat the house in exactly this way. His sentence is more famous than his idea: "a house is a machine for living in," from *Vers une architecture* (1923), published in English as *Towards a New Architecture*, on page 95 according to my notes. On its own it sounds cold. Read the whole passage and it does not.
+Le Corbusier wanted architects to treat the house in exactly this way. His sentence is more famous than his idea: "a house is a machine for living in," from *Vers une architecture* (1923), published in English as *Towards a New Architecture*, on page 95 according to my notes. At first it sounds cold and unfeeling, but by the end of this piece you will have to think again.
 
 ## What That Sentence Packs In
 

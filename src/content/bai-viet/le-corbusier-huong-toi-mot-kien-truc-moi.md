@@ -18,7 +18,7 @@ tags: ["Le Corbusier", "Towards a New Architecture", "Modernism", "nhà ở", "c
 
 Ví dụ này là của mình nghĩ ra. Bạn nhờ một bác thợ mộc đóng cái ghế. Bác không hỏi bạn thích kiểu cổ hay kiểu mới. Bác hỏi: ghế này để ăn cơm hay để ngồi đọc sách, ngồi lâu hay ngồi chốc lát? Trả lời xong, cái ghế đã có nửa hình dáng. Chân cao bao nhiêu, lưng tựa nghiêng thế nào, bạn sẽ thấy chúng tự hiện ra từ câu trả lời.
 
-Le Corbusier muốn kiến trúc sư làm với ngôi nhà đúng như vậy. Câu của ông thì nổi tiếng hơn ý của ông: "ngôi nhà là cỗ máy để ở", trong sách *Vers une architecture* (1923), bản tiếng Anh *Towards a New Architecture*, ở trang 95 theo ghi chú của mình. Nghe qua thì lạnh. Nhưng đọc cả đoạn thì khác.
+Le Corbusier muốn kiến trúc sư làm với ngôi nhà đúng như vậy. Câu của ông thì nổi tiếng hơn ý của ông: "ngôi nhà là cỗ máy để ở", trong sách *Vers une architecture* (1923), bản tiếng Anh *Towards a New Architecture*, ở trang 95 theo ghi chú của mình. Nghe qua thì có vẻ lạnh lùng thiếu tình cảm, nhưng bạn sẽ phải suy nghĩ lại khi đọc đến cuối bài.
 
 ## Câu nói ấy gói điều gì
 
