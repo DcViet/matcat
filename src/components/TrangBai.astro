@@ -4,7 +4,7 @@ import sharp from 'sharp';
 import { join } from 'node:path';
 import Base from '../layouts/Base.astro';
 import DanhSachBai from './DanhSachBai.astro';
-import { coBanDich, duong, duongNgon, ngayThang, tatCaBai, timKhu } from '../lib/khu';
+import { baiLienQuan, coBanDich, duong, duongNgon, ngayThang, tatCaBai, timKhu } from '../lib/khu';
 import { CHU, type Lang } from '../lib/i18n';
 
 interface Props {
@@ -18,8 +18,8 @@ const khu = timKhu(bai.khu);
 const d = bai.data as Record<string, any>;
 const { Content } = await render(bai);
 
-// Hai bài khác để đọc tiếp, mới nhất trước, cùng ngôn ngữ.
-const docThem = (await tatCaBai(lang)).filter((b) => !(b.khu === bai.khu && b.slug === bai.slug)).slice(0, 2);
+// Ba bài liên quan nhất (theo chủ đề, người thực hiện), cùng ngôn ngữ; liên kết nội bộ cho cả người đọc lẫn công cụ tìm kiếm.
+const docThem = await baiLienQuan(bai, lang, 3);
 
 // Trang tương ứng ở ngôn ngữ kia, nếu có.
 const langKia: Lang = lang === 'vi' ? 'en' : 'vi';
