@@ -2,9 +2,9 @@
 title: "Ánh sáng tốt không phải ánh sáng nhiều"
 description: "Rasmussen và Gordon cho thấy hướng sáng và độ tương phản quan trọng hơn lượng sáng; Kahn cho thấy ở nơi nắng gắt thì chống chói đi trước."
 date: 2026-11-11
-cover: "/images/vermeer-melkmeisje.jpg"
-coverAlt: "Tranh sơn dầu của Vermeer: một cô gái đứng bên chiếc bàn trong căn phòng tường trắng, rót sữa từ bình; ánh sáng từ cửa sổ bên trái chiếu lên người cô, chiếc bàn và bức tường."
-coverCredit: "Johannes Vermeer, Het melkmeisje (Cô gái đổ sữa, khoảng 1660), phạm vi công cộng, qua Wikimedia Commons"
+cover: "/images/anh-sang-tot-khong-phai-anh-sang-nhieu-emdot.jpg"
+coverAlt: "Góc một căn phòng trong nắng chiều: ô cửa sổ in thành một mảng sáng lên bức tường trắng, bóng của chiếc ghế và cái bàn đổ lên mảng sáng ấy, bên phải thấy mép bàn gỗ và lưng ghế."
+coverCredit: "emdot, shadow, CC BY 2.0, qua Flickr"
 draft: false
 tags: ["ánh sáng", "ánh sáng tự nhiên", "cửa sổ", "độ tương phản", "chống chói"]
 ---

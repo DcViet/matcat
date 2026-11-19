@@ -2,9 +2,9 @@
 title: "Good Light Is Not Plenty of Light"
 description: "Rasmussen and Gordon show that the direction of light and contrast matter more than the amount; Kahn shows that where the sun is harsh, glare control comes first."
 date: 2026-11-11
-cover: "/images/vermeer-melkmeisje.jpg"
-coverAlt: "Oil painting by Vermeer: a young woman stands at a table in a whitewashed room, pouring milk from a jug; light from a window on the left falls on her, the table and the wall."
-coverCredit: "Johannes Vermeer, Het melkmeisje (The Milkmaid, c. 1660), public domain, via Wikimedia Commons"
+cover: "/images/anh-sang-tot-khong-phai-anh-sang-nhieu-emdot.jpg"
+coverAlt: "The corner of a room in afternoon sun: the window is printed as a patch of light on the white wall, with the shadow of a chair and a table falling across it; at right, the edge of a wooden desk and the back of a chair."
+coverCredit: "emdot, shadow, CC BY 2.0, via Flickr"
 draft: false
 lang: "en"
 tags: ["light", "natural light", "windows", "contrast", "glare control"]
