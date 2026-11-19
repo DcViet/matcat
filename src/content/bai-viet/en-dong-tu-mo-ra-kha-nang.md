@@ -18,6 +18,13 @@ In design thinking classes, students are often told to state a need as a verb ("
 
 A design thinking instructor puts a photo on the screen: a small child stretching to reach a book on a high shelf. "What does this child need?" the instructor asks. Nearly the whole class answers at once: "A ladder." The instructor says that is one option, then rewrites the question: "What if the child needs *to reach*?" Now the class starts thinking of other things: an extendable arm, shoes that add height, or simply asking a grown-up to get it. The instructor sums up: "verbs open possibilities."
 
+<figure style="max-width:360px;margin:1.5rem auto;">
+<video controls playsinline preload="metadata" poster="/images/dong-tu-the-fool-poster.jpg" style="width:100%;height:auto;border-radius:6px;">
+<source src="/videos/dong-tu-the-fool-kha-nang.mp4" type="video/mp4">
+</video>
+<figcaption>An illustrative animation, drawn by AI from my idea (one minute long): The Fool looks at a book on a high shelf, thinks of a ladder, then asks "what do I need to do?" and finds other ways. It is a concept drawing, not the photo from the classroom above.</figcaption>
+</figure>
+
 The same thing happens outside the classroom. A café owner complains, "the place needs more tables." The family decides, "Grandma needs an app to remind her to take her pills." A shopper says, "I need a power drill." Each sounds like a need, but each has already picked its solution. Try rewriting them: the customer needs *a seat without waiting*, Grandma needs *to remember her pills on time*, I need *to hang a picture on the wall*. The café could sell takeaway or take reservations. Grandma could use a daily pill organizer next to the teapot. The picture could hang from adhesive hooks, no drilling, or simply lean on a shelf.
 
 I want to understand three things better:

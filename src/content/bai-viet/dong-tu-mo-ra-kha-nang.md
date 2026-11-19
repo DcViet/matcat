@@ -16,6 +16,13 @@ Trong các lớp tư duy thiết kế, người học hay được dặn: hãy n
 
 Một giảng viên dạy Design Thinking chiếu lên màn hình một bức ảnh chụp em bé đang rướn người lấy quyển sách trên kệ cao, rồi hỏi cả lớp: "Em bé này cần gì?". Cả lớp đáp gần như cùng lúc: "Cần một cái thang". Thầy bảo đó là một phương án, rồi đổi câu: "Nếu em bé cần *với tới* thì sao?". Lúc này lớp mới bắt đầu nghĩ ra chuyện khác: một cánh tay nối dài, một đôi giày tăng chiều cao, hay đơn giản là nhờ người lớn lấy giúp. Thầy chốt lại: "verbs open possibilities", động từ mở ra khả năng.
 
+<figure style="max-width:360px;margin:1.5rem auto;">
+<video controls playsinline preload="metadata" poster="/images/dong-tu-the-fool-poster.jpg" style="width:100%;height:auto;border-radius:6px;">
+<source src="/videos/dong-tu-the-fool-kha-nang.mp4" type="video/mp4">
+</video>
+<figcaption>Hoạt cảnh minh họa, do AI vẽ theo ý mình (dài 1 phút): The Fool nhìn quyển sách trên kệ cao, nghĩ tới cái thang, rồi thử hỏi "mình cần làm gì" để ra những cách khác. Đây là hình vẽ ý niệm, không phải ảnh trong lớp học ở trên.</figcaption>
+</figure>
+
 Ngoài đời cũng gặp chuyện y như vậy. Chủ quán cà phê than "quán cần thêm bàn". Con cháu bàn nhau "bà cần cái app nhắc uống thuốc". Người đi chợ nói "mình cần cái máy khoan". Câu nào nghe cũng giống một nhu cầu, nhưng thật ra câu nào cũng đã chọn xong giải pháp. Thử đổi lại: khách cần *có chỗ ngồi mà không phải chờ*, bà cần *nhớ uống thuốc đúng giờ*, mình cần *treo bức tranh lên tường*. Quán có thể bán mang đi hoặc nhận đặt chỗ trước. Bà có thể dùng hộp chia thuốc theo ngày đặt cạnh ấm trà. Bức tranh có thể treo bằng móc dán, khỏi cần khoan, hoặc dựng luôn trên kệ.
 
 Mình muốn hiểu kỹ hơn ba điều:
