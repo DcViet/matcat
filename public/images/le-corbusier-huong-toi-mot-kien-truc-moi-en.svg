@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="340" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Three lessons from "Eyes Which Do Not See," in order</text>
+
+  <!-- Box 1 -->
+  <rect x="24" y="56" width="216" height="104" rx="6" fill="#ffffff" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="40" y="82" font-weight="600" fill="#b4472e">1. State the problem</text>
+  <text x="40" y="106" font-size="12" fill="#5f5b53">Lesson of the airplane:</text>
+  <text x="40" y="124" font-size="12" fill="#5f5b53">ask what a house is for,</text>
+  <text x="40" y="142" font-size="12" fill="#5f5b53">not yet what it looks like</text>
+
+  <line x1="244" y1="108" x2="266" y2="108" stroke="#1c1b19" stroke-width="1.5"/>
+  <polygon points="268,108 260,103 260,113" fill="#1c1b19"/>
+
+  <!-- Box 2 -->
+  <rect x="272" y="56" width="216" height="104" rx="6" fill="#ffffff" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="288" y="82" font-weight="600" fill="#b4472e">2. Select on a standard</text>
+  <text x="288" y="106" font-size="12" fill="#5f5b53">From car and Parthenon:</text>
+  <text x="288" y="124" font-size="12" fill="#5f5b53">trial and competition,</text>
+  <text x="288" y="142" font-size="12" fill="#5f5b53">refined on one standard</text>
+
+  <line x1="492" y1="108" x2="514" y2="108" stroke="#1c1b19" stroke-width="1.5"/>
+  <polygon points="516,108 508,103 508,113" fill="#1c1b19"/>
+
+  <!-- Box 3 -->
+  <rect x="520" y="56" width="216" height="104" rx="6" fill="#ffffff" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="536" y="82" font-weight="600" fill="#b4472e">3. Emotion comes after</text>
+  <text x="536" y="106" font-size="12" fill="#5f5b53">Reason is satisfied first,</text>
+  <text x="536" y="124" font-size="12" fill="#5f5b53">then good proportion</text>
+  <text x="536" y="142" font-size="12" fill="#5f5b53">brings the emotion</text>
+
+  <!-- Needs strip -->
+  <rect x="24" y="190" width="712" height="84" rx="6" fill="#ffffff" stroke="#b4472e" stroke-width="1.25"/>
+  <text x="40" y="216" font-weight="600" fill="#1c1b19">The problem of the house that he wanted to restate</text>
+  <text x="40" y="238" font-size="12" fill="#5f5b53">shelter from heat, cold, and rain; a place to hold light and sun; bathing; hot and cold water;</text>
+  <text x="40" y="256" font-size="12" fill="#5f5b53">keeping food; and a beauty understood as good proportion.</text>
+
+  <text x="24" y="312" font-size="11.5" fill="#5f5b53">Conceptual diagram by the writer, summarizing one chapter; not a drawing of any building.</text>
+</svg>
