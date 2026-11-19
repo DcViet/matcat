@@ -74,4 +74,4 @@ One small detail deserves thought. According to the books, visitors today enter 
 
 Try finding, in your own home, a surface that is doing the reflector's work: a white ceiling, the wall opposite a window, a sheer curtain. Does the sun pass through it before it reaches your eyes, or go straight in?
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

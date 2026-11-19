@@ -77,4 +77,4 @@ Try it one morning: close the curtains and leave a single gap. Then sit still fo
 
 In your own room, where is it dark enough for a small streak of light to become a big event? Perhaps the answer sits in a corner you walk past every day, every day... without once stopping to look.
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

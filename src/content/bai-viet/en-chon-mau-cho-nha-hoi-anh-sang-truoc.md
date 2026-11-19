@@ -70,4 +70,4 @@ So the honest way is to test. Stick three paint samples in three different place
 
 Tonight, try turning off the ceiling light, switching on a desk lamp, and looking at the living room wall again. Is it still the color you chose?
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

@@ -81,4 +81,4 @@ I would add one more thing, and it is only my own idea: in a hot, humid climate,
 
 Try this one afternoon: sit where a wall catches slanting sun, and watch its color change until the sun is gone. Does that patch of color belong to the wall, or to the sun?
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

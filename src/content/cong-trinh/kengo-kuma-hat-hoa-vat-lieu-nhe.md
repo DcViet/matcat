@@ -81,4 +81,4 @@ Cả hai cuốn sách của Bognar đều thiện cảm với Kuma, và theo ghi
 
 Thử một việc nhỏ: kể ra ba thứ trong nhà bạn đang chặn ánh sáng hoặc tầm nhìn, như một tấm tường kín, một cánh cửa đặc, một chiếc tủ. Rồi tự hỏi nếu chia nó thành những "hạt" nhỏ hơn, đều hơn, ánh sáng và gió sẽ đi qua đường nào?
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

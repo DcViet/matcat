@@ -79,4 +79,4 @@ Two things he repeats, according to the notes, are to remove rather than add, an
 
 Try it one afternoon: walk around your house and find a wall you have grown so used to that you no longer see it. Lay your palm on it. What do you guess it is made of, under the paint?
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

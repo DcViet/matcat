@@ -78,4 +78,4 @@ Bản thiết kế cũng đổi trong lúc xây: công viên kéo dài tới ph�
 
 Lần tới ra một công viên gần nhà, bạn thử đứng lại ở chỗ mình thấy đẹp nhất và tự hỏi: ở đây cái gì là có sẵn, cái gì do người ta bày ra? Lối xe và lối đi bộ gặp nhau ở đâu, và lúc ấy cảnh có còn yên không? Nếu tiện thì chụp một tấm, rồi vẽ đè lên đó cảnh bạn muốn thấy, như một bảng "trước và sau" của riêng bạn...
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

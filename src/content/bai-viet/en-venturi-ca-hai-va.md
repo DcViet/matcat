@@ -72,4 +72,4 @@ He also separates "real complexity" from "false complexity," so "both" cannot be
 
 Walk around your home and look for something doing two jobs at once: a window that lets in light and also holds a row of plants, a cabinet that divides a room and also stores things, a stair step that doubles as a drawer. Ask two questions. Does it do both jobs well? And if you split it apart, what would your home gain, and what would it lose?
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

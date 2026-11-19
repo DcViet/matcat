@@ -71,4 +71,4 @@ Next time you are out, play this game on a familiar stretch of street, a hundred
 
 Then cover one sign with your hand, or imagine the whole block with every sign taken down. Can you still tell which shop sells what? And the house you live in: what does it say to someone walking past, and does it say it with its shape or with something added on the outside?
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

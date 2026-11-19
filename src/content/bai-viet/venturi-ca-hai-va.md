@@ -70,4 +70,4 @@ Mình giữ vài điều khi đọc Venturi. Ông tự nói sách của mình th
 
 Bạn thử đi một vòng quanh nhà và tìm một thứ đang làm hai việc cùng lúc: cái cửa sổ vừa lấy sáng vừa là chỗ để chậu cây, cái tủ vừa là vách ngăn vừa là chỗ cất đồ, bậc cầu thang kiêm ngăn kéo. Hỏi mình hai câu. Thứ ấy có làm cả hai việc tử tế không? Và nếu tách ra thì nhà mình được gì, mất gì?
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

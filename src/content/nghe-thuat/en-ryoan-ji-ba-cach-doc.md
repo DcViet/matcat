@@ -63,4 +63,4 @@ By now it is tempting to ask: what does the courtyard actually say? Nitschke adm
 
 Try one small thing: pour a layer of rice or fine sand onto a tray, rake it with a fork, and set three pebbles on it. Sit and look for five minutes, then give each pebble a name, the way the 1466 manual did. Do you see sea or mountains? And what does the person sitting next to you see?
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

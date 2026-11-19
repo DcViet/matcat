@@ -82,4 +82,4 @@ Ghi chú của mình dặn đem mười điều kia đối chiếu với nhà tr
 
 Hôm nào trời có gió, bạn thử mở cùng lúc cửa trước và cửa sau, hay cửa ra ban công và cửa sổ đối diện. Rồi đi chậm từ ngoài vào đến chỗ sâu nhất của nhà, để ý xem mình bước qua mấy lớp: cổng, hiên, cửa, phòng, sân. Chỗ nào gió đi theo bạn được, chỗ nào nó dừng lại? Và ở chỗ bạn hay ngồi nhất, lưng bạn đang tựa vào đâu, mắt bạn nhìn ra thấy gì...
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

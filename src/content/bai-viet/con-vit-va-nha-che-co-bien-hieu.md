@@ -69,4 +69,4 @@ Lần tới ra đường, bạn thử chơi trò này trên một đoạn phố 
 
 Rồi thử lấy tay che một tấm biển lại, hay tưởng tượng cả dãy phố bị gỡ hết biển. Bạn còn nhận ra tiệm nào bán gì không? Và căn nhà bạn đang ở, nó nói điều gì với người đi ngang, bằng hình dáng hay bằng một thứ gắn thêm ở ngoài...?
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

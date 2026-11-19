@@ -108,4 +108,4 @@ Mình thích Zumthor, nên càng phải nói rõ những chỗ cần dè chừng
 - Một tài liệu thứ cấp ngắn mô tả mặt bằng, vật liệu và ánh sáng của nhà tắm Vals, dùng cho phần tả đường đi.
 - Ảnh bìa: Felipe Camus, [ảnh gốc trên Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Felipe_camus_-_6892635292.jpg), giấy phép [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Ảnh được thu nhỏ so với bản gốc.
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

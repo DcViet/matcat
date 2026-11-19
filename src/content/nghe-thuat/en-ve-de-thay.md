@@ -80,4 +80,4 @@ The supplies in the book are North American; in Vietnam, equivalent ones will do
 
 Tonight, try a three-minute exercise: draw the chair you are sitting in with a ballpoint pen, no erasing. Then ask yourself: what does this drawing let me see that I could not see a moment ago?
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

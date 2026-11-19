@@ -71,4 +71,4 @@ The next time you clear your living room for a family gathering or a class reuni
 
 Then try hanging one small photograph on the emptiest wall, and step back to see whether it can hold your eye. If it cannot, will you draw the curtains, as they did in Berlin, or go looking for a bigger photograph? My guess is that every household will answer differently... and maybe that is the very thing Mies wanted to leave open.
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

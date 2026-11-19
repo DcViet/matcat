@@ -80,4 +80,4 @@ Mình còn nghĩ thêm một điều, và đây chỉ là ý riêng của mình:
 
 Thử một buổi chiều: ngồi ở chỗ có một bức tường bị nắng xiên rọi vào, và nhìn màu của nó đổi dần cho tới lúc nắng tắt. Mảng màu ấy thuộc về bức tường, hay thuộc về nắng?
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

@@ -75,4 +75,4 @@ Nitschke is a scholar with strong views, and the three-master division is his ar
 
 The next time you walk through a gate or an entrance, count where it slows you down: a step, a bend, a low door, a spot where you have to wait. If there is none, imagine where you would put one, and see whether it changes how you enter the house.
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

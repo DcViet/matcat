@@ -84,4 +84,4 @@ My notes suggest holding those ten items up against the traditional Vietnamese h
 
 On a breezy day, try opening the front door and the back door at once, or the balcony door and the window across from it. Then walk slowly from outside to the deepest spot in your home, and notice how many layers you pass: gate, porch, door, room, yard. Where can the wind follow you, and where does it stop? And in the place where you sit most often, what is your back resting against, and what do your eyes see when you look out...
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

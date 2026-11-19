@@ -76,4 +76,4 @@ Hang a necklace or a piece of string between two nails and add a few paper clips
 
 Draw on the photo: a column at each foot, an opening at the top. What kind of house shows up, and how is it different from the ones you draw when you pick up a pen over a blank page?
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

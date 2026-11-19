@@ -76,4 +76,4 @@ Thử một buổi sáng nhé: kéo rèm kín, chừa lại một khe thôi. R�
 
 Trong căn phòng của bạn, chỗ nào đủ tối để một vệt sáng nhỏ cũng thành chuyện lớn? Có khi câu trả lời nằm ngay ở góc phòng mình đi ngang mỗi ngày, mỗi ngày... mà chưa lần nào dừng lại nhìn.
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

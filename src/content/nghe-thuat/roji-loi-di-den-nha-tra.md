@@ -74,4 +74,4 @@ Nitschke là người có quan điểm mạnh, và cách chia ba thầy trà là
 
 Lần tới bạn bước qua một cổng nhà, một lối vào nào đó, thử đếm xem nó làm bạn chậm lại ở đâu: một bậc, một khúc ngoặt, một cánh cửa thấp, một chỗ phải chờ. Nếu không có chỗ nào, bạn thử tưởng tượng mình sẽ đặt chỗ nào, rồi thử xem nó có đổi cách bạn bước vào nhà không.
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

@@ -75,4 +75,4 @@ Treo một sợi dây chuyền hay sợi dây thường giữa hai chiếc đinh
 
 Giờ lấy bút vẽ lên ảnh: một cái cột ở mỗi chân, một ô cửa ở đỉnh. Ngôi nhà nào hiện ra, và nó khác gì những gì bạn thường vẽ khi cầm bút trên giấy trắng?
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

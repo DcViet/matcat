@@ -67,4 +67,4 @@ Ghi chú về sách còn nêu một thiên kiến giai cấp: ông coi trang tr�
 
 Lấy một phòng bạn hay dùng, như phòng ngủ hoặc góc làm việc. Viết ra năm việc bạn làm ở đó mỗi ngày, bằng động từ: ngủ, đọc, cất quần áo, làm việc, gọi điện. Rồi nhìn quanh và hỏi từng món đồ: nó phục vụ việc nào? Món nào không trả lời được thì chưa chắc đáng bỏ, vì có đồ ta giữ cho đẹp hoặc cho nhớ. Nhưng bạn sẽ thấy rõ phần nào của căn phòng là dụng cụ, phần nào là thứ bạn tự chọn thêm.
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

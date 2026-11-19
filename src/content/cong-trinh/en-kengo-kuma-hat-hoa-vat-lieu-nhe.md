@@ -82,4 +82,4 @@ Both of Bognar's books are sympathetic to Kuma, and according to my notes they l
 
 Try one small thing: list three things in your home that block light or views, such as a solid wall, a flush door, a cabinet. Then ask yourself: if you divided it into smaller, more even "particles," which way would light and wind go through?
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

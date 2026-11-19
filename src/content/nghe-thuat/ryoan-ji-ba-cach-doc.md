@@ -62,4 +62,4 @@ Nghe tới đây, dễ muốn hỏi: rốt cuộc sân sỏi nói gì? Nitschke 
 
 Thử một việc nhỏ: đổ một lớp gạo hoặc cát mịn lên cái khay, cào bằng cái nĩa, rồi đặt ba hòn sỏi lên. Ngồi nhìn năm phút, sau đó đặt tên cho từng hòn như cuốn thủ bản năm 1466. Bạn thấy biển hay thấy núi? Và người ngồi cạnh bạn thấy gì?
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

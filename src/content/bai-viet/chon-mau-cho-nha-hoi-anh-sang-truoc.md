@@ -75,4 +75,4 @@ Nên cách thật nhất là thử. Dán ba mẫu sơn lên ba chỗ khác nhau 
 
 Tối nay, bạn thử tắt đèn trần, bật đèn bàn rồi nhìn lại bức tường phòng khách. Màu ấy còn là màu bạn đã chọn không?
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

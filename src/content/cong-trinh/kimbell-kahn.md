@@ -73,4 +73,4 @@ Còn một chi tiết nhỏ đáng ngẫm. Theo ghi chép trong sách, khách hi
 
 Thử tìm trong nhà mình một bề mặt đang làm việc của tấm phản xạ: cái trần trắng, bức tường đối diện cửa sổ, tấm rèm voan. Nắng đi qua nó rồi mới tới mắt bạn, hay đi thẳng?
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

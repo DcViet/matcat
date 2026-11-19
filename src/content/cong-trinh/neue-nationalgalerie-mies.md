@@ -69,4 +69,4 @@ Lần tới bạn dọn phòng khách cho một bữa giỗ hay một buổi h�
 
 Rồi thử treo một tấm ảnh nhỏ lên bức tường trống nhất, đứng lùi lại xem nó có giữ được mắt mình không. Nếu không, bạn sẽ kéo rèm lại như người ta đã làm ở Berlin, hay đi tìm một tấm ảnh lớn hơn? Mình đoán mỗi nhà sẽ trả lời một kiểu... và có khi Mies cũng muốn để ngỏ đúng chỗ ấy.
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

@@ -68,4 +68,4 @@ The notes on the book also name a class bias: he treats ornament as the business
 
 Pick a room you use often, a bedroom or a corner where you work. Write down five things you do there every day, as verbs: sleep, read, store clothes, work, make phone calls. Then look around and ask of each object: which of these does it serve? An object that cannot answer is not necessarily one to throw out, since we keep some things for looks or for memory. But you will see which part of the room is a tool and which part you chose to add yourself.
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

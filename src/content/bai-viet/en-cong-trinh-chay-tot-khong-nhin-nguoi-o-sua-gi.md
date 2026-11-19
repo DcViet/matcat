@@ -63,4 +63,4 @@ A simple method I came up with, not from any book: three months after moving in,
 
 Tonight, try walking around your house and counting how many things are no longer where they started. Each one answers a question: what is this house actually doing, and what is it being made to do on top of that?
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

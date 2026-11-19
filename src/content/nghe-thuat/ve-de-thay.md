@@ -79,4 +79,4 @@ Dụng cụ trong sách là của thị trường Bắc Mỹ; ở ta thay bằng
 
 Tối nay thử một bài ba phút: vẽ cái ghế bạn đang ngồi bằng bút bi, không tẩy. Rồi tự hỏi: bản vẽ này giúp mình thấy được điều gì mà lúc nãy mình chưa thấy?
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

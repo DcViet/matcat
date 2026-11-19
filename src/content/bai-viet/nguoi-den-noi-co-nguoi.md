@@ -66,4 +66,4 @@ Gehl nghiên cứu ở Bắc Âu, nơi người ta thích nắng và sợ gió l
 
 Bạn có thể tự thử theo cách của Gehl: đứng mười phút ở một đoạn phố quen, đếm xem người ta dừng chân ở đâu, ngồi ở đâu, chiếc ghế nào luôn có người. Rồi tự hỏi: nếu dời chiếc ghế ấy đi một mét, chuyện gì sẽ xảy ra?
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

@@ -80,4 +80,4 @@ The design also changed as it was built: the park was extended to 110th Street, 
 
 Next time you are in a park near home, stop at the spot you find most beautiful and ask yourself: what here was already there, and what did someone arrange? Where do the roadway and the footpath meet, and is the scene still calm at that point? If you have a moment, take a photo and sketch over it the view you would like to see, a "before and after" board of your own.
 
-> **Note.** The information comes from books I consulted, together with my own discussion. The diagrams are my own drawings.
+> **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

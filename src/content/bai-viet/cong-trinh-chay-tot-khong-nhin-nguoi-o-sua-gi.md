@@ -68,4 +68,4 @@ Một cách làm đơn giản mình nghĩ ra, không lấy từ sách: ba tháng
 
 Tối nay bạn thử đi một vòng quanh nhà và đếm xem có bao nhiêu thứ đã không còn ở chỗ ban đầu. Mỗi thứ là một câu trả lời cho câu hỏi: căn nhà này đang làm đúng việc gì, và đang bị bắt làm thêm việc gì khác.
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

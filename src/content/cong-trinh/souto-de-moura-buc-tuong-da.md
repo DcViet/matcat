@@ -77,4 +77,4 @@ Hai điều ông nhắc nhiều, theo ghi chú, là bỏ bớt hơn thêm, và �
 
 Thử một buổi nhé: đi quanh nhà, tìm một bức tường mà bạn đã quen đến mức không còn nhìn nữa. Áp tay lên nó. Bạn đoán nó làm bằng gì dưới lớp sơn?
 
-> **Lưu ý.** Các thông tin mình tham khảo trong sách và kèm với nội dung bàn luận của mình. Sơ đồ là mình tự vẽ.
+> **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.
