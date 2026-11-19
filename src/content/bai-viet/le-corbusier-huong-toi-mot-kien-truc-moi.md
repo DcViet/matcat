@@ -3,9 +3,9 @@ title: "Ngôi nhà là cỗ máy để ở: câu hỏi đi trước hình dáng"
 description: "Câu nói nổi tiếng của Le Corbusier hay bị hiểu là bỏ vẻ đẹp, nhưng đọc lại chương sách có nó thì thấy ông đang dạy cách đặt bài toán ngôi nhà. Ba bài học từ máy bay, ô tô và Parthenon, và những chỗ sách không nói."
 date: 2026-11-19
 draft: false
-cover: "/images/le-corbusier-huong-toi-mot-kien-truc-moi-artur-andrzej.jpg"
-coverAlt: "Một chiếc xe Citroën mui trần màu đỏ rượu, chắn bùn đen, bánh nan đỏ, đỗ trên nền đất cát; bên cạnh có tấm nhãn ghi năm 1925."
-coverCredit: "Artur Andrzej, CC0, qua Wikimedia Commons"
+cover: "/images/le-corbusier-huong-toi-mot-kien-truc-moi-karaian.jpg"
+coverAlt: "Một ngôi nhà ở của Le Corbusier ở khu Weissenhof, Stuttgart: khối tường trắng đặt trên những cột mảnh, bên cạnh là khối tường xanh lá nhạt, một cột đỏ cam ở tầng trệt, nổi trên nền trời xanh đậm; phía trước là sườn cỏ dốc."
+coverCredit: "karaian, Le Corbusier, Weissenhofsiedlung, CC BY 2.0, qua Flickr"
 tags: ["Le Corbusier", "Towards a New Architecture", "Modernism", "nhà ở", "chuẩn hóa"]
 ---
 <!--
@@ -13,7 +13,7 @@ tags: ["Le Corbusier", "Towards a New Architecture", "Modernism", "nhà ở", "c
 (2) Sách nguồn + trang: Le Corbusier, Towards a New Architecture (Vers une architecture, 1923; bản dịch Etchells, Dover 1986): câu "nhà là cỗ máy để ở" tr. 95 (ghi chú còn dẫn tr. 7, 142, 263); máy bay tr. 105-127; "Manual of the Dwelling" tr. 115-123; chương Mass-Production Houses tr. 225-266.
 (3) Ghi chú thư viện đã dùng: KIẾN TRÚC SƯ - LE CORBUSIER; TRƯỜNG PHÁI - MODERNISM; SÁCH - TOWARDS A NEW ARCHITECTURE; LUẬN ĐIỂM - NGÔI NHÀ LÀ CỖ MÁY ĐỂ Ở; LUẬN ĐIỂM - MÁY BAY VÀ BÀI TOÁN ĐƯỢC ĐẶT ĐÚNG; LUẬN ĐIỂM - CẨM NANG NGÔI NHÀ; THỦ PHÁP - THẨM MỸ KỸ SƯ VÀ CHUẨN HÓA; THỦ PHÁP - NHÀ SẢN XUẤT HÀNG LOẠT; phần Venturi và Banham trong ghi chú Le Corbusier.
 (4) Ý của người viết, không có trong sách: ví dụ cái ghế ở mở bài và bài tập phòng của bạn ở cuối; cách gọi "câu hỏi đi trước hình dáng"; cách nối với bài Động từ mở ra khả năng; sơ đồ ba bước.
-(5) Chỗ chưa chắc: số trang lấy từ ghi chú thư viện, mình chưa mở bản in; ghi chú đọc sách chỉ từ chữ quét (OCR), không thấy ảnh và sơ đồ trong sách; ảnh bìa là xe Citroën 1925 do mình chọn vì căn nhà Citrohan chơi chữ với tên hãng này, không phải ảnh có trong sách.
+(5) Chỗ chưa chắc: số trang lấy từ ghi chú thư viện, mình chưa mở bản in; ghi chú đọc sách chỉ từ chữ quét (OCR), không thấy ảnh và sơ đồ trong sách; ảnh bìa là một ngôi nhà ở do Le Corbusier thiết kế ở khu Weissenhof, Stuttgart, ảnh của karaian trên Flickr (CC BY 2.0; đã đối chiếu giấy phép trên trang Flickr của ảnh), không phải ảnh có trong sách; bài không nói đây là căn nào trong khu vì tên ảnh chỉ ghi "Le Corbusier, Weissenhofsiedlung".
 -->
 
 Ví dụ này là của mình nghĩ ra. Bạn nhờ một bác thợ mộc đóng cái ghế. Bác không hỏi bạn thích kiểu cổ hay kiểu mới. Bác hỏi: ghế này để ăn cơm hay để ngồi đọc sách, ngồi lâu hay ngồi chốc lát? Trả lời xong, cái ghế đã có nửa hình dáng. Chân cao bao nhiêu, lưng tựa nghiêng thế nào, bạn sẽ thấy chúng tự hiện ra từ câu trả lời.

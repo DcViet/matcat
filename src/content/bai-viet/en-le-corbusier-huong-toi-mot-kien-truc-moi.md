@@ -4,9 +4,9 @@ description: "Le Corbusier's famous line is often read as a rejection of beauty,
 date: 2026-11-19
 draft: false
 lang: "en"
-cover: "/images/le-corbusier-huong-toi-mot-kien-truc-moi-artur-andrzej.jpg"
-coverAlt: "A wine-red Citroën convertible with black fenders and red spoked wheels, parked on sandy ground; a label beside it gives the year 1925."
-coverCredit: "Artur Andrzej, CC0, via Wikimedia Commons"
+cover: "/images/le-corbusier-huong-toi-mot-kien-truc-moi-karaian.jpg"
+coverAlt: "A house by Le Corbusier at the Weissenhof estate in Stuttgart: a white block raised on slender columns, a pale green block beside it, and a burnt-orange column at ground level, against a deep blue sky; a grassy slope rises in front."
+coverCredit: "karaian, Le Corbusier, Weissenhofsiedlung, CC BY 2.0, via Flickr"
 tags: ["Le Corbusier", "Towards a New Architecture", "Modernism", "housing", "standardization"]
 ---
 <!--
@@ -14,7 +14,7 @@ English edition of the Vietnamese article of the same slug.
 (1) Main idea: "a house is a machine for living in" is an invitation to restate the housing problem from needs (the airplane lesson), select on a standard (car, Parthenon), and only then reach emotion; it is not a rejection of beauty.
 (2) Source: Le Corbusier, Towards a New Architecture (Vers une architecture, 1923; Etchells translation, Dover 1986): the "machine for living in" line p. 95 (notes also cite pp. 7, 142, 263); airplanes pp. 105-127; "Manual of the Dwelling" pp. 115-123; Mass-Production Houses pp. 225-266.
 (4) Mine, not from the book: the chair example in the opening and the room exercise at the end; the phrase "the question before the shape"; the link to Verbs Open Up Possibilities; the three-step diagram.
-(5) Uncertain: page numbers come from my library notes, I have not opened the printed book; the notes are from scanned text only, so the book's photographs and diagrams were not seen; the cover is a 1925 Citroën I chose because the Citrohan house plays on the company's name, not an image from the book.
+(5) Uncertain: page numbers come from my library notes, I have not opened the printed book; the notes are from scanned text only, so the book's photographs and diagrams were not seen; the cover is a house Le Corbusier designed at the Weissenhof estate in Stuttgart, photographed by karaian on Flickr (CC BY 2.0; licence checked on the Flickr page of the photo), not an image from the book; the piece does not say which house it is because the photo title only reads "Le Corbusier, Weissenhofsiedlung".
 -->
 
 Here is an example I made up. You ask a carpenter to build you a chair. He does not ask whether you prefer an old style or a new one. He asks: is this chair for eating or for reading, for sitting a long time or a short one? Once you answer, the chair already has half its shape. How high the legs are, how far the back leans, you will find they come out of your answer.
