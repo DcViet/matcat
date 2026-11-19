@@ -36,8 +36,10 @@ for (const d of dong) {
     moi.push(p);
   } else if (/^public\/images\/[a-z0-9._-]+\.(jpg|jpeg|png|svg)$/.test(p)) {
     moi.push(p);
+  } else if (/^public\/videos\/[a-z0-9._-]+\.mp4$/.test(p)) {
+    moi.push(p);
   } else {
-    ghiLoi(p, 'tệp nằm ngoài chỗ được phép (src/content/<khu>/, public/images/)');
+    ghiLoi(p, 'tệp nằm ngoài chỗ được phép (src/content/<khu>/, public/images/, public/videos/)');
   }
 }
 
@@ -46,7 +48,9 @@ const anhMoi = moi.filter((p) => !p.endsWith('.md'));
 
 for (const a of anhMoi) {
   const kb = statSync(join(goc, a)).size / 1024;
-  if (kb > 1600) ghiLoi(a, `ảnh nặng ${Math.round(kb)} KB, vượt 1600 KB`);
+  if (a.endsWith('.mp4')) {
+    if (kb > 4096) ghiLoi(a, `video nặng ${Math.round(kb)} KB, vượt 4096 KB`);
+  } else if (kb > 1600) ghiLoi(a, `ảnh nặng ${Math.round(kb)} KB, vượt 1600 KB`);
 }
 
 // ---------- 2. Từng bài ----------
@@ -138,6 +142,9 @@ for (const b of bai) {
       if (en && !duong.endsWith('-en.svg')) ghiLoi(p, `bản tiếng Anh phải dùng sơ đồ -en.svg: ${duong}`);
       if (!en && duong.endsWith('-en.svg')) ghiLoi(p, `bản tiếng Việt không được dùng sơ đồ -en.svg: ${duong}`);
     }
+  }
+  for (const m of sach.matchAll(/(?:src|poster)="(\/(?:videos|images)\/[^"\s]+)"/g)) {
+    if (!tonTai(join('public', m[1]))) ghiLoi(p, `video hoặc ảnh nhúng không tồn tại: ${m[1]}`);
   }
   for (const m of sach.matchAll(/\]\((\/[^)\s#]*)\)/g)) {
     const h = m[1];
