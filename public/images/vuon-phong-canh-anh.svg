@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="440" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Ba lớp của một bức tranh: người đi dạo nhìn từ gần ra xa</text>
+
+  <!-- Ranh giới ba lớp -->
+  <g stroke="#a8a498" stroke-width="1" stroke-dasharray="4 4">
+    <line x1="250" y1="62" x2="250" y2="250"/>
+    <line x1="520" y1="62" x2="520" y2="250"/>
+  </g>
+
+  <!-- Đồi xa -->
+  <path d="M520 220Q575 128 635 160T720 138V220Z" fill="#a8a498" fill-opacity="0.25" stroke="#1c1b19" stroke-width="2"/>
+  <path d="M40 220H720" stroke="#1c1b19" stroke-width="2"/>
+
+  <!-- Mặt hồ (trung cảnh) -->
+  <path d="M250 220Q300 244 385 232T520 220V250H250Z" fill="#a8a498" fill-opacity="0.18"/>
+  <path d="M290 238Q330 232 370 238M400 244Q440 238 480 244" stroke="#5f5b53" stroke-width="1" fill="none"/>
+
+  <!-- Cây cận cảnh -->
+  <g stroke="#5f5b53" stroke-width="1.5" fill="none">
+    <path d="M150 220V160M215 220V176"/>
+    <circle cx="150" cy="138" r="24"/>
+    <circle cx="215" cy="158" r="18"/>
+    <!-- cây bên bờ hồ -->
+    <path d="M470 220V190"/>
+    <circle cx="470" cy="176" r="14"/>
+  </g>
+
+  <!-- Ngôi đền nhỏ ở xa -->
+  <g stroke="#1c1b19" stroke-width="1.5" fill="none">
+    <path d="M610 168h30M613 168v-14h24v14M613 154l12-9 12 9"/>
+  </g>
+
+  <!-- Người đi dạo -->
+  <g fill="none" stroke="#1c1b19" stroke-width="1.5" stroke-linecap="round">
+    <circle cx="70" cy="170" r="6"/>
+    <path d="M70 176v24M70 200l-7 20M70 200l7 20M70 184l-8 11M70 184l8 11"/>
+  </g>
+
+  <!-- Đường nhìn -->
+  <path d="M80 170L600 160" stroke="#b4472e" stroke-width="1.2" stroke-dasharray="6 4"/>
+
+  <!-- Nhãn ba lớp -->
+  <g text-anchor="middle">
+    <text x="145" y="280" font-weight="600" fill="#1c1b19">Cận cảnh</text>
+    <text x="145" y="298" font-size="12" fill="#5f5b53">có thể sửa</text>
+    <text x="385" y="280" font-weight="600" fill="#1c1b19">Trung cảnh</text>
+    <text x="385" y="298" font-size="12" fill="#5f5b53">tạo chiều sâu</text>
+    <text x="620" y="280" font-weight="600" fill="#1c1b19">Viễn cảnh</text>
+    <text x="620" y="298" font-size="12" fill="#5f5b53">giữ nguyên</text>
+  </g>
+
+  <!-- Hai cách bày vườn -->
+  <line x1="24" y1="318" x2="736" y2="318" stroke="#a8a498" stroke-width="1"/>
+  <text x="24" y="342" font-weight="600" fill="#1c1b19">Hai cách bày một khu vườn</text>
+
+  <!-- Vườn Pháp: trục thẳng -->
+  <g stroke="#1c1b19" stroke-width="1.5" fill="none">
+    <path d="M24 372H340"/>
+  </g>
+  <g fill="#1c1b19">
+    <circle cx="80" cy="372" r="3"/><circle cx="140" cy="372" r="3"/><circle cx="200" cy="372" r="3"/><circle cx="260" cy="372" r="3"/><circle cx="320" cy="372" r="3"/>
+  </g>
+  <text x="24" y="396" font-size="11.5" fill="#5f5b53">Vườn Pháp (Versailles): trục thẳng, đối xứng</text>
+
+  <!-- Vườn Anh: đường uốn -->
+  <path d="M396 372Q440 344 484 372T572 372T660 372" stroke="#1c1b19" stroke-width="1.5" fill="none"/>
+  <g fill="#b4472e">
+    <circle cx="440" cy="358" r="3.5"/><circle cx="528" cy="386" r="3.5"/><circle cx="616" cy="358" r="3.5"/>
+  </g>
+  <text x="396" y="396" font-size="11.5" fill="#5f5b53">Vườn Anh: đường uốn, mỗi khúc quanh một điểm nhìn</text>
+
+  <text x="24" y="422" font-size="11.5" fill="#5f5b53">Sơ đồ ý niệm của người viết, không phải bản vẽ của một khu vườn cụ thể.</text>
+</svg>

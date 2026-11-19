@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="400" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Bốn nơi, bốn vật liệu, cùng một cách hỏi</text>
+  <rect x="24" y="64" width="169" height="224" fill="#ffffff" stroke="#a8a498" stroke-width="1.25"/>
+  <rect x="24" y="64" width="169" height="5" fill="#b4472e"/>
+  <text x="36" y="96" font-size="14" font-weight="600" fill="#1c1b19">Menil</text>
+  <text x="36" y="116" font-size="11.5" fill="#5f5b53">Houston, 1986</text>
+  <line x1="36" y1="130" x2="181" y2="130" stroke="#a8a498" stroke-width="1"/>
+  <text x="36" y="158" font-size="13.5" font-weight="600" fill="#b4472e">bê tông</text>
+  <text x="36" y="180" font-size="12" fill="#1c1b19">“lá” mái nhẹ</text>
+  <text x="36" y="202" font-size="12" fill="#1c1b19">khúc xạ nắng Texas</text>
+  <text x="36" y="224" font-size="12" fill="#1c1b19">tường ốp gỗ</text>
+  <rect x="205" y="64" width="169" height="224" fill="#ffffff" stroke="#a8a498" stroke-width="1.25"/>
+  <rect x="205" y="64" width="169" height="5" fill="#b4472e"/>
+  <text x="217" y="96" font-size="14" font-weight="600" fill="#1c1b19">Tjibaou</text>
+  <text x="217" y="116" font-size="11.5" fill="#5f5b53">Nouméa, 1991–98</text>
+  <line x1="217" y1="130" x2="362" y2="130" stroke="#a8a498" stroke-width="1"/>
+  <text x="217" y="158" font-size="13.5" font-weight="600" fill="#b4472e">gỗ</text>
+  <text x="217" y="180" font-size="12" fill="#1c1b19">mười túp lều cao</text>
+  <text x="217" y="202" font-size="12" fill="#1c1b19">khe bắt gió biển</text>
+  <text x="217" y="224" font-size="12" fill="#1c1b19">giữa rừng thông</text>
+  <rect x="386" y="64" width="169" height="224" fill="#ffffff" stroke="#a8a498" stroke-width="1.25"/>
+  <rect x="386" y="64" width="169" height="5" fill="#b4472e"/>
+  <text x="398" y="96" font-size="14" font-weight="600" fill="#1c1b19">Padre Pio</text>
+  <text x="398" y="116" font-size="11.5" fill="#5f5b53">Foggia</text>
+  <line x1="398" y1="130" x2="543" y2="130" stroke="#a8a498" stroke-width="1"/>
+  <text x="398" y="158" font-size="13.5" font-weight="600" fill="#b4472e">đá</text>
+  <text x="398" y="180" font-size="12" fill="#1c1b19">vòm nhịp 50 m</text>
+  <text x="398" y="202" font-size="12" fill="#1c1b19">mái và nền cũng đá</text>
+  <text x="398" y="224" font-size="12" fill="#1c1b19">hòa vào cảnh quan</text>
+  <rect x="567" y="64" width="169" height="224" fill="#ffffff" stroke="#a8a498" stroke-width="1.25"/>
+  <rect x="567" y="64" width="169" height="5" fill="#b4472e"/>
+  <text x="579" y="96" font-size="14" font-weight="600" fill="#1c1b19">Potsdamer Platz</text>
+  <text x="579" y="116" font-size="11.5" fill="#5f5b53">Berlin, từ 1996</text>
+  <line x1="579" y1="130" x2="724" y2="130" stroke="#a8a498" stroke-width="1"/>
+  <text x="579" y="158" font-size="13.5" font-weight="600" fill="#b4472e">đất nung</text>
+  <text x="579" y="180" font-size="12" fill="#1c1b19">ốp tháp Daimler-Benz</text>
+  <text x="579" y="202" font-size="12" fill="#1c1b19">nối cả khu lại</text>
+  <rect x="24" y="312" width="712" height="34" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="380" y="334" text-anchor="middle" font-size="13" fill="#1c1b19">Nơi này, vật liệu này: bây giờ có thể làm gì với nó?</text>
+  <text x="24" y="382" font-size="11.5" fill="#5f5b53">Sơ đồ ý niệm của người viết, không phải bản vẽ của công trình. Dữ kiện theo Amery (1998).</text>
+</svg>
