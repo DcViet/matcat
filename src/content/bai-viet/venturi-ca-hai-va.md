@@ -24,11 +24,11 @@ Chuyện này mình nghĩ ra để làm ví dụ, không phải chuyện có th�
 
 Cuốn sách ấy tên *Complexity and Contradiction in Architecture* (Bảo tàng MoMA, 1966). Theo ghi chú đọc sách của mình, Venturi nhìn kiến trúc Hiện đại chính thống và thấy nó làm việc theo kiểu "hoặc": cái che nắng chỉ để che nắng, cột ít khi kiêm vách, mỗi chức năng được tách thành một cánh nhà riêng. Ngay cả "không gian chảy" cũng là chảy từ trong ra ngoài, chứ không phải vừa trong vừa ngoài cùng lúc (tr. 23-32).
 
-Ông trích câu của Louis Kahn, người thầy gần nhất của ông: kiến trúc phải có không gian xấu cũng như không gian tốt. Cái sai ở một bộ phận có khi lại đúng ở toàn thể.
+Ông trích câu của [Louis Kahn](/cong-trinh/kimbell-kahn/), người thầy gần nhất của ông: kiến trúc phải có không gian xấu cũng như không gian tốt. Cái sai ở một bộ phận có khi lại đúng ở toàn thể.
 
 ## "Cả hai" nghĩa là gì
 
-Venturi gọi đó là *both-and*, cả hai và. Ý của ông là nhiều tầng nghĩa và công dụng trái nhau cùng có mặt trong một công trình, nối với nhau bằng chữ "tuy vậy". Ông dẫn khá nhiều ví dụ. Nhà Shodhan của Le Corbusier đóng chặt ở các góc, nhưng mở ra khá tự do trên mặt tường. Biệt thự Savoye nhìn ngoài thì đơn giản, vào trong lại phức tạp. Nhà thờ Sant'Andrea al Quirinale của Bernini có bình đồ elip, vừa có tâm vừa có hướng, nên vừa giống nhà thờ tâm điểm vừa giống nhà thờ một trục.
+Venturi gọi đó là *both-and*, cả hai và. Ý của ông là nhiều tầng nghĩa và công dụng trái nhau cùng có mặt trong một công trình, nối với nhau bằng chữ "tuy vậy". Ông dẫn khá nhiều ví dụ. Nhà Shodhan của [Le Corbusier](/bai-viet/le-corbusier-huong-toi-mot-kien-truc-moi/) đóng chặt ở các góc, nhưng mở ra khá tự do trên mặt tường. Biệt thự Savoye nhìn ngoài thì đơn giản, vào trong lại phức tạp. Nhà thờ Sant'Andrea al Quirinale của Bernini có bình đồ elip, vừa có tâm vừa có hướng, nên vừa giống nhà thờ tâm điểm vừa giống nhà thờ một trục.
 
 Mình thử đem ý ấy quay lại cái bếp ở đầu bài. Cách hoặc-hoặc là tách thành "bếp để nấu" và "bàn để ăn", mỗi chỗ một việc. Cách cả hai và là làm một cái quầy: người nấu đứng bên trong, người ăn ngồi bên ngoài, cùng một mặt đá. Quầy ấy hơi chen chúc, tuy vậy hai người ở gần nhau và nhà đỡ tốn chỗ.
 

@@ -42,7 +42,7 @@ Gordon đưa ra ba ý gọn (ch. 5, tr. 51–62). Một: cửa càng cao thì á
 
 ## Khi nắng quá gắt
 
-Gordon viết cho khí hậu ôn đới ở Mỹ. Ở vùng nhiệt đới, che nắng phải đi trước lấy sáng; đó là nhận xét thêm của mình, không phải của Gordon. Louis Kahn đã gặp đúng bài toán ấy khi thiết kế Lãnh sự quán Mỹ ở Luanda, Angola (1959–62, không xây). Trong bài "Discussion in Kahn's Office" (1961, bắt đầu tr. 97 của *Essential Texts*), ông nhận thấy ô cửa sổ tối bao quanh khung sáng thì gây chói, còn lam gỗ hay lưới chỉ thêm những "điểm chói" trên nền tối. Người địa phương thì làm việc quay lưng ra phía nắng, lấy sáng từ mặt tường.
+Gordon viết cho khí hậu ôn đới ở Mỹ. Ở vùng nhiệt đới, che nắng phải đi trước lấy sáng; đó là nhận xét thêm của mình, không phải của Gordon. [Louis Kahn](/cong-trinh/kimbell-kahn/) đã gặp đúng bài toán ấy khi thiết kế Lãnh sự quán Mỹ ở Luanda, Angola (1959–62, không xây). Trong bài "Discussion in Kahn's Office" (1961, bắt đầu tr. 97 của *Essential Texts*), ông nhận thấy ô cửa sổ tối bao quanh khung sáng thì gây chói, còn lam gỗ hay lưới chỉ thêm những "điểm chói" trên nền tối. Người địa phương thì làm việc quay lưng ra phía nắng, lấy sáng từ mặt tường.
 
 Từ đó Kahn đặt một bức tường cách cửa sổ vài bước và đục những ô lớn để không mất tầm nhìn. Mặt tường hứng nắng nên làm giảm độ tương phản. Ông thử bằng mô hình, dùng bóng đèn 500 W. Điểm yếu cũng được ghi lại: bức tường rời rất tốn kém, và chính Kahn thấy các ô mở có thể làm nhỏ hơn.
 

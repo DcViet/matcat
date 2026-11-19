@@ -71,7 +71,7 @@ The diagram above is a section I drew from those principles: someone outside get
 
 In early 1965, Louis Kahn was thinking about a garden of trees for the Salk Institute. He phoned and wrote to Barragán asking for advice. In early 1966, Barragán came to La Jolla. He put his hand on the concrete wall and said not to put a single tree or blade of grass there: it should be a stone plaza, and it "would have a facade facing the sky." He sketched a water channel more than 60 meters long, pointing toward the sea.
 
-Antonio Amado Lorenzo, the author of the article in Revista EGA, reads this proposal through two influences. One is Le Corbusier's idea of the framed landscape, which Barragán heard in Paris in 1931. The other is the metaphysical paintings of Giorgio de Chirico, with their empty spaces, symmetrical axes and evening light. Barragán was paid a consulting fee, and his hand drawing is the only Salk-related drawing held by the archive in Switzerland.
+Antonio Amado Lorenzo, the author of the article in Revista EGA, reads this proposal through two influences. One is [Le Corbusier](/en/bai-viet/le-corbusier-huong-toi-mot-kien-truc-moi/)'s idea of the framed landscape, which Barragán heard in Paris in 1931. The other is the metaphysical paintings of Giorgio de Chirico, with their empty spaces, symmetrical axes and evening light. Barragán was paid a consulting fee, and his hand drawing is the only Salk-related drawing held by the archive in Switzerland.
 
 According to the thesis, wall and water are his two "signatures." The wall brings mystery and privacy and pulls nature down to human scale. Water, from fountains to reflecting pools, produces silence. In his Pritzker speech he said: "in my fountains, silence sings."
 

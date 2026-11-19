@@ -26,11 +26,11 @@ I made this up as an example; it is not a true story. But "pick one" is somethin
 
 The book is *Complexity and Contradiction in Architecture* (Museum of Modern Art, 1966). According to my reading notes, Venturi looked at orthodox Modern architecture and saw it working on an "either" basis: a sunshade only shades the sun, a column rarely doubles as a wall, and every function gets its own separate wing. Even "flowing space" flows from inside to outside, rather than being inside and outside at the same time (pp. 23-32).
 
-He quotes Louis Kahn, his closest teacher: architecture needs bad spaces as well as good ones. What is wrong in one part can be right in the whole.
+He quotes [Louis Kahn](/en/cong-trinh/kimbell-kahn/), his closest teacher: architecture needs bad spaces as well as good ones. What is wrong in one part can be right in the whole.
 
 ## What "Both-And" Means
 
-Venturi calls it *both-and*. By it he means that several opposed meanings and uses are present in one building, joined by the word "yet." He gives plenty of examples. Le Corbusier's Shodhan House is shut tight at the corners but opens up rather freely across its faces. The Villa Savoye looks simple from outside and turns complicated inside. Bernini's Sant'Andrea al Quirinale has an elliptical plan, with both a center and a direction, so it is part centered church and part single-axis church.
+Venturi calls it *both-and*. By it he means that several opposed meanings and uses are present in one building, joined by the word "yet." He gives plenty of examples. [Le Corbusier](/en/bai-viet/le-corbusier-huong-toi-mot-kien-truc-moi/)'s Shodhan House is shut tight at the corners but opens up rather freely across its faces. The Villa Savoye looks simple from outside and turns complicated inside. Bernini's Sant'Andrea al Quirinale has an elliptical plan, with both a center and a direction, so it is part centered church and part single-axis church.
 
 Let me carry the idea back to the kitchen. The either-or answer is to split things into a "kitchen to cook in" and a "table to eat at," one job per place. The both-and answer is a single counter: the cook stands on the inside, the diners sit on the outside, and everyone shares one stone top. It is a bit crowded, yet the two people are close and the house wastes less room.
 

@@ -39,7 +39,7 @@ Smith kể ra sáu việc như vậy. Mấy dòng diễn giải ngắn bên dư�
 - **Hình dung:** vẽ để thấy trước một nơi chưa tồn tại.
 - **Đánh giá:** vẽ để "thử cho vừa", xem cái này đặt vào đó có ổn không.
 
-Một bản phác thường làm nhiều việc cùng lúc. Những cái tên trong sơ đồ trên, từ Latrobe, Pugin, Ito đến Leonardo, Palladio, Gaudí, Ferriss, là các ví dụ ghi trong ghi chú đọc sách của mình.
+Một bản phác thường làm nhiều việc cùng lúc. Những cái tên trong sơ đồ trên, từ Latrobe, Pugin, Ito đến Leonardo, Palladio, [Gaudí](/cong-trinh/gaudi-mo-hinh-day-xich/), Ferriss, là các ví dụ ghi trong ghi chú đọc sách của mình.
 
 ## Nhìn rồi mới thấy
 

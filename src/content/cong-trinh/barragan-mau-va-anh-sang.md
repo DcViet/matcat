@@ -70,7 +70,7 @@ Hình trên là mặt cắt mình vẽ từ các nguyên tắc ấy: người ng
 
 Đầu năm 1965, Louis Kahn đang nghĩ tới một khu vườn cây ở Viện Salk. Ông gọi điện và viết thư nhờ Barragán góp ý. Đầu năm 1966, Barragán tới La Jolla. Ông đưa tay sờ bức tường bê tông, rồi nói đừng đặt cây hay ngọn cỏ nào ở đây: nơi này nên là một quảng trường đá, và nó "sẽ có một mặt đứng hướng lên trời". Ông phác một kênh nước dài hơn 60 m, chỉ về phía biển.
 
-Antonio Amado Lorenzo, tác giả bài báo trên Revista EGA, đọc phương án này qua hai ảnh hưởng. Một là ý niệm phong cảnh được khung của Le Corbusier, mà Barragán nghe ở Paris năm 1931. Hai là những bức tranh siêu hình của Giorgio de Chirico, với khoảng rỗng, trục đối xứng và ánh chiều. Barragán nhận phí tư vấn, và bản vẽ tay của ông là bản duy nhất liên quan tới Salk mà quỹ lưu trữ ở Thụy Sĩ giữ.
+Antonio Amado Lorenzo, tác giả bài báo trên Revista EGA, đọc phương án này qua hai ảnh hưởng. Một là ý niệm phong cảnh được khung của [Le Corbusier](/bai-viet/le-corbusier-huong-toi-mot-kien-truc-moi/), mà Barragán nghe ở Paris năm 1931. Hai là những bức tranh siêu hình của Giorgio de Chirico, với khoảng rỗng, trục đối xứng và ánh chiều. Barragán nhận phí tư vấn, và bản vẽ tay của ông là bản duy nhất liên quan tới Salk mà quỹ lưu trữ ở Thụy Sĩ giữ.
 
 Theo luận văn, tường và nước là hai "chữ ký" của ông. Tường đem lại bí ẩn và riêng tư, kéo thiên nhiên về vừa tầm người. Nước, từ đài phun đến bể phản chiếu, làm ra sự im lặng. Trong diễn từ nhận giải Pritzker, ông nói: "in my fountains, silence sings".
 

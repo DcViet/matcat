@@ -40,7 +40,7 @@ Smith lists six functions. The short glosses below are mine:
 - **Visualize:** draw to see ahead a place that does not yet exist.
 - **Evaluate:** draw to "try it for size," to see whether this fits in there.
 
-A sketch often does several jobs at once. The names in the diagram above, from Latrobe, Pugin, and Ito to Leonardo, Palladio, Gaudí, and Ferriss, are examples recorded in my reading notes on the book.
+A sketch often does several jobs at once. The names in the diagram above, from Latrobe, Pugin, and Ito to Leonardo, Palladio, [Gaudí](/en/cong-trinh/gaudi-mo-hinh-day-xich/), and Ferriss, are examples recorded in my reading notes on the book.
 
 ## Looking, Then Seeing
 

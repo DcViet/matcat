@@ -59,7 +59,7 @@ Chính cuốn sách khen công trình cũng chép lại những lời chê: sả
 | Vách kính quanh sảnh | Thiên nhiên ngoài kia thành một phần của "cái toàn thể lớn hơn", như Mies viết | Nắng chói, phải thêm rèm |
 | Đặt sảnh lên bệ | Sảnh thành "hình hài của cộng đồng", theo Pavia và Ferrari | Bộ sưu tập thường trực nằm trong lòng bệ |
 
-Venturi thì viết rằng Mies "xóa" bài toán đi thay vì giải nó, còn Smithson gọi công trình là "gần như chiếc hộp lớn". Hai lời này mình chép qua ghi chú, chưa đọc tận nguồn.
+[Venturi](/bai-viet/venturi-ca-hai-va/) thì viết rằng Mies "xóa" bài toán đi thay vì giải nó, còn Smithson gọi công trình là "gần như chiếc hộp lớn". Hai lời này mình chép qua ghi chú, chưa đọc tận nguồn.
 
 Đặt cạnh [Kimbell](/cong-trinh/kimbell-kahn/) sẽ thấy hai lối đi ngược chiều. Kahn bắt đầu từ bức tranh và thứ ánh sáng chạm vào nó, rồi mới ra hình cái vòm. Mies làm căn phòng trước, tranh tính sau. Một bảo tàng muốn đứng vài trăm năm thì quả là không biết trước người ta sẽ bày gì. Có điều hôm nay treo bức nào thì bức ấy vẫn cần thứ ánh sáng vừa với nó, mà sáng nhiều chưa chắc là sáng tốt, như mình đã kể ở bài [Ánh sáng tốt không phải ánh sáng nhiều](/bai-viet/anh-sang-tot-khong-phai-anh-sang-nhieu/).
 

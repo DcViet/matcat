@@ -23,7 +23,7 @@ Hình dung một bức tường sân vườn ở quê, xây bằng đá hộc. T
 
 Ví dụ này của mình, không phải kỷ niệm. Nhưng nó giúp hiểu một điều trong cách làm của Eduardo Souto de Moura: ông muốn ta nhìn vào tường mà vẫn thấy đá.
 
-Souto de Moura sinh ở Porto năm 1952, học điêu khắc rồi chuyển sang kiến trúc. Ông làm với Álvaro Siza khoảng năm năm, rồi lập văn phòng riêng năm 1980, và nhận giải Pritzker năm 2011. Người ta hay gọi ông là "tân Mies", còn ông chủ trương "tốt hơn là độc đáo".
+Souto de Moura sinh ở Porto năm 1952, học điêu khắc rồi chuyển sang kiến trúc. Ông làm với Álvaro Siza khoảng năm năm, rồi lập văn phòng riêng năm 1980, và nhận giải Pritzker năm 2011. Người ta hay gọi ông là "tân [Mies](/cong-trinh/neue-nationalgalerie-mies/)", còn ông chủ trương "tốt hơn là độc đáo".
 
 ## Đá không phải lớp ốp
 

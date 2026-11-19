@@ -53,7 +53,7 @@ All three gardens use only stones and gravel, yet each speaks in its own way: on
 
 ## Emptiness Is Also a Kind of Beauty
 
-Shigemori found two ideals beneath the dry garden. One is *yugen*, a deep, refined beauty that hides many layers of symbolism underneath. The other is *yohaku no bi*, the beauty of empty space. *Yo* means "surplus." *Haku* means "white." Nitschke compares this with the Kamakura picture scrolls that leave the clouds and sky blank, and with Mies's line "less is more."
+Shigemori found two ideals beneath the dry garden. One is *yugen*, a deep, refined beauty that hides many layers of symbolism underneath. The other is *yohaku no bi*, the beauty of empty space. *Yo* means "surplus." *Haku* means "white." Nitschke compares this with the Kamakura picture scrolls that leave the clouds and sky blank, and with [Mies](/en/cong-trinh/neue-nationalgalerie-mies/)'s line "less is more."
 
 There is another way to pull the viewer away from the shape of a stone: give it a name. The *Sansui narabini yakei-zu* (1466) is a manual passed on by word of mouth among the stone-setting monks of Ninna-ji. It explains how to place stones according to the five elements, and how to name each one: "Stone That Never Ages," "Stone of Floating Clouds," "Stone That Hides the Boat," "Stone That Anchors the Bridge." An ordinary stone, once named, begins to have a story of its own.
 

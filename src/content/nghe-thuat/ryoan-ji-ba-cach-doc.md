@@ -52,7 +52,7 @@ Cả ba vườn đều chỉ dùng đá và sỏi, mà mỗi vườn nói một 
 
 ## Khoảng trống cũng là một vẻ đẹp
 
-Shigemori nhận ra hai lý tưởng nằm dưới vườn khô. Một là *yugen*, vẻ đẹp thâm trầm, tao nhã, che nhiều tầng biểu tượng bên dưới. Hai là *yohaku no bi*, vẻ đẹp của khoảng trống. *Yo* là "thừa". *Haku* là "trắng". Nitschke so điều này với những cuộn tranh thời Kamakura bỏ trống phần mây và trời, và với câu "ít hơn là nhiều" của Mies.
+Shigemori nhận ra hai lý tưởng nằm dưới vườn khô. Một là *yugen*, vẻ đẹp thâm trầm, tao nhã, che nhiều tầng biểu tượng bên dưới. Hai là *yohaku no bi*, vẻ đẹp của khoảng trống. *Yo* là "thừa". *Haku* là "trắng". Nitschke so điều này với những cuộn tranh thời Kamakura bỏ trống phần mây và trời, và với câu "ít hơn là nhiều" của [Mies](/cong-trinh/neue-nationalgalerie-mies/).
 
 Còn một cách khác để kéo người xem ra khỏi hình dạng của đá: đặt tên cho nó. Cuốn *Sansui narabini yakei-zu* (1466) là thủ bản truyền khẩu của các tăng sĩ xếp đá ở chùa Ninna-ji. Nó chỉ cách đặt đá theo ngũ hành, và cách đặt tên cho từng hòn: "Đá Không Già", "Đá Mây Lơ Lửng", "Đá Giấu Thuyền", "Đá Neo Cầu". Một hòn đá bình thường, có tên rồi, bắt đầu có chuyện của riêng nó.
 

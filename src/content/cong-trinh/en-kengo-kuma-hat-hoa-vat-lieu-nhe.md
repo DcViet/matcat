@@ -44,7 +44,7 @@ The original word is *particlization*. According to Bognar, Kuma realized it whi
 
 ![Conceptual diagram comparing a solid mass that blocks all light with the same volume divided into vertical slats that let light through the gaps](/images/kengo-kuma-hat-hoa-vat-lieu-nhe-en.svg)
 
-What I like about this idea is that the order of thinking runs against habit. We usually think of form first and material second. For Kuma the "particle" decides the building: you choose the material and the size of the grain by the setting, by how far away people stand, by how fast they pass. The overall shape comes later. He also cites Hiroshige's ukiyo-e prints, where nature is built from layers of particles, as the opposite pole to Le Corbusier's concrete mass set against nature. The diagram above is my own drawing to make this easier to picture. It is not a drawing of any actual building.
+What I like about this idea is that the order of thinking runs against habit. We usually think of form first and material second. For Kuma the "particle" decides the building: you choose the material and the size of the grain by the setting, by how far away people stand, by how fast they pass. The overall shape comes later. He also cites Hiroshige's ukiyo-e prints, where nature is built from layers of particles, as the opposite pole to [Le Corbusier](/en/bai-viet/le-corbusier-huong-toi-mot-kien-truc-moi/)'s concrete mass set against nature. The diagram above is my own drawing to make this easier to picture. It is not a drawing of any actual building.
 
 ## Heavy stone becomes a filter
 

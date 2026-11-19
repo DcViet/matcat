@@ -43,7 +43,7 @@ Chữ gốc là *particlization*. Theo Bognar, ông nhận ra điều đó khi l
 
 ![Sơ đồ ý niệm so sánh một khối đặc chặn hết ánh sáng với cùng khối ấy chia thành những thanh lam đứng, để ánh sáng lọt qua các khe](/images/kengo-kuma-hat-hoa-vat-lieu-nhe.svg)
 
-Điều làm mình thích ở ý này là thứ tự nghĩ ngược với thói quen. Ta quen nghĩ hình khối trước, vật liệu sau. Với Kuma, "hạt" quyết định công trình: chọn vật liệu và kích thước hạt theo môi trường, theo khoảng cách người dùng đứng, theo tốc độ họ đi qua. Hình tổng thể tính sau. Ông còn dẫn tranh ukiyo-e của Hiroshige, nơi thiên nhiên được xếp từ các lớp hạt, làm đối cực với khối bê tông đối đầu thiên nhiên của Le Corbusier. Hình sơ đồ trên là mình vẽ cho dễ hình dung, không phải bản vẽ của một công trình nào.
+Điều làm mình thích ở ý này là thứ tự nghĩ ngược với thói quen. Ta quen nghĩ hình khối trước, vật liệu sau. Với Kuma, "hạt" quyết định công trình: chọn vật liệu và kích thước hạt theo môi trường, theo khoảng cách người dùng đứng, theo tốc độ họ đi qua. Hình tổng thể tính sau. Ông còn dẫn tranh ukiyo-e của Hiroshige, nơi thiên nhiên được xếp từ các lớp hạt, làm đối cực với khối bê tông đối đầu thiên nhiên của [Le Corbusier](/bai-viet/le-corbusier-huong-toi-mot-kien-truc-moi/). Hình sơ đồ trên là mình vẽ cho dễ hình dung, không phải bản vẽ của một công trình nào.
 
 ## Đá nặng thành bộ lọc
 

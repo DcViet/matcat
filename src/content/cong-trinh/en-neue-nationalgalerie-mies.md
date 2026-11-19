@@ -61,7 +61,7 @@ The same book that praises the building also records the complaints: the hall is
 | Glass walls around the hall | Nature outside becomes part of "a larger whole," as Mies wrote | Glaring sun, curtains added |
 | Setting the hall on a podium | The hall becomes "the shape of the community," per Pavia and Ferrari | The permanent collection sits inside the podium |
 
-Venturi, for his part, wrote that Mies "erased" the problem instead of solving it, and Smithson called the building "almost a big box." I copied these two remarks from my notes and have not read them at the source.
+[Venturi](/en/bai-viet/venturi-ca-hai-va/), for his part, wrote that Mies "erased" the problem instead of solving it, and Smithson called the building "almost a big box." I copied these two remarks from my notes and have not read them at the source.
 
 Set it beside [Kimbell: Making the Sun Take a Detour Before It Touches the Paintings](/en/cong-trinh/kimbell-kahn/) and you see two routes running in opposite directions. Kahn started from the painting and the light that touches it, and only then arrived at the shape of the vault. Mies made the room first and dealt with the paintings afterward. A museum meant to stand for a few hundred years really cannot know in advance what people will show in it. Still, whichever painting hangs there today needs light that suits it, and plenty of light is not necessarily good light, as I wrote in [Good Light Is Not Plenty of Light](/en/bai-viet/anh-sang-tot-khong-phai-anh-sang-nhieu/).
 

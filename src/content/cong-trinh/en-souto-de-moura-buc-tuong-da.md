@@ -25,7 +25,7 @@ Picture a garden wall in the countryside, built of rough fieldstone. As you walk
 
 That example is mine, not a memory. But it helps me understand something in Eduardo Souto de Moura's work: he wants you to look at a wall and still see stone.
 
-Souto de Moura was born in Porto in 1952 and studied sculpture before switching to architecture. He worked with Álvaro Siza for about five years, opened his own office in 1980, and won the Pritzker Prize in 2011. People often call him a "new Mies," while he argues that it is "better to be good than original."
+Souto de Moura was born in Porto in 1952 and studied sculpture before switching to architecture. He worked with Álvaro Siza for about five years, opened his own office in 1980, and won the Pritzker Prize in 2011. People often call him a "new [Mies](/en/cong-trinh/neue-nationalgalerie-mies/)," while he argues that it is "better to be good than original."
 
 ## Stone Is Not a Skin
 

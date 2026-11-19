@@ -18,7 +18,7 @@ tags: ["Venturi", "Scott Brown", "biểu tượng", "biển hiệu", "Learning f
 
 Thử hình dung bạn đang chạy xe máy trên một đoạn quốc lộ... Từ xa vài trăm mét, bạn đã đọc được hai chữ CƠM GÀ đỏ chót trên một tấm biển cao gấp đôi mái quán. Cái quán thì chỉ là một dãy nhà tôn thấp nép phía sau. Chạy thêm một quãng, bên kia đường hiện ra một quán cà phê đắp thành hình cái ấm trà khổng lồ. Quán này chẳng cần treo biển, vì cả cái nhà đã là tấm biển rồi.
 
-Cảnh này mình nghĩ ra để làm ví dụ, không phải một kỷ niệm. Nhưng hai cái quán ấy ứng đúng vào hai cái tên mà Robert Venturi, Denise Scott Brown và Steven Izenour đặt ra trong cuốn *Learning from Las Vegas* (1972): con vịt, và nhà che trang trí.
+Cảnh này mình nghĩ ra để làm ví dụ, không phải một kỷ niệm. Nhưng hai cái quán ấy ứng đúng vào hai cái tên mà [Robert Venturi](/bai-viet/venturi-ca-hai-va/), Denise Scott Brown và Steven Izenour đặt ra trong cuốn *Learning from Las Vegas* (1972): con vịt, và nhà che trang trí.
 
 ## Hai cách để một ngôi nhà lên tiếng
 

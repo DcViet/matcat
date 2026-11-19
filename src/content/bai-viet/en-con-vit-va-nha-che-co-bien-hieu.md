@@ -20,7 +20,7 @@ English edition of the Vietnamese article of the same slug.
 
 Picture yourself riding a motorbike down a stretch of national highway in Vietnam. From a few hundred yards away you can already read two bright red words, CƠM GÀ (chicken rice), on a sign twice as tall as the roof behind it. The restaurant itself is only a low row of tin-roofed sheds tucked in back. A little farther on, across the road, a cafe appears, molded into the shape of a giant teapot. This one needs no sign, because the whole building already is the sign.
 
-I made this scene up as an example; it is not a memory. But those two roadside places match the two names that Robert Venturi, Denise Scott Brown, and Steven Izenour coined in *Learning from Las Vegas* (1972): the duck, and the decorated shed.
+I made this scene up as an example; it is not a memory. But those two roadside places match the two names that [Robert Venturi](/en/bai-viet/venturi-ca-hai-va/), Denise Scott Brown, and Steven Izenour coined in *Learning from Las Vegas* (1972): the duck, and the decorated shed.
 
 ## Two Ways for a Building to Speak Up
 
