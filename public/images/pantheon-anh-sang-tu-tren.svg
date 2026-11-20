@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="480" fill="#ffffff"/>
+  <text x="24" y="30" font-size="15" font-weight="600" fill="#1c1b19">Mặt cắt ý niệm Pantheon: một hình cầu nằm vừa trong căn phòng</text>
+
+  <!-- Hình cầu kéo dài từ vòm -->
+  <circle cx="380" cy="230" r="150" fill="none" stroke="#a8a498" stroke-width="1.25" stroke-dasharray="5 5"/>
+  <line x1="232" y1="230" x2="528" y2="230" stroke="#a8a498" stroke-width="1" stroke-dasharray="2 4"/>
+
+  <!-- Chùm nắng xiên qua ô tròn -->
+  <polygon points="366,80 394,80 499,380 471,380" fill="#b4472e" opacity="0.18"/>
+  <g stroke="#b4472e" stroke-width="2" stroke-dasharray="6 4">
+    <line x1="355" y1="48" x2="366" y2="80"/>
+    <line x1="383" y1="48" x2="394" y2="80"/>
+  </g>
+  <g stroke="#b4472e" stroke-width="1.25" opacity="0.7">
+    <line x1="366" y1="80" x2="471" y2="380"/>
+    <line x1="394" y1="80" x2="499" y2="380"/>
+  </g>
+
+  <!-- Sàn hắt sáng vào các góc -->
+  <g stroke="#b4472e" stroke-width="1" opacity="0.4">
+    <line x1="485" y1="378" x2="238" y2="250"/>
+    <line x1="485" y1="378" x2="238" y2="345"/>
+    <line x1="485" y1="378" x2="522" y2="290"/>
+    <line x1="485" y1="378" x2="310" y2="128"/>
+  </g>
+  <rect x="471" y="376" width="28" height="4" fill="#b4472e"/>
+
+  <!-- Sàn, tường trụ, vòm bị cắt qua -->
+  <rect x="220" y="380" width="320" height="8" fill="#1c1b19"/>
+  <rect x="220" y="230" width="12" height="150" fill="#1c1b19"/>
+  <rect x="528" y="230" width="12" height="150" fill="#1c1b19"/>
+  <path d="M226 230 A154 154 0 0 1 534 230" fill="none" stroke="#1c1b19" stroke-width="10"/>
+  <rect x="366" y="66" width="28" height="22" fill="#ffffff"/>
+
+  <!-- Cửa vào và hiên cột -->
+  <rect x="219" y="322" width="14" height="58" fill="#ffffff"/>
+  <line x1="60" y1="384" x2="220" y2="384" stroke="#a8a498" stroke-width="1.5"/>
+  <g stroke="#1c1b19" stroke-width="3">
+    <line x1="150" y1="322" x2="150" y2="384"/>
+    <line x1="175" y1="322" x2="175" y2="384"/>
+    <line x1="200" y1="322" x2="200" y2="384"/>
+  </g>
+  <line x1="140" y1="320" x2="232" y2="320" stroke="#1c1b19" stroke-width="4"/>
+
+  <!-- Vạch đo bên phải -->
+  <g stroke="#5f5b53" stroke-width="1" fill="none">
+    <path d="M556 80V380M551 80H561M551 230H561M551 380H561"/>
+  </g>
+
+  <!-- Chú thích -->
+  <g font-size="11.5" fill="#5f5b53">
+    <text x="346" y="60" text-anchor="end">nắng xiên</text>
+    <text x="414" y="60">ô tròn trên đỉnh (oculus)</text>
+    <path d="M412 62L397 76" stroke="#a8a498" stroke-width="1"/>
+
+    <text x="404" y="186" text-anchor="end">chùm nắng</text>
+    <text x="404" y="201" text-anchor="end">hình trụ</text>
+
+    <text x="568" y="152">vòm: nửa hình cầu</text>
+    <text x="568" y="300">tường trụ cao bằng</text>
+    <text x="568" y="315">bán kính vòm</text>
+
+    <text x="212" y="308" text-anchor="end">hiên cột, cửa vào</text>
+    <text x="60" y="374">phố xá</text>
+
+    <line x1="24" y1="412" x2="54" y2="412" stroke="#a8a498" stroke-width="1.25" stroke-dasharray="5 5"/>
+    <text x="64" y="416">kéo dài vòm xuống thì được một hình cầu trọn, vừa chạm sàn</text>
+    <line x1="24" y1="432" x2="54" y2="432" stroke="#b4472e" stroke-width="1" opacity="0.6"/>
+    <text x="64" y="436">sàn đá lát ô vuông và ô tròn hắt sáng vào các góc</text>
+  </g>
+
+  <text x="24" y="464" font-size="11.5" fill="#5f5b53">Sơ đồ ý niệm của tác giả bài viết, không đúng tỉ lệ, không phải bản vẽ công trình; ô tròn và hiên cột chỉ minh họa.</text>
+</svg>

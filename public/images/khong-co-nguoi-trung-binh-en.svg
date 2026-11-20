@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="380" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Which percentile depends on the task: reaching or clearing</text>
+
+  <!-- Reach: 5th percentile -->
+  <text x="60" y="78" font-weight="600" fill="#b4472e">Reach: size it for small people</text>
+  <text x="60" y="96" font-size="11.5" fill="#5f5b53">around the 5th percentile</text>
+  <text x="60" y="112" font-size="11.5" fill="#5f5b53">shelves, buttons, handles</text>
+  <line x1="110" y1="122" x2="110" y2="210" stroke="#b4472e" stroke-width="1.5"/>
+
+  <!-- Clearance: 95th percentile -->
+  <text x="700" y="78" text-anchor="end" font-weight="600" fill="#b4472e">Clearance: size it for large people</text>
+  <text x="700" y="96" text-anchor="end" font-size="11.5" fill="#5f5b53">around the 95th percentile</text>
+  <text x="700" y="112" text-anchor="end" font-size="11.5" fill="#5f5b53">corridors, under tables, low ceilings</text>
+  <line x1="650" y1="122" x2="650" y2="210" stroke="#b4472e" stroke-width="1.5"/>
+
+  <!-- Middle 90% -->
+  <text x="380" y="158" text-anchor="middle" font-size="11.5" fill="#5f5b53">Middle 90%: adjustable things (swivel chairs, movable shelves) should cover at least this</text>
+  <line x1="116" y1="170" x2="644" y2="170" stroke="#1c1b19" stroke-width="1.25"/>
+  <path d="M124 165 L116 170 L124 175" fill="none" stroke="#1c1b19" stroke-width="1.25"/>
+  <path d="M636 165 L644 170 L636 175" fill="none" stroke="#1c1b19" stroke-width="1.25"/>
+
+  <!-- Axis -->
+  <line x1="80" y1="210" x2="680" y2="210" stroke="#a8a498" stroke-width="1.5"/>
+  <circle cx="110" cy="210" r="5" fill="#b4472e"/>
+  <circle cx="650" cy="210" r="5" fill="#b4472e"/>
+  <circle cx="380" cy="210" r="5" fill="#ffffff" stroke="#5f5b53" stroke-width="1.5"/>
+  <text x="110" y="232" text-anchor="middle" font-size="11.5" fill="#1c1b19">5</text>
+  <text x="650" y="232" text-anchor="middle" font-size="11.5" fill="#1c1b19">95</text>
+  <text x="394" y="232" font-size="11.5" fill="#1c1b19">50</text>
+  <text x="80" y="252" font-size="11.5" fill="#5f5b53">small measurement</text>
+  <text x="680" y="252" text-anchor="end" font-size="11.5" fill="#5f5b53">large measurement</text>
+
+  <!-- 50th percentile -->
+  <line x1="380" y1="216" x2="380" y2="266" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="380" y="284" text-anchor="middle" font-weight="600" fill="#1c1b19">50th percentile, the number in the middle</text>
+  <text x="380" y="302" text-anchor="middle" font-size="11.5" fill="#5f5b53">use it as the general dimension and half the group loses out;</text>
+  <text x="380" y="318" text-anchor="middle" font-size="11.5" fill="#5f5b53">it only suits in-between cases, such as armrest height</text>
+
+  <text x="24" y="350" font-size="11.5" fill="#5f5b53">Conceptual diagram by the writer, after the percentile rules in Panero and Zelnik's book.</text>
+  <text x="24" y="366" font-size="11.5" fill="#5f5b53">Not a drawing of any building, and not plotted from measured data.</text>
+</svg>
