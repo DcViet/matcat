@@ -30,7 +30,7 @@ Asking for daylight without letting the sun touch the paintings sounds like two 
 
 Photographers know a familiar trick: do not aim the flash straight at your subject, point it at a white ceiling. The light hits the ceiling and spreads back down, much softer, with no hard glare. The comparison is mine, but it is the closest thing to how the Kimbell works: use the whole ceiling as the reflector, and use the sun as the flash.
 
-More precisely, the museum is a series of vaults. According to the notes in the books, each vault is 20 ft wide and 150 ft long, about 6 m by 46 m (I did the conversion). A narrow slit runs along the top of each vault. Light passes through the slit, meets a reflector hung just below it, is thrown up onto the inside of the vault, and spreads down into the room. The result is what people call "silver light": direct sun never reaches the objects on display, yet visitors can still tell the time of day, because the light changes with the sky.
+More precisely, the museum is a series of vaults. Each vault is 20 ft wide and 100 ft long, about 6 m by 30 m (I did the conversion). A narrow slit runs along the top of each vault. Light passes through the slit, meets a reflector hung just below it, is thrown up onto the inside of the vault, and spreads down into the room. The result is what people call "silver light": direct sun never reaches the objects on display, yet visitors can still tell the time of day, because the light changes with the sky.
 
 ![A conceptual section of one Kimbell vault bay: sun enters through the slit at the top, stops at the reflector, then silver light spreads from the inside of the vault down onto the paintings](/images/kimbell-mat-cat-en.svg)
 
@@ -38,9 +38,9 @@ The picture above is a cross section of one bay, simplified by me to show the pa
 
 ## A vault that is not a vault
 
-From outside you would take it for a row of load-bearing vaults. Martin Filler, in the special issue of *Arquitectura Viva* on Kahn (2001), says it is not so: each vault is cut lengthwise by the slit, made of two segments that do not join, and the real structure relies on the method of the engineer August Komendant. The vault shape is there to serve the light. The notes in the books also advise checking the cycloid curve, the curve a point on a wheel's rim traces as the wheel rolls, against the original drawings.
+From outside you would take it for a row of load-bearing vaults. Martin Filler, in the special issue of *Arquitectura Viva* on Kahn (2001), says it is not so: each vault is cut lengthwise by the slit, made of two segments that do not join, and the real structure relies on the method of the engineer August Komendant. The vault shape is there to serve the light. The vault's curve is a cycloid, the curve a point on a wheel's rim traces as the wheel rolls.
 
-Some will call that fake. I think it is true to what Kahn believed: structure is the maker of light. Column next to column gives a rhythm of "light, no light" (he read the Parthenon that way). Choosing a vault or a flat roof is choosing the character of the light beneath it. For him a room becomes architecture only when it has natural light. Electric light is "the light of night," able to hold only a single moment (notes on Kahn's position, drawn from *Essential Texts*).
+Some will call that fake. I think it is true to what Kahn believed: structure is the maker of light. Column next to column gives a rhythm of "light, no light" (he read the Parthenon that way). Choosing a vault or a flat roof is choosing the character of the light beneath it. For him a room becomes architecture only when it has natural light. Electric light is "the light of night," able to hold only a single moment (Kahn, *Essential Texts*).
 
 ## Three courts named after colors
 
@@ -56,7 +56,7 @@ The design did not arrive in one piece either. The building went through three s
 | A closed room lit only by lamps | Control over every detail | The feeling of day and night, the kind of light Kahn called the light of night |
 | Slit at the top of a vault plus a reflector (Kimbell) | Daylight, softened, still telling the time | You must design a whole structure around the lighting; you must handle glare and ultraviolet rays; it suits low, spread-out buildings better than deep, closed ones in a crowded street |
 
-The last two points in the final cell of the "What you lose" column are cautions found in the notes on Kahn's light. The table is my arrangement.
+I arranged this table myself.
 
 ## The dark has to be designed too
 
@@ -70,7 +70,7 @@ This reading is close to what Kahn did in Luanda, which I told in [Good Light Is
 
 Filler calls the Kimbell the best-loved art museum, "luxe, calme et volupté" (luxury, calm, pleasure), borrowing the title of a painting by Matisse. Remember that this is a critic's judgment (Verdaguer thinks along similar lines), not a universal verdict.
 
-One small detail deserves thought. According to the books, visitors today enter from the parking lot side, against Kahn's intention: he wanted them to arrive from the side now treated as the back, the side facing the park and the Amon Carter. I have not checked the current situation, so I am not sure this is still true today. But it reminds us that even a building made with such delicate light can be read backwards from the front door.
+One small detail deserves thought. In 2013 the museum added Renzo Piano's building, set about 65 yards (roughly 60 m) to the west of Kahn's, so that the older building would not be crowded. That distance shows that people treat Kahn's building as something that deserves to be seen whole.
 
 Try finding, in your own home, a surface that is doing the reflector's work: a white ceiling, the wall opposite a window, a sheer curtain. Does the sun pass through it before it reaches your eyes, or go straight in?
 

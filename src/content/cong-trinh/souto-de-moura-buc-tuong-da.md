@@ -27,13 +27,13 @@ Souto de Moura sinh ở Porto năm 1952, học điêu khắc rồi chuyển sang
 
 ## Đá không phải lớp ốp
 
-Theo ghi chú của mình về hai cuốn sách, đá trong tay ông là chủ đề chứ không phải lớp ốp. Ông dùng granit địa phương, vừa nặng vừa "thật", để thô hoặc cắt thành khối, thành bậc. Ông cũng nói rõ không muốn sao chép truyền thống: ông muốn dùng đá theo tập quán xây dựng thông thường.
+Trong cuốn *Eduardo Souto de Moura: Recent Work* (2G), đá trong tay ông là chủ đề chứ không phải lớp ốp. Ông dùng granit địa phương, vừa nặng vừa "thật", để thô hoặc cắt thành khối, thành bậc. Ông cũng nói rõ không muốn sao chép truyền thống: ông muốn dùng đá theo tập quán xây dựng thông thường.
 
 Công trình đầu tiên đưa tên ông ra thế giới là Chợ Braga (1980–84). Jacques Lucan tả hai bức tường song song rất dài, một mái phẳng chạy liền và 32 cặp cột tròn. Bê tông sơn trắng đứng cạnh khối đá sẫm thô: hai thái độ về vật chất được đặt sát nhau. Lucan dặn đừng đọc nó đơn giản là "truyền thống đối lại hiện đại".
 
 ![Sơ đồ ý niệm hai chỗ Souto de Moura đặt tường đá cạnh tường khác: bên trái một khối đá sẫm cạnh một mặt bê tông trắng; bên phải mặt bằng hai bức tường lệch pha, chừa một lối vào](/images/souto-de-moura-buc-tuong-da.svg)
 
-Hình trên là mình vẽ lại cho gọn. Bên trái là cặp đá và bê tông kiểu Chợ Braga; sách không nói bên nào nằm ở đâu. Bên phải là Casa das Artes ở Porto: một tường bê tông sơn xanh và một tường đá lệch pha nhau ở chỗ cửa vào. Ghi chú nói màu sơn làm mặt phẳng bớt "tường" đi một chút, nhưng lại khiến ta thấy rõ thớ vật liệu hơn.
+Hình trên là mình vẽ lại cho gọn. Bên trái là cặp đá và bê tông kiểu Chợ Braga; sách không nói bên nào nằm ở đâu. Bên phải là Casa das Artes ở Porto: một tường bê tông sơn xanh và một tường đá lệch pha nhau ở chỗ cửa vào. Theo sách, màu sơn làm mặt phẳng bớt "tường" đi một chút, nhưng lại khiến ta thấy rõ thớ vật liệu hơn.
 
 Lucan còn viết một câu mình thấy đáng nhớ: với Souto, có khi kiến trúc chỉ là một bức tường.
 
@@ -41,7 +41,7 @@ Lucan còn viết một câu mình thấy đáng nhớ: với Souto, có khi ki�
 
 Trong bài đăng ở tạp chí 2G, Eduard Bru đọc Souto de Moura qua ba "thời", nối tiếp chứ không cắt rời. Mình xếp lại thành bảng. Đây là cách sắp xếp của Bru, không phải ông Souto tự nhận.
 
-| | Bru thấy gì | Công trình ghi chú nêu |
+| | Bru thấy gì | Công trình được nêu |
 |---|---|---|
 | Thời I, giữa thập niên 1980 | Điềm tĩnh, hệ thống; đối lại với Siza, người để ánh sáng xé khối | Nevogilde (1982) |
 | Thời II, từ 1982 đến cuối thập niên | Quan tâm vật liệu và cách dựng; tường cắt ra để lộ các lớp; "một kiểu lãng mạn vật chất" | Chợ Braga, Casa das Artes |
@@ -55,15 +55,15 @@ Sang thời III, ông không còn muốn bức tường đá "kể lịch sử".
 
 Santa Maria do Bouro (1989–97) là chỗ dễ thấy nhất ý "đá vẫn là đá". Đây là một tu viện đổ nát được chuyển thành pousada. Souto viết rằng dự án dùng chính đá sẵn có để dựng một công trình mới, và phế tích quan trọng hơn "tu viện". Ông không muốn chỉ gia cố phế tích cho người ta chiêm ngưỡng. Ông thêm vật liệu, công năng và hình thức mới vào "giữa các sự vật".
 
-Ghi chú kể vài chi tiết: mái Corten, khung cửa mảnh, và bậc thang đá nguyên khối "không thể cắt". Ảnh bìa là một chi tiết ở đó: mảng granit sần đứng sát khung cửa kính. Hai thứ không giấu nhau, mỗi thứ giữ nguyên tính cách của nó.
+Sách kể vài chi tiết: mái Corten, khung cửa mảnh, và bậc thang đá nguyên khối "không thể cắt". Ảnh bìa là một chi tiết ở đó: mảng granit sần đứng sát khung cửa kính. Hai thứ không giấu nhau, mỗi thứ giữ nguyên tính cách của nó.
 
 Còn một chỗ nữa, ở Rua do Teatro, Porto: cột áp granit đứng cùng mảng kẽm và đá phiến. Ông lấy cảm hứng từ cách nhà phố cũ vốn được lắp từ những cấu kiện gần như đúc sẵn.
 
 ## Đặt cạnh Ando và Barragán
 
-Trong vault của mình có hai ghi chú về bức tường, nhưng không phải về Souto. Một ghi chú nói về Tadao Ando: bức tường "câm", quá trơn để mang biểu tượng, nên chính vì câm mà biểu cảm. Ghi chú kia nói về Luis Barragán: tường để che chở, để người ta thấy mình thuộc về không gian. Mình đọc [Nhà thờ Ánh sáng](/cong-trinh/nha-tho-anh-sang-ando/) và [Barragán](/cong-trinh/barragan-mau-va-anh-sang/) cũng theo hướng ấy.
+Ngoài Souto, mình còn nghĩ đến hai người khác cũng làm việc với bức tường. Với Tadao Ando, bức tường "câm", quá trơn để mang biểu tượng, nên chính vì câm mà biểu cảm. Với Luis Barragán, tường để che chở, để người ta thấy mình thuộc về không gian. Mình đọc [Nhà thờ Ánh sáng](/cong-trinh/nha-tho-anh-sang-ando/) và [Barragán](/cong-trinh/barragan-mau-va-anh-sang/) cũng theo hướng ấy.
 
-Ghi chú về Souto không nói tường của ông che chở hay câm. Cái nó nói là tường đá của ông có nguồn gốc: đá từ đâu ra, xếp thế nào, đặt cạnh gì. Nếu so thì mình chỉ dám nói thế này, và đây là ý riêng của mình: tường của Ando và Barragán gợi một cảm giác, còn tường của Souto khiến ta hỏi nó được làm bằng gì.
+Ở Souto thì khác: tường của ông không hẳn che chở, cũng không câm. Điều sách nhấn là tường đá của ông có nguồn gốc: đá từ đâu ra, xếp thế nào, đặt cạnh gì. Nếu so thì mình chỉ dám nói thế này, và đây là ý riêng của mình: tường của Ando và Barragán gợi một cảm giác, còn tường của Souto khiến ta hỏi nó được làm bằng gì.
 
 ## Một việc nhỏ: ông sợ đục cửa
 
@@ -73,7 +73,7 @@ Cũng trong phỏng vấn, ông nói mình cố ý đưa vào những "lỗi" kh
 
 ## Mang về nhà mình
 
-Hai điều ông nhắc nhiều, theo ghi chú, là bỏ bớt hơn thêm, và để vật liệu tự nói. Mình nghĩ thêm một điều, và đây chỉ là ý của mình: ở xứ ta, nơi tường gạch trát vữa quét sơn là chuyện quen, một mảng tường chừa lại gạch hay đá trần có thể là cách đơn giản nhất để học nhìn vật liệu. Cứ chừa thử một mảng nhỏ ở chỗ ít bị mưa hắt, rồi xem sau vài mùa nó đổi màu ra sao. Còn chuyện đá thấm nước, rêu mốc ở khí hậu nóng ẩm thì ghi chú không bàn, nên mình chưa dám nói gì.
+Hai điều ông nhắc nhiều là bỏ bớt hơn thêm, và để vật liệu tự nói. Mình nghĩ thêm một điều, và đây chỉ là ý của mình: ở xứ ta, nơi tường gạch trát vữa quét sơn là chuyện quen, một mảng tường chừa lại gạch hay đá trần có thể là cách đơn giản nhất để học nhìn vật liệu. Cứ chừa thử một mảng nhỏ ở chỗ ít bị mưa hắt, rồi xem sau vài mùa nó đổi màu ra sao. Còn chuyện đá thấm nước, rêu mốc ở khí hậu nóng ẩm thì sách không bàn, nên mình chưa dám nói gì.
 
 Thử một buổi nhé: đi quanh nhà, tìm một bức tường mà bạn đã quen đến mức không còn nhìn nữa. Áp tay lên nó. Bạn đoán nó làm bằng gì dưới lớp sơn?
 

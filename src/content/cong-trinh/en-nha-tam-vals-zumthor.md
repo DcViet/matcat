@@ -53,7 +53,7 @@ The lesson here applies beyond architecture. His first idea ran into reality, an
 
 The general idea of Vals is often described with one image: a huge block of stone hollowed out of the mountain. The baths are attached to a hotel from the 1960s, and guests enter from the hotel side.
 
-According to the sources I could read, the way in passes through a low, cave-like hall, then a dark corridor misted with steam. After that, stone steps lead down into the main space. There, hollow blocks of stone stand in the water, each holding its own kind of bath: hot, cold, steam, rest. One small cave can only be entered by swimming through a narrow gap, and inside it echoes so much that people tend to try out a song. Light comes through slits in the ceiling and grows stronger as you walk toward the glass wall facing the valley.
+The baths have no entrance of their own from outside. The way in is a long, narrow passage underground, running from the hotel through a low, cave-like hall, then a dark corridor misted with steam. After that, stone steps lead down into the main space. There, hollow blocks of stone stand in the water, each holding its own kind of bath: hot, cold, steam, rest. One small cave can only be entered by swimming through a narrow gap, and inside it echoes so much that people tend to try out a song. Light comes through slits in the ceiling and grows stronger as you walk toward the glass wall facing the valley.
 
 ![Diagram of the route into the baths in six stages: hotel, cave-like hall, steam-misted corridor, stone steps going down, main space with hollow stone blocks, glass wall facing the valley. The stages get lower and brighter.](/images/vals-tuyen-di-en.svg)
 
@@ -93,7 +93,7 @@ I like Zumthor, so I owe it to you to be clear about where to be careful.
 
 **Memory is unreliable about details.** He himself says he went back to a restaurant he loved and found it unlike what he remembered. He accepts that. Memory gives us a feeling to aim at, not drawings to copy.
 
-**The sources of this article have limits.** The quarry story is Zumthor's own telling in a friendly interview. The description of the route rests on a secondary source, not on observation on site.
+**The sources of this article have limits.** The quarry story is Zumthor's own telling in a friendly interview. The description of the route and the stone blocks rests on writing about the building, such as the Therme Vals page on Wikipedia and the Domus article.
 
 ## What to take away
 
@@ -107,7 +107,7 @@ I like Zumthor, so I owe it to you to be clear about where to be careful.
 - Zumthor, P. (1998). *Thinking Architecture*. Lars Müller / Birkhäuser. Essays: "A way of looking at things", "The hard core of beauty", "From passion for things to the things themselves", "The body of architecture", "Teaching architecture, learning architecture".
 - Zumthor, P. (2006). *Atmospheres: Architectural Environments, Surrounding Objects*. Birkhäuser. Talk given on June 1, 2003.
 - Stec, B. (2004). Conversation with Peter Zumthor in Haldenstein. *Casabella*, no. 719.
-- A short secondary source describing the floor plan, materials and light of the Vals baths, used for the description of the route.
+- "Therme Vals," Wikipedia (en.wikipedia.org/wiki/Therme_Vals), and "The Vals thermal baths by Peter Zumthor," Domus (2023), used for the route, materials, and light.
 - Cover photo: Felipe Camus, [original on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Felipe_camus_-_6892635292.jpg), licensed [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). The image was scaled down from the original.
 
 > **Note.** The information comes from my research in books, together with my personal discussion. The diagrams are drawn to illustrate ideas and are for reference only.

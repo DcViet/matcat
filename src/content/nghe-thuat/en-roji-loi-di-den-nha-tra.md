@@ -14,7 +14,7 @@ tags: ["roji", "tea garden", "Japanese art", "Rikyu", "paths", "spatial experien
 <!--
 English edition of the Vietnamese article of the same slug.
 (1) Main idea: the roji is the new garden prototype of the Momoyama period, not meant to be viewed from one point but a path leading to the tea hut; walking it is a "rite of passage". The chain of gates, benches, basins and a crawl-in door makes you slower, lower, cleaner. Three tea masters (Rikyu, Oribe, Enshu) give three attitudes to nature.
-(2) Sources: Günter Nitschke, Japanese Gardens: Right Angle and Natural Form (Taschen 2003), Momoyama section pp. 146-162 (roji) and pp. 147-163 (three tea masters); pp. 98-105 (shoin architecture) as background.
+(2) Sources: Günter Nitschke, Japanese Gardens: Right Angle and Natural Form (Taschen 2003), Momoyama section pp. 146-162 (roji) and pp. 147-163 (three tea masters); pp. 98-105 (shoin architecture) as background; Rikyu's and Oribe's 60/40 formula: Brooklyn Botanic Garden, https://www.bbg.org/article/authenticity_in_japanese_landscape_design.
 (4) Mine, not from the book: the opening scene (a friend's alley, a low gate) is my own example; the line "a garden for walking, not for sitting" is how I set it beside the Ryoan-ji piece; the nine-stage diagram is a conceptual one I rearranged from the list in the note; the "keep, nudge or make new" question is paraphrased from the vault note; the slow-walking exercise; the cover description (the photo is from the Adachi Museum, not the Omote Senke garden the book describes).
 (5) Uncertain: the order of stages follows the Omote Senke garden as in the note, other gardens differ; the note says Rikyu wanted 60 percent function and 40 percent aesthetics, with Oribe reversing it, and I have not seen the book page for these figures; the anecdote of Rikyu shaking a tree is from the note, no page cited; the crawl-in door size "about 2 x 2 ft" (roughly 60 cm each way); the note warns that the three-master division carries Nitschke's own argument and simplifies reality; the note does not say where the toilet, the symbolic refuse pit and the well sit, so the piece does not describe them.
 -->
@@ -47,13 +47,13 @@ The chain cuts a small garden into many pockets, each with a small task: wait, w
 
 Three things carry most of the roji's work.
 
-**Stepping stones (*tobi-ishi*).** Stones set apart from one another, holding moss, guiding both eye and foot. According to the note, the result is that you have to look at your feet first, and only then lift your eyes to the scene. The view arrives in beats, in time with your steps.
+**Stepping stones (*tobi-ishi*).** Stones set apart from one another, holding moss, guiding both eye and foot. The result is that you have to look at your feet first, and only then lift your eyes to the scene. The view arrives in beats, in time with your steps.
 
 **The water basin (*tsukubai*).** The name means "a place where you must crouch." The basin sits low so that anyone who wants to wash must bend. Around it are secondary stones, such as one for a kettle of hot water, one for a lantern, and a standing stone. Stone lanterns tend to sit at an unexpected bend, near a gate or beside a basin.
 
-**The crawl-in door (*nijiri-guchi*).** The way into the tea house is only about 2 × 2 ft, roughly 60 cm each way. To get through, you have to bow low, almost crawl. The note adds something I find interesting: the crawl-in door changes proportions, so when you drop into the three-mat room it feels larger. My guess is that once your body has gone low, the scale of the room shifts with it (that part is my speculation).
+**The crawl-in door (*nijiri-guchi*).** The way into the tea house is only about 2 × 2 ft, roughly 60 cm each way. To get through, you have to bow low, almost crawl. Something I find interesting: the crawl-in door changes proportions, so when you drop into the three-mat room it feels larger. My guess is that once your body has gone low, the scale of the room shifts with it (that part is my speculation).
 
-My notes group the three devices together: slowing, lowering, cleansing. What is worth learning is the device, not the form. The Buddhist and Zen ritual behind them belongs to one culture, and I would not carry it unchanged into a yard in Vietnam or anywhere else. But slowing a guest at the threshold is something any house can try.
+I group these three devices together: slowing, lowering, cleansing. What is worth learning is the device, not the form. The Buddhist and Zen ritual behind them belongs to one culture, and I would not carry it unchanged into a yard in Vietnam or anywhere else. But slowing a guest at the threshold is something any house can try.
 
 ## Three Tea Masters, Three Attitudes to Trees and Stones
 
@@ -67,7 +67,7 @@ In the same roji, each tea master thought about nature differently. Nitschke use
 
 A garden book from 1694, *Shokoku chaniwa meiseki zue*, draws all three: a Rikyu-style garden of pure nature, an Oribe-style garden with dressed-stone paths, lanterns and basins, and an Enshu-style garden neatly trimmed.
 
-The note holds two more details. One is that Rikyu wanted function to count for 60 percent and aesthetics for 40, while Oribe reversed the ratio. The other is the use of rectangular dressed stones among natural ones: according to the note, they bring out the natural, undefined shape of the stones around them. Last is the anecdote of Rikyu sweeping the yard clean, then shaking a tree so a few leaves fell.
+Two more details are worth knowing. One is the formula credited to Rikyu: stepping stones should be 60 percent function and 40 percent aesthetics, while Oribe reversed the ratio (according to the Brooklyn Botanic Garden). The other is the use of rectangular dressed stones among natural ones: they bring out the natural, undefined shape of the stones around them. Last is the anecdote of Rikyu sweeping the yard clean, then shaking a tree so a few leaves fell.
 
 ## A Question to Carry
 

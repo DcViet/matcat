@@ -13,7 +13,7 @@ tags: ["English landscape garden", "landscape", "Stowe", "Stourhead", "Repton"]
 <!--
 English edition of the Vietnamese article of the same slug.
 (1) Main idea: the English landscape garden is the opposite of the symmetrical French axis garden; the scene is arranged in three layers like a painting (near, middle, far), and winding paths reveal the viewpoints one by one; the "natural" scene is still entirely man-made.
-(2) Sources: Han Tat Ngan, Kien truc canh quan (1999), ch. 2 pp. 38-40 and 59 (English landscape garden, Kent, Brown, Repton), p. 78 (formal and free layout), ch. 3 pp. 86-102 (viewpoint, speed of movement) and pp. 88-98 (depth, water); The Fundamentals of Architecture (AVA 2007), notes without page numbers; Heckscher, Creating Central Park (2008), only for the link to Capability Brown and Stourhead.
+(2) Sources: Han Tat Ngan, Kien truc canh quan (1999), ch. 2 pp. 38-40 and 59 (English landscape garden, Kent, Brown, Repton), p. 78 (formal and free layout), ch. 3 pp. 86-102 (viewpoint, speed of movement) and pp. 88-98 (depth, water); The Fundamentals of Architecture (AVA 2007), notes without page numbers; Heckscher, Creating Central Park (2008), only for the link to Capability Brown and Stourhead; Stourhead: https://www.nationaltrust.org.uk/visit/wiltshire/stourhead/history-of-the-garden-at-stourhead; Stowe: https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/stowe-gardens/history-of-stowe.
 (4) Mine, not from the books: the hands-as-a-frame example; the phrase "passing through paintings"; the three-layer table and its "in the cover photo" column; setting Han's depth tricks (which he states in general, not for English gardens) next to Kent's and Repton's three layers; the comparison with Ryoan-ji; the diagram; the closing exercise.
 (5) Uncertain: the period "early 17th to late 18th century" and the date "around 1713" for Stowe come from a scanned text of Han's book and may be wrong; the notes tie the English garden to the bourgeoisie and Romanticism, which is Han's interpretation; the notes do not say who designed the garden in the cover photo, and the name Stourhead and the years 1741-65 appear only in the note on the school; the cover description is what I see in the photo; the notes do not say what Repton or Kent did at any particular garden.
 -->
@@ -24,7 +24,7 @@ The style that my sources call the English landscape garden aims at exactly that
 
 ## The Opposite of the Axis Garden
 
-To understand the English garden, it helps to look at what it pushed against. According to my reading notes, the French garden of the 17th century, Versailles for example, is organized around a symmetrical axis: patterned ground (the parterre), enclosed "green rooms" (the bosquet), flat water that mirrors the palace. The English landscape garden does the reverse.
+To understand the English garden, it helps to look at what it pushed against. The French garden of the 17th century, Versailles for example, is organized around a symmetrical axis: patterned ground (the parterre), enclosed "green rooms" (the bosquet), flat water that mirrors the palace. The English landscape garden does the reverse.
 
 *The Fundamentals of Architecture* (2007) explains this as empiricism: truth comes through the senses, so a garden should give them something to do. The paths therefore wind, revealing viewpoints bit by bit, such as an artificial grotto or small decorative buildings (follies).
 
@@ -32,7 +32,7 @@ In *Kien truc canh quan* (1999), Han Tat Ngan sorts these two ways of making a g
 
 ## Three Layers, Like a Painting
 
-According to Han (pp. 38–40), William Kent at Stowe divided the scene into three layers by the rules of perspective and light and shade: foreground, middle ground, and distance. The book dates Stowe to around 1713, but the scanned text is badly damaged, so I am not sure of that number. Later Humphry Repton (1752–1817) gathered the idea into a theory. I have added a third column based on the cover photo, so you can see what the three layers look like.
+According to Han (pp. 38–40), William Kent at Stowe divided the scene into three layers by the rules of perspective and light and shade: foreground, middle ground, and distance. Stowe was redesigned from 1713, and Kent arrived there around 1730 (according to the National Trust). Later Humphry Repton (1752–1817) gathered the idea into a theory. I have added a third column based on the cover photo, so you can see what the three layers look like.
 
 | Layer | According to Repton | In the cover photo (my reading) |
 |---|---|---|
@@ -52,15 +52,15 @@ In another chapter Han lists a few tricks for making water and space look deeper
 
 ## Walking, Not Standing
 
-My notes from Han (pp. 86–102) add one more point that suits this kind of garden: people see a landscape from many angles and at different speeds. Move fast and detail blurs, so landscape design has to be planned around the route people take, on foot or by vehicle. The English garden does just that: the pictures lie along the path, not at one standing spot.
+Han (pp. 86–102) makes one more point that suits this kind of garden: people see a landscape from many angles and at different speeds. Move fast and detail blurs, so landscape design has to be planned around the route people take, on foot or by vehicle. The English garden does just that: the pictures lie along the path, not at one standing spot.
 
 Another way of drawing comes from here too. Han's book prints Repton's "before and after" views of a landscape being remade, the same viewpoint drawn twice. I told that story in [Central Park: A Landscape Painting You Can Walk Into](/en/nghe-thuat/central-park-buc-tranh-de-di-vao/), where Olmsted and Vaux carried this way of making gardens to New York.
 
-My notes also name a few famous garden makers: Capability Brown at Blenheim and Stowe, Henry Hoare at Stourhead (1741–65). The cover photo shows a stone bridge and a small temple by the lake at Stourhead, going by the file name on Wikimedia Commons. The notes do not say who placed that bridge or temple, so I only describe what I can see: behind the bridge, the temple looks tiny, set into the hillside.
+A few famous garden makers: Capability Brown at Blenheim and Stowe, Henry Hoare at Stourhead. The cover photo shows a stone bridge and a small temple by the lake at Stourhead, going by the file name on Wikimedia Commons. Henry Hoare II began the garden in 1741 and worked on it for about thirty years, with the architect Henry Flitcroft designing many of its buildings, including the five-arched stone bridge of 1762 (according to the National Trust). I only describe what I can see in the photo: behind the bridge, the temple looks tiny, set into the hillside.
 
 ## A "Natural" Scene, Still Made by Hand
 
-Both of my notes add the same remark: England's "natural" scenery is still entirely artificial. According to Han, Repton also opposed fake ruins and stressed that a park must suit the landscape around it. For him, nature was the model that the artist should copy.
+One thing is worth remembering: England's "natural" scenery is still entirely artificial. According to Han, Repton also opposed fake ruins and stressed that a park must suit the landscape around it. For him, nature was the model that the artist should copy.
 
 Han ties this garden style to the bourgeoisie and to Romanticism; that is his own interpretation. One more detail from the book: in 1844 the British Parliament passed the building of public parks and the conversion of noble families' parks into places of recreation for the people. A view once meant for one household became a view for a whole city.
 

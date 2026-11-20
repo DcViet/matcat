@@ -69,7 +69,7 @@ The two authors hedge their own book. Section 2.7 notes that the data is incompl
 
 The drawings in the third part of the book, in the authors' words, are only "reference models" for first assumptions, not solutions. For seating and anywhere comfort matters, they recommend building a full-size mockup, having people sit in it, and then revising. Nutsch's book on furniture, which I also read, says the same thing: the numbers are a starting point, and you should always build a 1:1 model with the person who will use it.
 
-My reading notes hold one more reminder for people in the trade: architects easily take themselves as the model, and what fits me may not fit most people.
+I have one more reminder for people in the trade: architects easily take themselves as the model, and what fits me may not fit most people.
 
 The cover image is Leonardo's drawing of a body fitted inside a circle and a square. Panero and Zelnik's introduction also starts from Vitruvius and Leonardo, then observes that the study of the body has long leaned toward beautiful proportion more than toward measuring how people use things. They propose going the other way, "designing from the man out." Out on the street, Jan Gehl also starts by standing and watching real people, as I describe in [People Go Where People Are](/en/bai-viet/nguoi-den-noi-co-nguoi/).
 

@@ -49,7 +49,7 @@ The first part of the book explains the sign that is bigger than the restaurant 
 
 So the sign has to be tall, big, and turned toward the oncoming cars, while the building sits back behind a parking lot. The book has a compact line for it: "The big sign and the little building is the rule of Route 66" (p. 13). They call this symbol in space before form in space. They add that if you took the signs away, there would be no place left.
 
-Money follows the same logic. My reading notes record the image of a ten-thousand-dollar stand with a hundred-thousand-dollar sign: a sign costs less than bending a whole building.
+Money follows the same logic. The book has the image of a ten-thousand-dollar stand with a hundred-thousand-dollar sign: a sign costs less than bending a whole building.
 
 Set this beside [People Go Where People Are](/en/bai-viet/nguoi-den-noi-co-nguoi/) and the two books sit at opposite ends of one ruler. Jan Gehl measures a street in footsteps, so he notices the bench; Venturi's group measures it in driving speed, so they notice the sign. That pairing is mine.
 
@@ -61,7 +61,7 @@ To make the case, they put one of their own buildings into the comparison (pp. 9
 
 ## Read It with a Cool Head
 
-It is worth keeping some distance from the book. My notes point out that the authors picked that pair in order to win an argument, and that they are sometimes rough on Rudolph.
+It is worth keeping some distance from the book. I think the authors picked that pair in order to win an argument, and they are sometimes rough on Rudolph.
 
 The decorated shed is also no blanket praise for every sign. The authors do warn that commercial advertising knows how to manipulate its audience. In the preface to the 1977 revised edition, Denise Scott Brown writes that the subject of the book is symbolism in architecture, with Las Vegas only as the case, and that the lesson is to be slower to sneer at other people's taste. The book closes with Pugin's warning: it is fine to decorate what you build, but do not build a decoration (pp. 162–163).
 

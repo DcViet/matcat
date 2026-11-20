@@ -39,7 +39,7 @@ The Greensward entry had 12 presentation boards, and 9 of them did the same job.
 
 Put two pictures side by side and anyone gets it: stand here, today you see this, later you will see that. In [Drawing to See, Not to Show Off](/en/nghe-thuat/ve-de-thay/) I wrote about drawings made to persuade; the Greensward boards belong squarely in that group.
 
-Someone in England had drawn this way earlier. Hàn Tất Ngạn's *Kiến trúc cảnh quan* (1999) reproduces Humphry Repton (1752–1817) drawing a landscape "before and after" improvement. My notes do not say Olmsted and Vaux took the method straight from Repton, so I am only setting the two side by side.
+Someone in England had drawn this way earlier. Hàn Tất Ngạn's *Kiến trúc cảnh quan* (1999) reproduces Humphry Repton (1752–1817) drawing a landscape "before and after" improvement. I cannot say whether Olmsted and Vaux took the method straight from Repton, so I am only setting the two side by side.
 
 ## A "Natural" Scene Made by Hand
 
@@ -70,7 +70,7 @@ This kind of scenery came to America from the English landscape garden, by way o
 
 The English made gardens in the opposite way from French gardens like Versailles, which are laid out on axes and in symmetry. They believed a garden should stir the senses, so they let the paths wind, and each bend opened a new view. According to Hàn Tất Ngạn's book (pp. 38–40), William Kent divided the scene at Stowe into three layers, as in a painting: foreground, middle ground, background. Brown added water with many small inlets. Repton gathered it into a theory: the foreground can be altered, the middle ground gives depth, the background stays as it is.
 
-Both of my notes on the English garden add the same remark: that "natural" scenery is made by people from start to finish. So is Central Park.
+One more thing is worth remembering about the English garden: its "natural" scenery is made by people from start to finish. So is Central Park.
 
 ## A Painting with People in It
 

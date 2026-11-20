@@ -47,11 +47,11 @@ Thời ấy Sri Lanka hạn chế nhập khẩu, nên chủ nhà buộc phải d
 
 Robert Powell, khi viết về nhà ở Singapore, chép lại một câu của Tay Kheng Soon: nhà nhiệt đới nên nghĩ theo mặt cắt hơn là mặt bằng. Lý do nằm ở cái mái. Nó che nắng, che mưa gió mùa, nên thường là thứ quan trọng nhất của ngôi nhà (*Singapore Houses*, tr. 12–16).
 
-Bawa có một ví dụ đi đến tận cùng ý ấy: nhà nghỉ Polontalawa, theo ghi chú của mình, chỉ là một tấm mái gác lên hai tảng đá. Ở giảng đường Institute for Integral Education tại Piliyandala, ông mở ba mặt, kê ghế lùi khỏi tường, và treo mành đan tháo ra được để chắn gió mùa tây nam. Mình thấy nó gần với kiểu vỏ nhà "chọn lọc" của Banham, đã kể ở bài [Dựng lều hay đốt lửa](/bai-viet/dung-leu-hay-dot-lua/): nhận gió và ánh sáng, chặn mưa nắng. Chỗ nối này là của mình.
+Bawa có một ví dụ đi đến tận cùng ý ấy: ngôi nhà ở đồn điền Polontalawa (1963–65), mái chính chỉ gác lên hai tảng đá. Ở giảng đường Institute for Integral Education tại Piliyandala, ông mở ba mặt, kê ghế lùi khỏi tường, và treo mành đan tháo ra được để chắn gió mùa tây nam. Mình thấy nó gần với kiểu vỏ nhà "chọn lọc" của Banham, đã kể ở bài [Dựng lều hay đốt lửa](/bai-viet/dung-leu-hay-dot-lua/): nhận gió và ánh sáng, chặn mưa nắng. Chỗ nối này là của mình.
 
 ## Mười điều Powell ghi lại
 
-Năm 1994, Powell trò chuyện với Bawa ở Lunuganga, rồi tóm thành mười thuộc tính của nhà ở vùng nhiệt đới ẩm trong *The Tropical Asian House* (1996). Ghi chú của mình chỉ chắc ba điều đầu đến từ cuộc trò chuyện ấy; bảy điều sau có thể là phần Powell thêm vào.
+Năm 1994, Powell trò chuyện với Bawa ở Lunuganga, rồi tóm thành mười thuộc tính của nhà ở vùng nhiệt đới ẩm trong *The Tropical Asian House* (1996). Theo lời Powell kể lại, chỉ ba điều đầu nảy ra trong cuộc trò chuyện ấy, khi hai người ăn tối ngoài hiên ở Lunuganga; bảy điều sau là phần Powell tự tóm thêm.
 
 1. Sống gần thiên nhiên, không chặt cây lớn.
 2. Dùng ít kính.
@@ -66,7 +66,7 @@ Năm 1994, Powell trò chuyện với Bawa ở Lunuganga, rồi tóm thành mư�
 
 ![Mặt cắt ý niệm một ngôi nhà nhiệt đới: mái dốc lớn đua rộng, hiên hai bên, phòng cao chỉ sâu một lớp, gió đi xuyên từ vườn bên này sang vườn bên kia](/images/bawa-nha-nhiet-doi-di-xuyen-qua.svg)
 
-Hình trên mình vẽ gom vài điều trong danh sách vào một mặt cắt, không phải ngôi nhà nào của Bawa. Còn vì sao bỏ máng xối thì sách không giải thích, nên mình không đoán thay.
+Hình trên mình vẽ gom vài điều trong danh sách vào một mặt cắt, không phải ngôi nhà nào của Bawa. Còn vì sao bỏ máng xối thì Powell không giải thích, nên mình không đoán thay.
 
 ## Đọc cho tỉnh
 
@@ -74,11 +74,11 @@ Jazeel là nhà địa lý, ông không chấm điểm thiết kế. Cũng chưa
 
 Anoma Pieris, trong cuốn *Tropical Sustainable Architecture* (tr. 267–283), nói thẳng hơn: "mô hình nhiệt đới" rất dễ thành một phong cách tiêu dùng của người giàu, và không thể cứ viện khí hậu hay vật liệu địa phương ra là thành bền vững.
 
-Tòa nhà cao tầng duy nhất Bawa xây, nay là Mahaweli Building ở Colombo (xong năm 1978, 12 tầng), vốn được tính để gió tự đi qua. Theo Tan và Robson, về sau người dùng gắn máy lạnh, ngăn vách và kéo rèm kín.
+Một tòa nhà cao tầng hiếm hoi của Bawa, nay là Mahaweli Building ở Colombo (xong năm 1978, 12 tầng), vốn được tính để gió tự đi qua. Theo Tan và Robson, về sau người dùng gắn máy lạnh, ngăn vách và kéo rèm kín.
 
 ## Mang về nhà mình
 
-Ghi chú của mình dặn đem mười điều kia đối chiếu với nhà truyền thống Việt Nam, vốn cũng có hiên, có sân và gió thổi chéo qua nhà. Nhưng nhà liền kề chỉ có một mặt giáp phố, không mở hai phía như điều thứ chín được; lời giải ghi chú nêu là sân và giếng trời. Powell cũng thêm điều thứ mười một cho nhà trong thành phố: mặt ra phố thì kín và an toàn, mặt riêng thì mở.
+Mình nghĩ nên đem mười điều kia đối chiếu với nhà truyền thống Việt Nam, vốn cũng có hiên, có sân và gió thổi chéo qua nhà. Nhưng nhà liền kề chỉ có một mặt giáp phố, không mở hai phía như điều thứ chín được; lời giải thường thấy là sân và giếng trời. Powell cũng thêm điều thứ mười một cho nhà trong thành phố: mặt ra phố thì kín và an toàn, mặt riêng thì mở.
 
 Hôm nào trời có gió, bạn thử mở cùng lúc cửa trước và cửa sau, hay cửa ra ban công và cửa sổ đối diện. Rồi đi chậm từ ngoài vào đến chỗ sâu nhất của nhà, để ý xem mình bước qua mấy lớp: cổng, hiên, cửa, phòng, sân. Chỗ nào gió đi theo bạn được, chỗ nào nó dừng lại? Và ở chỗ bạn hay ngồi nhất, lưng bạn đang tựa vào đâu, mắt bạn nhìn ra thấy gì...
 

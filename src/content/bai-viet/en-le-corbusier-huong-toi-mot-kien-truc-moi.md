@@ -12,18 +12,18 @@ tags: ["Le Corbusier", "Towards a New Architecture", "Modernism", "housing", "st
 <!--
 English edition of the Vietnamese article of the same slug.
 (1) Main idea: "a house is a machine for living in" is an invitation to restate the housing problem from needs (the airplane lesson), select on a standard (car, Parthenon), and only then reach emotion; it is not a rejection of beauty.
-(2) Source: Le Corbusier, Towards a New Architecture (Vers une architecture, 1923; Etchells translation, Dover 1986): the "machine for living in" line p. 95 (notes also cite pp. 7, 142, 263); airplanes pp. 105-127; "Manual of the Dwelling" pp. 115-123; Mass-Production Houses pp. 225-266.
+(2) Source: Le Corbusier, Towards a New Architecture (Vers une architecture, 1923; Etchells translation, Dover 1986): the "machine for living in" line p. 95 (notes also cite pp. 7, 142, 263); airplanes pp. 105-127; "Manual of the Dwelling" pp. 115-123; Mass-Production Houses pp. 225-266. Reyner Banham, The Architecture of the Well-tempered Environment (1969), the section on Le Corbusier.
 (4) Mine, not from the book: the chair example in the opening and the room exercise at the end; the phrase "the question before the shape"; the link to Verbs Open Up Possibilities; the three-step diagram.
 (5) Uncertain: page numbers come from my library notes, I have not opened the printed book; the notes are from scanned text only, so the book's photographs and diagrams were not seen; the cover is a house Le Corbusier designed at the Weissenhof estate in Stuttgart, photographed by karaian on Flickr (CC BY 2.0; licence checked on the Flickr page of the photo), not an image from the book; the piece does not say which house it is because the photo title only reads "Le Corbusier, Weissenhofsiedlung".
 -->
 
 Here is an example I made up. You ask a carpenter to build you a chair. He does not ask whether you prefer an old style or a new one. He asks: is this chair for eating or for reading, for sitting a long time or a short one? Once you answer, the chair already has half its shape. How high the legs are, how far the back leans, you will find they come out of your answer.
 
-Le Corbusier wanted architects to treat the house in exactly this way. His sentence is more famous than his idea: "a house is a machine for living in," from *Vers une architecture* (1923), published in English as *Towards a New Architecture*, on page 95 according to my notes. At first it sounds cold and unfeeling, but by the end of this piece you will have to think again.
+Le Corbusier wanted architects to treat the house in exactly this way. His sentence is more famous than his idea: "a house is a machine for living in," from *Vers une architecture* (1923), published in English as *Towards a New Architecture*, on page 95 of the Etchells translation. At first it sounds cold and unfeeling, but by the end of this piece you will have to think again.
 
 ## What That Sentence Packs In
 
-According to my notes, he uses the word "machine" to say that a house should be thought of as a tool: for bathing, for taking in sun, for hot and cold water, for heating as you wish, for keeping food, for hygiene. By the same logic, a chair is a "machine for sitting." In the last chapter he rewrites it as "house-machine" and "house-tool": drop the dead concepts, look at the problem critically, and we get a house that is healthy and as beautiful as the tools we use every day. The order is clear: reason must be satisfied first, and then emotion arrives.
+He uses the word "machine" to say that a house should be thought of as a tool: for bathing, for taking in sun, for hot and cold water, for heating as you wish, for keeping food, for hygiene. By the same logic, a chair is a "machine for sitting." In the last chapter he rewrites it as "house-machine" and "house-tool": drop the dead concepts, look at the problem critically, and we get a house that is healthy and as beautiful as the tools we use every day. The order is clear: reason must be satisfied first, and then emotion arrives.
 
 The English translator, Frederick Etchells, even opens with a note asking British and American readers not to panic at the phrase. It is not a call to give up beauty.
 
@@ -48,21 +48,21 @@ From that problem he wrote a list of requirements that every family should deman
 - Built-in furniture in place of most loose pieces, closets set into the walls.
 - Hidden or diffused lighting, windows with ventilation openings, a bare floor with few rugs.
 
-Reading the list, you can see right away what he dislikes: chandeliers, curtains, the sideboard, flowered wallpaper that paintings cannot hang against. My notes also record that the setting is France in 1923 and that his tone carries a class color, for example his advice not to shut servants up under the roof. Some items are better read as period material than as advice for your own home.
+Reading the list, you can see right away what he dislikes: chandeliers, curtains, the sideboard, flowered wallpaper that paintings cannot hang against. The setting is France in 1923, and his tone carries a class color, for example his advice not to shut servants up under the roof. Some items are better read as period material than as advice for your own home.
 
 ## The Car and the Parthenon: One Standard
 
-The second lesson is about the standard. He looks at the automobile and the Parthenon as results of selection: a standard formed through trial and competition, which later hands keep refining. For the Parthenon, my notes say it came out of selection on a standard of Greek temples that had been developing for a century.
+The second lesson is about the standard. He looks at the automobile and the Parthenon as results of selection: a standard formed through trial and competition, which later hands keep refining. For the Parthenon, he argues it came out of selection on a standard of Greek temples that had been developing for a century.
 
-From there he moves to the mass-production house, in a chapter near the end of the book (pp. 225 to 266). He speaks of a need for 500,000 houses under the Loucheur program in France. He suggests putting up the concrete frame first, then fitting doors, windows, and cupboards, all made to one shared unit of measure, into the empty shell, and filling in the walls last. Working in the reverse of the usual order, he says, saves many months. One of his models is called Citrohan, a pun on the car maker Citroën, because he wants us to think of the house the way people think of a car chassis. That is also why I chose a Citroën for the cover.
+From there he moves to the mass-production house, in a chapter near the end of the book (pp. 225 to 266). He speaks of a need for 500,000 houses under the Loucheur program in France. He suggests putting up the concrete frame first, then fitting doors, windows, and cupboards, all made to one shared unit of measure, into the empty shell, and filling in the walls last. Working in the reverse of the usual order, he says, saves many months. One of his models is called Citrohan, a pun on the car maker Citroën, because he wants us to think of the house the way people think of a car chassis.
 
 ## What the Book Does Not Say, and What People Say Against It
 
-Several things people attach to this book are not in it. According to my library notes, it does not contain the "five points of a new architecture," the Modulor, or Villa Savoye; those belong to a later period. This is a manifesto, in a clipped voice that shouts slogans.
+Several things people attach to this book are not in it. It does not contain the "five points of a new architecture," the Modulor, or Villa Savoye; those belong to a later period. This is a manifesto, in a clipped voice that shouts slogans.
 
-On criticism, I will record only the two lines found in my notes. [Venturi](/en/bai-viet/venturi-ca-hai-va/), Scott Brown, and Izenour argue that the very models of the ship and the grain silo became icons of Modernism even as its people said they were only learning geometry; they also see Le Corbusier's buildings as looking more like ocean liners than like the Parthenon. The duck and the decorated shed in [The Duck and the Shed with a Sign](/en/bai-viet/con-vit-va-nha-che-co-bien-hieu/) are a continuation of that argument. The second line is Banham's: he holds that Le Corbusier's knowledge of the environment did not all make it into his buildings, for instance glass walls turned south that overheated, after which he had to add opening windows and invent the brise-soleil. I told the story of two ways to keep a house warm or cool in [Build a Tent or Light a Fire](/en/bai-viet/dung-leu-hay-dot-lua/).
+On criticism, I will mention only two lines. [Venturi](/en/bai-viet/venturi-ca-hai-va/), Scott Brown, and Izenour argue that the very models of the ship and the grain silo became icons of Modernism even as its people said they were only learning geometry; they also see Le Corbusier's buildings as looking more like ocean liners than like the Parthenon. The duck and the decorated shed in [The Duck and the Shed with a Sign](/en/bai-viet/con-vit-va-nha-che-co-bien-hieu/) are a continuation of that argument. The second line is Banham's, in *The Architecture of the Well-tempered Environment* (1969): he holds that Le Corbusier's knowledge of the environment did not all make it into his buildings, for instance glass walls turned south that overheated, after which he had to add opening windows and invent the brise-soleil. I told the story of two ways to keep a house warm or cool in [Build a Tent or Light a Fire](/en/bai-viet/dung-leu-hay-dot-lua/).
 
-The notes on the book also name a class bias: he treats ornament as the business of "peasants" and proportion as the business of cultured people.
+The book also shows a class bias: he treats ornament as the business of "peasants" and proportion as the business of cultured people.
 
 ## Try It Yourself
 

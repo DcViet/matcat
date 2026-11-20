@@ -15,7 +15,7 @@ Peter Zumthor nhớ cái tay nắm cửa vườn nhà dì. Nó cong như lưng m
 
 Nhiều năm sau, ông viết rằng những ký ức như thế chính là kho tư liệu sâu nhất của ông mỗi khi thiết kế. Câu đó nằm trong *Thinking Architecture*, một cuốn sách mỏng gồm năm bài viết từ 1988 đến 1996. Cuốn sách ra đời gần như cùng lúc với công trình làm ông nổi tiếng: nhà tắm nước khoáng ở Vals, một ngôi làng trong thung lũng Alps.
 
-Đọc sách và nhìn công trình cạnh nhau thì thấy rõ một điều. Vals không bắt đầu từ hình ảnh một nhà tắm. Nó bắt đầu từ vài câu hỏi, và từ một chuyến ra mỏ đá.
+Đặt cuốn sách cạnh công trình thì thấy rõ một điều. Vals không bắt đầu từ hình ảnh một nhà tắm. Nó bắt đầu từ vài câu hỏi, và từ một chuyến ra mỏ đá.
 
 ## Người thợ mộc làm kiến trúc
 
@@ -51,7 +51,7 @@ Bài học ở đây không dành riêng cho kiến trúc sư. Ý tưởng ban �
 
 Người ta thường tả ý đồ chung của Vals bằng một hình ảnh: một khối đá lớn bị khoét rỗng từ trong núi. Nhà tắm gắn vào một khách sạn có từ thập niên 1960, và khách đi vào từ phía khách sạn.
 
-Theo tài liệu mình đọc được, đường vào đi qua một sảnh thấp như hang, rồi một hành lang tối và mờ hơi nước. Sau đó là những bậc đá dẫn xuống không gian chính. Ở đó, các khối đá rỗng đứng giữa mặt nước, mỗi khối chứa một kiểu tắm riêng: nóng, lạnh, xông, nghỉ. Có một hang nhỏ phải bơi qua khe hẹp mới vào được, bên trong vang tới mức người ta thường cất tiếng hát thử. Ánh sáng lọt qua các khe trên trần, và mạnh dần khi ta đi về phía vách kính nhìn ra thung lũng.
+Nhà tắm không có cửa riêng ra ngoài. Đường vào là một lối ngầm dài và hẹp nối từ khách sạn, đi qua một sảnh thấp như hang, rồi một hành lang tối và mờ hơi nước. Sau đó là những bậc đá dẫn xuống không gian chính. Ở đó, các khối đá rỗng đứng giữa mặt nước, mỗi khối chứa một kiểu tắm riêng: nóng, lạnh, xông, nghỉ. Có một hang nhỏ phải bơi qua khe hẹp mới vào được, bên trong vang tới mức người ta thường cất tiếng hát thử. Ánh sáng lọt qua các khe trên trần, và mạnh dần khi ta đi về phía vách kính nhìn ra thung lũng.
 
 ![Sơ đồ đường vào nhà tắm gồm sáu chặng: khách sạn, sảnh như hang, hành lang mờ hơi nước, bậc đá đi xuống, không gian chính với các khối đá rỗng, vách kính nhìn ra thung lũng. Các chặng thấp dần và sáng dần.](/images/vals-tuyen-di.svg)
 
@@ -91,7 +91,7 @@ Mình thích Zumthor, nên càng phải nói rõ những chỗ cần dè chừng
 
 **Ký ức không đáng tin về chi tiết.** Chính ông kể đã quay lại một nhà hàng mình yêu thích và thấy nó không giống trong trí nhớ. Ông chấp nhận điều đó. Ký ức cho ta một cảm giác để hướng tới, không cho ta bản vẽ để chép.
 
-**Nguồn của bài này có giới hạn.** Phần về mỏ đá là lời Zumthor tự kể trong một cuộc phỏng vấn thân thiện. Phần tả đường đi dựa trên tài liệu thứ cấp, không dựa trên quan sát tại chỗ.
+**Nguồn của bài này có giới hạn.** Phần về mỏ đá là lời Zumthor tự kể trong một cuộc phỏng vấn thân thiện. Phần tả đường đi và các khối đá thì dựa trên mô tả của những bài viết về công trình, như trang Therme Vals trên Wikipedia và bài của tạp chí Domus.
 
 ## Điều mang về
 
@@ -105,7 +105,7 @@ Mình thích Zumthor, nên càng phải nói rõ những chỗ cần dè chừng
 - Zumthor, P. (1998). *Thinking Architecture*. Lars Müller / Birkhäuser. Các bài: "A way of looking at things", "The hard core of beauty", "From passion for things to the things themselves", "The body of architecture", "Teaching architecture, learning architecture".
 - Zumthor, P. (2006). *Atmospheres: Architectural Environments, Surrounding Objects*. Birkhäuser. Bài nói ngày 1 tháng 6 năm 2003.
 - Stec, B. (2004). Cuộc trò chuyện với Peter Zumthor tại Haldenstein. *Casabella*, số 719.
-- Một tài liệu thứ cấp ngắn mô tả mặt bằng, vật liệu và ánh sáng của nhà tắm Vals, dùng cho phần tả đường đi.
+- "Therme Vals", Wikipedia (en.wikipedia.org/wiki/Therme_Vals), và "The Vals thermal baths by Peter Zumthor", Domus (2023), dùng cho phần tả đường đi, vật liệu và ánh sáng.
 - Ảnh bìa: Felipe Camus, [ảnh gốc trên Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Felipe_camus_-_6892635292.jpg), giấy phép [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Ảnh được thu nhỏ so với bản gốc.
 
 > **Lưu ý.** Các thông tin mình tra cứu trong sách và kèm với nội dung bàn luận cá nhân. Sơ đồ vẽ để minh họa ý tưởng, chỉ dùng để tham khảo.

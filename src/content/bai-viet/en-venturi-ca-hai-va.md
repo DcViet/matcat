@@ -24,7 +24,7 @@ I made this up as an example; it is not a true story. But "pick one" is somethin
 
 ## Either-Or Was the Habit of an Era
 
-The book is *Complexity and Contradiction in Architecture* (Museum of Modern Art, 1966). According to my reading notes, Venturi looked at orthodox Modern architecture and saw it working on an "either" basis: a sunshade only shades the sun, a column rarely doubles as a wall, and every function gets its own separate wing. Even "flowing space" flows from inside to outside, rather than being inside and outside at the same time (pp. 23-32).
+The book is *Complexity and Contradiction in Architecture* (Museum of Modern Art, 1966). Venturi looked at orthodox Modern architecture and saw it working on an "either" basis: a sunshade only shades the sun, a column rarely doubles as a wall, and every function gets its own separate wing. Even "flowing space" flows from inside to outside, rather than being inside and outside at the same time (pp. 23-32).
 
 He quotes [Louis Kahn](/en/cong-trinh/kimbell-kahn/), his closest teacher: architecture needs bad spaces as well as good ones. What is wrong in one part can be right in the whole.
 
@@ -36,7 +36,7 @@ Let me carry the idea back to the kitchen. The either-or answer is to split thin
 
 ![Two ways to think about a kitchen: split it into a kitchen and a dining table, or merge them into one counter with stools](/images/venturi-ca-hai-va-en.svg)
 
-My example sits close to another idea in the book, the "double-functioning element," a part that does two jobs. My notes keep the two apart: the double-functioning element concerns concrete use and structure, while both-and concerns how a part relates to the whole, as one thing carrying a double meaning.
+My example sits close to another idea in the book, the "double-functioning element," a part that does two jobs. The two are different: the double-functioning element concerns concrete use and structure, while both-and concerns how a part relates to the whole, as one thing carrying a double meaning.
 
 ## Ambiguity Does Not Mean Mess
 
@@ -52,19 +52,19 @@ The first chapter of the book (pp. 16-18) answers Mies van der Rohe's "less is m
 
 Here is where Venturi's argument sits. An architect can decide *how* to solve a problem, but if they also choose *which* problems are worth solving, they pay for it with a loss of connection to real life. In a house, real life is never tidy: old people and children, cooking smells and laughter, old furniture and new. If a problem cannot be fully solved, he thinks it should show, because an inclusive architecture has room for fragments, contradictions, and improvisation.
 
-A small correction from my notes: the slogan "Less is a bore" is often tied to Venturi, but that phrase is not in the edition I read. The book only has "More is not less." To see what Mies did with his nearly empty room, you can read the piece on the [Neue Nationalgalerie](/en/cong-trinh/neue-nationalgalerie-mies/).
+The slogan "Less is a bore," often tied to Venturi, also sits in that first chapter, in the part he calls "a gentle manifesto," right beside "More is not less." To see what Mies did with his nearly empty room, you can read the piece on the [Neue Nationalgalerie](/en/cong-trinh/neue-nationalgalerie-mies/).
 
 ## The Difficult Whole
 
 Someone will ask: if you keep so many opposing things, does the building turn into a market? Venturi saw the question coming. He asks for an "obligation toward the whole," but a *difficult* whole, made of varied elements whose relations to each other are not easy (pp. 88-89, 102-105).
 
-He makes an odd remark about numbers. One part, or a great many parts, is easy for the eye to read as a single block. Three is the most common number for a grand sense of unity. The hard cases are two, and a middling amount of variety. According to the notes, Modern architecture suppressed the number two, while tradition is full of examples: Gothic doorways, paintings of the Madonna and Child, and even Sullivan's bank in Columbus, Wisconsin, which is split in two and still reads as one.
+He makes an odd remark about numbers. One part, or a great many parts, is easy for the eye to read as a single block. Three is the most common number for a grand sense of unity. The hard cases are two, and a middling amount of variety. According to Venturi, Modern architecture suppressed the number two, while tradition is full of examples: Gothic doorways, paintings of the Madonna and Child, and even Sullivan's bank in Columbus, Wisconsin, which is split in two and still reads as one.
 
 For him, unity here is unity that "just barely holds" things pulling in different directions, not the easy unity of everything looking like everything else.
 
 ## Reading With Care
 
-I keep a few cautions when I read Venturi. He says himself that his book leans toward Mannerism, Baroque, and Rococo, so his examples are chosen to prove a point, not to survey the field fairly. The book never uses the word "postmodern"; that label is how later readers sorted him. My OCR copy gave me the words but not the more than 250 illustrations, so I understand many buildings only through captions. And in his 1977 preface, the author admits that some supporters misread his ideas or inflated them to the point of parody.
+I keep a few cautions when I read Venturi. He says himself that his book leans toward Mannerism, Baroque, and Rococo, so his examples are chosen to prove a point, not to survey the field fairly. The book never uses the word "postmodern"; that label is how later readers sorted him. And in his 1977 preface, the author admits that some supporters misread his ideas or inflated them to the point of parody.
 
 He also separates "real complexity" from "false complexity," so "both" cannot be an excuse for anything goes. In [The Duck and the Shed with a Sign](/en/bai-viet/con-vit-va-nha-che-co-bien-hieu/), I wrote about the second book by Venturi and his collaborators, which deals with symbols and signs.
 

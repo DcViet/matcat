@@ -29,7 +29,7 @@ Matthew Frederick (*101 Things I Learned in Architecture School*, 2007) sums up 
 
 Rasmussen (*Experiencing Architecture*, 1959, chapter IX) adds a very practical point. A north-facing room receives only skylight, which is slightly blue, so cool colors glow there while warm colors look ugly, as if seen under a blue lamp. Use cool colors in north rooms and warm colors in south rooms and every color comes alive. To show that both approaches are right, he sets Vermeer beside Pieter de Hooch. Vermeer painted north-facing rooms in cool tones, pale blue and lemon yellow. De Hooch painted west-facing rooms in warm tones, brown and vermilion. Both are beautiful. The cover of this piece is a Vermeer, so look at how the blue and the yellow sit together in it.
 
-One caution from my own notes: all of this applies to temperate latitudes. In Vietnam the sun climbs high and passes close to overhead, so shading from the sun and catching the breeze matter more than "tinting" a room to suit its direction.
+One thing to keep in mind: all of this applies to temperate latitudes. In Vietnam the sun climbs high and passes close to overhead, so shading from the sun and catching the breeze matter more than "tinting" a room to suit its direction.
 
 ## Color changes how a room feels
 

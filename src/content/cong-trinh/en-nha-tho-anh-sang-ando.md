@@ -6,7 +6,7 @@ draft: false
 lang: "en"
 architect: "Tadao Ando"
 location: "Ibaraki, Osaka region, Japan"
-year: "Designed 1987–88"
+year: "Completed 1989 (designed 1987–88)"
 cover: "/images/nha-tho-anh-sang-cheng.jpg"
 coverAlt: "Black-and-white photo taken inside the church: flat concrete walls dotted with small bolt holes, one thin vertical slit of light and one horizontal slit cutting into a dark corner."
 coverCredit: "Chun-Hung Eric Cheng, CC BY 2.0, via Wikimedia Commons"
@@ -32,7 +32,7 @@ In *Architects' Drawings* (2005), Kendra Schank Smith relays how Ando himself de
 
 ![Two conceptual drawings of the Church of the Light: a plan of a rectangular block cut by an angled wall, and a dark wall with a cross-shaped slit of light running from floor to ceiling](/images/nha-tho-anh-sang-so-do-en.svg)
 
-The two drawings above are my own simplified versions, following that description. On the left is the plan: the box and the angled wall. On the right is the wall with the cross-shaped slit, seen head-on. The angle and position of the wall are only illustrative; the book does not say where the wall sits relative to the altar.
+The two drawings above are my own simplified versions, following that description. On the left is the plan: the box and the angled wall. On the right is the wall with the cross-shaped slit, seen head-on. The angle and position of the wall in the drawing are only illustrative. In the real building, the wall separates the chapel from the entrance area, and visitors enter by slipping between the two volumes.
 
 ## The Cross-Shaped Slit
 
@@ -59,7 +59,7 @@ In an earlier piece, I told the story of Kahn and [Kimbell](/en/cong-trinh/kimbe
 | What the darkness is for | Rest for the eyes; it still needs a slit of light so you can tell how dark it is | A ground that lets the single streak stand out |
 | What the light is for | Seeing the paintings | It is what you came to see |
 
-I arranged this table from my notes on the two buildings; it does not come from either book.
+I arranged this table myself; it does not come from either book.
 
 ## A Sketch Without an Eraser
 
@@ -69,7 +69,7 @@ In Ando's own words, the sketch helps him clarify and refine his first image, an
 
 ## Bringing It Home
 
-Before copying any of this, a bit of caution is in order. Most of the praise for Ando in the material I have comes from critics who already admire him. Taking it to a Vietnamese house is harder still: my notes say his kind of open-sky courtyard must account for rain, heat, and humidity.
+Before copying any of this, a bit of caution is in order. Most of the praise for Ando in the books I read comes from critics who already admire him. Taking it to a Vietnamese house is harder still: I think his kind of open-sky courtyard must account for rain, heat, and humidity.
 
 One more thought, and it is only my own: in a place with a lot of sun, a narrow slit in a closed wall can easily become a point of glare and heat. Kahn faced exactly this problem in Luanda, and he placed a sun-blocking wall a few steps from the window, as I described in [Good Light Is Not Plenty of Light](/en/bai-viet/anh-sang-tot-khong-phai-anh-sang-nhieu/). So what we can take home may be just a few small things rather than a whole church: fewer openings, a dark ground, and light only where it deserves to enter.
 

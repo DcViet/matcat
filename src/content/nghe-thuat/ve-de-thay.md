@@ -39,7 +39,7 @@ Smith kể ra sáu việc như vậy. Mấy dòng diễn giải ngắn bên dư�
 - **Hình dung:** vẽ để thấy trước một nơi chưa tồn tại.
 - **Đánh giá:** vẽ để "thử cho vừa", xem cái này đặt vào đó có ổn không.
 
-Một bản phác thường làm nhiều việc cùng lúc. Những cái tên trong sơ đồ trên, từ Latrobe, Pugin, Ito đến Leonardo, Palladio, [Gaudí](/cong-trinh/gaudi-mo-hinh-day-xich/), Ferriss, là các ví dụ ghi trong ghi chú đọc sách của mình.
+Một bản phác thường làm nhiều việc cùng lúc. Những cái tên trong sơ đồ trên, từ Latrobe, Pugin, Ito đến Leonardo, Palladio, [Gaudí](/cong-trinh/gaudi-mo-hinh-day-xich/), Ferriss, là các ví dụ do mình xếp vào từng việc, không phải cách xếp của Smith.
 
 ## Nhìn rồi mới thấy
 
@@ -67,7 +67,7 @@ Có loại bản phác không còn là cuộc trò chuyện riêng của ngườ
 
 Ảnh bìa là một bản vẽ khác của Boullée, mình chọn vì nó là một mặt cắt: bản vẽ Cénotaphe de Newton, một công trình hình cầu khổng lồ. Chú thích của Gallica ghi đây là cảnh ban ngày, với hiệu ứng ban đêm bên trong. Nhờ mặt cắt, ta thấy cùng lúc cả lớp vỏ bên ngoài lẫn bầu trời tối bên trong. Đúng với tên trang này: cắt qua để xem bên trong.
 
-Ghi chú của mình về chương này có thêm một lời dặn: bản vẽ thuyết phục nào cũng chọn điều cho thấy và điều giấu đi, nên khi dùng hãy ghi rõ phần đã bỏ, như bối cảnh, kích thước, chi phí.
+Mình thêm một lời dặn: bản vẽ thuyết phục nào cũng chọn điều cho thấy và điều giấu đi, nên khi dùng hãy ghi rõ phần đã bỏ, như bối cảnh, kích thước, chi phí.
 
 ## Cách tập: ba lượt và một tháng
 

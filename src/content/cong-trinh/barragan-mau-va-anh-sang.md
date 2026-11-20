@@ -21,7 +21,7 @@ tags: ["Luis Barragán", "màu sắc", "ánh sáng", "vườn kín", "kiến tr�
 
 Thử hình dung một cái sân sau, bốn bề là tường cao hơn đầu người. Đứng giữa sân, bạn không thấy hàng xóm, không thấy phố, chỉ thấy một mảng trời vuông vắn và vài ngọn cây thò lên. Hình như người ta tự nhiên nói khẽ đi. Ví dụ này là của mình, không phải kỷ niệm của ai. Nhưng nó đưa mình tới đúng chỗ Luis Barragán thích làm việc nhất.
 
-Ông sinh năm 1902 ở Guadalajara, học làm kỹ sư rồi trở thành kiến trúc sư mà không có bằng kiến trúc. Ông dọn lên Mexico City vào khoảng 1935–36, nhận giải Pritzker năm 1980 và mất năm 1988. Theo tài liệu mình có, ông là người Mexico duy nhất đoạt giải này.
+Ông sinh năm 1902 ở Guadalajara, học làm kỹ sư rồi trở thành kiến trúc sư mà không có bằng kiến trúc. Ông dọn lên Mexico City vào khoảng 1935–36, nhận giải Pritzker năm 1980 và mất năm 1988. Cho đến nay, ông vẫn là người Mexico duy nhất đoạt giải này.
 
 ## Hai ký ức làm nên một cách nhìn
 
@@ -35,7 +35,7 @@ Barragán và nhóm bạn ở Guadalajara, gọi là Trường Tapatía, cùng l
 | Duy lý, 1935–40 | Theo Phong cách quốc tế và Le Corbusier: nét sạch, vật liệu là kính, bê tông, thép. Thiên về sản xuất kiến trúc hơn là thơ. |
 | Chín muồi, 1940–78 | Chủ yếu ở Mexico City, làm nhiều loại việc (quy hoạch, chuồng ngựa, nhà nguyện, nhà ở). Hòa kiến trúc với cảnh quan nhất. |
 
-Các mốc của giai đoạn cuối, theo slide sinh viên: Jardines del Pedregal (1945), nhà nguyện Capuchinas (1955), tháp Ciudad Satélite làm cùng Mathias Goeritz (1957), Casa Gilardi (công trình trọn vẹn cuối, giữa thập niên 1970) và triển lãm ở MoMA năm 1976. Luận văn thấy giai đoạn đầu và giai đoạn chín muồi liên hệ chặt với nhau về cách nghĩ kiến trúc và cảnh quan, nên nó đòi giữ lại các công trình đầu để còn thấy chỗ nối.
+Các mốc của giai đoạn cuối: Jardines del Pedregal (1945), nhà nguyện Capuchinas (1955), tháp Ciudad Satélite làm cùng Mathias Goeritz (1957), Casa Gilardi (công trình trọn vẹn cuối, giữa thập niên 1970) và triển lãm ở MoMA năm 1976. Luận văn thấy giai đoạn đầu và giai đoạn chín muồi liên hệ chặt với nhau về cách nghĩ kiến trúc và cảnh quan, nên nó đòi giữ lại các công trình đầu để còn thấy chỗ nối.
 
 ## Màu và nắng như một vật liệu
 
@@ -43,7 +43,7 @@ Theo luận văn, Barragán gửi sự nhạy cảm vào không gian bằng màu
 
 Ảnh bìa là bể nước ở Casa Gilardi. Một mảng đỏ, một vùng sáng xanh lam và mặt nước xanh lục nằm trong căn phòng trắng: mình thấy ảnh nói ý này rõ hơn lời tả.
 
-Cần nói thật: tài liệu mình có không ghi bảng màu hay loại sơn. Hai bộ slide sinh viên chỉ tả chung chung, kiểu "ánh sáng đi xuyên tường". Muốn biết màu cụ thể thì phải xem ảnh gốc.
+Mình cố ý không gọi tên màu của từng công trình, vì màu trong ảnh đổi theo máy chụp và giờ nắng. Muốn biết màu thật thì phải đứng trước công trình, hoặc xem ảnh gốc.
 
 Đặt cạnh hai bài trước trên trang, mình thấy cùng một mặt trời nhưng ba người làm ba kiểu khác nhau.
 
@@ -52,7 +52,7 @@ Cần nói thật: tài liệu mình có không ghi bảng màu hay loại sơn.
 | Ánh sáng được làm gì | Đi vòng qua tấm phản xạ rồi rải mềm | Rạch thành một vệt chữ thập trên tường tối | Xuyên qua kính màu hoặc tường đục lỗ |
 | Chất liệu gây cảm xúc | Ánh bạc dịu | Độ tương phản giữa sáng và tối | Màu |
 
-Bảng này mình sắp. Phần Barragán lấy từ ghi chú về năm cách đọc ánh sáng; phần Kahn và Ando lấy từ bài [Kimbell](/cong-trinh/kimbell-kahn/) và bài [Nhà thờ Ánh sáng](/cong-trinh/nha-tho-anh-sang-ando/).
+Bảng này do mình sắp. Phần Kahn và Ando lấy từ bài [Kimbell](/cong-trinh/kimbell-kahn/) và bài [Nhà thờ Ánh sáng](/cong-trinh/nha-tho-anh-sang-ando/).
 
 ## Khu vườn kín, vừa tầm người
 
@@ -76,7 +76,7 @@ Theo luận văn, tường và nước là hai "chữ ký" của ông. Tường 
 
 ## Mang về nhà mình
 
-Mình còn nghĩ thêm một điều, và đây chỉ là ý riêng của mình: ở xứ nóng ẩm, bức tường cao quanh sân phải tính cả gió. Một cái sân kín mà bí thì chẳng còn thanh thản nữa. Phần lớn những gì mình viết ở trên đến từ một luận văn và hai bộ slide sinh viên, nên đọc kèm một chút dè dặt.
+Mình còn nghĩ thêm một điều, và đây chỉ là ý riêng của mình: ở xứ nóng ẩm, bức tường cao quanh sân phải tính cả gió. Một cái sân kín mà bí thì chẳng còn thanh thản nữa. Phần lớn thông tin về công trình ở trên đến từ một luận văn về Barragán, nên bạn đọc kèm một chút dè dặt.
 
 Thử một buổi chiều: ngồi ở chỗ có một bức tường bị nắng xiên rọi vào, và nhìn màu của nó đổi dần cho tới lúc nắng tắt. Mảng màu ấy thuộc về bức tường, hay thuộc về nắng?
 

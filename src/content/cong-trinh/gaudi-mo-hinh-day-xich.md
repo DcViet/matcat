@@ -5,7 +5,7 @@ date: 2026-11-19
 draft: false
 architect: "Antoni Gaudí"
 location: "Colonia Güell và Barcelona, Tây Ban Nha"
-year: "Mô hình và bản phác nhà thờ Colonia Güell (năm không ghi trong ghi chú)"
+year: "Nhà thờ Colonia Güell, thiết kế và xây dở 1898–1914"
 cover: "/images/gaudi-mo-hinh-day-xich-javiermes.jpg"
 coverAlt: "Mô hình dây treo của Gaudí đặt trong tủ kính: hàng nghìn túi nhỏ buộc vào dây, treo thành nhiều tầng võng từ trần xuống; phía trên là tấm mặt bằng nhà thờ."
 coverCredit: "Javiermes, CC BY-SA 4.0, qua Wikimedia Commons"
@@ -25,7 +25,7 @@ Ví dụ này là của mình, không phải kỷ niệm của ai. Nhưng nó g�
 
 ## Treo dây, thả quả cân
 
-Theo ghi chú của mình về cuốn *Architects' Drawings* (Kendra Schank Smith, 2005), Gaudí dùng một mô hình dây treo, gọi là *funicular*, ghi chú của mình còn gọi nó là *polyfunicular*. Trên dây gắn những quả cân nhỏ. Nhìn ảnh bìa bạn sẽ thấy: hàng nghìn túi nhỏ buộc vào dây, rũ xuống thành nhiều tầng võng. Smith viết rằng mô hình này cho thấy ứng lực của các vòm, và nó là phương tiện thiết kế chính của Gaudí; bản phác chỉ là phần phụ.
+Trong cuốn *Architects' Drawings* (Kendra Schank Smith, 2005), Gaudí dùng một mô hình dây treo, gọi là *funicular*, hay *polyfunicular* khi dây chằng chịt nhiều tầng. Trên dây gắn những quả cân nhỏ. Nhìn ảnh bìa bạn sẽ thấy: hàng nghìn túi nhỏ buộc vào dây, rũ xuống thành nhiều tầng võng. Smith viết rằng mô hình này cho thấy ứng lực của các vòm, và nó là phương tiện thiết kế chính của Gaudí; bản phác chỉ là phần phụ.
 
 Câu ấy nên đọc chậm. Với nhiều kiến trúc sư, bản vẽ là chỗ nghĩ. Với Gaudí, chỗ nghĩ nằm ở mô hình, còn giấy bút đi sau để ghi lại.
 
@@ -35,7 +35,7 @@ Xưởng của ông ở tầng hầm Sagrada Familia, cũng theo Smith, chứa m
 
 Phần này là lời giải thích của mình, không phải của sách. Sợi dây chỉ biết bị kéo. Khi treo nó giữa hai điểm và gắn tạ, dây tự chọn đường cong sao cho mọi đoạn đều chỉ chịu kéo, không đoạn nào uốn. Đảo ngược hình ấy thì lực kéo đổi thành lực nén. Một vòm xây bằng đá, thứ vật liệu chịu nén tốt, nếu có đúng đường cong ấy thì từng viên đá chỉ bị ép vào nhau.
 
-Nghĩa là mô hình dây đã làm sẵn phần tính toán: nó cho đúng đường cong chịu lực của vòm. Ghi chú vault của mình ghi rằng dây cho được cấu trúc chịu nén nhưng không cho khối tích. Mình hiểu là dây chỉ cho ta cái xương, còn thịt thì chưa có.
+Nghĩa là mô hình dây đã làm sẵn phần tính toán: nó cho đúng đường cong chịu lực của vòm. Dây cho được cấu trúc chịu nén nhưng không cho khối tích. Nói cách khác, dây chỉ cho ta cái xương, còn thịt thì chưa có.
 
 | | Mô hình dây cho | Mô hình dây chưa cho |
 |---|---|---|
@@ -43,7 +43,7 @@ Nghĩa là mô hình dây đã làm sẵn phần tính toán: nó cho đúng đ�
 | Thể tích | Không có, chỉ là sợi mảnh | Vòm dày bao nhiêu, cột to cỡ nào |
 | Không gian bên trong | Chưa thấy | Căn phòng trông ra sao |
 
-Bảng này do mình sắp, từ ý trong ghi chú.
+Bảng này do mình sắp.
 
 ## Chụp, lật, rồi vẽ lên
 
@@ -65,9 +65,9 @@ Hai ý này đặt cạnh nhau thành một chuyện khá thú vị. Dòng hữu
 
 ## Điều còn lại rất ít
 
-Có một điều cần nói thẳng. Mô hình, bản vẽ và hồ sơ cá nhân của Gaudí gần như bị phá hủy năm 1936. Vì vậy bản phác nhà thờ Colonia Güell chỉ là một trong số ít còn lại, và mỗi kiến trúc sư trong sách của Smith cũng chỉ có một bản phác được chọn. Ghi chú của mình nhắc rằng ta không nên suy ra toàn bộ quá trình làm việc của ông từ một mẫu này. Bài này cũng chỉ kể đúng một cách làm, không kể hết người đàn ông ấy.
+Có một điều cần nói thẳng. Mô hình, bản vẽ và hồ sơ cá nhân của Gaudí gần như bị phá hủy năm 1936. Vì vậy bản phác nhà thờ Colonia Güell chỉ là một trong số ít còn lại, và mỗi kiến trúc sư trong sách của Smith cũng chỉ có một bản phác được chọn. Vì thế mình nghĩ ta không nên suy ra toàn bộ quá trình làm việc của ông từ một mẫu này. Bài này cũng chỉ kể đúng một cách làm, không kể hết người đàn ông ấy.
 
-Mô hình trong ảnh bìa được ghi là mô hình dây của nhà thờ Colonia Güell, hiện trưng bày ở Bảo tàng nhà thờ Sagrada Familia. Ghi chú thư viện của mình không nhắc chuyện này, nên mình chỉ nêu theo lời chú thích ảnh trên Wikimedia Commons.
+Mô hình trong ảnh bìa được ghi là mô hình dây của nhà thờ Colonia Güell, hiện trưng bày ở Bảo tàng nhà thờ Sagrada Familia. Mình chưa tìm được nguồn thứ hai cho chuyện này, nên chỉ nêu theo lời chú thích ảnh trên Wikimedia Commons.
 
 ## Thử ở nhà
 

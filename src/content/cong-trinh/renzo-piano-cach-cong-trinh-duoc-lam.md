@@ -35,7 +35,7 @@ Một điều nữa trong chân dung này khiến mình để ý. Amery gọi Pi
 
 Năm 1971, Piano và Richard Rogers thắng cuộc thi Trung tâm Pompidou ở Paris. Lúc ấy Piano 35 tuổi. Hai người bỏ ý "kim tự tháp ngược" để chọn một khối chữ nhật rõ ràng, như một khối phố. Họ muốn có một cỗ máy đô thị vui vẻ.
 
-Ghi chú của mình về Rogers nói thủ pháp của ông là đẩy ống nước, ống gió, cầu thang và thang máy ra phía ngoài, để các tầng bên trong còn trống. Catalogue Lyon xếp Foster, Rogers và Piano vào chung một gốc, nhóm Team 4 và Pompidou. Trong ảnh bìa, bạn thấy những thanh giằng trắng có khớp nối tròn và một ống gió trắng nằm sát dãy nhà phố cũ. Mình chỉ tả điều nhìn thấy, ghi chú không giải thích từng bộ phận trong ảnh.
+Thủ pháp của Rogers là đẩy ống nước, ống gió, cầu thang và thang máy ra phía ngoài, để các tầng bên trong còn trống. Catalogue Lyon xếp Foster, Rogers và Piano vào chung một gốc, nhóm Team 4 và Pompidou. Trong ảnh bìa, bạn thấy những thanh giằng trắng có khớp nối tròn và một ống gió trắng nằm sát dãy nhà phố cũ. Mình chỉ tả điều nhìn thấy trong ảnh.
 
 Piano không nhận nhãn "high-tech". Ông coi nhãn ấy là lời châm biếm nhẹ nỗi ám ảnh công nghệ. Ông còn có một cộng sự nền tảng là kỹ sư Peter Rice của Ove Arup, hai người làm việc cùng nhau cho đến khi Rice mất năm 1992. Sau khi Pompidou mở cửa năm 1977, Piano kiệt sức. Amery coi đó là bài học lớn về làm việc nhóm và đổi mới cách thi công.
 
@@ -63,7 +63,7 @@ Cũng trong catalogue Lyon, có một gợi ý cách chia ba cái tên tương p
 
 ## Đọc cho tỉnh táo
 
-Có hai chỗ nên dè dặt. Nguồn chính của mình là bài của Amery, viết cho triển lãm của chính giải thưởng, nên giọng khá tán dương. Mình cũng chỉ có ghi chú từ sách và catalogue, chưa có chuyến đi nào, nên không biết các công trình bây giờ ra sao.
+Có hai chỗ nên dè dặt. Nguồn chính của mình là bài của Amery, viết cho triển lãm của chính giải thưởng, nên giọng khá tán dương. Mình cũng chỉ dựa vào sách và catalogue, nên không nói được các công trình bây giờ ra sao.
 
 Nếu phải nói điều gì làm nên Piano, mình nghĩ nó không nằm ở một vật liệu hay một khớp nối nào, mà ở thói quen hỏi trước khi vẽ.
 

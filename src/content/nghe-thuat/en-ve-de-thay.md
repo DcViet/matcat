@@ -40,7 +40,7 @@ Smith lists six functions. The short glosses below are mine:
 - **Visualize:** draw to see ahead a place that does not yet exist.
 - **Evaluate:** draw to "try it for size," to see whether this fits in there.
 
-A sketch often does several jobs at once. The names in the diagram above, from Latrobe, Pugin, and Ito to Leonardo, Palladio, [Gaudí](/en/cong-trinh/gaudi-mo-hinh-day-xich/), and Ferriss, are examples recorded in my reading notes on the book.
+A sketch often does several jobs at once. The names in the diagram above, from Latrobe, Pugin, and Ito to Leonardo, Palladio, [Gaudí](/en/cong-trinh/gaudi-mo-hinh-day-xich/), and Ferriss, are examples I matched to each job myself; this is not Smith's own arrangement.
 
 ## Looking, Then Seeing
 
@@ -68,7 +68,7 @@ Some sketches are no longer a private conversation for the person drawing; they 
 
 The cover image is another drawing by Boullée, which I chose because it is a section: a drawing for the Cenotaph for Newton, an enormous spherical building. The Gallica caption describes it as a daytime scene with a nighttime effect inside. Thanks to the section, we see the outer shell and the dark sky inside at the same time. That fits the name of this site: cut through to see what is inside.
 
-My notes on this chapter add a warning: every persuasive drawing chooses what to show and what to hide, so when you use one, state clearly what was left out, such as context, dimensions, and cost.
+I would add a warning: every persuasive drawing chooses what to show and what to hide, so when you use one, state clearly what was left out, such as context, dimensions, and cost.
 
 ## How to Practice: Three Passes and One Month
 

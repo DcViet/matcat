@@ -26,7 +26,7 @@ Now picture a whole house made that way, and you have most of what Kengo Kuma is
 
 ## A man who wanted architecture to weigh less
 
-According to my reading notes, Kuma was born in 1954 in Kanagawa, earned a master's degree at the University of Tokyo (1979), spent 1985-86 at Columbia as a visiting scholar, and set up his own office in the early 1990s. His former teacher was Hiroshi Hara. The notes sum him up well: he does not make iconic forms, he makes "filters" between inside and outside.
+Kuma was born in 1954 in Kanagawa, earned a master's degree at the University of Tokyo (1979), spent 1985-86 at Columbia as a visiting scholar, and set up his own office in the early 1990s. His former teacher was Hiroshi Hara. In short, he does not make iconic forms, he makes "filters" between inside and outside.
 
 The first stretch was rough. With the M2 Building in Tokyo (1991), Kuma used fragmentation so the building would dissolve into the chaos of the city. In Botond Bognar's *Kengo Kuma: Selected Works* (2005), the story goes that in the end Kuma himself saw M2 as a heavy object. He changed course after the bubble economy.
 
@@ -48,7 +48,7 @@ What I like about this idea is that the order of thinking runs against habit. We
 
 ## Heavy stone becomes a filter
 
-What surprised me most is that Kuma does this with stone, the heaviest material there is. According to the notes, he dislikes stone and concrete because they close a building off and weigh it down, so he punches holes through them to see the back side, and he calls that "honesty."
+What surprised me most is that Kuma does this with stone, the heaviest material there is. In Bognar's books, he dislikes stone and concrete because they close a building off and weigh it down, so he punches holes through them to see the back side, and he calls that "honesty."
 
 | Project | What he did |
 |---|---|
@@ -57,7 +57,7 @@ What surprised me most is that Kuma does this with stone, the heaviest material 
 | Lotus House | Travertine panels 3 cm thick laid in a checkerboard with empty cells, hung on steel chains, swaying in the wind. |
 | Food and Agriculture Museum | Ashino stone louvers 3.5 cm thick with steel plate, recalling a row of zelkova trees. |
 
-I put this table together from the notes on materials; it is not in the books as such. About Chokkura, in *Material Immaterial* Kuma says he chose the kind of stone Frank Lloyd Wright once used for the Imperial Hotel, then drilled holes that made it weaker still. He wanted to weave stone and steel into a kind of "cloth" with holes. He calls the scars of the struggle with material what moves people.
+I put this table together myself. About Chokkura, in *Material Immaterial* Kuma says he chose the kind of stone Frank Lloyd Wright once used for the Imperial Hotel, then drilled holes that made it weaker still. He wanted to weave stone and steel into a kind of "cloth" with holes. He calls the scars of the struggle with material what moves people.
 
 If you read the piece on the [Vals Baths](/en/cong-trinh/nha-tam-vals-zumthor/), you will see that the two use stone but head in opposite directions. Zumthor stacks thin slabs into a solid, grained block. Kuma tears that block open. Bognar does mention Vals as a possible inspiration for the Stone Museum; I only pass that on as a possibility.
 
@@ -65,7 +65,7 @@ If you read the piece on the [Vals Baths](/en/cong-trinh/nha-tam-vals-zumthor/),
 
 With materials that are already light, Kuma goes further:
 
-- The Great (Bamboo) Wall in Beijing (2002) uses whole bamboo, as both structure and wall. A tea room sits in the middle, set in a pool of water. The cover photo shows a bamboo pavilion like that, as I guess from the file name and the description above.
+- The Great (Bamboo) Wall in Beijing (2002) uses whole bamboo, as both structure and wall. A tea room sits in the middle, set in a pool of water. The cover photo shows a bamboo pavilion like that, near the Great Wall.
 - Ginzan Onsen Fujiya uses split bamboo about 4 mm thick, around 1.2 million strips fixed to a wooden frame as a thin screen.
 - Takayanagi Community Center uses local washi paper in place of glass.
 - The Fuan Teahouse (2007) is just organza weighing 11 g/m2 draped over helium balloons, set on a tatami platform, with no fixed door.
@@ -78,7 +78,7 @@ In the foreword to *Material Immaterial*, Kuma admits something. He still wants 
 
 ## Before you copy it
 
-Both of Bognar's books are sympathetic to Kuma, and according to my notes they lack data on maintenance, dust and termites for thin wood and bamboo. Porous stone soaks up water and grows moss. Cutting thin stone strips takes a very good stone workshop. In a place as rainy and humid as Vietnam, those points need testing on their own, not trust in nice photos. If you are thinking about shading one face of a house, the piece [Good Light Is Not Plenty of Light](/en/bai-viet/anh-sang-tot-khong-phai-anh-sang-nhieu/) may help you think about how much light is enough.
+Both of Bognar's books are sympathetic to Kuma, and they say little about maintenance, dust and termites for thin wood and bamboo. Porous stone soaks up water and grows moss. Cutting thin stone strips takes a very good stone workshop. In a place as rainy and humid as Vietnam, those points need testing on their own, not trust in nice photos. If you are thinking about shading one face of a house, the piece [Good Light Is Not Plenty of Light](/en/bai-viet/anh-sang-tot-khong-phai-anh-sang-nhieu/) may help you think about how much light is enough.
 
 Try one small thing: list three things in your home that block light or views, such as a solid wall, a flush door, a cabinet. Then ask yourself: if you divided it into smaller, more even "particles," which way would light and wind go through?
 

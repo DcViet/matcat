@@ -5,7 +5,7 @@ date: 2026-11-17
 draft: false
 architect: "Tadao Ando"
 location: "Ibaraki, vùng Osaka, Nhật Bản"
-year: "Thiết kế 1987–88"
+year: "Hoàn thành 1989 (thiết kế 1987–88)"
 cover: "/images/nha-tho-anh-sang-cheng.jpg"
 coverAlt: "Ảnh đen trắng chụp trong nhà thờ: những mảng tường bê tông phẳng có hàng lỗ bu-lông nhỏ, một khe sáng mảnh chạy dọc và một khe ngang rạch vào góc phòng tối."
 coverCredit: "Chun-Hung Eric Cheng, CC BY 2.0, qua Wikimedia Commons"
@@ -31,7 +31,7 @@ Trong *Architects' Drawings* (2005), Kendra Schank Smith chép lại cách chín
 
 ![Hai hình ý niệm của Nhà thờ Ánh sáng: mặt bằng một khối chữ nhật bị bức tường chéo cắt qua, và mặt tường tối có khe sáng chữ thập rạch từ sàn đến trần](/images/nha-tho-anh-sang-so-do.svg)
 
-Hai hình trên là mình vẽ lại cho gọn, theo đúng mô tả đó. Bên trái là mặt bằng: cái hộp và bức tường chéo. Bên phải là mặt tường có khe chữ thập, nhìn thẳng vào. Góc và vị trí bức tường chỉ để minh họa; sách không nói bức tường nằm ở đâu so với bàn thờ.
+Hai hình trên là mình vẽ lại cho gọn, theo đúng mô tả đó. Bên trái là mặt bằng: cái hộp và bức tường chéo. Bên phải là mặt tường có khe chữ thập, nhìn thẳng vào. Góc và vị trí bức tường trên hình chỉ để minh họa. Ngoài đời, bức tường ngăn gian nguyện với khu lối vào, và khách đi vào bằng cách lách giữa hai khối.
 
 ## Khe chữ thập
 
@@ -58,7 +58,7 @@ Những chấm nhỏ đều đặn trên mặt tường ở ảnh bìa chính l�
 | Bóng tối để làm gì | Cho mắt nghỉ, vẫn cần một khe sáng để biết nó tối đến đâu | Làm nền để vệt sáng duy nhất nổi lên |
 | Ánh sáng để làm gì | Để xem tranh | Chính nó là điều đáng xem |
 
-Bảng này mình sắp theo các ghi chú về hai công trình, không phải bảng có sẵn trong sách.
+Bảng này do mình sắp, không phải bảng có sẵn trong sách.
 
 ## Bản phác không tẩy
 
@@ -68,7 +68,7 @@ Theo lời Ando, bản phác giúp ông làm rõ và gọt giũa hình ảnh ban
 
 ## Mang về nhà mình
 
-Trước khi học theo, cũng nên dè dặt. Phần lớn lời khen dành cho Ando trong tài liệu mình có đều đến từ những nhà phê bình vốn quý trọng ông. Đem về nhà Việt lại càng khó: ghi chú của mình nhắc rằng kiểu sân trời của ông phải tính đến mưa, nóng và ẩm.
+Trước khi học theo, cũng nên dè dặt. Phần lớn lời khen dành cho Ando trong các sách mình đọc đều đến từ những nhà phê bình vốn quý trọng ông. Đem về nhà Việt lại càng khó: mình nghĩ kiểu sân trời của ông phải tính đến mưa, nóng và ẩm.
 
 Mình còn nghĩ thêm một điều, và đây chỉ là ý riêng của mình: ở xứ nhiều nắng, một khe sáng hẹp trên bức tường kín rất dễ thành một điểm chói, một điểm nóng. Kahn từng gặp đúng bài toán ấy ở Luanda, và ông đặt một bức tường chắn nắng cách cửa sổ vài bước, như mình đã kể ở bài [Ánh sáng tốt không phải ánh sáng nhiều](/bai-viet/anh-sang-tot-khong-phai-anh-sang-nhieu/). Nên có lẽ điều đem về nhà được chỉ là mấy việc nhỏ, chứ không cần cả ngôi nhà thờ: bớt cửa, giữ nền tối, và chỉ cho ánh sáng vào những chỗ đáng để nó vào.
 

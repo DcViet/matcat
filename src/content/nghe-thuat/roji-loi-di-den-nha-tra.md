@@ -12,7 +12,7 @@ tags: ["roji", "vườn trà", "nghệ thuật Nhật Bản", "Rikyu", "lối đ
 ---
 <!--
 (1) Ý chính: roji là nguyên mẫu vườn mới của thời Momoyama, không để ngắm từ một điểm mà là con đường dẫn đến túp tranh trà; đi trên đó là một "nghi thức quá cảnh". Chuỗi cổng, ghế chờ, chậu nước, cổng chui làm người đi chậm lại, thấp xuống, sạch hơn. Ba thầy trà (Rikyu, Oribe, Enshu) cho ba thái độ với thiên nhiên: giữ nguyên, tạo "thiên nhiên thứ hai", nắn theo ý người.
-(2) Sách nguồn + trang: Günter Nitschke, Japanese Gardens: Right Angle and Natural Form (Taschen 2003), phần Momoyama, tr. 146-162 (roji) và tr. 147-163 (ba thầy trà); tr. 98-105 (kiến trúc shoin, vườn trước hojo) cho phần nền.
+(2) Sách nguồn + trang: Günter Nitschke, Japanese Gardens: Right Angle and Natural Form (Taschen 2003), phần Momoyama, tr. 146-162 (roji) và tr. 147-163 (ba thầy trà); tr. 98-105 (kiến trúc shoin, vườn trước hojo) cho phần nền; công thức 60/40 của Rikyu và Oribe: Brooklyn Botanic Garden, https://www.bbg.org/article/authenticity_in_japanese_landscape_design.
 (3) Ghi chú vault dùng: CẢNH QUAN - ROJI – CHUỖI ĐI, ĐÁ BƯỚC, CHẬU NƯỚC VÀ CỔNG CHUI; CẢNH QUAN - RIKYU, ORIBE VÀ ENSHU – BA THÁI ĐỘ VỚI THIÊN NHIÊN; CẢNH QUAN - KIẾN TRÚC SHOIN, VƯỜN TRƯỚC HOJO VÀ NGƯỜI LÀM VƯỜN; SÁCH - JAPANESE GARDENS (NITSCHKE TASCHEN 2003).
 (4) Ý chưa có trong sách đã đọc: cảnh mở bài (hẻm nhà bạn, cổng thấp) là ví dụ của mình; câu "vườn để đi, không để ngồi ngắm" là cách mình đặt cạnh bài Ryōan-ji; sơ đồ chín chặng là sơ đồ ý niệm mình sắp lại từ danh sách trong ghi chú; câu hỏi "giữ nguyên, nắn nhẹ hay tạo mới" lấy từ phần "cách dùng" của ghi chú vault, mình diễn lại; bài tập đi chậm cuối bài; mô tả ảnh bìa (ảnh chụp ở Bảo tàng Adachi, không phải vườn Omote Senke mà sách tả).
 (5) Chỗ chưa chắc: thứ tự các chặng lấy theo vườn Omote Senke trong ghi chú, các vườn khác sắp khác; ghi chú nói Rikyu muốn công năng 60 phần trăm, thẩm mỹ 40, Oribe đảo lại, mình chưa thấy trang sách ghi con số này; giai thoại Rikyu lắc cây cho lá rơi lấy từ ghi chú, chưa trích trang; kích thước cổng chui "khoảng 2 × 2 ft" (chừng 60 cm mỗi chiều); ghi chú nhắc cách chia ba thầy trà mang nặng lập luận của Nitschke và đơn giản hóa thực tế; ghi chú không nói rõ nhà vệ sinh, hố rác, giếng nằm ở chặng nào nên bài không tả kỹ.
@@ -46,13 +46,13 @@ Cả chuỗi chia khu vườn nhỏ thành nhiều khoảng, mỗi khoảng có 
 
 Ba thứ dưới đây gánh phần việc chính của roji.
 
-**Đá bước (*tobi-ishi*).** Đá đặt rời nhau, giữ rêu, vừa dẫn mắt vừa dẫn bước. Theo ghi chú, hệ quả là bạn phải nhìn chân mình trước, rồi mới ngẩng lên nhìn cảnh. Cảnh không đến một lúc mà đến từng nhịp, theo đúng nhịp chân.
+**Đá bước (*tobi-ishi*).** Đá đặt rời nhau, giữ rêu, vừa dẫn mắt vừa dẫn bước. Hệ quả là bạn phải nhìn chân mình trước, rồi mới ngẩng lên nhìn cảnh. Cảnh không đến một lúc mà đến từng nhịp, theo đúng nhịp chân.
 
 **Chậu nước (*tsukubai*).** Tên gọi nghĩa là "chỗ phải cúi". Người ta đặt chậu thấp để ai muốn rửa tay phải khom mình. Quanh chậu có những viên đá phụ, như đá để ấm nước nóng, đá để đèn, đá đứng. Đèn đá thì hay được đặt ở chỗ ngoặt bất ngờ, gần cổng hoặc bên chậu nước.
 
-**Cổng chui (*nijiri-guchi*).** Cửa vào nhà trà chỉ khoảng 2 × 2 ft, tức chừng 60 cm mỗi chiều. Muốn qua, bạn phải cúi hẳn người, gần như bò. Ghi chú còn có một điều mình thấy thú vị: cổng chui đổi tỉ lệ, nên lọt xuống gian ba chiếu bạn lại thấy nó rộng hơn. Mình đoán là vì thân người đã hạ thấp, thang đo của căn phòng đổi theo (đây là suy đoán của mình).
+**Cổng chui (*nijiri-guchi*).** Cửa vào nhà trà chỉ khoảng 2 × 2 ft, tức chừng 60 cm mỗi chiều. Muốn qua, bạn phải cúi hẳn người, gần như bò. Có một điều mình thấy thú vị: cổng chui đổi tỉ lệ, nên lọt xuống gian ba chiếu bạn lại thấy nó rộng hơn. Mình đoán là vì thân người đã hạ thấp, thang đo của căn phòng đổi theo (đây là suy đoán của mình).
 
-Ghi chú của mình đặt ba thủ pháp này vào một nhóm: làm chậm, hạ thấp, thanh tẩy. Điều đáng học là thủ pháp, không phải hình thức. Cái nghi lễ Phật và Thiền đằng sau chúng là của một nền văn hóa, mình không dám bê nguyên sang một sân nhà ở Việt Nam. Nhưng chuyện làm cho khách chậm lại ở ngưỡng cửa thì nhà nào cũng thử được.
+Mình xếp ba thủ pháp này vào một nhóm: làm chậm, hạ thấp, thanh tẩy. Điều đáng học là thủ pháp, không phải hình thức. Cái nghi lễ Phật và Thiền đằng sau chúng là của một nền văn hóa, mình không dám bê nguyên sang một sân nhà ở Việt Nam. Nhưng chuyện làm cho khách chậm lại ở ngưỡng cửa thì nhà nào cũng thử được.
 
 ## Ba thầy trà, ba thái độ với cây và đá
 
@@ -66,7 +66,7 @@ Cùng một roji, mỗi thầy trà nghĩ về thiên nhiên một khác. Nitsch
 
 Một cuốn sách vẽ vườn năm 1694, *Shokoku chaniwa meiseki zue*, vẽ cả ba: vườn kiểu Rikyu thuần tự nhiên, vườn kiểu Oribe có lối đá đẽo, đèn và chậu nước, vườn kiểu Enshu xén tỉa gọn gàng.
 
-Ghi chú còn có hai chi tiết thú vị. Một là Rikyu muốn công năng chiếm 60 phần trăm và thẩm mỹ 40, còn Oribe đảo ngược tỉ lệ ấy. Hai là cách dùng đá đẽo hình chữ nhật xen giữa đá thiên nhiên: theo ghi chú, nó làm nổi lên dạng tự nhiên, không xác định của những viên đá kia. Cuối cùng là giai thoại Rikyu quét sạch sân rồi lắc cây cho vài chiếc lá rơi xuống.
+Còn hai chi tiết thú vị nữa. Một là công thức người ta gán cho Rikyu: đá bước nên chiếm 60 phần trăm công năng và 40 thẩm mỹ, còn Oribe đảo ngược tỉ lệ ấy (theo Vườn Bách thảo Brooklyn). Hai là cách dùng đá đẽo hình chữ nhật xen giữa đá thiên nhiên: nó làm nổi lên dạng tự nhiên, không xác định của những viên đá kia. Cuối cùng là giai thoại Rikyu quét sạch sân rồi lắc cây cho vài chiếc lá rơi xuống.
 
 ## Một câu hỏi để mang theo
 

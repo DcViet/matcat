@@ -34,7 +34,7 @@ Matthew Frederick (*101 điều tôi học được ở trường kiến trúc*,
 
 Rasmussen (*Trải nghiệm kiến trúc*, 1959, chương IX) thêm một ý rất thực tế. Phòng hướng bắc chỉ nhận ánh bầu trời, hơi xanh, nên màu lạnh hiện rực ở đó, còn màu ấm trông xấu như đứng dưới đèn xanh. Phòng hướng bắc dùng màu lạnh, phòng hướng nam dùng màu ấm thì màu nào cũng sáng lên. Để cho thấy cả hai cách đều đúng, ông đặt Vermeer cạnh Pieter de Hooch. Vermeer vẽ phòng hướng bắc với sắc lạnh, xanh nhạt và vàng chanh. De Hooch vẽ phòng hướng tây với sắc ấm, nâu và đỏ son. Hai bên đều đẹp. Ảnh bìa bài này là một bức của Vermeer, bạn thử nhìn cách xanh và vàng đứng cạnh nhau trong đó.
 
-Ghi chú của mình có một dặn dò: những điều trên nói cho vĩ độ ôn đới. Ở nước ta mặt trời lên cao, đi gần qua đỉnh đầu, nên chuyện che nắng và đón gió quan trọng hơn chuyện "ngả màu" theo hướng nhà.
+Có một điều bạn nên nhớ: những điều trên nói cho vĩ độ ôn đới. Ở nước ta mặt trời lên cao, đi gần qua đỉnh đầu, nên chuyện che nắng và đón gió quan trọng hơn chuyện "ngả màu" theo hướng nhà.
 
 ## Màu đổi cách ta cảm nhận căn phòng
 

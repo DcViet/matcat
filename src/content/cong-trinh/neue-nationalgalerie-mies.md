@@ -43,11 +43,11 @@ Căn phòng trống này không phải chuyện ngẫu hứng. Jean-Louis Cohen,
 
 ## Luật cổ điển trong một công trình thép kính
 
-Điều mình thích nhất trong ghi chú là chuyện con số. Cả công trình chạy trên một mô-đun 1,20 m. Tấm granite lát bệ cũng theo cỡ ấy, và các chi tiết được vẽ sao cho bộ phận nào cũng khớp vào lưới. Hai tác giả còn ghi một hình vuông cạnh 94,20 m, tức 78,5 mô-đun, được dịch đi ba lần để ra mặt bằng, vườn tượng và cầu thang.
+Điều mình thích nhất ở cuốn sách của Pavia và Ferrari là chuyện con số. Cả công trình chạy trên một mô-đun 1,20 m. Tấm granite lát bệ cũng theo cỡ ấy, và các chi tiết được vẽ sao cho bộ phận nào cũng khớp vào lưới. Hai tác giả còn ghi một hình vuông cạnh 94,20 m, tức 78,5 mô-đun, được dịch đi ba lần để ra mặt bằng, vườn tượng và cầu thang.
 
 Bản tiếng Ý của cuốn sách viết thêm rằng thân cột hơi phình và tấm mái hơi cong, để chỉnh lại cảm giác của mắt như người Hy Lạp từng làm với đền thờ. Pavia gọi công trình là "Parthenon của thế kỷ 20". Nhưng hai tác giả nhấn rằng Mies mượn của cổ điển cái luật chứ không mượn cái hình, và nhìn ảnh bìa thì đúng là chẳng thấy đầu cột hay hoa văn nào. Họ dẫn một câu ông viết từ năm 1923: "Form is not the goal but the result of our work", hình thức không phải là đích, nó là kết quả của việc mình làm.
 
-Chữ "cổ điển" ở đây cũng nên đọc cho tỉnh. Cohen kể một chuyện ở chung cư 860–880 Lake Shore Drive, Chicago: luật an toàn buộc bọc khung thép trong 5 cm bê tông, Mies bèn hàn thêm những thanh thép chữ I không chịu lực ra mặt ngoài, để người xem vẫn cảm được đường đi của lực (tr. 108–118). Theo Cohen, Mies sẵn sàng giấu kết cấu thật để giữ hình ảnh. Ghi chú của mình không nói thép ở Berlin để lộ hay bọc, nên mình chỉ mang theo một câu hỏi khi nhìn tấm mái: mình đang thấy kết cấu, hay hình ảnh của kết cấu?
+Chữ "cổ điển" ở đây cũng nên đọc cho tỉnh. Cohen kể một chuyện ở chung cư 860–880 Lake Shore Drive, Chicago: luật an toàn buộc bọc khung thép trong 5 cm bê tông, Mies bèn hàn thêm những thanh thép chữ I không chịu lực ra mặt ngoài, để người xem vẫn cảm được đường đi của lực (tr. 108–118). Theo Cohen, Mies sẵn sàng giấu kết cấu thật để giữ hình ảnh. Ở Berlin thì thép của mái và cột để lộ, sơn đen. Dù vậy, khi nhìn tấm mái mình vẫn mang theo một câu hỏi: mình đang thấy kết cấu, hay hình ảnh của kết cấu?
 
 ## Cái giá khi phải treo tranh
 
@@ -59,7 +59,7 @@ Chính cuốn sách khen công trình cũng chép lại những lời chê: sả
 | Vách kính quanh sảnh | Thiên nhiên ngoài kia thành một phần của "cái toàn thể lớn hơn", như Mies viết | Nắng chói, phải thêm rèm |
 | Đặt sảnh lên bệ | Sảnh thành "hình hài của cộng đồng", theo Pavia và Ferrari | Bộ sưu tập thường trực nằm trong lòng bệ |
 
-[Venturi](/bai-viet/venturi-ca-hai-va/) thì viết rằng Mies "xóa" bài toán đi thay vì giải nó, còn Smithson gọi công trình là "gần như chiếc hộp lớn". Hai lời này mình chép qua ghi chú, chưa đọc tận nguồn.
+[Venturi](/bai-viet/venturi-ca-hai-va/) thì viết rằng Mies "xóa" bài toán đi thay vì giải nó, còn Smithson gọi công trình là "gần như chiếc hộp lớn".
 
 Đặt cạnh [Kimbell](/cong-trinh/kimbell-kahn/) sẽ thấy hai lối đi ngược chiều. Kahn bắt đầu từ bức tranh và thứ ánh sáng chạm vào nó, rồi mới ra hình cái vòm. Mies làm căn phòng trước, tranh tính sau. Một bảo tàng muốn đứng vài trăm năm thì quả là không biết trước người ta sẽ bày gì. Có điều hôm nay treo bức nào thì bức ấy vẫn cần thứ ánh sáng vừa với nó, mà sáng nhiều chưa chắc là sáng tốt, như mình đã kể ở bài [Ánh sáng tốt không phải ánh sáng nhiều](/bai-viet/anh-sang-tot-khong-phai-anh-sang-nhieu/).
 

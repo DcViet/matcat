@@ -12,7 +12,7 @@ tags: ["vườn khô", "kare-sansui", "Ryōan-ji", "nghệ thuật Nhật Bản"
 ---
 <!--
 (1) Ý chính: vườn khô Ryōan-ji là một sân sỏi và đá không có đáp án duy nhất; Nitschke dùng ba khu vườn (Ryōan-ji, Daisen-in, Shinju-an) để cho thấy vườn khô đọc được nhiều cách; hai lý tưởng nền là yugen và yohaku no bi; người làm vườn và ý nghĩa vẫn còn tranh cãi; nối với câu hỏi "đúng so với cái gì" ở bài Vẽ sai so với cái gì?
-(2) Sách nguồn + trang: Günter Nitschke, Japanese Gardens: Right Angle and Natural Form (Taschen 2003): phần Kamakura đến Muromachi tr. 66-88 (bốn giai đoạn của vườn khô), tr. 89-96 (Ryōan-ji, Daisen-in, Shinju-an), tr. 98-105 (kiến trúc shoin, hojo, người làm vườn), tr. 105-109 (yugen, yohaku, bảy đặc tính nghệ thuật Thiền).
+(2) Sách nguồn + trang: Günter Nitschke, Japanese Gardens: Right Angle and Natural Form (Taschen 2003): phần Kamakura đến Muromachi tr. 66-88 (bốn giai đoạn của vườn khô), tr. 89-96 (Ryōan-ji, Daisen-in, Shinju-an), tr. 98-105 (kiến trúc shoin, hojo, người làm vườn), tr. 105-109 (yugen, yohaku, bảy đặc tính nghệ thuật Thiền); cách chia các cụm đá: https://en.wikipedia.org/wiki/Ry%C5%8Dan-ji.
 (3) Ghi chú vault dùng: CẢNH QUAN - RYOAN-JI, DAISEN-IN VÀ SHINJU-AN - BA CÁCH ĐỌC VƯỜN KHÔ; CẢNH QUAN - SAIHO-JI, TENRYU-JI VÀ BỐN GIAI ĐOẠN CỦA VƯỜN KHÔ; CẢNH QUAN - THẨM MỸ MUROMACHI - YUGEN, YOHAKU VÀ BẢY ĐẶC TÍNH THIỀN; CẢNH QUAN - KIẾN TRÚC SHOIN, VƯỜN TRƯỚC HOJO VÀ NGƯỜI LÀM VƯỜN; TRƯỜNG PHÁI - VƯỜN KHÔ KARE-SANSUI; KHÔNG GIAN - NGUYÊN MẪU VƯỜN NHẬT; SÁCH - JAPANESE GARDENS (NITSCHKE TASCHEN 2003).
 (4) Ý chưa có trong sách đã đọc: cảnh mở bài (ngồi ở hiên nhìn sân sỏi) và bài tập cuối bài (khay gạo, ba hòn sỏi) là của mình; cách gom ba vườn thành "chỗ để trống, chỗ kể chuyện, chỗ nói nhỏ"; mô tả ảnh bìa; câu nối với bài Vẽ sai so với cái gì?; sơ đồ bốn giai đoạn là sơ đồ ý niệm vẽ lại từ cách chia của Shigemori.
 (5) Chỗ chưa chắc: cách chia mười lăm tảng đá thành cụm 7, 5, 3 là theo ghi chú vault, các nguồn khác có thể mô tả khác; diện tích sân có hai số khác nhau (khoảng 400 yd2 theo sách, 218,8 m2 trong sách Hàn qua OCR) nên bài không dùng; năm xây lại khoảng 1488 và giả thuyết người làm (Hennig, mười lăm giả thuyết) lấy từ ghi chú, chưa trích trang; Nitschke tự thừa nhận không có tài liệu xác nhận cách đọc Thiền của ông; học giả còn tranh cãi kare-sansui là phát minh Thiền hay phát triển của một kiểu vườn nhỏ thời Heian; Kuitert cho nhãn "vườn Thiền" xuất hiện muộn; Nitschke là học giả có quan điểm mạnh; vault không nói vị trí các khu vườn nên bài không nêu.
@@ -24,7 +24,7 @@ Cảnh này mình hình dung từ ảnh và từ sách, không phải một kỷ
 
 ## Một sân sỏi, mười lăm tảng đá
 
-Đó là vườn ở Ryōan-ji. Theo Günter Nitschke trong *Japanese Gardens* (Taschen, 2003, tr. 89–96), đây là vườn khô thuần nhất: không nước, không cây, chỉ có đá trên nền cát cào. Ghi chú đọc sách của mình chép mười lăm tảng ấy chia thành các cụm 7, 5 và 3. Mình không chắc cách chia này, vì có nguồn mô tả khác đi.
+Đó là vườn ở Ryōan-ji. Theo Günter Nitschke trong *Japanese Gardens* (Taschen, 2003, tr. 89–96), đây là vườn khô thuần nhất: không nước, không cây, chỉ có đá trên nền cát cào. Mười lăm tảng ấy chia thành năm cụm 5, 2, 3, 2 và 3 tảng, tính từ phía đông.
 
 Vườn được xây lại khoảng năm 1488, còn ai làm ra nó thì chưa ai biết chắc. Hennig kể ra mười lăm giả thuyết và nghiêng về nhóm thợ gọi là *sensui kawaramono*, tức "thợ ven sông": những người sống bên sông, quen đào đất và tìm đá. Sau một tảng đá còn có chữ ký của hai người thợ khắc.
 

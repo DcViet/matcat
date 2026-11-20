@@ -22,7 +22,7 @@ Chuyện này mình nghĩ ra để làm ví dụ, không phải chuyện có th�
 
 ## Hoặc-hoặc là thói quen của một thời
 
-Cuốn sách ấy tên *Complexity and Contradiction in Architecture* (Bảo tàng MoMA, 1966). Theo ghi chú đọc sách của mình, Venturi nhìn kiến trúc Hiện đại chính thống và thấy nó làm việc theo kiểu "hoặc": cái che nắng chỉ để che nắng, cột ít khi kiêm vách, mỗi chức năng được tách thành một cánh nhà riêng. Ngay cả "không gian chảy" cũng là chảy từ trong ra ngoài, chứ không phải vừa trong vừa ngoài cùng lúc (tr. 23-32).
+Cuốn sách ấy tên *Complexity and Contradiction in Architecture* (Bảo tàng MoMA, 1966). Venturi nhìn kiến trúc Hiện đại chính thống và thấy nó làm việc theo kiểu "hoặc": cái che nắng chỉ để che nắng, cột ít khi kiêm vách, mỗi chức năng được tách thành một cánh nhà riêng. Ngay cả "không gian chảy" cũng là chảy từ trong ra ngoài, chứ không phải vừa trong vừa ngoài cùng lúc (tr. 23-32).
 
 Ông trích câu của [Louis Kahn](/cong-trinh/kimbell-kahn/), người thầy gần nhất của ông: kiến trúc phải có không gian xấu cũng như không gian tốt. Cái sai ở một bộ phận có khi lại đúng ở toàn thể.
 
@@ -34,7 +34,7 @@ Mình thử đem ý ấy quay lại cái bếp ở đầu bài. Cách hoặc-ho�
 
 ![Hai cách nghĩ về một cái bếp: tách thành bếp và bàn ăn riêng, hoặc gộp thành một quầy có ghế](/images/venturi-ca-hai-va.svg)
 
-Ví dụ của mình gần với một khái niệm khác trong sách, "cấu kiện hai chức năng", tức một bộ phận làm hai việc. Ghi chú của mình tách hai thứ này ra: cấu kiện hai chức năng nói về công dụng và kết cấu cụ thể, còn "cả hai và" nói về quan hệ giữa bộ phận với toàn thể, tức một thứ mang nghĩa kép.
+Ví dụ của mình gần với một khái niệm khác trong sách, "cấu kiện hai chức năng", tức một bộ phận làm hai việc. Hai thứ này khác nhau: cấu kiện hai chức năng nói về công dụng và kết cấu cụ thể, còn "cả hai và" nói về quan hệ giữa bộ phận với toàn thể, tức một thứ mang nghĩa kép.
 
 ## Mơ hồ không có nghĩa là lộn xộn
 
@@ -50,19 +50,19 @@ Chương đầu cuốn sách (tr. 16-18) trả lời thẳng câu "ít là nhi�
 
 Lập luận của Venturi nằm ở chỗ này. Kiến trúc sư có thể quyết định *cách* giải một bài toán, nhưng nếu họ tự chọn *bài toán nào* đáng giải, họ phải trả giá bằng sự gắn bó với đời sống thật. Nhà ở thì đời sống ấy chẳng bao giờ gọn: người già và trẻ con, mùi bếp và tiếng cười, đồ đạc cũ và đồ đạc mới. Nếu có bài toán không giải trọn được, ông cho là nên để nó lộ ra, vì kiến trúc bao gộp có chỗ cho mảnh vỡ, mâu thuẫn và ứng biến.
 
-Một lời đính chính nhỏ từ ghi chú của mình: khẩu hiệu "Less is a bore" thường gắn với Venturi, nhưng cụm này không có trong bản mình đọc. Sách chỉ có "More is not less". Muốn xem Mies làm gì với căn phòng gần như trống của ông, bạn có thể đọc bài [Neue Nationalgalerie](/cong-trinh/neue-nationalgalerie-mies/).
+Câu "Less is a bore" (ít thì chán), thường gắn với Venturi, cũng nằm ngay chương đầu, trong phần ông gọi là "một bản tuyên ngôn nhẹ nhàng" (*A Gentle Manifesto*), cạnh câu "More is not less". Muốn xem Mies làm gì với căn phòng gần như trống của ông, bạn có thể đọc bài [Neue Nationalgalerie](/cong-trinh/neue-nationalgalerie-mies/).
 
 ## Cái toàn thể khó
 
 Có người sẽ hỏi: giữ nhiều thứ trái nhau thế thì nhà thành cái chợ à? Venturi lường trước câu ấy. Ông đòi "nghĩa vụ với cái toàn thể", nhưng là cái toàn thể *khó*, gồm nhiều yếu tố đa dạng, quan hệ giữa chúng không dễ dãi (tr. 88-89, 102-105).
 
-Ông có một nhận xét lạ về số lượng. Một bộ phận, hay thật nhiều bộ phận, thì mắt dễ đọc thành một khối. Bộ ba là số phổ biến nhất cho cảm giác thống nhất hoành tráng. Cái khó nằm ở số hai, và ở mức đa dạng trung bình. Theo ghi chú, kiến trúc Hiện đại đã đàn áp số hai, trong khi truyền thống đầy ví dụ: cửa Gothic, tranh Madonna và Hài nhi, và cả ngân hàng của Sullivan ở Columbus (Wisconsin), chia đôi mà vẫn là một.
+Ông có một nhận xét lạ về số lượng. Một bộ phận, hay thật nhiều bộ phận, thì mắt dễ đọc thành một khối. Bộ ba là số phổ biến nhất cho cảm giác thống nhất hoành tráng. Cái khó nằm ở số hai, và ở mức đa dạng trung bình. Theo Venturi, kiến trúc Hiện đại đã đàn áp số hai, trong khi truyền thống đầy ví dụ: cửa Gothic, tranh Madonna và Hài nhi, và cả ngân hàng của Sullivan ở Columbus (Wisconsin), chia đôi mà vẫn là một.
 
 Với ông, thống nhất ở đây là thống nhất "chỉ vừa đủ giữ" những thứ đang kéo nhau đi hai hướng, chứ không phải thống nhất dễ dàng của chỗ nào cũng giống chỗ nào.
 
 ## Đọc cho tỉnh
 
-Mình giữ vài điều khi đọc Venturi. Ông tự nói sách của mình thiên về Mannerism, Baroque, Rococo, nên các ví dụ chọn để chứng minh luận điểm, chứ không phải bản khảo sát công bằng. Cuốn sách không dùng chữ "hậu hiện đại"; gắn nhãn ấy là cách đọc của người đời sau. Bản OCR của mình cũng đọc được chữ chứ không đọc được hơn 250 hình minh họa, nên nhiều công trình mình chỉ hiểu qua lời chú. Và trong lời tựa bản 1977, tác giả thừa nhận có người ủng hộ đã hiểu sai ý ông, hoặc thổi lên đến mức nhại.
+Mình giữ vài điều khi đọc Venturi. Ông tự nói sách của mình thiên về Mannerism, Baroque, Rococo, nên các ví dụ chọn để chứng minh luận điểm, chứ không phải bản khảo sát công bằng. Cuốn sách không dùng chữ "hậu hiện đại"; gắn nhãn ấy là cách đọc của người đời sau. Và trong lời tựa bản 1977, tác giả thừa nhận có người ủng hộ đã hiểu sai ý ông, hoặc thổi lên đến mức nhại.
 
 Ông cũng tự phân biệt "phức tạp thật" với "phức tạp giả". Nên "cả hai" không thể là cớ cho cái gì cũng được. Ở bài [Con vịt và cái nhà che có biển hiệu](/bai-viet/con-vit-va-nha-che-co-bien-hieu/), mình kể cuốn sách thứ hai của Venturi cùng các cộng sự, nói về chuyện biểu tượng và biển hiệu.
 

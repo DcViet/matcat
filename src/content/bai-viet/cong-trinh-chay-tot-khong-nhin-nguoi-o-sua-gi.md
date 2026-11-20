@@ -18,7 +18,7 @@ tags: ["đánh giá sau sử dụng", "hiệu quả công trình", "Mahaweli", "
 
 Có một phép thử rẻ tiền mà ai cũng làm được. Bước vào một căn nhà hay một quán cà phê đã dùng được vài tháng, rồi nhìn xem người ở đã tự sửa những gì. Cái ghế bị kéo ra khỏi chỗ ban đầu, tờ giấy dán lên kính chắn nắng, cánh cửa lúc nào cũng đóng dù ai cũng biết nó sinh ra để mở. Ví dụ này là của mình, không phải chuyện của một nơi cụ thể. Nhưng mỗi dấu sửa như thế là một lời nhận xét, và thường thật hơn mọi bản báo cáo.
 
-"Công trình này có hoạt động hiệu quả không" nghe như câu của kỹ sư, với máy đo và bảng số. Đọc các sách trong ghi chú, mình thấy câu trả lời nằm ở hai chỗ: con số, và cách người ta dùng nó trong đời thật. Mình rút ra năm câu hỏi, và bạn có thể đem hỏi chính căn nhà của mình.
+"Công trình này có hoạt động hiệu quả không" nghe như câu của kỹ sư, với máy đo và bảng số. Đọc mấy cuốn sách về đề tài này, mình thấy câu trả lời nằm ở hai chỗ: con số, và cách người ta dùng nó trong đời thật. Mình rút ra năm câu hỏi, và bạn có thể đem hỏi chính căn nhà của mình.
 
 ## Một phép thử có sẵn: dùng đúng như dự định
 
@@ -62,7 +62,7 @@ Quy tắc rút ra: hãy thiết kế "lý do mở cửa", gồm tầm nhìn, ri�
 
 ## Hỏi 5: đã có ai quay lại hỏi chưa?
 
-Mahaweli chưa bao giờ được đánh giá sau khi sử dụng, và đó là chỗ thiếu lớn nhất của câu chuyện. Trong bài giảng về chương trình công trình (Steinmüller, 2010–2011), chương trình không còn là danh sách phòng cố định mà là hoạt động theo thời gian. UNStudio vẽ mặt cắt hoạt động 24 giờ cho đề dự thi ở New York năm 1997. Nhiều ví dụ khác trong bài giảng chỉ còn lại tên và vài nhãn trong bản OCR của mình, nên mình chỉ kể ví dụ này.
+Mahaweli chưa bao giờ được đánh giá sau khi sử dụng, và đó là chỗ thiếu lớn nhất của câu chuyện. Trong bài giảng về chương trình công trình (Steinmüller, 2010–2011), chương trình không còn là danh sách phòng cố định mà là hoạt động theo thời gian. UNStudio vẽ mặt cắt hoạt động 24 giờ cho đề dự thi ở New York năm 1997. Bài giảng còn nhiều ví dụ khác, nhưng mình chỉ kể ví dụ này.
 
 Một cách làm đơn giản mình nghĩ ra, không lấy từ sách: ba tháng sau khi dọn vào, đi một vòng quanh nhà và ghi ba thứ. Cái gì đã bị dời, che hay bít. Chỗ nào hầu như không ai đặt chân tới. Chỗ nào mọi người cứ tụ lại. Rồi hỏi nhà thiết kế, hoặc hỏi chính mình, vì sao.
 

@@ -45,11 +45,11 @@ In Chicago, he even turned Sullivan's familiar line around: make a beautiful for
 
 ## Classical Rules in a Steel-and-Glass Building
 
-What I like most in my notes is the numbers. The whole building runs on a module of 1.20 m. The granite slabs paving the podium follow that size too, and the details are drawn so that every part fits the grid. The two authors also record a square 94.20 m on a side, or 78.5 modules, shifted three times to produce the plan, the sculpture garden, and the stairs.
+What I like most in Pavia and Ferrari's book is the numbers. The whole building runs on a module of 1.20 m. The granite slabs paving the podium follow that size too, and the details are drawn so that every part fits the grid. The two authors also record a square 94.20 m on a side, or 78.5 modules, shifted three times to produce the plan, the sculpture garden, and the stairs.
 
 The Italian text of the book adds that the column shafts swell slightly and the roof has a slight camber, to correct what the eye perceives, as the Greeks once did with their temples. Pavia calls the building "the Parthenon of the 20th century." But the two authors stress that Mies borrowed the rules of classical architecture and left its shapes alone, and in the cover photo there is indeed no capital or ornament to be seen. They quote a sentence he wrote back in 1923: "Form is not the goal but the result of our work."
 
-The word "classical" here also deserves a sober reading. Cohen tells a story from the apartment towers at 860–880 Lake Shore Drive in Chicago: safety rules required the steel frame to be encased in 5 cm of concrete, so Mies welded non-load-bearing steel I-sections onto the outside, so that viewers could still sense the path of the forces (pp. 108–118). According to Cohen, Mies was willing to hide the real structure to keep the image. My notes do not say whether the steel in Berlin is exposed or encased, so I only carry one question with me when I look at that roof: am I seeing structure, or the image of structure?
+The word "classical" here also deserves a sober reading. Cohen tells a story from the apartment towers at 860–880 Lake Shore Drive in Chicago: safety rules required the steel frame to be encased in 5 cm of concrete, so Mies welded non-load-bearing steel I-sections onto the outside, so that viewers could still sense the path of the forces (pp. 108–118). According to Cohen, Mies was willing to hide the real structure to keep the image. In Berlin the steel of the roof and columns is left exposed and painted black. Even so, I carry one question with me when I look at that roof: am I seeing structure, or the image of structure?
 
 ## What It Costs When Paintings Have to Hang
 
@@ -61,7 +61,7 @@ The same book that praises the building also records the complaints: the hall is
 | Glass walls around the hall | Nature outside becomes part of "a larger whole," as Mies wrote | Glaring sun, curtains added |
 | Setting the hall on a podium | The hall becomes "the shape of the community," per Pavia and Ferrari | The permanent collection sits inside the podium |
 
-[Venturi](/en/bai-viet/venturi-ca-hai-va/), for his part, wrote that Mies "erased" the problem instead of solving it, and Smithson called the building "almost a big box." I copied these two remarks from my notes and have not read them at the source.
+[Venturi](/en/bai-viet/venturi-ca-hai-va/), for his part, wrote that Mies "erased" the problem instead of solving it, and Smithson called the building "almost a big box."
 
 Set it beside [Kimbell: Making the Sun Take a Detour Before It Touches the Paintings](/en/cong-trinh/kimbell-kahn/) and you see two routes running in opposite directions. Kahn started from the painting and the light that touches it, and only then arrived at the shape of the vault. Mies made the room first and dealt with the paintings afterward. A museum meant to stand for a few hundred years really cannot know in advance what people will show in it. Still, whichever painting hangs there today needs light that suits it, and plenty of light is not necessarily good light, as I wrote in [Good Light Is Not Plenty of Light](/en/bai-viet/anh-sang-tot-khong-phai-anh-sang-nhieu/).
 

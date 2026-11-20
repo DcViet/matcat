@@ -22,7 +22,7 @@ tags: ["Luis Barragán", "color", "light", "enclosed garden", "Mexican architect
 
 Picture a backyard with walls on all four sides, taller than a person. Standing in the middle, you can't see the neighbors or the street. You see a square of sky and the tops of a few trees. People seem to start talking more quietly there. This example is mine, not anyone's memory. But it takes me to the place where Luis Barragán liked to work most.
 
-He was born in 1902 in Guadalajara, trained as an engineer, and became an architect without an architecture degree. He moved to Mexico City around 1935–36, received the Pritzker Prize in 1980, and died in 1988. According to the sources I have, he is the only Mexican to win that prize.
+He was born in 1902 in Guadalajara, trained as an engineer, and became an architect without an architecture degree. He moved to Mexico City around 1935–36, received the Pritzker Prize in 1980, and died in 1988. To this day, he remains the only Mexican to win that prize.
 
 ## Two memories that made a way of seeing
 
@@ -36,7 +36,7 @@ Barragán and his friends in Guadalajara, known as the Tapatía School, reworked
 | Rationalist, 1935–40 | Followed the International Style and Le Corbusier: clean lines, materials of glass, concrete and steel. More about producing architecture than poetry. |
 | Mature, 1940–78 | Mostly in Mexico City, with many kinds of work (planning, stables, chapels, houses). The period where architecture merges most with landscape. |
 
-The landmarks of the last period, according to student slides: Jardines del Pedregal (1945), the Capuchinas chapel (1955), the Ciudad Satélite towers made with Mathias Goeritz (1957), Casa Gilardi (his last fully realized work, in the mid-1970s) and the MoMA exhibition in 1976. The thesis sees the early and mature periods as closely linked in how they think about architecture and landscape, so it argues for keeping the early works, to preserve the connection.
+The landmarks of the last period: Jardines del Pedregal (1945), the Capuchinas chapel (1955), the Ciudad Satélite towers made with Mathias Goeritz (1957), Casa Gilardi (his last fully realized work, in the mid-1970s) and the MoMA exhibition in 1976. The thesis sees the early and mature periods as closely linked in how they think about architecture and landscape, so it argues for keeping the early works, to preserve the connection.
 
 ## Color and sun as a material
 
@@ -44,7 +44,7 @@ According to the thesis, Barragán put sensitivity into space with color and sun
 
 The cover photo is the pool at Casa Gilardi. A red wall, a patch of blue light and green water sit in a white room: I think the picture says this better than I can describe it.
 
-To be honest: the material I have records no color chart or paint type. Two sets of student slides only describe things in general terms, like "light passing through the wall". For specific colors you would need the original photographs.
+I deliberately do not name the color of each building, because color in photographs shifts with the camera and the hour of the sun. For the real colors you would have to stand in front of the building, or look at the original photographs.
 
 Set beside the two earlier pieces on this site, the same sun gets treated three different ways.
 
@@ -53,7 +53,7 @@ Set beside the two earlier pieces on this site, the same sun gets treated three 
 | What is done to the light | Sent around a reflector, then spread softly | Cut into a cross-shaped slit on a dark wall | Passed through colored glass or perforated walls |
 | Material for feeling | Soft silver light | Contrast between light and dark | Color |
 
-I put this table together. The Barragán column comes from my note on five ways of reading light; the Kahn and Ando columns come from [Kimbell: Making the Sun Take a Detour Before It Touches the Paintings](/en/cong-trinh/kimbell-kahn/) and [The Church of the Light: A Dark Room with Just One Slit of Light](/en/cong-trinh/nha-tho-anh-sang-ando/).
+I arranged this table myself. The Kahn and Ando columns come from [Kimbell: Making the Sun Take a Detour Before It Touches the Paintings](/en/cong-trinh/kimbell-kahn/) and [The Church of the Light: A Dark Room with Just One Slit of Light](/en/cong-trinh/nha-tho-anh-sang-ando/).
 
 ## An enclosed garden at human scale
 

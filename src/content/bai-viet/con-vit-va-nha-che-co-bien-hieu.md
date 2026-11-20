@@ -47,7 +47,7 @@ Chuyện tấm biển to hơn cái quán, phần đầu cuốn sách giải thí
 
 Thế là tấm biển phải cao, phải to và quay về phía xe đang tới, còn cái nhà lùi vào sau bãi đỗ xe. Sách có một câu gọn về chuyện này: "The big sign and the little building is the rule of Route 66" (tr. 13), tức là luật của đường 66 là biển lớn, nhà nhỏ. Họ gọi đó là biểu tượng trong không gian đi trước hình khối trong không gian. Họ còn nói thêm: thử gỡ hết biển hiệu đi, nơi ấy sẽ chẳng còn là một nơi nữa.
 
-Chuyện tiền bạc cũng đi theo. Ghi chú đọc sách của mình chép lại hình ảnh "quán 10.000 đô la với biển 100.000 đô la": làm biển rẻ hơn uốn cả ngôi nhà.
+Chuyện tiền bạc cũng đi theo. Sách có hình ảnh "quán 10.000 đô la với biển 100.000 đô la": làm biển rẻ hơn uốn cả ngôi nhà.
 
 Đặt cạnh bài [Người đến nơi có người](/bai-viet/nguoi-den-noi-co-nguoi/) thì thấy hai cuốn sách đứng ở hai đầu của cùng một cây thước. Jan Gehl đo con phố bằng bước chân nên để ý đến chiếc ghế, nhóm Venturi đo bằng tốc độ xe nên thấy tấm biển. Chỗ nối này là của mình.
 
@@ -59,7 +59,7 @@ Chuyện tiền bạc cũng đi theo. Ghi chú đọc sách của mình chép l�
 
 ## Đọc cho tỉnh
 
-Cũng nên giữ một khoảng cách với cuốn sách. Ghi chú của mình lưu ý rằng họ chọn cặp so sánh ấy để tranh luận cho thắng, và có lúc nặng tay với Rudolph.
+Cũng nên giữ một khoảng cách với cuốn sách. Mình thấy họ chọn cặp so sánh ấy để tranh luận cho thắng, và có lúc nặng tay với Rudolph.
 
 Nhà che trang trí trong sách cũng không phải lời khen cho mọi tấm biển. Nhóm tác giả có nhắc rằng quảng cáo thương mại biết dắt mũi người xem. Trong lời tựa bản sửa năm 1977, Denise Scott Brown viết rằng đề tài của cuốn sách không phải là Las Vegas, mà là biểu tượng trong kiến trúc, và bài học là bớt vội chê thị hiếu của người khác. Sách khép lại bằng lời Pugin dặn: trang trí cho cái mình xây thì được, còn xây hẳn một món trang trí thì đừng (tr. 162–163).
 

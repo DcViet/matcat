@@ -11,7 +11,7 @@ tags: ["vườn phong cảnh Anh", "cảnh quan", "Stowe", "Stourhead", "Repton"
 ---
 <!--
 (1) Ý chính: vườn phong cảnh Anh ngược với vườn trục đối xứng kiểu Pháp; cảnh được bày thành ba lớp như tranh (cận, trung, viễn), đường đi uốn để lộ dần các điểm nhìn; cảnh "tự nhiên" vẫn hoàn toàn nhân tạo.
-(2) Sách nguồn + trang: Hàn Tất Ngạn, Kiến trúc cảnh quan (1999), chương 2 tr. 38–40 và 59 (vườn phong cảnh Anh, Kent, Brown, Repton), tr. 78 (bố cục cân xứng và tự do), chương 3 tr. 86–102 (góc nhìn, tốc độ di chuyển) và tr. 88–98 (chiều sâu, mặt nước); The Fundamentals of Architecture (AVA 2007), ghi chú không ghi số trang; Heckscher, Creating Central Park (2008), chỉ ở câu nối với Capability Brown và Stourhead.
+(2) Sách nguồn + trang: Hàn Tất Ngạn, Kiến trúc cảnh quan (1999), chương 2 tr. 38–40 và 59 (vườn phong cảnh Anh, Kent, Brown, Repton), tr. 78 (bố cục cân xứng và tự do), chương 3 tr. 86–102 (góc nhìn, tốc độ di chuyển) và tr. 88–98 (chiều sâu, mặt nước); The Fundamentals of Architecture (AVA 2007), ghi chú không ghi số trang; Heckscher, Creating Central Park (2008), chỉ ở câu nối với Capability Brown và Stourhead; Stourhead: https://www.nationaltrust.org.uk/visit/wiltshire/stourhead/history-of-the-garden-at-stourhead; Stowe: https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/stowe-gardens/history-of-stowe.
 (3) Ghi chú thư viện đã dùng: CẢNH QUAN - VƯỜN PHONG CẢNH ANH VÀ NGA (English Landscape Garden); TRƯỜNG PHÁI - CẢNH QUAN ANH; CẢNH QUAN - BỐ CỤC CÂN XỨNG, TỰ DO VÀ HỖN HỢP (Formal and Free Layout); CẢNH QUAN - VƯỜN Ý VÀ VƯỜN PHÁP (Italian and French Gardens); CẢNH QUAN - TẠO CHIỀU SÂU VÀ XỬ LÝ MẶT NỀN (Depth, Ground Plane); SÁCH - KIẾN TRÚC CẢNH QUAN (HÀN TẤT NGẠN 1999).
 (4) Ý của người viết, ngoài sách: ví dụ giơ khung hình ở đầu bài; cách nói "đi qua từng bức tranh"; bảng ba lớp và cột "trong ảnh bìa"; việc đem các thủ pháp tạo chiều sâu của Hàn (vốn nói chung, không riêng vườn Anh) đặt cạnh ba lớp của Kent và Repton; so sánh với Ryōan-ji; sơ đồ; bài tập cuối bài.
 (5) Chỗ chưa chắc: khoảng thời gian "đầu thế kỷ XVII đến cuối XVIII" và năm "khoảng 1713" của Stowe lấy từ bản quét chữ của sách Hàn, có thể sai; ghi chú gắn vườn Anh với giai cấp tư sản và chủ nghĩa lãng mạn, đó là diễn giải của Hàn; ghi chú không nói ai thiết kế khu vườn trong ảnh bìa, và tên Stourhead, năm 1741–65 chỉ có trong ghi chú về trường phái; phần mô tả ảnh bìa là mình nhìn từ ảnh; ghi chú không nói Repton hay Kent làm gì ở một khu vườn cụ thể.
@@ -23,7 +23,7 @@ Cách làm vườn mà sách gọi là vườn phong cảnh Anh nhắm tới đ�
 
 ## Ngược với vườn trục
 
-Muốn hiểu vườn Anh, nên nhìn thứ nó phản đối. Theo ghi chú đọc sách của mình, vườn Pháp thế kỷ XVII, như Versailles, tổ chức quanh một trục đối xứng: nền hoa văn (parterre), những "phòng xanh" kín (bosquet), mặt nước phẳng soi bóng lâu đài. Vườn phong cảnh Anh làm ngược lại.
+Muốn hiểu vườn Anh, nên nhìn thứ nó phản đối. Vườn Pháp thế kỷ XVII, như Versailles, tổ chức quanh một trục đối xứng: nền hoa văn (parterre), những "phòng xanh" kín (bosquet), mặt nước phẳng soi bóng lâu đài. Vườn phong cảnh Anh làm ngược lại.
 
 Cuốn *The Fundamentals of Architecture* (2007) giải thích đó là chủ nghĩa kinh nghiệm: chân lý đến từ giác quan, nên khu vườn phải làm cho giác quan có việc để làm. Đường đi vì thế uốn lượn, thoáng lộ dần các điểm nhìn, như hang nhân tạo (grotto) hay những công trình nhỏ làm cảnh (follies).
 
@@ -31,7 +31,7 @@ Hàn Tất Ngạn trong *Kiến trúc cảnh quan* (1999) xếp hai lối làm v
 
 ## Ba lớp như trong tranh
 
-Theo Hàn (tr. 38–40), William Kent, ở Stowe, chia cảnh làm ba lớp theo luật phối cảnh và sáng tối: cận cảnh, trung cảnh, viễn cảnh. Sách ghi Stowe được thiết kế từ khoảng năm 1713, nhưng chữ trong bản quét hỏng khá nhiều, nên con số này chưa chắc. Về sau Humphry Repton (1752–1817) gom ý ấy thành lý thuyết. Mình đặt thêm cột thứ ba theo ảnh bìa, để bạn thấy ba lớp trông ra sao.
+Theo Hàn (tr. 38–40), William Kent, ở Stowe, chia cảnh làm ba lớp theo luật phối cảnh và sáng tối: cận cảnh, trung cảnh, viễn cảnh. Stowe được thiết kế lại từ năm 1713, và Kent đến đó khoảng năm 1730 (theo National Trust). Về sau Humphry Repton (1752–1817) gom ý ấy thành lý thuyết. Mình đặt thêm cột thứ ba theo ảnh bìa, để bạn thấy ba lớp trông ra sao.
 
 | Lớp | Theo Repton | Trong ảnh bìa (mình nhìn ra) |
 |---|---|---|
@@ -51,15 +51,15 @@ Hàn ghi rằng các môn đồ của Capability Brown thêm mặt nước có n
 
 ## Đi, chứ không đứng
 
-Ghi chú của mình lấy từ Hàn (tr. 86–102) còn một điều hợp với kiểu vườn này: người ta nhìn cảnh từ nhiều góc, với tốc độ khác nhau. Đi nhanh thì chi tiết mờ đi, nên thiết kế phong cảnh phải tính theo con đường người ta đi, bằng chân hay bằng xe. Khu vườn Anh tính đúng như thế: tranh nằm dọc theo lối đi, không nằm ở một chỗ đứng.
+Hàn (tr. 86–102) còn nêu một điều hợp với kiểu vườn này: người ta nhìn cảnh từ nhiều góc, với tốc độ khác nhau. Đi nhanh thì chi tiết mờ đi, nên thiết kế phong cảnh phải tính theo con đường người ta đi, bằng chân hay bằng xe. Khu vườn Anh tính đúng như thế: tranh nằm dọc theo lối đi, không nằm ở một chỗ đứng.
 
 Một cách vẽ khác cũng đến từ đây. Sách của Hàn in hình Repton vẽ phong cảnh "trước và sau" khi cải tạo, cùng một góc nhìn, hai lần vẽ. Mình đã kể về cách vẽ này ở bài [Central Park: một bức tranh phong cảnh để người ta đi vào](/nghe-thuat/central-park-buc-tranh-de-di-vao/), nơi hai ông Olmsted và Vaux mang lối làm vườn ấy sang New York.
 
-Ghi chú của mình còn kể tên vài người làm vườn nổi tiếng: Capability Brown ở Blenheim và Stowe, Henry Hoare ở Stourhead (1741–65). Ảnh bìa chụp một cây cầu đá và ngôi đền nhỏ bên hồ ở Stourhead, theo tên tệp trên Wikimedia Commons. Ghi chú không nói ai đặt cây cầu hay ngôi đền ấy, nên mình chỉ tả điều nhìn thấy: phía sau cây cầu, ngôi đền hiện ra nhỏ xíu, nằm lọt giữa sườn đồi.
+Vài cái tên làm vườn nổi tiếng: Capability Brown ở Blenheim và Stowe, Henry Hoare ở Stourhead. Ảnh bìa chụp một cây cầu đá và ngôi đền nhỏ bên hồ ở Stourhead, theo tên tệp trên Wikimedia Commons. Khu vườn này do Henry Hoare II dựng từ năm 1741, kéo dài chừng ba mươi năm, với kiến trúc sư Henry Flitcroft thiết kế nhiều công trình trong vườn, trong đó có cây cầu đá năm nhịp xây năm 1762 (theo National Trust). Mình chỉ tả điều nhìn thấy trong ảnh: phía sau cây cầu, ngôi đền hiện ra nhỏ xíu, nằm lọt giữa sườn đồi.
 
 ## Cảnh "tự nhiên" vẫn do tay người
 
-Cả hai ghi chú của mình đều chua một câu giống nhau: cảnh "tự nhiên" của Anh vẫn hoàn toàn nhân tạo. Theo Hàn, Repton còn phản đối cảnh hoang tàn giả, và nhấn mạnh công viên phải hợp với cảnh quan chung quanh. Với ông, thiên nhiên là mô hình để người làm nghệ thuật sao chép.
+Có một điều đáng nhớ: cảnh "tự nhiên" của Anh vẫn hoàn toàn nhân tạo. Theo Hàn, Repton còn phản đối cảnh hoang tàn giả, và nhấn mạnh công viên phải hợp với cảnh quan chung quanh. Với ông, thiên nhiên là mô hình để người làm nghệ thuật sao chép.
 
 Hàn gắn kiểu vườn này với giai cấp tư sản và chủ nghĩa lãng mạn; đây là diễn giải của riêng ông. Một chi tiết nữa trong sách: năm 1844, Quốc hội Anh cho phép xây công viên công cộng, và cho cải tạo công viên của các gia đình quý tộc thành nơi giải trí cho dân. Từ đó, cảnh trước kia dành cho một nhà đã thành cảnh cho cả thành phố.
 

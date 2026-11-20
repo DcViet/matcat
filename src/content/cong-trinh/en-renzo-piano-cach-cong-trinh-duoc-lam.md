@@ -29,7 +29,7 @@ One more detail from this portrait stuck with me. Amery calls Piano original but
 
 In 1971 Piano and Richard Rogers won the competition for the Centre Pompidou in Paris. Piano was 35. They dropped the idea of an "inverted pyramid" and chose a clear rectangular block, like a city block. They wanted a cheerful urban machine.
 
-My notes on Rogers say his signature move was pushing water pipes, ducts, stairs, and lifts out to the edge so the floors inside stay empty. The Lyon catalogue puts Foster, Rogers, and Piano in the same lineage, Team 4 and the Pompidou. In the cover photo you can see white braces with round joints and a white ventilation pipe right beside the old townhouses. I am only describing what is visible; the notes do not explain each part in the picture.
+Rogers's signature move was pushing water pipes, ducts, stairs, and lifts out to the edge so the floors inside stay empty. The Lyon catalogue puts Foster, Rogers, and Piano in the same lineage, Team 4 and the Pompidou. In the cover photo you can see white braces with round joints and a white ventilation pipe right beside the old townhouses. I am only describing what is visible in the picture.
 
 What interests me is that Piano did not accept the label "high-tech." He saw it as a gentle jab at an obsession with technology. His foundational partner was the engineer Peter Rice of Ove Arup, and the two worked together until Rice died in 1992. After the Pompidou opened in 1977, Piano was worn out. Amery treats that as a big lesson in teamwork and in reinventing how things get built.
 
@@ -57,7 +57,7 @@ The Lyon catalogue also suggests a way to split three contrasting names: Ando is
 
 ## Reading with care
 
-Two cautions. My main source is Amery's text, written for the prize's own exhibition, so its tone leans toward praise. Second, I only have notes from books and a catalogue, and I have not visited, so I cannot say how these buildings look today.
+Two cautions. My main source is Amery's text, written for the prize's own exhibition, so its tone leans toward praise. Second, I am working only from books and a catalogue, so I cannot say how these buildings look today.
 
 If I had to say what makes Piano Piano, I think it is not any one material or joint, but the habit of asking before drawing.
 

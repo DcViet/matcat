@@ -49,11 +49,11 @@ At the time Sri Lanka restricted imports, so the owners had to use local materia
 
 Robert Powell, writing about houses in Singapore, records a remark by Tay Kheng Soon: a tropical house should be designed in section more than in plan. The reason is the roof. It keeps off the sun and the monsoon rain, so it is usually the most important part of the house (*Singapore Houses*, pp. 12–16).
 
-Bawa has an example that takes this as far as it can go: the Polontalawa bungalow, according to my notes, is just a roof resting on two boulders. At the lecture hall of the Institute for Integral Education in Piliyandala, he opened three sides, set the seats back from the walls, and hung removable woven screens to block the southwest monsoon. To me this is close to Banham's "selective" kind of envelope, which I described in [Build a Tent or Light a Fire](/en/bai-viet/dung-leu-hay-dot-lua/): let in wind and light, keep out rain and sun. That connection is mine.
+Bawa has an example that takes this as far as it can go: the Polontalawa estate bungalow (1963–65), whose main roof rests on just two boulders. At the lecture hall of the Institute for Integral Education in Piliyandala, he opened three sides, set the seats back from the walls, and hung removable woven screens to block the southwest monsoon. To me this is close to Banham's "selective" kind of envelope, which I described in [Build a Tent or Light a Fire](/en/bai-viet/dung-leu-hay-dot-lua/): let in wind and light, keep out rain and sun. That connection is mine.
 
 ## Ten Things Powell Wrote Down
 
-In 1994, Powell talked with Bawa at Lunuganga, and then summed up ten attributes of a house in the humid tropics in *The Tropical Asian House* (1996). My notes are only sure that the first three came from that conversation; the other seven may be Powell's additions.
+In 1994, Powell talked with Bawa at Lunuganga, and then summed up ten attributes of a house in the humid tropics in *The Tropical Asian House* (1996). By Powell's own account, only the first three came out of that conversation, over dinner on the terrace at Lunuganga; the other seven are Powell's additions.
 
 1. Live close to nature; do not cut down large trees.
 2. Use little glass.
@@ -68,7 +68,7 @@ In 1994, Powell talked with Bawa at Lunuganga, and then summed up ten attributes
 
 ![Concept section of a tropical house: a large pitched roof with wide eaves, a veranda on each side, a high room only one layer deep, and wind passing from the garden on one side to the garden on the other](/images/bawa-nha-nhiet-doi-di-xuyen-qua-en.svg)
 
-I drew the figure above to gather a few items from the list into one section; it is not any house by Bawa. As for why the gutters go, the book does not explain, so I won't guess.
+I drew the figure above to gather a few items from the list into one section; it is not any house by Bawa. As for why the gutters go, Powell does not explain, so I won't guess.
 
 ## Reading With a Clear Head
 
@@ -76,11 +76,11 @@ Jazeel is a geographer, and he does not grade the design. Nobody has measured ho
 
 Anoma Pieris, in *Tropical Sustainable Architecture* (pp. 267–283), is more direct: the "tropical model" easily turns into a consumer style for the rich, and pointing to climate or local materials is not enough to make a building sustainable.
 
-The only high-rise Bawa built, now the Mahaweli Building in Colombo (completed 1978, 12 stories), was designed for wind to move through on its own. According to Tan and Robson, the occupants later installed air conditioners, put up partitions, and kept the blinds shut.
+One of Bawa's rare high-rises, now the Mahaweli Building in Colombo (completed 1978, 12 stories), was designed for wind to move through on its own. According to Tan and Robson, the occupants later installed air conditioners, put up partitions, and kept the blinds shut.
 
 ## Bringing It Home
 
-My notes suggest holding those ten items up against the traditional Vietnamese house, which also has a veranda, a courtyard, and cross-ventilation. But a row house has only one side on the street and cannot open on two sides the way item nine asks; the answer my notes give is a courtyard and a light well. Powell adds an eleventh item for houses in the city: the street side closed and secure, the private side open.
+I think those ten items are worth holding up against the traditional Vietnamese house, which also has a veranda, a courtyard, and cross-ventilation. But a row house has only one side on the street and cannot open on two sides the way item nine asks; the usual answer is a courtyard and a light well. Powell adds an eleventh item for houses in the city: the street side closed and secure, the private side open.
 
 On a breezy day, try opening the front door and the back door at once, or the balcony door and the window across from it. Then walk slowly from outside to the deepest spot in your home, and notice how many layers you pass: gate, porch, door, room, yard. Where can the wind follow you, and where does it stop? And in the place where you sit most often, what is your back resting against, and what do your eyes see when you look out...
 

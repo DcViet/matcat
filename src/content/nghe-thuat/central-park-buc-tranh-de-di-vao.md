@@ -37,7 +37,7 @@ Bài Greensward có 12 bảng trình bày, và 9 bảng trong số đó làm cù
 
 Hai hình đặt cạnh nhau thì ai cũng hiểu: đứng ở đây, bây giờ bạn thấy thế này, rồi bạn sẽ thấy thế kia. Ở bài [Vẽ để thấy, không để khoe](/nghe-thuat/ve-de-thay/), mình có kể về những bản vẽ làm ra để thuyết phục; các bảng của Greensward thuộc đúng loại ấy.
 
-Bên Anh đã có người vẽ như vậy từ trước. Cuốn *Kiến trúc cảnh quan* của Hàn Tất Ngạn (1999) in hình Humphry Repton (1752–1817) vẽ phong cảnh "trước và sau" khi cải tạo. Ghi chú của mình không nói Olmsted và Vaux học thẳng từ Repton, nên mình chỉ đặt hai chuyện cạnh nhau.
+Bên Anh đã có người vẽ như vậy từ trước. Cuốn *Kiến trúc cảnh quan* của Hàn Tất Ngạn (1999) in hình Humphry Repton (1752–1817) vẽ phong cảnh "trước và sau" khi cải tạo. Olmsted và Vaux có học thẳng từ Repton hay không thì mình không khẳng định, nên chỉ đặt hai chuyện cạnh nhau.
 
 ## Cảnh "tự nhiên" làm bằng tay
 
@@ -68,7 +68,7 @@ Kiểu cảnh này đi từ vườn phong cảnh Anh sang Mỹ, qua Downing rồ
 
 Người Anh làm vườn theo cách ngược với vườn Pháp kiểu Versailles, vốn dàn theo trục và đối xứng. Họ tin khu vườn phải kích thích các giác quan, nên cho đường đi uốn lượn, để mỗi khúc quanh lộ ra một điểm nhìn mới. Theo sách của Hàn Tất Ngạn (tr. 38–40), William Kent chia cảnh ở Stowe thành ba lớp như trong tranh: cận cảnh, trung cảnh, viễn cảnh. Brown thêm mặt nước có nhiều vịnh nhỏ. Repton gom lại thành lý thuyết: cận cảnh thì sửa được, trung cảnh tạo chiều sâu, viễn cảnh thì giữ nguyên.
 
-Cả hai ghi chú của mình về vườn Anh đều chua thêm một câu: cảnh "tự nhiên" ấy vẫn do tay người làm ra từ đầu đến cuối. Central Park cũng vậy.
+Về vườn Anh còn một điều đáng nhớ: cảnh "tự nhiên" ấy vẫn do tay người làm ra từ đầu đến cuối. Central Park cũng vậy.
 
 ## Bức tranh có người ở trong
 

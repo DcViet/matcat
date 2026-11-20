@@ -47,9 +47,9 @@ I tried laying the cover photo over this ruler. The two people sitting on the ba
 
 ## Three Meters in Front of the Door
 
-The place where a house meets the street is where Gehl pays special attention. According to my notes on the book, a front yard about 1 m deep is too shallow for conversation, while one that is too deep makes it hard to strike up a chat; surveys suggest about 3 m is usable. In the Galgebakken neighborhood, semi-private front yards about 4 m deep helped raise outdoor activity by roughly 35%. These two figures come from two different places in my notes, so I treat them as rough guides.
+The place where a house meets the street is where Gehl pays special attention. In the Galgebakken housing area outside Copenhagen (built 1972 to 1974), each home has a semi-private front yard about 4 m deep, arranged and planted by the residents. Gehl records that most of the area's outdoor activity happens in those yards, and that where a front yard is too deep, it is hard to strike up a conversation with someone passing by.
 
-NACTO's street design guide (2016) makes the same point another way, through the idea of "active building edges": a ground floor with many entrances, open glass that lets you see inside, awnings, signs at pedestrian scale, lighting, climbing plants. My notes add one observation: Vietnamese street-front townhouses already have this advantage, because the shop opens onto the street from the start. The plastic stools in front of a corner shop, the awning, and the step where people sit with iced tea are my own examples.
+NACTO's street design guide (2016) makes the same point another way, through the idea of "active building edges": a ground floor with many entrances, open glass that lets you see inside, awnings, signs at pedestrian scale, lighting, climbing plants. I think Vietnamese street-front townhouses already have this advantage, because the shop opens onto the street from the start. The plastic stools in front of a corner shop, the awning, and the step where people sit with iced tea are my own examples.
 
 ## Too Loud, and Nobody Stays
 
@@ -59,7 +59,7 @@ I see this most clearly in cafés right next to a busy motorbike road, where the
 
 ## The Longer People Stay, the More People Stay
 
-Gehl calls this a self-reinforcing effect: what matters is how long people stay. According to my notes, if daily time spent outdoors rises from 10 to 20 minutes, activity can double. A place where someone is sitting draws more sitters, and an empty place stays empty.
+Gehl calls this a self-reinforcing effect: what matters is how long people stay. According to Gehl, if daily time spent outdoors rises from 10 to 20 minutes, activity can double. A place where someone is sitting draws more sitters, and an empty place stays empty.
 
 ## Where to Be Careful
 

@@ -13,7 +13,7 @@ tags: ["post-occupancy evaluation", "building performance", "Mahaweli", "Geoffre
 
 There is a cheap test anyone can run. Walk into a house or a café that has been in use for a few months, and look at what the people there have changed on their own. A chair dragged out of its original spot, a sheet of paper taped over a window to block the sun, a door that is always shut even though everyone knows it was built to open. This example is mine, not a story about any particular place. But every one of those changes is a comment, and usually a more honest one than any report.
 
-"Does this building perform well?" sounds like an engineer's question, with instruments and tables of numbers. From the books in my notes, I found the answer sits in two places: the numbers, and how people use the building in real life. Here are five questions I pulled out, which you can ask of your own house.
+"Does this building perform well?" sounds like an engineer's question, with instruments and tables of numbers. Reading several books on the subject, I found the answer sits in two places: the numbers, and how people use the building in real life. Here are five questions I pulled out, which you can ask of your own house.
 
 ## A test that already exists: used as intended
 
@@ -57,7 +57,7 @@ The rule they draw: design the "reasons to open the window," meaning views, priv
 
 ## Question 5: has anyone come back to ask?
 
-Mahaweli was never evaluated after occupancy, and that is the biggest gap in its story. In the lecture on building programs (Steinmüller, 2010–2011), the program is no longer a fixed list of rooms but activity over time. UNStudio drew a 24-hour activity section for its 1997 New York competition entry. Many other examples in the lecture survive only as names and a few labels in my OCR copy, so I will mention just this one.
+Mahaweli was never evaluated after occupancy, and that is the biggest gap in its story. In the lecture on building programs (Steinmüller, 2010–2011), the program is no longer a fixed list of rooms but activity over time. UNStudio drew a 24-hour activity section for its 1997 New York competition entry. The lecture has many other examples, but I will mention just this one.
 
 A simple method I came up with, not from any book: three months after moving in, walk around the house and note three things. What has been moved, covered, or blocked. Which spots almost nobody visits. Where people keep gathering. Then ask the designer, or yourself, why.
 

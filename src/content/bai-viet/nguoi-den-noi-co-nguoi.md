@@ -46,9 +46,9 @@ Mình thử đặt bức ảnh bìa vào thước đo này. Hai người ngồi 
 
 ## Ba mét trước cửa nhà
 
-Chỗ nhà giáp với phố là nơi Gehl đặc biệt để ý. Theo ghi chú của mình về cuốn sách, sân trước sâu chừng 1 m thì quá nông để trò chuyện, mà sâu quá thì lại khó bắt chuyện; khảo sát cho thấy khoảng 3 m là dùng được. Ở khu Galgebakken, những sân trước nửa riêng sâu chừng 4 m giúp hoạt động ngoài trời cao hơn khoảng 35%. Hai con số này đến từ hai chỗ khác nhau trong ghi chú, nên mình chỉ coi là con số tham khảo.
+Chỗ nhà giáp với phố là nơi Gehl đặc biệt để ý. Ở khu nhà Galgebakken, ngoại ô Copenhagen (xây năm 1972 đến 1974), mỗi nhà có một sân trước nửa riêng sâu chừng 4 m, do cư dân tự sắp xếp và trồng cây. Gehl ghi lại rằng phần lớn hoạt động ngoài trời của khu diễn ra ở những sân ấy, còn sân trước mà quá sâu thì khó bắt chuyện với người đi qua.
 
-Bộ hướng dẫn thiết kế đường phố của NACTO (2016) nói cùng ý theo cách khác, qua khái niệm "mép công trình sôi động": tầng trệt có nhiều lối vào, kính mở để nhìn thấy bên trong, có mái hiên, bảng hiệu vừa tầm người đi bộ, có đèn sáng, có cây leo. Ghi chú của mình thêm một nhận xét: nhà phố mặt tiền ở Việt Nam vốn có sẵn lợi thế này, vì cửa hàng mở ra phố ngay từ đầu. Còn chuyện ghế nhựa trước tiệm tạp hóa, cái hiên, bậc thềm ngồi uống trà đá là ví dụ của mình.
+Bộ hướng dẫn thiết kế đường phố của NACTO (2016) nói cùng ý theo cách khác, qua khái niệm "mép công trình sôi động": tầng trệt có nhiều lối vào, kính mở để nhìn thấy bên trong, có mái hiên, bảng hiệu vừa tầm người đi bộ, có đèn sáng, có cây leo. Mình nghĩ nhà phố mặt tiền ở Việt Nam vốn có sẵn lợi thế này, vì cửa hàng mở ra phố ngay từ đầu. Còn chuyện ghế nhựa trước tiệm tạp hóa, cái hiên, bậc thềm ngồi uống trà đá là ví dụ của mình.
 
 ## Ồn quá thì không ai ở lại
 
@@ -58,7 +58,7 @@ Mình thấy rõ nhất ở những quán nằm sát lòng đường đông xe m
 
 ## Ở lại càng lâu, người ở lại càng nhiều
 
-Gehl gọi đó là cơ chế tự tăng cường: điều quyết định là người ta ở lại bao lâu. Theo ghi chú, nếu thời gian ngoài trời mỗi ngày tăng từ 10 lên 20 phút thì hoạt động có thể tăng gấp đôi. Nơi nào có người ngồi sẽ kéo thêm người ngồi, còn nơi vắng thì cứ vắng mãi.
+Gehl gọi đó là cơ chế tự tăng cường: điều quyết định là người ta ở lại bao lâu. Theo Gehl, nếu thời gian ngoài trời mỗi ngày tăng từ 10 lên 20 phút thì hoạt động có thể tăng gấp đôi. Nơi nào có người ngồi sẽ kéo thêm người ngồi, còn nơi vắng thì cứ vắng mãi.
 
 ## Chỗ cần dè dặt
 

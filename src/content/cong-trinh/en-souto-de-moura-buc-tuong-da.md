@@ -29,13 +29,13 @@ Souto de Moura was born in Porto in 1952 and studied sculpture before switching 
 
 ## Stone Is Not a Skin
 
-According to my notes on two books, stone in his hands is a theme, not a cladding. He uses local granite, heavy and "real," left rough or cut into blocks and steps. He also says plainly that he does not want to copy tradition; he wants to use stone the way ordinary building practice does.
+In *Eduardo Souto de Moura: Recent Work* (2G), stone in his hands is a theme, not a cladding. He uses local granite, heavy and "real," left rough or cut into blocks and steps. He also says plainly that he does not want to copy tradition; he wants to use stone the way ordinary building practice does.
 
 The work that put his name on the world map was the Braga Market (1980–84). Jacques Lucan describes two very long parallel walls, a continuous flat roof, and 32 pairs of round columns. White-painted concrete stands beside a block of dark, rough stone: two material attitudes set side by side. Lucan warns against reading it simply as "tradition versus modernity."
 
 ![A conceptual diagram of two places where Souto de Moura sets a stone wall beside another: on the left a dark stone block next to a white concrete face; on the right a plan of two walls out of phase, leaving an entrance](/images/souto-de-moura-buc-tuong-da-en.svg)
 
-I redrew this to keep it simple. On the left is the stone-and-concrete pair in the manner of the Braga Market; the book does not say which one sits where. On the right is the Casa das Artes in Porto: a blue-painted concrete wall and a stone wall, out of phase at the entrance. The notes say the color makes the plane a little more abstract, yet makes you notice the grain of the material even more.
+I redrew this to keep it simple. On the left is the stone-and-concrete pair in the manner of the Braga Market; the book does not say which one sits where. On the right is the Casa das Artes in Porto: a blue-painted concrete wall and a stone wall, out of phase at the entrance. According to the book, the color makes the plane a little more abstract, yet makes you notice the grain of the material even more.
 
 Lucan also writes a line I find worth remembering: for Souto, architecture is sometimes just a wall.
 
@@ -43,7 +43,7 @@ Lucan also writes a line I find worth remembering: for Souto, architecture is so
 
 In an essay for the magazine 2G, Eduard Bru reads Souto de Moura in three "times," one following the other rather than cut apart. I arranged them in a table. This is Bru's arrangement, not something Souto claims for himself.
 
-| | What Bru sees | Works the notes name |
+| | What Bru sees | Works named |
 |---|---|---|
 | Period I, mid-1980s | Calm and systematic; set against Siza, who lets light tear a volume | Nevogilde (1982) |
 | Period II, 1982 to the end of the decade | Interest in materials and how things are put together; walls cut open to show their layers; "a material romanticism" | Braga Market, Casa das Artes |
@@ -57,15 +57,15 @@ By period III he no longer wants the stone wall to "tell history." Bru asks whet
 
 Santa Maria do Bouro (1989–97) is where "stone stays stone" is easiest to see. It is a ruined monastery turned into a pousada. Souto wrote that the project uses the stone already on site to build a new work, and that the ruins matter more than the "monastery." He did not want merely to shore up the ruins for people to admire. He added new materials, uses, and forms "among things."
 
-The notes mention a few details: a Corten roof, slender frames for doors and windows, and a stair step of solid stone that "cannot be cut." The cover photo is a detail from there: a rough granite surface right against a glass door frame. Neither hides from the other, and each keeps its own character.
+The book mentions a few details: a Corten roof, slender frames for doors and windows, and a stair step of solid stone that "cannot be cut." The cover photo is a detail from there: a rough granite surface right against a glass door frame. Neither hides from the other, and each keeps its own character.
 
 There is one more case, at Rua do Teatro in Porto: granite-clad columns stand with panels of zinc and slate. He drew on how old town houses were assembled from nearly prefabricated parts.
 
 ## Beside Ando and Barragán
 
-My vault holds two notes about walls that are not about Souto. One is about Tadao Ando: a "mute" wall, too plain to carry symbols, and expressive precisely because it is mute. The other is about Luis Barragán: a wall that shelters, so that you feel you belong to the space. I read [the Church of the Light](/en/cong-trinh/nha-tho-anh-sang-ando/) and [Barragán](/en/cong-trinh/barragan-mau-va-anh-sang/) in that spirit.
+Besides Souto, I also think of two other architects who work with the wall. For Tadao Ando, it is a "mute" wall, too plain to carry symbols, and expressive precisely because it is mute. For Luis Barragán, it is a wall that shelters, so that you feel you belong to the space. I read [the Church of the Light](/en/cong-trinh/nha-tho-anh-sang-ando/) and [Barragán](/en/cong-trinh/barragan-mau-va-anh-sang/) in that spirit.
 
-The notes on Souto do not say his walls shelter or stay mute. What they say is that his stone walls have an origin: where the stone came from, how it is laid, what it sits beside. If I compare them, this is as far as I dare go, and it is only my own view: Ando's and Barragán's walls evoke a feeling, while Souto's make you ask what the wall is made of.
+With Souto it is different: his walls do not quite shelter, and they are not mute. What the book stresses is that his stone walls have an origin: where the stone came from, how it is laid, what it sits beside. If I compare them, this is as far as I dare go, and it is only my own view: Ando's and Barragán's walls evoke a feeling, while Souto's make you ask what the wall is made of.
 
 ## A Small Thing: He Was Afraid of Cutting Windows
 
@@ -75,7 +75,7 @@ In the same interview he says he deliberately lets in "flaws" that are not beaut
 
 ## Taking It Home
 
-Two things he repeats, according to the notes, are to remove rather than add, and to let materials speak for themselves. I would add one thing, and it is only my own idea: where plastered, painted brick is the norm, one patch of bare brick or stone may be the simplest way to learn to look at materials. Leave a small patch where the rain rarely hits and watch how its color changes over a few seasons. As for stone soaking up water and growing moss in a hot, humid climate, the notes say nothing, so I will not guess.
+Two things he repeats are to remove rather than add, and to let materials speak for themselves. I would add one thing, and it is only my own idea: where plastered, painted brick is the norm, one patch of bare brick or stone may be the simplest way to learn to look at materials. Leave a small patch where the rain rarely hits and watch how its color changes over a few seasons. As for stone soaking up water and growing moss in a hot, humid climate, the book says nothing, so I will not guess.
 
 Try it one afternoon: walk around your house and find a wall you have grown so used to that you no longer see it. Lay your palm on it. What do you guess it is made of, under the paint?
 

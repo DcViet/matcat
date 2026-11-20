@@ -29,7 +29,7 @@ Vậy mà ở Fort Worth, Texas, người ta lại muốn đúng thứ ngược 
 
 Người chụp ảnh có một mẹo quen thuộc: đừng chiếu đèn flash thẳng vào người mẫu, hãy hướng nó lên trần trắng. Ánh sáng đập vào trần rồi tỏa xuống, mềm hẳn, và không còn một điểm chói nào. Ví dụ này là của mình, nhưng nó gần nhất với cách làm của Kimbell: lấy cả cái trần làm tấm phản xạ, và lấy mặt trời làm đèn flash.
 
-Cụ thể, bảo tàng là một chuỗi vòm. Theo ghi chú trong sách, mỗi vòm rộng 20 ft và dài 150 ft, tức chừng 6 m nhân 46 m (số mét là mình đổi). Ở đỉnh mỗi vòm có một khe hẹp. Ánh sáng lọt qua khe, gặp một tấm phản xạ đặt ngay bên dưới, rồi bị hất lên mặt trong của vòm và rải xuống phòng. Kết quả là thứ người ta gọi là "ánh sáng bạc": nắng không đi thẳng tới vật trưng bày, nhưng người xem vẫn biết giờ trong ngày, vì ánh sáng ấy đổi theo trời.
+Cụ thể, bảo tàng là một chuỗi vòm. Mỗi vòm rộng 20 ft và dài 100 ft, tức chừng 6 m nhân 30 m (số mét là mình đổi). Ở đỉnh mỗi vòm có một khe hẹp. Ánh sáng lọt qua khe, gặp một tấm phản xạ đặt ngay bên dưới, rồi bị hất lên mặt trong của vòm và rải xuống phòng. Kết quả là thứ người ta gọi là "ánh sáng bạc": nắng không đi thẳng tới vật trưng bày, nhưng người xem vẫn biết giờ trong ngày, vì ánh sáng ấy đổi theo trời.
 
 ![Mặt cắt ý niệm một gian vòm của Kimbell: nắng lọt qua khe ở đỉnh, dừng ở tấm phản xạ, rồi ánh sáng bạc rải từ mặt trong vòm xuống tranh](/images/kimbell-mat-cat.svg)
 
@@ -37,9 +37,9 @@ Hình trên là mặt cắt ngang một gian, mình vẽ gọn lại để thấ
 
 ## Vòm không phải là vòm
 
-Nhìn từ ngoài, ta tưởng đó là một dãy vòm chịu lực. Martin Filler, trong số chuyên đề của tạp chí *Arquitectura Viva* về Kahn (2001), nói rằng không phải vậy: mỗi vòm bị khe sáng cắt dọc, gồm hai đoạn không liền nhau, và kết cấu thật dựa vào phương pháp của kỹ sư August Komendant. Dáng vòm ở đó là để phục vụ ánh sáng. Ghi chú trong sách còn dặn nên đối chiếu đường cong cycloid, đường mà một điểm trên vành bánh xe vạch ra khi bánh lăn, với bản vẽ gốc.
+Nhìn từ ngoài, ta tưởng đó là một dãy vòm chịu lực. Martin Filler, trong số chuyên đề của tạp chí *Arquitectura Viva* về Kahn (2001), nói rằng không phải vậy: mỗi vòm bị khe sáng cắt dọc, gồm hai đoạn không liền nhau, và kết cấu thật dựa vào phương pháp của kỹ sư August Komendant. Dáng vòm ở đó là để phục vụ ánh sáng. Đường cong của vòm là cycloid, đường mà một điểm trên vành bánh xe vạch ra khi bánh lăn.
 
-Có người sẽ coi đó là giả. Mình nghĩ nó đúng với điều Kahn tin: kết cấu là người sinh ra ánh sáng. Cột đứng cạnh cột cho một nhịp "sáng, không sáng" (ông đọc Parthenon như vậy). Chọn vòm hay chọn mái bằng là chọn tính chất của ánh sáng bên dưới. Với ông, một căn phòng chỉ thành kiến trúc khi có ánh sáng tự nhiên. Đèn điện là "ánh sáng của đêm", chỉ giữ được một khoảnh khắc (ghi chú về lập trường của Kahn, rút từ *Essential Texts*).
+Có người sẽ coi đó là giả. Mình nghĩ nó đúng với điều Kahn tin: kết cấu là người sinh ra ánh sáng. Cột đứng cạnh cột cho một nhịp "sáng, không sáng" (ông đọc Parthenon như vậy). Chọn vòm hay chọn mái bằng là chọn tính chất của ánh sáng bên dưới. Với ông, một căn phòng chỉ thành kiến trúc khi có ánh sáng tự nhiên. Đèn điện là "ánh sáng của đêm", chỉ giữ được một khoảnh khắc (Kahn, *Essential Texts*).
 
 ## Ba sân có tên là màu
 
@@ -55,7 +55,7 @@ Bản thiết kế cũng không ra đời một lần. Công trình qua ba giai 
 | Phòng kín, chỉ dùng đèn | Kiểm soát được từng chút | Mất cảm giác ngày và đêm, thứ ánh sáng mà Kahn gọi là của đêm |
 | Khe ở đỉnh vòm và tấm phản xạ (Kimbell) | Sáng ngày, dịu, vẫn biết giờ | Phải thiết kế cả hệ kết cấu quanh việc lấy sáng; phải tính chống chói và tia cực tím; hợp nhà thấp trải rộng hơn nhà sâu và kín giữa phố đông |
 
-Hai ý sau trong ô cuối của cột "Mất gì" là lưu ý có sẵn trong ghi chú về ánh sáng của Kahn. Bảng thì do mình sắp.
+Bảng này do mình sắp.
 
 ## Chỗ tối cũng phải được thiết kế
 
@@ -69,7 +69,7 @@ Cách đọc này gần với những gì Kahn làm ở Luanda, mà mình đã k
 
 Filler gọi Kimbell là bảo tàng nghệ thuật được yêu mến nhất, "luxe, calme et volupté" (xa hoa, tĩnh lặng, khoái cảm), mượn tên một bức tranh của Matisse. Nên nhớ đó là đánh giá của một nhà phê bình (Verdaguer cũng nghĩ tương tự), chứ không phải phán quyết chung.
 
-Còn một chi tiết nhỏ đáng ngẫm. Theo ghi chép trong sách, khách hiện vào bằng cửa phía bãi đỗ xe, trái với ý Kahn: ông muốn khách đi vào từ mặt mà bây giờ người ta coi là mặt sau, mặt nhìn ra công viên và Amon Carter. Mình chưa kiểm tra hiện trạng nên không chắc điều này còn đúng đến hôm nay. Nhưng nó nhắc rằng ngay cả một công trình dựng bằng thứ ánh sáng tinh vi như vậy vẫn có thể bị đọc ngược chiều ngay từ cửa vào.
+Còn một chi tiết nhỏ đáng ngẫm. Năm 2013, bảo tàng mở thêm tòa nhà của Renzo Piano, đặt cách tòa nhà của Kahn chừng 65 yard (khoảng 60 m) về phía tây, để công trình cũ không bị che chắn. Khoảng cách ấy cho thấy người ta coi tòa nhà của Kahn như một vật cần được nhìn trọn.
 
 Thử tìm trong nhà mình một bề mặt đang làm việc của tấm phản xạ: cái trần trắng, bức tường đối diện cửa sổ, tấm rèm voan. Nắng đi qua nó rồi mới tới mắt bạn, hay đi thẳng?
 

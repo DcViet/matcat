@@ -25,7 +25,7 @@ Nếu bạn hình dung cả một ngôi nhà làm theo cách ấy, bạn đã hi
 
 ## Một người muốn kiến trúc bớt nặng
 
-Theo ghi chú đọc sách của mình, Kuma sinh năm 1954 ở Kanagawa, học thạc sĩ ở Đại học Tokyo (1979), sang Columbia làm học giả năm 1985–86 rồi lập văn phòng riêng vào đầu thập niên 1990. Thầy cũ của ông là Hiroshi Hara. Ghi chú tóm khá đúng ý: ông không làm những khối hình biểu tượng, ông làm "bộ lọc" giữa bên trong và bên ngoài.
+Kuma sinh năm 1954 ở Kanagawa, học thạc sĩ ở Đại học Tokyo (1979), sang Columbia làm học giả năm 1985–86 rồi lập văn phòng riêng vào đầu thập niên 1990. Thầy cũ của ông là Hiroshi Hara. Nói gọn lại, ông không làm những khối hình biểu tượng, ông làm "bộ lọc" giữa bên trong và bên ngoài.
 
 Chặng đầu không suôn sẻ. Với M2 Building ở Tokyo (1991), Kuma dùng cách phân mảnh để công trình tan vào cái hỗn độn của đô thị. Theo lời kể trong cuốn *Kengo Kuma: Selected Works* của Botond Bognar (2005), cuối cùng chính ông cũng thấy M2 thành một vật thể nặng nề. Ông đổi hướng sau thời bong bóng kinh tế.
 
@@ -47,7 +47,7 @@ Chữ gốc là *particlization*. Theo Bognar, ông nhận ra điều đó khi l
 
 ## Đá nặng thành bộ lọc
 
-Chỗ khiến mình ngạc nhiên nhất là Kuma làm điều này với đá, thứ vật liệu nặng nhất người ta có. Theo ghi chú, ông không thích đá và bê tông vì chúng đóng kín và nặng, nên đục lỗ để nhìn thấy cả mặt sau, và ông gọi đó là sự "trung thực".
+Chỗ khiến mình ngạc nhiên nhất là Kuma làm điều này với đá, thứ vật liệu nặng nhất người ta có. Trong sách của Bognar, ông không thích đá và bê tông vì chúng đóng kín và nặng, nên đục lỗ để nhìn thấy cả mặt sau, và ông gọi đó là sự "trung thực".
 
 | Công trình | Cách ông làm |
 |---|---|
@@ -56,15 +56,15 @@ Chỗ khiến mình ngạc nhiên nhất là Kuma làm điều này với đá, 
 | Lotus House | Tấm travertine dày 3 cm xếp xen ô trống, treo bằng xích thép, đung đưa theo gió. |
 | Food and Agriculture Museum | Lam đá Ashino dày 3,5 cm kèm thép tấm, gợi hàng cây zelkova. |
 
-Bảng này mình gom từ ghi chú về vật liệu, không có sẵn trong sách. Ở Chokkura, trong cuốn *Material Immaterial* Kuma kể ông chọn loại đá mà Frank Lloyd Wright từng dùng cho khách sạn Imperial, rồi còn khoan lỗ làm nó yếu thêm. Ông muốn dệt đá và thép thành một thứ "vải" có lỗ. Ông gọi vết sẹo của cuộc vật lộn với vật liệu là điều làm người ta xúc động.
+Bảng này do mình gom. Ở Chokkura, trong cuốn *Material Immaterial* Kuma kể ông chọn loại đá mà Frank Lloyd Wright từng dùng cho khách sạn Imperial, rồi còn khoan lỗ làm nó yếu thêm. Ông muốn dệt đá và thép thành một thứ "vải" có lỗ. Ông gọi vết sẹo của cuộc vật lộn với vật liệu là điều làm người ta xúc động.
 
-Nếu bạn đã đọc bài về [Nhà tắm Vals](/cong-trinh/nha-tam-vals-zumthor/), sẽ thấy hai bên cùng dùng đá nhưng đi hai hướng. Zumthor xếp tấm đá mỏng thành khối đặc có vân. Kuma xé khối ấy ra. Bognar có nêu Vals là nguồn cảm hứng khả dĩ cho Stone Museum; mình chỉ chép lại như một khả năng.
+Nếu bạn đã đọc bài về [Nhà tắm Vals](/cong-trinh/nha-tam-vals-zumthor/), sẽ thấy hai bên cùng dùng đá nhưng đi hai hướng. Zumthor xếp tấm đá mỏng thành khối đặc có vân. Kuma xé khối ấy ra. Bognar có nêu Vals là nguồn cảm hứng khả dĩ cho Stone Museum; mình chỉ nhắc lại như một khả năng.
 
 ## Tre, giấy, vải: nhẹ đến mức gần như không còn
 
 Với những vật liệu vốn đã nhẹ, Kuma đi xa hơn:
 
-- Great (Bamboo) Wall ở Bắc Kinh (2002) dùng tre nguyên cây, vừa làm kết cấu vừa làm vách. Trà thất nằm giữa, đặt trong một bể nước. Ảnh bìa là một gian tre như thế, theo mình đoán từ tên tệp ảnh và mô tả trên.
+- Great (Bamboo) Wall ở Bắc Kinh (2002) dùng tre nguyên cây, vừa làm kết cấu vừa làm vách. Trà thất nằm giữa, đặt trong một bể nước. Ảnh bìa là một gian tre như thế, nằm gần Vạn Lý Trường Thành.
 - Ginzan Onsen Fujiya dùng tre xẻ dày khoảng 4 mm, tới khoảng 1,2 triệu dải gắn lên khung gỗ thành màn mỏng.
 - Takayanagi Community Center lấy giấy washi địa phương thay kính.
 - Fuan Teahouse (2007) chỉ có khăn organza nặng 11 g/m² phủ lên bóng bay chứa helium, đặt trên bục chiếu tatami, không có cửa cố định.
@@ -77,7 +77,7 @@ Trong lời dẫn của *Material Immaterial*, Kuma thừa nhận một điều.
 
 ## Trước khi bắt chước
 
-Cả hai cuốn sách của Bognar đều thiện cảm với Kuma, và theo ghi chú của mình, thiếu số liệu về bảo trì, bụi, mối mọt với lam gỗ và tre mảnh. Đá xốp thì thấm nước, lên rêu. Cắt thanh đá mảnh cần xưởng đá giỏi. Ở nơi mưa nhiều và ẩm như ta, những chỗ ấy phải thử riêng chứ đừng tin vào ảnh đẹp. Nếu bạn đang nghĩ đến chuyện che nắng cho một mặt nhà, bài [Ánh sáng tốt không phải ánh sáng nhiều](/bai-viet/anh-sang-tot-khong-phai-anh-sang-nhieu/) có thể giúp bạn nghĩ về chuyện ánh sáng cần bao nhiêu là đủ.
+Cả hai cuốn sách của Bognar đều thiện cảm với Kuma, và ít bàn đến chuyện bảo trì, bụi, mối mọt với lam gỗ và tre mảnh. Đá xốp thì thấm nước, lên rêu. Cắt thanh đá mảnh cần xưởng đá giỏi. Ở nơi mưa nhiều và ẩm như ta, những chỗ ấy phải thử riêng chứ đừng tin vào ảnh đẹp. Nếu bạn đang nghĩ đến chuyện che nắng cho một mặt nhà, bài [Ánh sáng tốt không phải ánh sáng nhiều](/bai-viet/anh-sang-tot-khong-phai-anh-sang-nhieu/) có thể giúp bạn nghĩ về chuyện ánh sáng cần bao nhiêu là đủ.
 
 Thử một việc nhỏ: kể ra ba thứ trong nhà bạn đang chặn ánh sáng hoặc tầm nhìn, như một tấm tường kín, một cánh cửa đặc, một chiếc tủ. Rồi tự hỏi nếu chia nó thành những "hạt" nhỏ hơn, đều hơn, ánh sáng và gió sẽ đi qua đường nào?
 

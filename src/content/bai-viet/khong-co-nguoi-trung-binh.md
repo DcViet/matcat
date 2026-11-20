@@ -68,7 +68,7 @@ Chính hai tác giả cũng rào trước cho cuốn sách của mình. Mục 2.
 
 Các bản vẽ ở phần ba của sách, theo lời tác giả, chỉ là "mô hình tham chiếu" cho những giả định ban đầu chứ chưa phải lời giải. Với ghế ngồi và những chỗ cần thoải mái, họ khuyên làm một mẫu thử to bằng thật, cho người ngồi thử, rồi sửa. Cuốn sách về đồ gỗ của Nutsch mà mình đọc cũng dặn y như vậy: con số chỉ là điểm xuất phát, lúc nào cũng nên dựng mẫu tỷ lệ 1:1 với chính người sẽ dùng.
 
-Ghi chú đọc sách của mình còn một lời nhắc cho người trong nghề: kiến trúc sư rất dễ lấy chính mình làm người mẫu, mà cái vừa với mình thì chưa chắc vừa với số đông.
+Mình còn một lời nhắc cho người trong nghề: kiến trúc sư rất dễ lấy chính mình làm người mẫu, mà cái vừa với mình thì chưa chắc vừa với số đông.
 
 Ảnh bìa bài này là hình Leonardo vẽ một thân người nằm gọn trong hình tròn và hình vuông. Lời mở đầu của Panero và Zelnik cũng đi từ Vitruvius và Leonardo, rồi nhận xét rằng xưa nay người ta nghiên cứu cơ thể nghiêng về tỷ lệ đẹp nhiều hơn là đo xem con người dùng đồ đạc ra sao. Hai ông đề nghị làm ngược lại, "thiết kế từ con người đi ra". Ngoài phố, Jan Gehl cũng bắt đầu từ việc đứng nhìn người thật, như mình kể ở bài [Người đến nơi có người](/bai-viet/nguoi-den-noi-co-nguoi/).
 

@@ -6,7 +6,7 @@ draft: false
 lang: "en"
 architect: "Antoni Gaudi"
 location: "Colonia Guell and Barcelona, Spain"
-year: "Model and sketch for the Colonia Guell church (year not given in the notes)"
+year: "Colonia Güell church, designed and partly built 1898-1914"
 cover: "/images/gaudi-mo-hinh-day-xich-javiermes.jpg"
 coverAlt: "Gaudi's hanging model in a glass case: thousands of small bags tied to strings, hanging in several sagging tiers from the ceiling, with a plan of the church above."
 coverCredit: "Javiermes, CC BY-SA 4.0, via Wikimedia Commons"
@@ -26,7 +26,7 @@ This example is mine, not anyone's memory. But it sits close to a real working m
 
 ## Hang the String, Add the Weights
 
-According to my notes on Kendra Schank Smith's *Architects' Drawings* (2005), Gaudí used a hanging model called a *funicular*, which my notes also call a *polyfunicular*. Small weights hang from the strings. Look at the cover photo: thousands of little bags tied to strings, drooping in several sagging tiers. Smith writes that this model shows the stresses in the arches, and that it was Gaudí's main design tool. The sketch was secondary.
+In Kendra Schank Smith's *Architects' Drawings* (2005), Gaudí used a hanging model called a *funicular*, or a *polyfunicular* when the strings hang in many tiers. Small weights hang from the strings. Look at the cover photo: thousands of little bags tied to strings, drooping in several sagging tiers. Smith writes that this model shows the stresses in the arches, and that it was Gaudí's main design tool. The sketch was secondary.
 
 That sentence deserves a slow read. For many architects the drawing is where thinking happens. For Gaudí it happened in the model, and paper came afterward to record it.
 
@@ -36,7 +36,7 @@ His workshop in the basement of the Sagrada Familia, again according to Smith, h
 
 This part is my own explanation, not the book's. A string can only be pulled. When you hang it between two points and add weights, it settles into a curve where every stretch is pulled and none is bent. Flip that shape over and the pulling turns into squeezing. A stone arch, stone being good at squeezing, that follows exactly that curve has every stone pressed against its neighbors.
 
-So the hanging model had already done the calculation: it gave the right load-bearing curve for the arches. My vault note says the strings give the compressive structure but not the volume. I read that as: the strings give you the bones, and there is no flesh yet.
+So the hanging model had already done the calculation: it gave the right load-bearing curve for the arches. The strings give the compressive structure but not the volume. Put another way: the strings give you the bones, and there is no flesh yet.
 
 | | The string model gives | The string model doesn't give |
 |---|---|---|
@@ -44,7 +44,7 @@ So the hanging model had already done the calculation: it gave the right load-be
 | Volume | None, only thin threads | How thick the vault is, how big the column |
 | Inner space | Not yet visible | What the room looks like |
 
-I arranged this table myself from the ideas in the notes.
+I arranged this table myself.
 
 ## Photograph, Flip, Draw On Top
 
@@ -66,9 +66,9 @@ In [The Church of the Light: A Dark Room with Just One Slit of Light](/en/cong-t
 
 ## Very Little Is Left
 
-One thing has to be said plainly. Gaudí's models, drawings and personal records were largely destroyed in 1936. So the Colonia Güell sketch is one of only a few that remain, and each architect in Smith's book likewise has just one sketch chosen. My notes warn that you can't read his whole working process from one sample. This piece tells one method only, not the whole man.
+One thing has to be said plainly. Gaudí's models, drawings and personal records were largely destroyed in 1936. So the Colonia Güell sketch is one of only a few that remain, and each architect in Smith's book likewise has just one sketch chosen. For that reason I don't think you can read his whole working process from one sample. This piece tells one method only, not the whole man.
 
-The model in the cover photo is described as the string model of the Colonia Güell church, now shown in the museum of the Sagrada Familia. My library notes don't mention this, so I give it only as the photo's caption on Wikimedia Commons says.
+The model in the cover photo is described as the string model of the Colonia Güell church, now shown in the museum of the Sagrada Familia. I could not find a second source for this, so I give it only as the photo's caption on Wikimedia Commons says.
 
 ## Try It at Home
 
