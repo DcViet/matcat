@@ -32,9 +32,9 @@ In chapter VIII of *Experiencing Architecture* (1959), the chapter on daylight, 
 
 He points out one thing about the shape: the cylindrical wall is exactly as tall as the radius of the dome. Continue the dome downward and you get a complete sphere that fits inside the room. The round opening at the top is the only connection to the outside world. Through it, a person standing in the temple sees the sky, not the streets.
 
-![Conceptual section of the Pantheon: a half-sphere dome on a drum wall as tall as the dome's radius, a round opening at the top letting a slanting beam of sun fall to the floor, the floor bouncing light into the corners, a portico and door on one side](/images/pantheon-anh-sang-tu-tren-en.svg)
+![Section of the Pantheon drawn to scale: a half-sphere dome on a drum wall as tall as the dome's radius, a round opening at the top letting a slanting beam of sun fall to the floor, a dotted 43.3 m sphere touching the floor, and a 1.7 m person at the left for scale](/images/pantheon-anh-sang-tu-tren-en.svg)
 
-I drew the figure above to make this easier to picture. The dotted line is that sphere. It is only illustrative and not to scale: the real opening is about 8 to 9 meters across, roughly a fifth of the room's diameter, and the wall is far thicker than the drawn line. I give the real measurements in the section on the dome.
+I drew the figure above to scale, from the measurements in the section on the dome (the 10 m bar is at the left). The dotted line is that sphere. Look at the person on the left, about 1.7 m tall, and you can see how large the room is. I left out the portico, the door and the coffers on the dome so the drawing stays clear.
 
 ## One Source of Light, and Real Shadows
 

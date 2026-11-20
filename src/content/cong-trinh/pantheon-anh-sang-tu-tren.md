@@ -31,9 +31,9 @@ Trong chương VIII cuốn *Trải nghiệm kiến trúc* (1959), chương bàn 
 
 Ông chỉ ra một điều về hình: phần tường trụ cao đúng bằng bán kính của vòm. Nếu kéo dài vòm xuống dưới, ta được một hình cầu trọn nằm vừa trong căn phòng. Còn ô tròn trên đỉnh là mối liên hệ duy nhất với thế giới bên ngoài. Qua nó, người đứng trong đền thấy bầu trời chứ không thấy phố xá.
 
-![Mặt cắt ý niệm của Pantheon: vòm nửa hình cầu đặt trên tường trụ cao bằng bán kính vòm, một ô tròn trên đỉnh cho chùm nắng xiên rơi xuống sàn, sàn hắt sáng vào các góc, hiên cột và cửa vào ở một bên](/images/pantheon-anh-sang-tu-tren.svg)
+![Mặt cắt Pantheon vẽ theo tỉ lệ: vòm nửa hình cầu đặt trên tường trụ cao bằng bán kính vòm, một ô tròn trên đỉnh cho chùm nắng xiên rơi xuống sàn, đường chấm là hình cầu 43,3 m chạm sàn, một người cao 1,7 m đứng bên trái để so cỡ](/images/pantheon-anh-sang-tu-tren.svg)
 
-Hình trên là mình vẽ lại cho dễ hình dung. Đường chấm là hình cầu ấy. Sơ đồ chỉ để minh họa, không đúng tỷ lệ: ô tròn thật rộng khoảng 8 đến 9 mét, chừng một phần năm đường kính căn phòng, và tường dày hơn nhiều so với nét vẽ. Số đo thật mình ghi ở phần về cái vòm.
+Hình trên là mình vẽ lại theo đúng tỉ lệ, từ các số đo ở phần về cái vòm (thanh 10 m nằm ở góc trái). Đường chấm là hình cầu ấy. Nhìn người đứng bên trái, cỡ 1,7 m, bạn sẽ thấy căn phòng lớn đến đâu. Mình bỏ hiên cột, cửa và các ô lõm trên vòm cho hình đỡ rối.
 
 ## Một nguồn sáng, và bóng đổ thật
 
