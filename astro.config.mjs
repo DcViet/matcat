@@ -30,6 +30,18 @@ function themBase() {
   return (cay) => di(cay);
 }
 
+// Khối chú thích <!-- ... --> ở đầu mỗi bài là ghi chép nội bộ của người soạn (nguồn, chỗ chưa chắc). Không đưa ra trang người đọc (xem mã nguồn trang cũng không thấy).
+function boChuThichAn() {
+  const la = (c) => (c.type === 'comment') || (c.type === 'raw' && typeof c.value === 'string' && /^\s*<!--[\s\S]*-->\s*$/.test(c.value));
+  const di = (nut) => {
+    if (Array.isArray(nut.children)) {
+      nut.children = nut.children.filter((c) => !la(c));
+      nut.children.forEach(di);
+    }
+  };
+  return (cay) => di(cay);
+}
+
 // Thêm width, height, loading="lazy" cho ảnh trong thân bài: trình duyệt giữ chỗ trước khi ảnh tải xong.
 function anhKichThuoc() {
   const dem = new Map();
@@ -107,6 +119,6 @@ export default defineConfig({
     }),
   ],
   markdown: {
-    rehypePlugins: [anhKichThuoc, ...(BASE ? [themBase] : [])],
+    rehypePlugins: [boChuThichAn, anhKichThuoc, ...(BASE ? [themBase] : [])],
   },
 });
