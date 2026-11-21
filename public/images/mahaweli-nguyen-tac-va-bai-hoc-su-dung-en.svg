@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="440" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Mahaweli: what the design intended and what happened once people moved in</text>
+  <text x="24" y="66" font-size="12" font-weight="600" fill="#5f5b53">The designer's intent</text>
+  <text x="436" y="66" font-size="12" font-weight="600" fill="#b4472e">Once people lived in it</text>
+  <rect x="24" y="76" width="312" height="56" fill="#ffffff" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="38" y="99" fill="#1c1b19">Precast vent blocks at sill height,</text>
+  <text x="38" y="118" fill="#5f5b53">air enters even with windows shut</text>
+  <line x1="348" y1="104" x2="418" y2="104" stroke="#a8a498" stroke-width="1.25"/>
+  <path d="M410 99L418 104L410 109" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <rect x="424" y="76" width="312" height="56" fill="#ffffff" stroke="#b4472e" stroke-width="1.25"/>
+  <text x="438" y="99" fill="#1c1b19">Boarded with plywood: rain blows in,</text>
+  <text x="438" y="118" fill="#5f5b53">moisture leaks when A/C runs</text>
+  <rect x="24" y="144" width="312" height="56" fill="#ffffff" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="38" y="167" fill="#1c1b19">Open plan; air crosses through</text>
+  <text x="38" y="186" fill="#5f5b53">high openings in the lobby wall</text>
+  <line x1="348" y1="172" x2="418" y2="172" stroke="#a8a498" stroke-width="1.25"/>
+  <path d="M410 167L418 172L410 177" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <rect x="424" y="144" width="312" height="56" fill="#ffffff" stroke="#b4472e" stroke-width="1.25"/>
+  <text x="438" y="167" fill="#1c1b19">Tall partitions make a maze,</text>
+  <text x="438" y="186" fill="#5f5b53">blocking both light and air</text>
+  <rect x="24" y="212" width="312" height="56" fill="#ffffff" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="38" y="235" fill="#1c1b19">Windows open to the monsoon winds</text>
+  <text x="38" y="254" fill="#5f5b53">from low floors to high floors</text>
+  <line x1="348" y1="240" x2="418" y2="240" stroke="#a8a498" stroke-width="1.25"/>
+  <path d="M410 235L418 240L410 245" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <rect x="424" y="212" width="312" height="56" fill="#ffffff" stroke="#b4472e" stroke-width="1.25"/>
+  <text x="438" y="235" fill="#1c1b19">Low floors shut up for dust, noise;</text>
+  <text x="438" y="254" fill="#5f5b53">upper floors, papers blow about</text>
+  <rect x="24" y="280" width="312" height="56" fill="#ffffff" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="38" y="303" fill="#1c1b19">Deep eaves and drop edges cut the sun,</text>
+  <text x="38" y="322" fill="#5f5b53">column-to-column windows give light</text>
+  <line x1="348" y1="308" x2="418" y2="308" stroke="#a8a498" stroke-width="1.25"/>
+  <path d="M410 303L418 308L410 313" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <rect x="424" y="280" width="312" height="56" fill="#ffffff" stroke="#b4472e" stroke-width="1.25"/>
+  <text x="438" y="303" fill="#1c1b19">Heavy fabric curtains, window A/C;</text>
+  <text x="438" y="322" fill="#5f5b53">glare is still a problem</text>
+  <rect x="24" y="352" width="712" height="36" fill="#ffffff" stroke="#a8a498" stroke-width="1.25" stroke-dasharray="5 4"/>
+  <text x="38" y="375" font-size="12" fill="#1c1b19">Fixes proposed: sliding wind panels, ceiling fans, perforated blinds, outer shading, low partitions.</text>
+  <text x="24" y="418" font-size="11.5" fill="#5f5b53">The writer's conceptual diagram, summarized from Tan and Robson; not a drawing of the building.</text>
+</svg>
