@@ -128,9 +128,9 @@ for (const b of bai) {
   if (soChu > hi) ghiLoi(p, `quá dài: ${soChu} chữ (tối đa ${hi})`);
   if (doc(p).includes('—')) ghiLoi(p, 'có dấu gạch dài "—"');
   // Người viết là chủ trang: không để lộ quy trình soạn (ghi chú, thư viện) cho người đọc. Khối <!-- --> đầu bài đã bị bỏ khỏi `sach`.
-  const lo = /ghi chú (của mình|đọc sách|vault|thư viện|về sách)|theo ghi chú|trong ghi chú|các ghi chú|không ghi trong|my notes|my library|my reading notes|reading notes|the notes\b|in my notes|according to my notes/i;
+  const loQuyTrinh = /ghi chú (của mình|đọc sách|vault|thư viện|về sách)|theo ghi chú|trong ghi chú|các ghi chú|không ghi trong|my notes|my library|my reading notes|reading notes|the notes\b|in my notes|according to my notes/i;
   const phanHienThi = `${Object.entries(d).filter(([k]) => !['cover', 'tags'].includes(k)).map(([, v]) => v).join('\n')}\n${sach}`;
-  const mLo = phanHienThi.match(lo);
+  const mLo = phanHienThi.match(loQuyTrinh);
   if (mLo) ghiLoi(p, `lộ quy trình soạn bài với người đọc: "${mLo[0]}" (hãy trích thẳng sách, hoặc tra web để điền thông tin còn thiếu)`);
   if (/\b(TODO|TBD|lorem ipsum)\b|\[\.\.\.\]|\[…\]/i.test(sach)) ghiLoi(p, 'còn chỗ giữ chỗ (TODO, [...])');
 
