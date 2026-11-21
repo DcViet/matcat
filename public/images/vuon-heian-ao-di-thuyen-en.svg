@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" font-family="'Segoe UI', Arial, sans-serif" font-size="12">
+  <rect width="760" height="520" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">The shinden house, the boating pond, and the path of the water</text>
+
+  <!-- North: mountain -->
+  <text x="380" y="62" text-anchor="middle" fill="#5f5b53">North: Black Tortoise, a mountain</text>
+  <path d="M250 104 L290 76 L325 100 L380 70 L435 100 L470 76 L510 104" fill="none" stroke="#a8a498" stroke-width="1.5"/>
+  <text x="596" y="84" font-size="11.5" fill="#5f5b53">Northeast: "demon gate"</text>
+
+  <!-- West: road -->
+  <line x1="112" y1="120" x2="112" y2="420" stroke="#a8a498" stroke-width="1.25"/>
+  <line x1="122" y1="120" x2="122" y2="420" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="24" y="246" fill="#5f5b53">West</text>
+  <text x="24" y="262" fill="#5f5b53">White Tiger</text>
+  <text x="24" y="278" fill="#5f5b53">a road</text>
+
+  <!-- East -->
+  <text x="652" y="258" fill="#5f5b53">East</text>
+  <text x="652" y="274" fill="#5f5b53">Blue Dragon</text>
+  <text x="652" y="290" fill="#5f5b53">a stream</text>
+
+  <!-- South -->
+  <text x="380" y="462" text-anchor="middle" fill="#5f5b53">South: Red Phoenix, a marsh</text>
+
+  <!-- Pond -->
+  <ellipse cx="380" cy="360" rx="190" ry="60" fill="#f1efe9" stroke="#a8a498" stroke-width="1.5"/>
+  <ellipse cx="412" cy="362" rx="38" ry="15" fill="#ffffff" stroke="#5f5b53" stroke-width="1.25"/>
+  <text x="412" y="366" text-anchor="middle" font-size="11" fill="#5f5b53">island</text>
+  <path d="M278 372 Q300 384 322 372 Z" fill="#1c1b19"/>
+  <text x="300" y="400" text-anchor="middle" font-size="11" fill="#1c1b19">boat</text>
+
+  <!-- White sand court -->
+  <rect x="290" y="196" width="180" height="90" fill="none" stroke="#a8a498" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="380" y="238" text-anchor="middle" fill="#5f5b53">white sand court</text>
+  <text x="380" y="254" text-anchor="middle" font-size="11" fill="#5f5b53">(for ceremonies)</text>
+
+  <!-- Corridors -->
+  <g stroke="#1c1b19" stroke-width="1.25">
+    <line x1="270" y1="151" x2="320" y2="151"/>
+    <line x1="270" y1="159" x2="320" y2="159"/>
+    <line x1="440" y1="151" x2="490" y2="151"/>
+    <line x1="440" y1="159" x2="490" y2="159"/>
+    <line x1="231" y1="175" x2="231" y2="300"/>
+    <line x1="239" y1="175" x2="239" y2="300"/>
+    <line x1="521" y1="175" x2="521" y2="300"/>
+    <line x1="529" y1="175" x2="529" y2="300"/>
+  </g>
+
+  <!-- Buildings -->
+  <rect x="320" y="128" width="120" height="54" fill="#ffffff" stroke="#1c1b19" stroke-width="2"/>
+  <text x="380" y="160" text-anchor="middle" font-weight="600" fill="#1c1b19">shinden</text>
+  <rect x="200" y="135" width="70" height="40" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="235" y="159" text-anchor="middle" font-size="11" fill="#1c1b19">side hall</text>
+  <rect x="490" y="135" width="70" height="40" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="525" y="159" text-anchor="middle" font-size="11" fill="#1c1b19">side hall</text>
+  <rect x="215" y="300" width="40" height="26" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <rect x="505" y="300" width="40" height="26" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="207" y="283" text-anchor="end" font-size="11" fill="#1c1b19">fishing</text>
+  <text x="207" y="297" text-anchor="end" font-size="11" fill="#1c1b19">pavilion</text>
+  <text x="553" y="283" font-size="11" fill="#1c1b19">spring</text>
+  <text x="553" y="297" font-size="11" fill="#1c1b19">pavilion</text>
+
+  <!-- Water path -->
+  <path d="M640 215 C 590 215 560 215 525 215 C 498 215 492 262 486 302" fill="none" stroke="#b4472e" stroke-width="2.5"/>
+  <path d="M214 394 C 190 412 172 426 150 438" fill="none" stroke="#b4472e" stroke-width="2.5"/>
+  <path d="M150 438 L163 437 L157 427 Z" fill="#b4472e"/>
+  <text x="566" y="203" font-size="11.5" fill="#b4472e">water enters from the east</text>
+  <text x="540" y="234" font-size="11.5" fill="#b4472e">runs under the house</text>
+  <text x="140" y="458" text-anchor="middle" font-size="11.5" fill="#b4472e">out to the southwest</text>
+
+  <text x="24" y="500" font-size="11.5" fill="#5f5b53">A conceptual diagram by the writer, based on reading notes; not a drawing of any particular residence.</text>
+</svg>

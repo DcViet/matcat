@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" font-family="'Segoe UI', Arial, sans-serif" font-size="12">
+  <rect width="760" height="520" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Nhà shinden, ao đi thuyền và đường nước theo phong thủy</text>
+
+  <!-- Bắc: núi -->
+  <text x="380" y="62" text-anchor="middle" fill="#5f5b53">Bắc: Huyền Vũ, ngọn núi</text>
+  <path d="M250 104 L290 76 L325 100 L380 70 L435 100 L470 76 L510 104" fill="none" stroke="#a8a498" stroke-width="1.5"/>
+  <text x="596" y="84" font-size="11.5" fill="#5f5b53">Đông Bắc: "cổng quỷ"</text>
+
+  <!-- Tây: đường -->
+  <line x1="112" y1="120" x2="112" y2="420" stroke="#a8a498" stroke-width="1.25"/>
+  <line x1="122" y1="120" x2="122" y2="420" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="24" y="246" fill="#5f5b53">Tây</text>
+  <text x="24" y="262" fill="#5f5b53">Bạch Hổ</text>
+  <text x="24" y="278" fill="#5f5b53">con đường</text>
+
+  <!-- Đông -->
+  <text x="652" y="258" fill="#5f5b53">Đông</text>
+  <text x="652" y="274" fill="#5f5b53">Thanh Long</text>
+  <text x="652" y="290" fill="#5f5b53">dòng suối</text>
+
+  <!-- Nam -->
+  <text x="380" y="462" text-anchor="middle" fill="#5f5b53">Nam: Chu Tước, cái đầm</text>
+
+  <!-- Ao -->
+  <ellipse cx="380" cy="360" rx="190" ry="60" fill="#f1efe9" stroke="#a8a498" stroke-width="1.5"/>
+  <ellipse cx="412" cy="362" rx="38" ry="15" fill="#ffffff" stroke="#5f5b53" stroke-width="1.25"/>
+  <text x="412" y="366" text-anchor="middle" font-size="11" fill="#5f5b53">đảo</text>
+  <path d="M278 372 Q300 384 322 372 Z" fill="#1c1b19"/>
+  <text x="300" y="400" text-anchor="middle" font-size="11" fill="#1c1b19">thuyền</text>
+
+  <!-- Sân cát trắng -->
+  <rect x="290" y="196" width="180" height="90" fill="none" stroke="#a8a498" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="380" y="238" text-anchor="middle" fill="#5f5b53">sân cát trắng</text>
+  <text x="380" y="254" text-anchor="middle" font-size="11" fill="#5f5b53">(nơi làm lễ)</text>
+
+  <!-- Hành lang -->
+  <g stroke="#1c1b19" stroke-width="1.25">
+    <line x1="270" y1="151" x2="320" y2="151"/>
+    <line x1="270" y1="159" x2="320" y2="159"/>
+    <line x1="440" y1="151" x2="490" y2="151"/>
+    <line x1="440" y1="159" x2="490" y2="159"/>
+    <line x1="231" y1="175" x2="231" y2="300"/>
+    <line x1="239" y1="175" x2="239" y2="300"/>
+    <line x1="521" y1="175" x2="521" y2="300"/>
+    <line x1="529" y1="175" x2="529" y2="300"/>
+  </g>
+
+  <!-- Nhà -->
+  <rect x="320" y="128" width="120" height="54" fill="#ffffff" stroke="#1c1b19" stroke-width="2"/>
+  <text x="380" y="160" text-anchor="middle" font-weight="600" fill="#1c1b19">shinden</text>
+  <rect x="200" y="135" width="70" height="40" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="235" y="159" text-anchor="middle" font-size="11" fill="#1c1b19">gian phụ</text>
+  <rect x="490" y="135" width="70" height="40" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="525" y="159" text-anchor="middle" font-size="11" fill="#1c1b19">gian phụ</text>
+  <rect x="215" y="300" width="40" height="26" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <rect x="505" y="300" width="40" height="26" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="207" y="296" text-anchor="end" font-size="11" fill="#1c1b19">nhà câu cá</text>
+  <text x="553" y="296" font-size="11" fill="#1c1b19">nhà suối</text>
+
+  <!-- Đường nước -->
+  <path d="M640 215 C 590 215 560 215 525 215 C 498 215 492 262 486 302" fill="none" stroke="#b4472e" stroke-width="2.5"/>
+  <path d="M214 394 C 190 412 172 426 150 438" fill="none" stroke="#b4472e" stroke-width="2.5"/>
+  <path d="M150 438 L163 437 L157 427 Z" fill="#b4472e"/>
+  <text x="566" y="203" font-size="11.5" fill="#b4472e">nước vào từ Đông</text>
+  <text x="540" y="234" font-size="11.5" fill="#b4472e">luồn dưới nhà</text>
+  <text x="140" y="458" text-anchor="middle" font-size="11.5" fill="#b4472e">ra Tây Nam</text>
+
+  <text x="24" y="500" font-size="11.5" fill="#5f5b53">Sơ đồ ý niệm của người viết, sắp theo ghi chú đọc sách Nitschke; không phải bản vẽ của một dinh thự cụ thể.</text>
+</svg>
