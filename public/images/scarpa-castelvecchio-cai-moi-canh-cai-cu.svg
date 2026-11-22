@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 384" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="384" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Cái cũ, cái mới và cái mép nằm giữa hai bên</text>
+
+  <!-- Cái cũ -->
+  <rect x="24" y="76" width="232" height="124" fill="none" stroke="#1c1b19" stroke-width="2"/>
+  <text x="140" y="118" text-anchor="middle" font-weight="600" fill="#1c1b19">CÁI CŨ</text>
+  <text x="140" y="144" text-anchor="middle" font-size="11.5" fill="#5f5b53">lâu đài vẫn đọc được</text>
+  <text x="140" y="162" text-anchor="middle" font-size="11.5" fill="#5f5b53">là lâu đài</text>
+
+  <!-- Lớp mới -->
+  <rect x="504" y="76" width="232" height="124" fill="none" stroke="#5f5b53" stroke-width="2" stroke-dasharray="7 4"/>
+  <text x="620" y="118" text-anchor="middle" font-weight="600" fill="#1c1b19">LỚP MỚI</text>
+  <text x="620" y="144" text-anchor="middle" font-size="11.5" fill="#5f5b53">hình và vật liệu</text>
+  <text x="620" y="162" text-anchor="middle" font-size="11.5" fill="#5f5b53">nhận ra được, nhưng bổ sung</text>
+
+  <!-- Mép ở giữa -->
+  <line x1="256" y1="138" x2="372" y2="138" stroke="#a8a498" stroke-width="1.25"/>
+  <line x1="388" y1="138" x2="504" y2="138" stroke="#a8a498" stroke-width="1.25"/>
+  <line x1="380" y1="76" x2="380" y2="200" stroke="#b4472e" stroke-width="5"/>
+  <text x="380" y="66" text-anchor="middle" font-size="12" font-weight="600" fill="#b4472e">mép: vẽ nét dày ở đây</text>
+
+  <!-- Ba câu hỏi -->
+  <text x="24" y="238" font-weight="600" fill="#1c1b19">Ba câu hỏi để đọc cái mép</text>
+
+  <rect x="24" y="252" width="232" height="84" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="38" y="278" font-weight="600" fill="#1c1b19">Mép làm bằng gì?</text>
+  <text x="38" y="300" font-size="11.5" fill="#5f5b53">bậc, dốc, tường</text>
+  <text x="38" y="318" font-size="11.5" fill="#5f5b53">hay mặt nước</text>
+
+  <rect x="264" y="252" width="232" height="84" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="278" y="278" font-weight="600" fill="#1c1b19">Nối hai bên ra sao?</text>
+  <text x="278" y="300" font-size="11.5" fill="#5f5b53">liên tục, đứt</text>
+  <text x="278" y="318" font-size="11.5" fill="#5f5b53">hay lõm vào</text>
+
+  <rect x="504" y="252" width="232" height="84" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="518" y="278" font-weight="600" fill="#1c1b19">Người đứng ở đâu?</text>
+  <text x="518" y="300" font-size="11.5" fill="#5f5b53">chỗ nào để thấy</text>
+  <text x="518" y="318" font-size="11.5" fill="#5f5b53">và cảm được cái mép</text>
+
+  <text x="24" y="358" font-size="11.5" fill="#5f5b53">Sơ đồ ý niệm của người viết, không phải bản vẽ của Castelvecchio.</text>
+  <text x="24" y="374" font-size="11.5" fill="#5f5b53">Ba câu hỏi là cách đọc mép trong ghi chú của mình, không phải lời giảng của Scarpa.</text>
+</svg>

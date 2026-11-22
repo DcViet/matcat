@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#5f5b53"/></marker>
+  </defs>
+  <rect width="760" height="440" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Hai nguồn nước chảy vào đài phun của Barragán</text>
+
+  <rect x="24" y="58" width="330" height="112" rx="6" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="40" y="84" font-weight="600" fill="#1c1b19">Ký ức tuổi nhỏ: trang trại Los Corrales</text>
+  <text x="40" y="110" font-size="12" fill="#5f5b53">đập tràn, bể chứa, miệng giếng sân tu viện,</text>
+  <text x="40" y="130" font-size="12" fill="#5f5b53">máng gia súc, ao phản chiếu nhỏ,</text>
+  <text x="40" y="150" font-size="12" fill="#5f5b53">cống dẫn nước cổ</text>
+
+  <rect x="406" y="58" width="330" height="112" rx="6" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="422" y="84" font-weight="600" fill="#1c1b19">Chuyến châu Âu từ tháng 5/1924</text>
+  <text x="422" y="110" font-size="12" fill="#5f5b53">Alhambra và Generalife: sân có nước,</text>
+  <text x="422" y="130" font-size="12" fill="#5f5b53">bóng mát, tầm nhìn; ở Generalife có</text>
+  <text x="422" y="150" font-size="12" fill="#5f5b53">rãnh nước và đài phun</text>
+
+  <line x1="189" y1="172" x2="330" y2="212" stroke="#5f5b53" stroke-width="1.5" marker-end="url(#ar)"/>
+  <line x1="571" y1="172" x2="430" y2="212" stroke="#5f5b53" stroke-width="1.5" marker-end="url(#ar)"/>
+
+  <rect x="190" y="216" width="380" height="50" rx="6" fill="none" stroke="#b4472e" stroke-width="2"/>
+  <text x="380" y="246" text-anchor="middle" font-weight="600" fill="#1c1b19">Nước, cùng với tường: hai chữ ký của ông</text>
+
+  <line x1="380" y1="268" x2="380" y2="298" stroke="#5f5b53" stroke-width="1.5" marker-end="url(#ar)"/>
+
+  <rect x="130" y="302" width="150" height="40" rx="6" fill="none" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="205" y="327" text-anchor="middle" fill="#1c1b19">một rãnh</text>
+  <rect x="305" y="302" width="150" height="40" rx="6" fill="none" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="380" y="327" text-anchor="middle" fill="#1c1b19">một bể</text>
+  <rect x="480" y="302" width="150" height="40" rx="6" fill="none" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="555" y="327" text-anchor="middle" fill="#1c1b19">một dòng chảy</text>
+
+  <text x="380" y="372" text-anchor="middle" font-size="12" fill="#5f5b53">Trong đài phun của ông, “im lặng cất tiếng” (diễn từ Pritzker 1980)</text>
+  <text x="380" y="392" text-anchor="middle" font-size="12" fill="#5f5b53">Salk (1966): rãnh nước dài hơn 60 m chạy về phía biển</text>
+
+  <text x="24" y="426" font-size="11.5" fill="#5f5b53">Sơ đồ ý niệm của người viết, không phải bản vẽ của công trình.</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 384" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="384" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">The old, the new, and the edge between them</text>
+
+  <!-- Old -->
+  <rect x="24" y="76" width="232" height="124" fill="none" stroke="#1c1b19" stroke-width="2"/>
+  <text x="140" y="118" text-anchor="middle" font-weight="600" fill="#1c1b19">THE OLD</text>
+  <text x="140" y="144" text-anchor="middle" font-size="11.5" fill="#5f5b53">the castle can still</text>
+  <text x="140" y="162" text-anchor="middle" font-size="11.5" fill="#5f5b53">be read as a castle</text>
+
+  <!-- New layer -->
+  <rect x="504" y="76" width="232" height="124" fill="none" stroke="#5f5b53" stroke-width="2" stroke-dasharray="7 4"/>
+  <text x="620" y="118" text-anchor="middle" font-weight="600" fill="#1c1b19">THE NEW LAYER</text>
+  <text x="620" y="144" text-anchor="middle" font-size="11.5" fill="#5f5b53">recognizable forms and</text>
+  <text x="620" y="162" text-anchor="middle" font-size="11.5" fill="#5f5b53">materials that add to it</text>
+
+  <!-- Edge -->
+  <line x1="256" y1="138" x2="372" y2="138" stroke="#a8a498" stroke-width="1.25"/>
+  <line x1="388" y1="138" x2="504" y2="138" stroke="#a8a498" stroke-width="1.25"/>
+  <line x1="380" y1="76" x2="380" y2="200" stroke="#b4472e" stroke-width="5"/>
+  <text x="380" y="66" text-anchor="middle" font-size="12" font-weight="600" fill="#b4472e">the edge: draw it thick</text>
+
+  <!-- Three questions -->
+  <text x="24" y="238" font-weight="600" fill="#1c1b19">Three questions for reading the edge</text>
+
+  <rect x="24" y="252" width="232" height="84" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="38" y="278" font-weight="600" fill="#1c1b19">What is it made of?</text>
+  <text x="38" y="300" font-size="11.5" fill="#5f5b53">a step, a slope, a wall,</text>
+  <text x="38" y="318" font-size="11.5" fill="#5f5b53">or a surface of water</text>
+
+  <rect x="264" y="252" width="232" height="84" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="278" y="278" font-weight="600" fill="#1c1b19">How does it join the two?</text>
+  <text x="278" y="300" font-size="11.5" fill="#5f5b53">continuous, broken,</text>
+  <text x="278" y="318" font-size="11.5" fill="#5f5b53">or set back</text>
+
+  <rect x="504" y="252" width="232" height="84" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="518" y="278" font-weight="600" fill="#1c1b19">Where does a person stand?</text>
+  <text x="518" y="300" font-size="11.5" fill="#5f5b53">the spot from which</text>
+  <text x="518" y="318" font-size="11.5" fill="#5f5b53">you can feel the edge</text>
+
+  <text x="24" y="358" font-size="11.5" fill="#5f5b53">A conceptual diagram by the writer, not a drawing of Castelvecchio.</text>
+  <text x="24" y="374" font-size="11.5" fill="#5f5b53">The three questions are from my own notes on reading edges, not Scarpa's teaching.</text>
+</svg>
