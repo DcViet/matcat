@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="520" fill="#ffffff"/>
+  <text x="24" y="30" font-size="15" font-weight="600" fill="#1c1b19">Nhà vườn Huế: đi từ ngoài vào, nhà chỉ là một góc trong vườn</text>
+  <rect x="60" y="48" width="640" height="372" rx="6" fill="none" stroke="#a8a498" stroke-width="2" stroke-dasharray="3 5"/>
+  <text x="76" y="68" font-size="11.5" fill="#5f5b53">rào cây (chè tàu, dâm bụt)</text>
+  <rect x="80" y="84" width="150" height="320" fill="#f4f1ea" stroke="#a8a498"/>
+  <text x="155" y="236" text-anchor="middle" font-weight="600" fill="#1c1b19">vườn trái</text>
+  <text x="155" y="254" text-anchor="middle" font-size="11.5" fill="#5f5b53">nhãn, xoài, cam, quýt...</text>
+  <rect x="240" y="84" width="440" height="56" fill="#f4f1ea" stroke="#a8a498"/>
+  <text x="460" y="117" text-anchor="middle" font-weight="600" fill="#1c1b19">vườn trái phía sau nhà</text>
+  <rect x="290" y="160" width="190" height="70" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="385" y="192" text-anchor="middle" font-weight="600" fill="#1c1b19">nhà rường</text>
+  <text x="385" y="210" text-anchor="middle" font-size="11.5" fill="#5f5b53">(thờ cúng, tiếp khách)</text>
+  <rect x="530" y="170" width="130" height="50" fill="#ffffff" stroke="#1c1b19"/>
+  <text x="595" y="200" text-anchor="middle" fill="#1c1b19">nhà phụ</text>
+  <rect x="240" y="250" width="420" height="120" fill="#f4f1ea" stroke="#a8a498"/>
+  <text x="400" y="270" font-size="11.5" fill="#5f5b53">vườn cảnh phía trước</text>
+  <ellipse cx="560" cy="342" rx="62" ry="26" fill="#ffffff" stroke="#5f5b53"/>
+  <text x="560" y="346" text-anchor="middle" font-size="11.5" fill="#1c1b19">hồ, bể cá</text>
+  <polygon points="262,352 282,322 302,352" fill="#a8a498"/>
+  <text x="282" y="364" text-anchor="middle" font-size="11" fill="#5f5b53">non bộ</text>
+  <rect x="352" y="300" width="64" height="8" fill="#1c1b19"/>
+  <text x="428" y="298" font-size="11.5" fill="#1c1b19">bình phong + bể cạn</text>
+  <path d="M384 470 L384 420 M384 396 L384 330 C384 316 340 316 340 300 L340 244" fill="none" stroke="#b4472e" stroke-width="2.25"/>
+  <polygon points="333,250 340,236 347,250" fill="#b4472e"/>
+  <line x1="366" y1="408" x2="366" y2="426" stroke="#1c1b19" stroke-width="4"/>
+  <line x1="402" y1="408" x2="402" y2="426" stroke="#1c1b19" stroke-width="4"/>
+  <text x="420" y="437" fill="#1c1b19">cổng</text>
+  <text x="384" y="486" text-anchor="middle" font-size="11.5" fill="#5f5b53">hướng Nam</text>
+  <text x="24" y="503" font-size="11" fill="#5f5b53">Sơ đồ khái niệm của người viết, không theo tỉ lệ. Vị trí các phần chỉ minh họa cách sắp xếp, không phải mặt bằng một nhà vườn cụ thể.</text>
+  
+</svg>

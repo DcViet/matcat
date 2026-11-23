@@ -1,0 +1,21 @@
+<svg viewBox="0 0 760 400" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+<rect width="760" height="400" fill="#fff"/>
+<text x="190" y="36" text-anchor="middle" font-size="15" font-weight="600" fill="#1c1b19">Square frame: roof, beam, columns, one job each</text>
+<text x="570" y="36" text-anchor="middle" font-size="15" font-weight="600" fill="#1c1b19">Curved shell: one sheet does both jobs</text>
+<line x1="380" y1="56" x2="380" y2="300" stroke="#a8a498" stroke-dasharray="4 4"/>
+<g stroke="#1c1b19" stroke-width="3" fill="none">
+<line x1="90" y1="110" x2="290" y2="110"/>
+<line x1="110" y1="125" x2="110" y2="270"/><line x1="270" y1="125" x2="270" y2="270"/>
+<line x1="60" y1="270" x2="320" y2="270" stroke="#a8a498"/></g>
+<g stroke="#a8a498" stroke-width="1.5"><line x1="110" y1="130" x2="270" y2="130" stroke-width="6"/></g>
+<text x="190" y="98" text-anchor="middle" font-size="13" fill="#b4472e">Roof</text>
+<text x="190" y="158" text-anchor="middle" font-size="13" fill="#b4472e">Beam</text>
+
+<text x="110" y="292" text-anchor="middle" font-size="13" fill="#b4472e">Column</text><text x="270" y="292" text-anchor="middle" font-size="13" fill="#b4472e">Column</text>
+<path d="M450 270 C450 80 690 80 690 270" stroke="#b4472e" stroke-width="4" fill="none"/>
+<line x1="420" y1="270" x2="720" y2="270" stroke="#a8a498" stroke-width="3"/>
+<text x="570" y="298" text-anchor="middle" font-size="13" fill="#1c1b19">Roof and wall are one continuous sheet</text>
+<text x="570" y="316" text-anchor="middle" font-size="12" fill="#5f5b53">Curving makes it stiff, no beam needed</text>
+<text x="380" y="356" text-anchor="middle" font-size="11.5" fill="#5f5b53">Concept sketch of an idea, not to scale and not a drawing of any real building.</text>
+<text x="380" y="376" text-anchor="middle" font-size="11.5" fill="#5f5b53">The parabolic vault of the Pampulha church (1943) is the second kind of shell.</text>
+</svg>

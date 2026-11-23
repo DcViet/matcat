@@ -1,0 +1,21 @@
+<svg viewBox="0 0 760 400" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+<rect width="760" height="400" fill="#fff"/>
+<text x="190" y="36" text-anchor="middle" font-size="15" font-weight="600" fill="#1c1b19">Khung vuông: mái, dầm, cột, mỗi thứ một việc</text>
+<text x="570" y="36" text-anchor="middle" font-size="15" font-weight="600" fill="#1c1b19">Vỏ cong: một tấm làm cả hai việc</text>
+<line x1="380" y1="56" x2="380" y2="300" stroke="#a8a498" stroke-dasharray="4 4"/>
+<g stroke="#1c1b19" stroke-width="3" fill="none">
+<line x1="90" y1="110" x2="290" y2="110"/>
+<line x1="110" y1="125" x2="110" y2="270"/><line x1="270" y1="125" x2="270" y2="270"/>
+<line x1="60" y1="270" x2="320" y2="270" stroke="#a8a498"/></g>
+<g stroke="#a8a498" stroke-width="1.5"><line x1="110" y1="130" x2="270" y2="130" stroke-width="6"/></g>
+<text x="190" y="98" text-anchor="middle" font-size="13" fill="#b4472e">Mái</text>
+<text x="190" y="158" text-anchor="middle" font-size="13" fill="#b4472e">Dầm</text>
+
+<text x="110" y="292" text-anchor="middle" font-size="13" fill="#b4472e">Cột</text><text x="270" y="292" text-anchor="middle" font-size="13" fill="#b4472e">Cột</text>
+<path d="M450 270 C450 80 690 80 690 270" stroke="#b4472e" stroke-width="4" fill="none"/>
+<line x1="420" y1="270" x2="720" y2="270" stroke="#a8a498" stroke-width="3"/>
+<text x="570" y="298" text-anchor="middle" font-size="13" fill="#1c1b19">Mái và tường là một tấm liền</text>
+<text x="570" y="316" text-anchor="middle" font-size="12" fill="#5f5b53">Uốn cong để cứng, không cần dầm</text>
+<text x="380" y="356" text-anchor="middle" font-size="11.5" fill="#5f5b53">Hình vẽ khái niệm về cách nghĩ, không theo tỉ lệ và không phải bản vẽ của công trình nào.</text>
+<text x="380" y="376" text-anchor="middle" font-size="11.5" fill="#5f5b53">Vòm parabol ở nhà thờ Pampulha (1943) là kiểu vỏ thứ hai.</text>
+</svg>
