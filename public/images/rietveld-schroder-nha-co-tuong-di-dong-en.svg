@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="330" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">One floor, two shapes: open by day, divided at night</text>
+
+  <text x="170" y="82" text-anchor="middle" font-weight="600" fill="#1c1b19">By day</text>
+  <rect x="40" y="100" width="260" height="130" fill="none" stroke="#1c1b19" stroke-width="2"/>
+  <text x="170" y="196" text-anchor="middle" font-size="12" fill="#5f5b53">one open room</text>
+
+  <line x1="326" y1="165" x2="434" y2="165" stroke="#a8a498" stroke-width="1.5"/>
+  <polygon points="434,159 446,165 434,171" fill="#a8a498"/>
+  <text x="380" y="150" text-anchor="middle" font-size="11.5" fill="#5f5b53">sliding walls</text>
+  <text x="380" y="188" text-anchor="middle" font-size="11.5" fill="#5f5b53">on tracks</text>
+
+  <text x="590" y="82" text-anchor="middle" font-weight="600" fill="#1c1b19">At night</text>
+  <rect x="460" y="100" width="260" height="130" fill="none" stroke="#1c1b19" stroke-width="2"/>
+  <line x1="547" y1="100" x2="547" y2="230" stroke="#b4472e" stroke-width="3"/>
+  <line x1="633" y1="100" x2="633" y2="230" stroke="#b4472e" stroke-width="3"/>
+  <text x="503.5" y="196" text-anchor="middle" font-size="12" fill="#5f5b53">sleep</text><text x="590" y="196" text-anchor="middle" font-size="12" fill="#5f5b53">sleep</text><text x="676.5" y="196" text-anchor="middle" font-size="12" fill="#5f5b53">sit</text>
+
+  <text x="24" y="276" font-size="11.5" fill="#5f5b53">Conceptual diagram, not to scale: it only illustrates the idea, not the real plan of the upper floor.</text>
+  <text x="24" y="294" font-size="11.5" fill="#5f5b53">The number of rooms and the wall positions are illustrative; sources count the bedrooms differently.</text>
+  <text x="24" y="312" font-size="11.5" fill="#5f5b53">Drawn by the author, not an architect's drawing of the building.</text>
+</svg>
