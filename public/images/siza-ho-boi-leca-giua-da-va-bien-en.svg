@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="360" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Four stops from the street down to the water</text>
+  <rect x="24" y="70" width="150" height="86" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="34" y="96" font-size="13" font-weight="600" fill="#1c1b19">1. The street</text>
+  <text x="34" y="118" font-size="11.5" fill="#5f5b53">a low wall,</text>
+  <text x="34" y="135" font-size="11.5" fill="#5f5b53">almost nothing</text>
+  <text x="34" y="152" font-size="11.5" fill="#5f5b53">to see</text>
+  <path d="M174 113 L192 153" stroke="#a8a498" stroke-width="1.5" fill="none"/>
+  <rect x="194" y="110" width="150" height="86" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="204" y="136" font-size="13" font-weight="600" fill="#1c1b19">2. The ramp</text>
+  <text x="204" y="158" font-size="11.5" fill="#5f5b53">raw concrete,</text>
+  <text x="204" y="175" font-size="11.5" fill="#5f5b53">cantilevered cover,</text>
+  <text x="204" y="192" font-size="11.5" fill="#5f5b53">city fades</text>
+  <path d="M344 153 L362 193" stroke="#a8a498" stroke-width="1.5" fill="none"/>
+  <rect x="364" y="150" width="150" height="86" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="374" y="176" font-size="13" font-weight="600" fill="#1c1b19">3. Covered path</text>
+  <text x="374" y="198" font-size="11.5" fill="#5f5b53">timber, shade,</text>
+  <text x="374" y="215" font-size="11.5" fill="#5f5b53">sound of waves</text>
+  <path d="M514 193 L532 233" stroke="#a8a498" stroke-width="1.5" fill="none"/>
+  <rect x="534" y="190" width="150" height="86" fill="#ffffff" stroke="#1c1b19" stroke-width="1.5"/>
+  <text x="544" y="216" font-size="13" font-weight="600" fill="#b4472e">4. The pool</text>
+  <text x="544" y="238" font-size="11.5" fill="#5f5b53">water among rocks,</text>
+  <text x="544" y="255" font-size="11.5" fill="#5f5b53">then the sea</text>
+  <path d="M694 250 L736 250 L736 292 L694 292 Z" fill="none" stroke="#a8a498" stroke-width="1.5"/>
+  <text x="715" y="316" text-anchor="middle" font-size="11.5" fill="#5f5b53">sea</text>
+  <path d="M684 233 L694 262" stroke="#a8a498" stroke-width="1.5" fill="none"/>
+  <text x="24" y="352" font-size="11.5" fill="#5f5b53">Conceptual diagram, not to scale; the writer's drawing, not a drawing of the building.</text>
+</svg>
