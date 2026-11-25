@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="360" fill="#ffffff"/>
+  <text x="24" y="32" font-size="15" font-weight="600" fill="#1c1b19">Two ways to start a house: from a look, or from life</text>
+  <text x="40" y="68" font-size="12" font-weight="600" fill="#5f5b53">What Meyer rejects: designing to a style</text>
+  <text x="40" y="196" font-size="12" font-weight="600" fill="#b4472e">What Meyer proposes: designing from life</text>
+  <rect x="40" y="80" width="200" height="64" rx="6" fill="#ffffff" stroke="#a8a498" stroke-width="1.5"/>
+  <text x="140" y="108" text-anchor="middle" fill="#1c1b19">Pick a look</text>
+  <text x="140" y="126" text-anchor="middle" fill="#1c1b19">first</text>
+  <line x1="244" y1="112" x2="276" y2="112" stroke="#a8a498" stroke-width="1.5"/>
+  <path d="M270 108 L276 112 L270 116" fill="none" stroke="#a8a498" stroke-width="1.5"/>
+  <rect x="280" y="80" width="200" height="64" rx="6" fill="#ffffff" stroke="#a8a498" stroke-width="1.5"/>
+  <text x="380" y="108" text-anchor="middle" fill="#1c1b19">Apply that look</text>
+  <text x="380" y="126" text-anchor="middle" fill="#1c1b19">to every building</text>
+  <line x1="484" y1="112" x2="516" y2="112" stroke="#a8a498" stroke-width="1.5"/>
+  <path d="M510 108 L516 112 L510 116" fill="none" stroke="#a8a498" stroke-width="1.5"/>
+  <rect x="520" y="80" width="200" height="64" rx="6" fill="#ffffff" stroke="#a8a498" stroke-width="1.5"/>
+  <text x="620" y="108" text-anchor="middle" fill="#1c1b19">Life has to</text>
+  <text x="620" y="126" text-anchor="middle" fill="#1c1b19">bend to the form</text>
+  <rect x="40" y="208" width="150" height="64" rx="6" fill="#ffffff" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="115" y="236" text-anchor="middle" fill="#1c1b19">What the</text>
+  <text x="115" y="254" text-anchor="middle" fill="#1c1b19">residents need</text>
+  <line x1="194" y1="240" x2="212" y2="240" stroke="#b4472e" stroke-width="1.5"/>
+  <path d="M206 236 L212 240 L206 244" fill="none" stroke="#b4472e" stroke-width="1.5"/>
+  <rect x="216" y="208" width="150" height="64" rx="6" fill="#ffffff" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="291" y="236" text-anchor="middle" fill="#1c1b19">Materials, workshop,</text>
+  <text x="291" y="254" text-anchor="middle" fill="#1c1b19">climate, landscape</text>
+  <line x1="370" y1="240" x2="388" y2="240" stroke="#b4472e" stroke-width="1.5"/>
+  <path d="M382 236 L388 240 L382 244" fill="none" stroke="#b4472e" stroke-width="1.5"/>
+  <rect x="392" y="208" width="150" height="64" rx="6" fill="#ffffff" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="467" y="236" text-anchor="middle" fill="#1c1b19">Arrange it into</text>
+  <text x="467" y="254" text-anchor="middle" fill="#1c1b19">an order</text>
+  <line x1="546" y1="240" x2="564" y2="240" stroke="#b4472e" stroke-width="1.5"/>
+  <path d="M558 236 L564 240 L558 244" fill="none" stroke="#b4472e" stroke-width="1.5"/>
+  <rect x="568" y="208" width="150" height="64" rx="6" fill="#ffffff" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="643" y="236" text-anchor="middle" fill="#1c1b19">The shape comes</text>
+  <text x="643" y="254" text-anchor="middle" fill="#1c1b19">last</text>
+  <text x="24" y="318" font-size="11.5" fill="#5f5b53">The writer's conceptual diagram, summarizing one idea from Meyer's 1929 essay. Not a drawing of any building,</text>
+  <text x="24" y="336" font-size="11.5" fill="#5f5b53">not to scale.</text>
+</svg>
