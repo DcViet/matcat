@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 438" font-family="'Segoe UI', Arial, sans-serif" font-size="12">
+<rect width="760" height="438" fill="#ffffff"/>
+<text x="24" y="30" font-size="15" font-weight="600" fill="#1c1b19">One building, many hands: who held the work at Saint Peter's, and when</text>
+<text x="544.0" y="72" text-anchor="middle" fill="#b4472e">1626: consecrated</text>
+<line x1="544.0" y1="78" x2="544.0" y2="358" stroke="#b4472e" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="64.0" y="72" fill="#b4472e">1506: foundation stone</text>
+<line x1="64.0" y1="78" x2="64.0" y2="358" stroke="#b4472e" stroke-width="1" stroke-dasharray="4 4"/>
+<line x1="40" y1="126" x2="720" y2="126" stroke="#ece9e1" stroke-width="1"/>
+<rect x="64.0" y="96" width="32.0" height="16" fill="#5f5b53"/>
+<text x="104.0" y="109" text-anchor="start" fill="#1c1b19">Bramante: foundations, Greek cross</text>
+<line x1="40" y1="164" x2="720" y2="164" stroke="#ece9e1" stroke-width="1"/>
+<rect x="96.0" y="134" width="128.0" height="16" fill="#5f5b53"/>
+<text x="232.0" y="147" text-anchor="start" fill="#1c1b19">Sangallo, Fra Giocondo, Raphael</text>
+<line x1="40" y1="202" x2="720" y2="202" stroke="#ece9e1" stroke-width="1"/>
+<rect x="228.0" y="172" width="68.0" height="16" fill="#5f5b53"/>
+<text x="304.0" y="185" text-anchor="start" fill="#1c1b19">Michelangelo, from 1547</text>
+<line x1="40" y1="240" x2="720" y2="240" stroke="#ece9e1" stroke-width="1"/>
+<rect x="296.0" y="210" width="96.0" height="16" fill="#5f5b53"/>
+<text x="400.0" y="223" text-anchor="start" fill="#1c1b19">Ligorio, then Vignola</text>
+<line x1="40" y1="278" x2="720" y2="278" stroke="#ece9e1" stroke-width="1"/>
+<rect x="392.0" y="248" width="8.0" height="16" fill="#5f5b53"/>
+<text x="384.0" y="261" text-anchor="end" fill="#1c1b19">della Porta, Fontana: the dome 1588–90</text>
+<line x1="40" y1="316" x2="720" y2="316" stroke="#ece9e1" stroke-width="1"/>
+<rect x="468.0" y="286" width="28.0" height="16" fill="#5f5b53"/>
+<text x="460.0" y="299" text-anchor="end" fill="#1c1b19">Maderno: nave and facade</text>
+<line x1="40" y1="354" x2="720" y2="354" stroke="#ece9e1" stroke-width="1"/>
+<rect x="544.0" y="324" width="28.0" height="16" fill="#5f5b53"/>
+<rect x="664.0" y="324" width="44.0" height="16" fill="#5f5b53"/>
+<text x="536.0" y="337" text-anchor="end" fill="#1c1b19">Bernini: bronze canopy (1626–33), colonnade (from 1656)</text>
+<line x1="40" y1="366" x2="720" y2="366" stroke="#1c1b19" stroke-width="1"/>
+<line x1="40.0" y1="366" x2="40.0" y2="371" stroke="#1c1b19"/>
+<text x="40.0" y="385" text-anchor="middle" fill="#5f5b53">1500</text>
+<line x1="140.0" y1="366" x2="140.0" y2="371" stroke="#1c1b19"/>
+<text x="140.0" y="385" text-anchor="middle" fill="#5f5b53">1525</text>
+<line x1="240.0" y1="366" x2="240.0" y2="371" stroke="#1c1b19"/>
+<text x="240.0" y="385" text-anchor="middle" fill="#5f5b53">1550</text>
+<line x1="340.0" y1="366" x2="340.0" y2="371" stroke="#1c1b19"/>
+<text x="340.0" y="385" text-anchor="middle" fill="#5f5b53">1575</text>
+<line x1="440.0" y1="366" x2="440.0" y2="371" stroke="#1c1b19"/>
+<text x="440.0" y="385" text-anchor="middle" fill="#5f5b53">1600</text>
+<line x1="540.0" y1="366" x2="540.0" y2="371" stroke="#1c1b19"/>
+<text x="540.0" y="385" text-anchor="middle" fill="#5f5b53">1625</text>
+<line x1="640.0" y1="366" x2="640.0" y2="371" stroke="#1c1b19"/>
+<text x="640.0" y="385" text-anchor="middle" fill="#5f5b53">1650</text>
+<text x="24" y="416" font-size="11" fill="#5f5b53">Concept diagram by the author, not a drawing of the building. Bar length follows the years (1 year = 4 px).</text>
+<text x="24" y="430" font-size="11" fill="#5f5b53">Dates come from books and research; a few (Bernini taking over, the colonnade finishing) differ between sources.</text>
+</svg>

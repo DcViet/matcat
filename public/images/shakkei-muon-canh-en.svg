@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="340" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">The four planes of borrowed scenery, seen from above</text>
+  <polygon points="70,160 736,137 736,183" fill="#b4472e" opacity="0.10"/>
+  <line x1="70" y1="160" x2="736" y2="137" stroke="#b4472e" stroke-width="1" stroke-dasharray="5 4"/>
+  <line x1="70" y1="160" x2="736" y2="183" stroke="#b4472e" stroke-width="1" stroke-dasharray="5 4"/>
+  <line x1="100" y1="70" x2="100" y2="240" stroke="#a8a498" stroke-width="1" stroke-dasharray="3 4"/>
+  <line x1="250" y1="70" x2="250" y2="240" stroke="#a8a498" stroke-width="1" stroke-dasharray="3 4"/>
+  <line x1="420" y1="70" x2="420" y2="240" stroke="#a8a498" stroke-width="1" stroke-dasharray="3 4"/>
+  <line x1="520" y1="70" x2="520" y2="240" stroke="#a8a498" stroke-width="1" stroke-dasharray="3 4"/>
+  <rect x="24" y="142" width="46" height="36" fill="#ffffff" stroke="#5f5b53" stroke-width="1.5"/>
+  <circle cx="70" cy="160" r="6" fill="#b4472e"/>
+  <text x="24" y="200" font-size="11" fill="#1c1b19">viewer on</text>
+  <text x="24" y="214" font-size="11" fill="#1c1b19">the veranda</text>
+  <circle cx="140" cy="148" r="5" fill="#a8a498"/>
+  <circle cx="175" cy="172" r="4" fill="#a8a498"/>
+  <circle cx="215" cy="152" r="6" fill="#a8a498"/>
+  <rect x="325" y="144" width="16" height="16" fill="#5f5b53"/>
+  <rect x="310" y="168" width="46" height="22" rx="11" fill="#e6e3dc" stroke="#a8a498" stroke-width="1"/>
+  <circle cx="470" cy="118" r="28" fill="#a8a498"/>
+  <circle cx="470" cy="202" r="28" fill="#a8a498"/>
+  <polygon points="620,215 668,128 692,160 716,112 736,150 736,215" fill="#e6e3dc" stroke="#5f5b53" stroke-width="1.5"/>
+  <text x="175" y="82" text-anchor="middle" font-size="12" font-weight="600" fill="#1c1b19">1. foreground</text>
+  <text x="335" y="82" text-anchor="middle" font-size="12" font-weight="600" fill="#1c1b19">2. middle ground</text>
+  <text x="470" y="82" text-anchor="middle" font-size="12" font-weight="600" fill="#1c1b19">3. frame</text>
+  <text x="628" y="82" text-anchor="middle" font-size="12" font-weight="600" fill="#1c1b19">4. background</text>
+  <text x="175" y="262" text-anchor="middle" font-size="11" fill="#5f5b53">plays a small part</text>
+  <text x="335" y="262" text-anchor="middle" font-size="11" fill="#5f5b53">objects linking</text>
+  <text x="335" y="276" text-anchor="middle" font-size="11" fill="#5f5b53">garden to view</text>
+  <text x="470" y="262" text-anchor="middle" font-size="11" fill="#5f5b53">trees, hedge,</text>
+  <text x="470" y="276" text-anchor="middle" font-size="11" fill="#5f5b53">eaves</text>
+  <text x="628" y="262" text-anchor="middle" font-size="11" fill="#5f5b53">the borrowed view:</text>
+  <text x="628" y="276" text-anchor="middle" font-size="11" fill="#5f5b53">mountain, pagoda, gate</text>
+  <text x="24" y="308" font-size="11" fill="#5f5b53">The writer's concept diagram, based on the four planes Nitschke describes. Not to scale,</text>
+  <text x="24" y="323" font-size="11" fill="#5f5b53">and not a drawing of any particular garden.</text>
+</svg>
