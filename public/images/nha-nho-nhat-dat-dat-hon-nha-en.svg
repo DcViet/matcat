@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="400" fill="#ffffff"/>
+  <text x="24" y="30" font-size="15" font-weight="600" fill="#1c1b19">35 cm steps: one step is a seat, two a table, three a standing desk</text>
+  <line x1="40" y1="310" x2="720" y2="310" stroke="#a8a498" stroke-width="1.5"/>
+  <rect x="250" y="275" width="60" height="35" fill="#f1efe9" stroke="#1c1b19" stroke-width="1.5"/><rect x="310" y="240" width="60" height="70" fill="#f1efe9" stroke="#1c1b19" stroke-width="1.5"/><rect x="370" y="205" width="60" height="104.99999999999999" fill="#f1efe9" stroke="#1c1b19" stroke-width="1.5"/><rect x="430" y="170" width="60" height="140" fill="#f1efe9" stroke="#1c1b19" stroke-width="1.5"/>
+  <g stroke="#1c1b19" stroke-width="2" fill="none"><circle cx="120" cy="151" r="11"/><line x1="120" y1="162" x2="120" y2="220"/><line x1="120" y1="170" x2="98" y2="210"/><line x1="120" y1="170" x2="142" y2="210"/><line x1="120" y1="220" x2="106" y2="310"/><line x1="120" y1="220" x2="134" y2="310"/></g>
+  <text x="75" y="132" font-size="11.5" fill="#5f5b53">person 1.7 m tall</text>
+  <line x1="500" y1="275" x2="520" y2="275" stroke="#b4472e" stroke-width="1.5"/><text x="526" y="279" font-size="12.5" fill="#b4472e">35 cm: seat (1 step)</text><line x1="500" y1="240" x2="520" y2="240" stroke="#b4472e" stroke-width="1.5"/><text x="526" y="244" font-size="12.5" fill="#b4472e">70 cm: table (2 steps)</text><line x1="500" y1="205" x2="520" y2="205" stroke="#b4472e" stroke-width="1.5"/><text x="526" y="209" font-size="12.5" fill="#b4472e">105 cm: standing work (3 steps)</text>
+  <text x="250" y="160" font-size="11.5" fill="#5f5b53">four steps, each 35 cm high</text>
+  <g><line x1="60" y1="334" x2="160" y2="334" stroke="#5f5b53" stroke-width="2"/><line x1="60" y1="329" x2="60" y2="339" stroke="#5f5b53" stroke-width="1.5"/><line x1="160" y1="329" x2="160" y2="339" stroke="#5f5b53" stroke-width="1.5"/><text x="170" y="338" font-size="11.5" fill="#5f5b53">1 m</text></g>
+  <text x="24" y="368" font-size="11" fill="#5f5b53">Heights are drawn to scale (1 m = 100 px). Tread depth is only illustrative.</text><text x="24" y="384" font-size="11" fill="#5f5b53">This diagram illustrates an idea; it is not a drawing of the Final Wooden House.</text>
+</svg>
