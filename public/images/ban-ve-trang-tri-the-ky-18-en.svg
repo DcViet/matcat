@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <rect width="760" height="300" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Four stages of an eighteenth-century drawing</text>
+
+  <!-- Stage 1 -->
+  <rect x="24" y="60" width="160" height="150" rx="6" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="104" y="90" text-anchor="middle" font-weight="600" fill="#1c1b19">1. First sketch</text>
+  <text x="104" y="118" text-anchor="middle" font-size="11.5" fill="#5f5b53">Layout, first lines</text>
+  <text x="104" y="134" text-anchor="middle" font-size="11.5" fill="#5f5b53">trying several options</text>
+  <text x="104" y="160" text-anchor="middle" font-size="11.5" fill="#5f5b53">Example: stage</text>
+  <text x="104" y="176" text-anchor="middle" font-size="11.5" fill="#5f5b53">perspectives, temporary</text>
+  <text x="104" y="192" text-anchor="middle" font-size="11.5" fill="#5f5b53">architecture</text>
+
+  <!-- Arrow 1 -->
+  <line x1="188" y1="135" x2="208" y2="135" stroke="#b4472e" stroke-width="2"/>
+  <polygon points="208,130 216,135 208,140" fill="#b4472e"/>
+
+  <!-- Stage 2 -->
+  <rect x="216" y="60" width="160" height="150" rx="6" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="296" y="90" text-anchor="middle" font-weight="600" fill="#1c1b19">2. Presentation sheet</text>
+  <text x="296" y="118" text-anchor="middle" font-size="11.5" fill="#5f5b53">Finished look, full</text>
+  <text x="296" y="134" text-anchor="middle" font-size="11.5" fill="#5f5b53">interiors, for the client</text>
+  <text x="296" y="160" text-anchor="middle" font-size="11.5" fill="#5f5b53">Example: interiors of</text>
+  <text x="296" y="176" text-anchor="middle" font-size="11.5" fill="#5f5b53">French town houses</text>
+
+  <!-- Arrow 2 -->
+  <line x1="380" y1="135" x2="400" y2="135" stroke="#b4472e" stroke-width="2"/>
+  <polygon points="400,130 408,135 400,140" fill="#b4472e"/>
+
+  <!-- Stage 3 -->
+  <rect x="408" y="60" width="160" height="150" rx="6" fill="none" stroke="#b4472e" stroke-width="1.75"/>
+  <text x="488" y="90" text-anchor="middle" font-weight="600" fill="#1c1b19">3. Working drawing</text>
+  <text x="488" y="118" text-anchor="middle" font-size="11.5" fill="#5f5b53">Measurements, details,</text>
+  <text x="488" y="134" text-anchor="middle" font-size="11.5" fill="#5f5b53">handwritten notes</text>
+  <text x="488" y="160" text-anchor="middle" font-size="11.5" fill="#5f5b53">Example: Pantheon altar,</text>
+  <text x="488" y="176" text-anchor="middle" font-size="11.5" fill="#5f5b53">measured in braccia</text>
+
+  <!-- Arrow 3 -->
+  <line x1="572" y1="135" x2="592" y2="135" stroke="#b4472e" stroke-width="2"/>
+  <polygon points="592,130 600,135 592,140" fill="#b4472e"/>
+
+  <!-- Stage 4 -->
+  <rect x="600" y="60" width="136" height="150" rx="6" fill="none" stroke="#a8a498" stroke-width="1.25"/>
+  <text x="668" y="90" text-anchor="middle" font-weight="600" fill="#1c1b19">4. Print</text>
+  <text x="668" y="118" text-anchor="middle" font-size="11.5" fill="#5f5b53">Engraved to carry</text>
+  <text x="668" y="134" text-anchor="middle" font-size="11.5" fill="#5f5b53">a model through books</text>
+  <text x="668" y="160" text-anchor="middle" font-size="11.5" fill="#5f5b53">Example: Blondel's</text>
+  <text x="668" y="176" text-anchor="middle" font-size="11.5" fill="#5f5b53">book</text>
+
+  <text x="24" y="250" font-size="11.5" fill="#5f5b53">Conceptual diagram, not to scale. The order of the stages is how I arranged them to read clearly.</text>
+  <text x="24" y="268" font-size="11.5" fill="#5f5b53">The stages are not fixed: a drawing may pass through only some of them, not necessarily all four.</text>
+</svg>

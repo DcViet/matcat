@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" font-family="'Segoe UI', Arial, sans-serif" font-size="13">
+  <defs>
+    <marker id="mui" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#a8a498"/>
+    </marker>
+  </defs>
+  <rect width="760" height="420" fill="#ffffff"/>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1c1b19">Từ năm mục hỏi đến một bản yêu cầu</text>
+
+  <g stroke="#a8a498" stroke-width="1" fill="#ffffff">
+    <rect x="24" y="60" width="250" height="44" rx="4"/>
+    <rect x="24" y="116" width="250" height="44" rx="4"/>
+    <rect x="24" y="172" width="250" height="44" rx="4"/>
+    <rect x="24" y="228" width="250" height="44" rx="4"/>
+    <rect x="24" y="284" width="250" height="44" rx="4"/>
+  </g>
+  <g fill="#1c1b19">
+    <text x="40" y="87">Nhu cầu sinh hoạt</text>
+    <text x="40" y="143">Ngân sách và phạm vi</text>
+    <text x="40" y="199">Đất, hướng và bối cảnh</text>
+    <text x="40" y="255">Cách sống trong nhà</text>
+    <text x="40" y="311">Điều không muốn</text>
+  </g>
+
+  <g stroke="#a8a498" stroke-width="1.2" fill="none">
+    <line x1="274" y1="82" x2="330" y2="200"/>
+    <line x1="274" y1="138" x2="330" y2="212"/>
+    <line x1="274" y1="194" x2="330" y2="220"/>
+    <line x1="274" y1="250" x2="330" y2="228"/>
+    <line x1="274" y1="306" x2="330" y2="236"/>
+  </g>
+
+  <rect x="330" y="170" width="190" height="100" rx="6" fill="#f7f5f0" stroke="#b4472e" stroke-width="1.5"/>
+  <text x="425" y="203" text-anchor="middle" font-size="15" font-weight="600" fill="#b4472e">Bản yêu cầu</text>
+  <text x="425" y="229" text-anchor="middle" fill="#5f5b53">một đến ba trang,</text>
+  <text x="425" y="249" text-anchor="middle" fill="#5f5b53">có ngày, có nguồn,</text>
+  <text x="425" y="269" text-anchor="middle" fill="#5f5b53">chỗ chưa biết ghi rõ</text>
+
+  <line x1="520" y1="220" x2="568" y2="186" stroke="#a8a498" stroke-width="1.2" marker-end="url(#mui)"/>
+
+  <rect x="570" y="160" width="166" height="52" rx="4" fill="#ffffff" stroke="#a8a498"/>
+  <text x="653" y="182" text-anchor="middle" font-weight="600" fill="#1c1b19">Concept</text>
+  <text x="653" y="200" text-anchor="middle" font-size="12" fill="#5f5b53">một lập luận nối với đất</text>
+
+  <line x1="653" y1="212" x2="653" y2="262" stroke="#a8a498" stroke-width="1.2" marker-end="url(#mui)"/>
+
+  <rect x="570" y="264" width="166" height="52" rx="4" fill="#ffffff" stroke="#a8a498"/>
+  <text x="653" y="286" text-anchor="middle" font-weight="600" fill="#1c1b19">Bản vẽ</text>
+  <text x="653" y="304" text-anchor="middle" fill="#5f5b53">rồi đến dự toán</text>
+
+  <text x="24" y="382" font-size="12" fill="#5f5b53">Sơ đồ khái niệm, không theo tỉ lệ. Đây là sơ đồ ý niệm của người viết,</text>
+  <text x="24" y="400" font-size="12" fill="#5f5b53">không phải bản vẽ của công trình.</text>
+</svg>
